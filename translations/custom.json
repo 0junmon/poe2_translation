@@ -358,11 +358,5 @@
   {
     "id": "Weapon Configuration",
     "ko": "무기 설정"
-  },
-  {
-    "id": "Frostbreath",
-    "ko": "서리 숨결",
-    "table": "uniqueitems",
-    "baseItem": "Slim Mace"
   }
 ]
