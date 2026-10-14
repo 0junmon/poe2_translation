@@ -537,7 +537,7 @@ def main() -> None:
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path(__file__).resolve().parent / "data" / "data" / "translation_map.json",
+        default=Path(__file__).resolve().parent / "translations" / "translation_map.json",
         help="Destination JSON file.",
     )
     parser.add_argument(
