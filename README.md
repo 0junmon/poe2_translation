@@ -24,8 +24,10 @@ const translator = await loadTranslator(
 ```
 
 `loadTranslator` fetches the published compact, word, base-item, item-category,
-unique-item, and custom JSON files. Pass `{ fetch }` to use a custom fetch
-implementation. HTTP and JSON parsing errors are surfaced to the caller.
+unique-item, character-class/ascendancy, and custom JSON files. Class and
+ascendancy names are kept in `classes.json` with their source table names.
+Pass `{ fetch }` to use a custom fetch implementation. HTTP and JSON parsing
+errors are surfaced to the caller.
 
 ## Look up translations
 
@@ -75,6 +77,9 @@ English-to-Korean strings:
 ```
 
 Custom entries participate in both lookup directions under the `custom` table.
+The poe.ninja userscript also uses `translations/poe_ninja.json` for
+site-specific interface labels; those labels are intentionally kept separate
+from the shared translation library.
 
 ## Use locally
 

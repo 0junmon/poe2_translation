@@ -18,6 +18,7 @@ async function createRealTranslator() {
     baseitemtypes: await readJson("baseitemtypes.json"),
     itemclasscategories: await readJson("itemclasscategories.json"),
     uniqueitems: await readJson("uniqueitems.json"),
+    classes: await readJson("classes.json"),
     custom: await readJson("custom.json"),
   });
 }
@@ -29,6 +30,27 @@ test("translates unique item names and resolves their base item and category", a
   assert.equal(hoghunt.ko, "돼지사냥");
   assert.equal(hoghunt.baseItemRecord.ko, "쓰러진 대곤봉");
   assert.equal(hoghunt.itemClassRecord.ko, "양손 철퇴");
+});
+
+test("translates character classes and ascendancies from the classes table", async () => {
+  const translator = await createRealTranslator();
+
+  assert.equal(
+    translator.translate("Warbringer", { table: "ascendancy" })[0].ko,
+    "워브링어",
+  );
+  assert.equal(
+    translator.translate("Gemling Legionnaire", { table: "ascendancy" })[0].ko,
+    "젬링 리저네어",
+  );
+  assert.equal(
+    translator.translate("Druid", { table: "characters" })[0].ko,
+    "드루이드",
+  );
+  assert.equal(
+    translator.translate("Sorceress", { table: "characters" })[0].ko,
+    "소서리스",
+  );
 });
 
 test("reverse search returns item-class matches and related unique items", async () => {
@@ -116,6 +138,7 @@ test("loads every published file and reports fetch failures", async () => {
     "baseitemtypes.json",
     "itemclasscategories.json",
     "uniqueitems.json",
+    "classes.json",
     "custom.json",
   ]);
   const translator = await (

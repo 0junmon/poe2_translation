@@ -1,0 +1,177 @@
+[
+  {
+    "id": "Marauder",
+    "ko": "머라우더",
+    "table": "characters"
+  },
+  {
+    "id": "Witch",
+    "ko": "위치",
+    "table": "characters"
+  },
+  {
+    "id": "Ranger",
+    "ko": "레인저",
+    "table": "characters"
+  },
+  {
+    "id": "Duelist",
+    "ko": "듀얼리스트",
+    "table": "characters"
+  },
+  {
+    "id": "Shadow",
+    "ko": "쉐도우",
+    "table": "characters"
+  },
+  {
+    "id": "Templar",
+    "ko": "템플러",
+    "table": "characters"
+  },
+  {
+    "id": "Warrior",
+    "ko": "워리어",
+    "table": "characters"
+  },
+  {
+    "id": "Sorceress",
+    "ko": "소서리스",
+    "table": "characters"
+  },
+  {
+    "id": "Huntress",
+    "ko": "헌트리스",
+    "table": "characters"
+  },
+  {
+    "id": "Mercenary",
+    "ko": "머서너리",
+    "table": "characters"
+  },
+  {
+    "id": "Monk",
+    "ko": "몽크",
+    "table": "characters"
+  },
+  {
+    "id": "Druid",
+    "ko": "드루이드",
+    "table": "characters"
+  },
+  {
+    "id": "Titan",
+    "ko": "타이탄",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Warbringer",
+    "ko": "워브링어",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Smith of Kitava",
+    "ko": "스미스 오브 키타바",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Deadeye",
+    "ko": "데드아이",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Pathfinder",
+    "ko": "패스파인더",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Amazon",
+    "ko": "아마존",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Spirit Walker",
+    "ko": "스피릿 워커",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Ritualist",
+    "ko": "리추얼리스트",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Infernalist",
+    "ko": "인퍼널리스트",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Blood Mage",
+    "ko": "블러드 메이지",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Lich",
+    "ko": "리치",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Abyssal Lich",
+    "ko": "심연의 리치",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Stormweaver",
+    "ko": "스톰위버",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Chronomancer",
+    "ko": "크로노맨서",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Disciple of Varashta",
+    "ko": "디사이플 오브 바라시타",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Tactician",
+    "ko": "택티션",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Witchhunter",
+    "ko": "위치헌터",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Gemling Legionnaire",
+    "ko": "젬링 리저네어",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Oracle",
+    "ko": "오라클",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Shaman",
+    "ko": "샤먼",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Martial Artist",
+    "ko": "마셜 아티스트",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Invoker",
+    "ko": "인보커",
+    "table": "ascendancy"
+  },
+  {
+    "id": "Acolyte of Chayula",
+    "ko": "애컬라이트 오브 차율라",
+    "table": "ascendancy"
+  }
+]

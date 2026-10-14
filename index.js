@@ -4,6 +4,7 @@ const DATA_FILES = [
   "baseitemtypes.json",
   "itemclasscategories.json",
   "uniqueitems.json",
+  "classes.json",
   "custom.json",
 ];
 
@@ -86,12 +87,14 @@ export function createTranslator(data) {
   const baseitemtypes = data.baseitemtypes ?? [];
   const itemclasscategories = data.itemclasscategories ?? [];
   const uniqueitems = data.uniqueitems ?? [];
+  const classes = data.classes ?? [];
   for (const [name, rows] of Object.entries({
     compact,
     words,
     baseitemtypes,
     itemclasscategories,
     uniqueitems,
+    classes,
   })) {
     validateRows(rows, name);
   }
@@ -102,6 +105,7 @@ export function createTranslator(data) {
     ...baseitemtypes,
     ...itemclasscategories,
     ...uniqueitems,
+    ...classes,
     ...customRows(data.custom),
   ];
   const englishIndex = indexRows(rows, "id");
@@ -251,14 +255,22 @@ export async function loadTranslator(baseUrl, options = {}) {
       return response.json();
     }),
   );
-  const [compact, words, baseitemtypes, itemclasscategories, uniqueitems, custom] =
-    payloads;
+  const [
+    compact,
+    words,
+    baseitemtypes,
+    itemclasscategories,
+    uniqueitems,
+    classes,
+    custom,
+  ] = payloads;
   return createTranslator({
     compact,
     words,
     baseitemtypes,
     itemclasscategories,
     uniqueitems,
+    classes,
     custom,
   });
 }
