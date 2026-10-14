@@ -95,9 +95,10 @@ Or use translation records to specify a table and optional metadata:
 Custom entries take precedence over other dictionaries with the same English
 `id`. Record entries preserve optional table and metadata fields for lookups;
 records without a table default to `custom`.
-The poe.ninja userscript also uses `translations/poe_ninja.json` for
-site-specific interface labels; those labels are intentionally kept separate
-from the shared translation library.
+The poe.ninja PoE 2 userscript runs across the PoE 2 site, including economy
+pages. It loads `translations/poe_ninja.json` first for interface labels, then
+loads the larger game dictionaries; build-table character data stays
+untranslated while economy item names can be translated.
 
 ## Use locally
 
