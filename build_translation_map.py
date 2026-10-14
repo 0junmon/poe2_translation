@@ -556,7 +556,6 @@ def main() -> None:
     compact.extend(unique_item_entries)
 
     compact_output = args.output.with_name(f"{args.output.stem}_compact{args.output.suffix}")
-    compact_by_table = args.output.with_name(f"{args.output.stem}_compact_by_table")
     compact_combined = [
         entry
         for entry in compact
@@ -568,12 +567,17 @@ def main() -> None:
         if entry["table"] in COMPACT_TABLES_KEPT_SEPARATE
     ]
     write_json(compact_output, compact_combined)
-    compact_table_count = write_table_files(compact_separate, compact_by_table)
+    compact_entries_by_table: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for entry in compact_separate:
+        compact_entries_by_table[entry["table"]].append(entry)
+    for table_name, table_entries in sorted(compact_entries_by_table.items()):
+        write_json(compact_output.parent / f"{table_name}.json", table_entries)
 
     print(f"Wrote {len(compact_combined)} combined translations to {compact_output}")
     print(f"Wrote {len(unique_item_entries)} unique-to-base item links")
     print(
-        f"Wrote {compact_table_count} separate table files to {compact_by_table}"
+        f"Wrote {len(compact_entries_by_table)} separate table files "
+        f"to {compact_output.parent}"
     )
     print(f"Skipped ambiguous IDs: {counts['ambiguous_ids']}")
     print(f"English tables without Korean counterparts: {counts['missing_korean_table']}")
