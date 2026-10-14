@@ -1,5 +1,5 @@
 const DATA_FILES = [
-  "translation_map_compact.json",
+  "translation_merge.json",
   "words.json",
   "baseitemtypes.json",
   "itemclasscategories.json",
@@ -12,7 +12,7 @@ function normalizeText(value) {
   return value.trim().toLocaleLowerCase("en");
 }
 
-function validateRows(rows, name) {
+function validateRows(rows, name, allowMissingTable = false) {
   if (!Array.isArray(rows)) {
     throw new TypeError(`${name} must be an array of translation records`);
   }
@@ -22,19 +22,26 @@ function validateRows(rows, name) {
       typeof row !== "object" ||
       typeof row.id !== "string" ||
       typeof row.ko !== "string" ||
-      typeof row.table !== "string"
+      (row.table === undefined && !allowMissingTable) ||
+      (row.table !== undefined && typeof row.table !== "string")
     ) {
       throw new TypeError(
-        `${name}[${index}] must contain string id, ko, and table fields`,
+        `${name}[${index}] must contain string id and ko fields, and an optional string table field`,
       );
     }
   }
 }
 
+function withDefaultTable(rows, table) {
+  return rows.map((row) =>
+    row.table === undefined ? { ...row, table } : row,
+  );
+}
+
 function customRows(custom) {
   if (Array.isArray(custom)) {
-    validateRows(custom, "custom");
-    return custom;
+    validateRows(custom, "custom", true);
+    return withDefaultTable(custom, "custom");
   }
   if (custom === undefined || custom === null) {
     return [];
@@ -88,6 +95,7 @@ export function createTranslator(data) {
   const itemclasscategories = data.itemclasscategories ?? [];
   const uniqueitems = data.uniqueitems ?? [];
   const classes = data.classes ?? [];
+  validateRows(compact, "compact");
   for (const [name, rows] of Object.entries({
     compact,
     words,
@@ -96,17 +104,24 @@ export function createTranslator(data) {
     uniqueitems,
     classes,
   })) {
-    validateRows(rows, name);
+    if (name !== "compact") {
+      validateRows(rows, name, true);
+    }
   }
 
-  const rows = [
+  const sourceRows = [
     ...compact,
-    ...words,
-    ...baseitemtypes,
-    ...itemclasscategories,
-    ...uniqueitems,
-    ...classes,
-    ...customRows(data.custom),
+    ...withDefaultTable(words, "words"),
+    ...withDefaultTable(baseitemtypes, "baseitemtypes"),
+    ...withDefaultTable(itemclasscategories, "itemclasscategories"),
+    ...withDefaultTable(uniqueitems, "uniqueitems"),
+    ...withDefaultTable(classes, "classes"),
+  ];
+  const custom = customRows(data.custom);
+  const customIds = new Set(custom.map((row) => normalizeText(row.id)));
+  const rows = [
+    ...sourceRows.filter((row) => !customIds.has(normalizeText(row.id))),
+    ...custom,
   ];
   const englishIndex = indexRows(rows, "id");
   const koreanIndex = indexRows(rows, "ko");

@@ -26,6 +26,9 @@ const translator = await loadTranslator(
 `loadTranslator` fetches the published compact, word, base-item, item-category,
 unique-item, character-class/ascendancy, and custom JSON files. Class and
 ascendancy names are kept in `classes.json` with their source table names.
+Table-specific files omit redundant `table` fields; the library infers the
+table from the file they were loaded from. The combined compact file retains
+its table fields because it contains records from multiple tables.
 Pass `{ fetch }` to use a custom fetch implementation. HTTP and JSON parsing
 errors are surfaced to the caller.
 
@@ -67,7 +70,7 @@ English-to-Korean, and `reverseTranslate` searches Korean-to-English.
 
 ## Custom translations
 
-Add manual entries to `translations/custom.json` as an object of
+Add manual entries to `translations/custom.json` as either an object of
 English-to-Korean strings:
 
 ```json
@@ -76,7 +79,22 @@ English-to-Korean strings:
 }
 ```
 
-Custom entries participate in both lookup directions under the `custom` table.
+Or use translation records to specify a table and optional metadata:
+
+```json
+[
+  {
+    "id": "Frostbreath",
+    "ko": "서리 숨결",
+    "table": "uniqueitems",
+    "baseItem": "Slim Mace"
+  }
+]
+```
+
+Custom entries take precedence over other dictionaries with the same English
+`id`. Record entries preserve optional table and metadata fields for lookups;
+records without a table default to `custom`.
 The poe.ninja userscript also uses `translations/poe_ninja.json` for
 site-specific interface labels; those labels are intentionally kept separate
 from the shared translation library.
@@ -85,7 +103,7 @@ from the shared translation library.
 
 ```js
 import { createTranslator } from "poe2-translation-kr";
-import compact from "./translations/translation_map_compact.json" with {
+import compact from "./translations/translation_merge.json" with {
   type: "json"
 };
 import words from "./translations/words.json" with { type: "json" };

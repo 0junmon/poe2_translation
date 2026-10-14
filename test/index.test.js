@@ -13,7 +13,7 @@ async function readJson(fileName) {
 
 async function createRealTranslator() {
   return createTranslator({
-    compact: await readJson("translation_map_compact.json"),
+    compact: await readJson("translation_merge.json"),
     words: await readJson("words.json"),
     baseitemtypes: await readJson("baseitemtypes.json"),
     itemclasscategories: await readJson("itemclasscategories.json"),
@@ -83,6 +83,70 @@ test("custom object entries participate in both translation directions", () => {
   );
 });
 
+test("infers table names from file-specific translation datasets", async () => {
+  const translator = await createRealTranslator();
+
+  assert.equal(
+    translator.translate("Frostbreath", { table: "uniqueitems" })[0].table,
+    "uniqueitems",
+  );
+  assert.equal(
+    translator.translate("All Skills", { table: "custom" })[0].table,
+    "custom",
+  );
+  assert.equal(
+    translator.translate("Frostbreath", { table: "uniqueitems" })[0]
+      .baseItemRecord.ko,
+    "좁은 철퇴",
+  );
+});
+
+test("custom entries override duplicate IDs and preserve unique-item metadata", () => {
+  const translator = createTranslator({
+    compact: [{ id: "Frostbreath", ko: "기존 번역", table: "keywordpopups" }],
+    baseitemtypes: [
+      {
+        id: "Slim Mace",
+        ko: "얇은 철퇴",
+        table: "baseitemtypes",
+        itemClass: "One Hand Mace",
+      },
+    ],
+    itemclasscategories: [
+      { id: "One Hand Mace", ko: "한손 철퇴", table: "itemclasscategories" },
+    ],
+    custom: [
+      {
+        id: "Frostbreath",
+        ko: "서리 숨결",
+        table: "uniqueitems",
+        baseItem: "Slim Mace",
+      },
+    ],
+  });
+
+  const [match] = translator.translate("Frostbreath");
+  assert.equal(match.ko, "서리 숨결");
+  assert.equal(match.table, "uniqueitems");
+  assert.equal(match.baseItemRecord.ko, "얇은 철퇴");
+  assert.equal(match.itemClassRecord.ko, "한손 철퇴");
+  assert.deepEqual(translator.searchKorean("기존 번역"), []);
+  assert.equal(translator.reverseTranslate("서리 숨결")[0].id, "Frostbreath");
+});
+
+test("custom object entries override duplicate translations", () => {
+  const translator = createTranslator({
+    compact: [{ id: "Shared", ko: "기본 번역", table: "one" }],
+    custom: { Shared: "사용자 번역" },
+  });
+
+  assert.deepEqual(
+    translator.translate("Shared").map((row) => row.ko),
+    ["사용자 번역"],
+  );
+  assert.deepEqual(translator.searchKorean("기본 번역"), []);
+});
+
 test("reports all matches when an English term is ambiguous", () => {
   const translator = createTranslator({
     compact: [
@@ -127,13 +191,13 @@ test("rejects malformed translation records", () => {
       createTranslator({
         compact: [{ id: "Missing fields" }],
       }),
-    /must contain string id, ko, and table fields/,
+    /must contain string id and ko fields, and an optional string table field/,
   );
 });
 
 test("loads every published file and reports fetch failures", async () => {
   const filenames = new Set([
-    "translation_map_compact.json",
+    "translation_merge.json",
     "words.json",
     "baseitemtypes.json",
     "itemclasscategories.json",

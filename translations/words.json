@@ -1,8907 +1,7126 @@
 [
   {
     "id": "Kaom's Primacy",
-    "ko": "카옴의 탁월함",
-    "table": "words"
+    "ko": "카옴의 탁월함"
   },
   {
     "id": "Redbeak",
-    "ko": "붉은 부리",
-    "table": "words"
+    "ko": "붉은 부리"
   },
   {
     "id": "Stone of Lazhwar",
-    "ko": "라즈워의 보석",
-    "table": "words"
+    "ko": "라즈워의 보석"
   },
   {
     "id": "Blackheart",
-    "ko": "검은 심장",
-    "table": "words"
+    "ko": "검은 심장"
   },
   {
     "id": "Kaom's Sign",
-    "ko": "카옴의 표식",
-    "table": "words"
+    "ko": "카옴의 표식"
   },
   {
     "id": "Ungil's Coil",
-    "ko": "웅힐의 고리",
-    "table": "words"
+    "ko": "웅힐의 고리"
   },
   {
     "id": "Andvarius",
-    "ko": "앤드바리우스",
-    "table": "words"
+    "ko": "앤드바리우스"
   },
   {
     "id": "Lioneye's Glare",
-    "ko": "라이온아이의 섬광",
-    "table": "words"
+    "ko": "라이온아이의 섬광"
   },
   {
     "id": "Demigod's Presence",
-    "ko": "반신의 존재",
-    "table": "words"
+    "ko": "반신의 존재"
   },
   {
     "id": "Voll's Protector",
-    "ko": "볼의 보호자",
-    "table": "words"
+    "ko": "볼의 보호자"
   },
   {
     "id": "Divinarius",
-    "ko": "디비나리우스",
-    "table": "words"
+    "ko": "디비나리우스"
   },
   {
     "id": "Silverbranch",
-    "ko": "은빛 가지",
-    "table": "words"
+    "ko": "은빛 가지"
   },
   {
     "id": "Ephemeral Edge",
-    "ko": "덧없는 칼날",
-    "table": "words"
+    "ko": "덧없는 칼날"
   },
   {
     "id": "Malachai's Simula",
-    "ko": "말라카이의 위장막",
-    "table": "words"
+    "ko": "말라카이의 위장막"
   },
   {
     "id": "Ezomyte Peak",
-    "ko": "에조미어의 면갑",
-    "table": "words"
+    "ko": "에조미어의 면갑"
   },
   {
     "id": "Death's Harp",
-    "ko": "죽음의 하프",
-    "table": "words"
+    "ko": "죽음의 하프"
   },
   {
     "id": "The Searing Touch",
-    "ko": "이글거리는 손길",
-    "table": "words"
+    "ko": "이글거리는 손길"
   },
   {
     "id": "Hrimnor's Hymn",
-    "ko": "흐림노르의 찬가",
-    "table": "words"
+    "ko": "흐림노르의 찬가"
   },
   {
     "id": "Geofri's Baptism",
-    "ko": "조프리의 세례",
-    "table": "words"
+    "ko": "조프리의 세례"
   },
   {
     "id": "Rigwald's Charge",
-    "ko": "리그월드의 돌진",
-    "table": "words"
+    "ko": "리그월드의 돌진"
   },
   {
     "id": "Shiversting",
-    "ko": "오한의 검",
-    "table": "words"
+    "ko": "오한의 검"
   },
   {
     "id": "Doedre's Damning",
-    "ko": "도이드리의 파멸",
-    "table": "words"
+    "ko": "도이드리의 파멸"
   },
   {
     "id": "Replica Doedre's Damning",
-    "ko": "도이드리의 파멸 모조품",
-    "table": "words"
+    "ko": "도이드리의 파멸 모조품"
   },
   {
     "id": "Dream Fragments",
-    "ko": "꿈의 조각",
-    "table": "words"
+    "ko": "꿈의 조각"
   },
   {
     "id": "Blackgleam",
-    "ko": "검은 섬광",
-    "table": "words"
+    "ko": "검은 섬광"
   },
   {
     "id": "Broadstroke",
-    "ko": "파괴의 살",
-    "table": "words"
+    "ko": "파괴의 살"
   },
   {
     "id": "Sidhebreath",
-    "ko": "요정의 숨결",
-    "table": "words"
+    "ko": "요정의 숨결"
   },
   {
     "id": "Karui Ward",
-    "ko": "카루이의 수호",
-    "table": "words"
+    "ko": "카루이의 수호"
   },
   {
     "id": "Replica Karui Ward",
-    "ko": "카루이의 수호 모조품",
-    "table": "words"
+    "ko": "카루이의 수호 모조품"
   },
   {
     "id": "Eye of Chayula",
-    "ko": "차율라의 눈",
-    "table": "words"
+    "ko": "차율라의 눈"
   },
   {
     "id": "Hyrri's Ire",
-    "ko": "하이리의 노여움",
-    "table": "words"
+    "ko": "하이리의 노여움"
   },
   {
     "id": "The Auspex",
-    "ko": "복점관",
-    "table": "words"
+    "ko": "복점관"
   },
   {
     "id": "Kaom's Heart",
-    "ko": "카옴의 심장",
-    "table": "words"
+    "ko": "카옴의 심장"
   },
   {
     "id": "Replica Kaom's Heart",
-    "ko": "카옴의 심장 모조품",
-    "table": "words"
+    "ko": "카옴의 심장 모조품"
   },
   {
     "id": "Fairgraves' Tricorne",
-    "ko": "페어그레이브즈의 삼각모",
-    "table": "words"
+    "ko": "페어그레이브즈의 삼각모"
   },
   {
     "id": "Heatshiver",
-    "ko": "열기와 오한",
-    "table": "words"
+    "ko": "열기와 오한"
   },
   {
     "id": "Crown of Thorns",
-    "ko": "가시 왕관",
-    "table": "words"
+    "ko": "가시 왕관"
   },
   {
     "id": "Asenath's Mark",
-    "ko": "아세나스의 징표",
-    "table": "words"
+    "ko": "아세나스의 징표"
   },
   {
     "id": "Chitus' Apex",
-    "ko": "치투스의 정점",
-    "table": "words"
+    "ko": "치투스의 정점"
   },
   {
     "id": "Hrimnor's Resolve",
-    "ko": "흐림노르의 결의",
-    "table": "words"
+    "ko": "흐림노르의 결의"
   },
   {
     "id": "The Peregrine",
-    "ko": "송골매",
-    "table": "words"
+    "ko": "송골매"
   },
   {
     "id": "Honourhome",
-    "ko": "명예의 총본산",
-    "table": "words"
+    "ko": "명예의 총본산"
   },
   {
     "id": "Geofri's Crest",
-    "ko": "조프리의 문양",
-    "table": "words"
+    "ko": "조프리의 문양"
   },
   {
     "id": "Araku Tiki",
-    "ko": "아라쿠 티키",
-    "table": "words"
+    "ko": "아라쿠 티키"
   },
   {
     "id": "Wondertrap",
-    "ko": "기적의 발판",
-    "table": "words"
+    "ko": "기적의 발판"
   },
   {
     "id": "Mightflay",
-    "ko": "강력한 가죽칼",
-    "table": "words"
+    "ko": "강력한 가죽칼"
   },
   {
     "id": "Lioneye's Paws",
-    "ko": "라이온아이의 발",
-    "table": "words"
+    "ko": "라이온아이의 발"
   },
   {
     "id": "Replica Lioneye's Paws",
-    "ko": "라이온아이의 발 모조품",
-    "table": "words"
+    "ko": "라이온아이의 발 모조품"
   },
   {
     "id": "Wake of Destruction",
-    "ko": "파괴의 경야",
-    "table": "words"
+    "ko": "파괴의 경야"
   },
   {
     "id": "Wanderlust",
-    "ko": "방랑벽",
-    "table": "words"
+    "ko": "방랑벽"
   },
   {
     "id": "Shavronne's Pace",
-    "ko": "샤브론의 보폭",
-    "table": "words"
+    "ko": "샤브론의 보폭"
   },
   {
     "id": "Sundance",
-    "ko": "태양을 보는 춤",
-    "table": "words"
+    "ko": "태양을 보는 춤"
   },
   {
     "id": "Windscream",
-    "ko": "바람의 괴성",
-    "table": "words"
+    "ko": "바람의 괴성"
   },
   {
     "id": "Hrimsorrow",
-    "ko": "흐림소로우",
-    "table": "words"
+    "ko": "흐림소로우"
   },
   {
     "id": "Maligaro's Virtuosity",
-    "ko": "말리가로의 기교",
-    "table": "words"
+    "ko": "말리가로의 기교"
   },
   {
     "id": "Slitherpinch",
-    "ko": "뱀의 손길",
-    "table": "words"
+    "ko": "뱀의 손길"
   },
   {
     "id": "Aurseize",
-    "ko": "아우르시즈",
-    "table": "words"
+    "ko": "아우르시즈"
   },
   {
     "id": "Sadima's Touch",
-    "ko": "사디마의 손길",
-    "table": "words"
+    "ko": "사디마의 손길"
   },
   {
     "id": "Doedre's Tenure",
-    "ko": "도이드리의 임기",
-    "table": "words"
+    "ko": "도이드리의 임기"
   },
   {
     "id": "Ondar's Clasp",
-    "ko": "온다르의 걸쇠",
-    "table": "words"
+    "ko": "온다르의 걸쇠"
   },
   {
     "id": "Lochtonial Caress",
-    "ko": "록토니얼의 손길",
-    "table": "words"
+    "ko": "록토니얼의 손길"
   },
   {
     "id": "The Ignomon",
-    "ko": "이그노몬",
-    "table": "words"
+    "ko": "이그노몬"
   },
   {
     "id": "Astramentis",
-    "ko": "별의 보석",
-    "table": "words"
+    "ko": "별의 보석"
   },
   {
     "id": "Wurm's Molt",
-    "ko": "웜의 허물",
-    "table": "words"
+    "ko": "웜의 허물"
   },
   {
     "id": "The Magnate",
-    "ko": "거물",
-    "table": "words"
+    "ko": "거물"
   },
   {
     "id": "Perandus Blazon",
-    "ko": "페란두스 문장",
-    "table": "words"
+    "ko": "페란두스 문장"
   },
   {
     "id": "Meginord's Girdle",
-    "ko": "메기노드의 허리띠",
-    "table": "words"
+    "ko": "메기노드의 허리띠"
   },
   {
     "id": "Daresso's Courage",
-    "ko": "다레소의 용기",
-    "table": "words"
+    "ko": "다레소의 용기"
   },
   {
     "id": "Rathpith Globe",
-    "ko": "래스피스 구체",
-    "table": "words"
+    "ko": "래스피스 구체"
   },
   {
     "id": "Kaltenhalt",
-    "ko": "붙잡은 냉기",
-    "table": "words"
+    "ko": "붙잡은 냉기"
   },
   {
     "id": "Crest of Perandus",
-    "ko": "페란두스의 문양",
-    "table": "words"
+    "ko": "페란두스의 문양"
   },
   {
     "id": "Lioneye's Remorse",
-    "ko": "라이온아이의 후회",
-    "table": "words"
+    "ko": "라이온아이의 후회"
   },
   {
     "id": "Reaper's Pursuit",
-    "ko": "수확자의 추적",
-    "table": "words"
+    "ko": "수확자의 추적"
   },
   {
     "id": "Terminus Est",
-    "ko": "다가온 최후",
-    "table": "words"
+    "ko": "다가온 최후"
   },
   {
     "id": "Tipua Kaikohuru",
-    "ko": "티푸아 카이코후루",
-    "table": "words"
+    "ko": "티푸아 카이코후루"
   },
   {
     "id": "Ambu's Charge",
-    "ko": "앰부의 돌진",
-    "table": "words"
+    "ko": "앰부의 돌진"
   },
   {
     "id": "Replica Ambu's Charge",
-    "ko": "앰부의 돌진 모조품",
-    "table": "words"
+    "ko": "앰부의 돌진 모조품"
   },
   {
     "id": "Saffell's Frame",
-    "ko": "사펠의 골격",
-    "table": "words"
+    "ko": "사펠의 골격"
   },
   {
     "id": "Rime Gaze",
-    "ko": "냉기의 시선",
-    "table": "words"
+    "ko": "냉기의 시선"
   },
   {
     "id": "Moonsorrow",
-    "ko": "달의 슬픔",
-    "table": "words"
+    "ko": "달의 슬픔"
   },
   {
     "id": "Vaults of Atziri",
-    "ko": "앗지리의 금고실",
-    "table": "words"
+    "ko": "앗지리의 금고실"
   },
   {
     "id": "Prism Guardian",
-    "ko": "분광의 수호자",
-    "table": "words"
+    "ko": "분광의 수호자"
   },
   {
     "id": "Springleaf",
-    "ko": "생기의 잎사귀",
-    "table": "words"
+    "ko": "생기의 잎사귀"
   },
   {
     "id": "Marohi Erqi",
-    "ko": "마로히 에르키",
-    "table": "words"
+    "ko": "마로히 에르키"
   },
   {
     "id": "Carnage Heart",
-    "ko": "학살 심장",
-    "table": "words"
+    "ko": "학살 심장"
   },
   {
     "id": "Deshret's Vise",
-    "ko": "데쉬렛의 조임쇠",
-    "table": "words"
+    "ko": "데쉬렛의 조임쇠"
   },
   {
     "id": "Meginord's Vise",
-    "ko": "메기노드의 조임쇠",
-    "table": "words"
+    "ko": "메기노드의 조임쇠"
   },
   {
     "id": "Facebreaker",
-    "ko": "페이스브레이커",
-    "table": "words"
+    "ko": "페이스브레이커"
   },
   {
     "id": "Sin Trek",
-    "ko": "죄악의 여정",
-    "table": "words"
+    "ko": "죄악의 여정"
   },
   {
     "id": "Devoto's Devotion",
-    "ko": "드보토의 헌신",
-    "table": "words"
+    "ko": "드보토의 헌신"
   },
   {
     "id": "Ungil's Gauche",
-    "ko": "웅힐의 투박함",
-    "table": "words"
+    "ko": "웅힐의 투박함"
   },
   {
     "id": "Replica Ungil's Gauche",
-    "ko": "웅힐의 투박함 모조품",
-    "table": "words"
+    "ko": "웅힐의 투박함 모조품"
   },
   {
     "id": "Goldwyrm",
-    "ko": "황금 아룡",
-    "table": "words"
+    "ko": "황금 아룡"
   },
   {
     "id": "Bones of Ullr",
-    "ko": "울러의 뼈",
-    "table": "words"
+    "ko": "울러의 뼈"
   },
   {
     "id": "Replica Bones of Ullr",
-    "ko": "울러의 뼈 모조품",
-    "table": "words"
+    "ko": "울러의 뼈 모조품"
   },
   {
     "id": "Brightbeak",
-    "ko": "밝은 부리",
-    "table": "words"
+    "ko": "밝은 부리"
   },
   {
     "id": "Shavronne's Wrappings",
-    "ko": "샤브론의 겉옷",
-    "table": "words"
+    "ko": "샤브론의 겉옷"
   },
   {
     "id": "Quill Rain",
-    "ko": "화살 비",
-    "table": "words"
+    "ko": "화살 비"
   },
   {
     "id": "Replica Quill Rain",
-    "ko": "화살 비 모조품",
-    "table": "words"
+    "ko": "화살 비 모조품"
   },
   {
     "id": "Darkscorn",
-    "ko": "어두운 냉소",
-    "table": "words"
+    "ko": "어두운 냉소"
   },
   {
     "id": "Limbsplit",
-    "ko": "사지 분할기",
-    "table": "words"
+    "ko": "사지 분할기"
   },
   {
     "id": "Voidhome",
-    "ko": "공허한 고향",
-    "table": "words"
+    "ko": "공허한 고향"
   },
   {
     "id": "Midnight Bargain",
-    "ko": "심야의 교섭",
-    "table": "words"
+    "ko": "심야의 교섭"
   },
   {
     "id": "Replica Midnight Bargain",
-    "ko": "심야의 교섭 모조품",
-    "table": "words"
+    "ko": "심야의 교섭 모조품"
   },
   {
     "id": "Chin Sol",
-    "ko": "친 솔",
-    "table": "words"
+    "ko": "친 솔"
   },
   {
     "id": "Victario's Flight",
-    "ko": "빅타리오의 비상",
-    "table": "words"
+    "ko": "빅타리오의 비상"
   },
   {
     "id": "Bramblejack",
-    "ko": "가시나무 갑옷",
-    "table": "words"
+    "ko": "가시나무 갑옷"
   },
   {
     "id": "Dewath's Hide",
-    "ko": "드워스의 가죽",
-    "table": "words"
+    "ko": "드워스의 가죽"
   },
   {
     "id": "Ashrend",
-    "ko": "부서진 잿더미",
-    "table": "words"
+    "ko": "부서진 잿더미"
   },
   {
     "id": "Cloak of Flame",
-    "ko": "화염의 망토",
-    "table": "words"
+    "ko": "화염의 망토"
   },
   {
     "id": "Infractem",
-    "ko": "침범자",
-    "table": "words"
+    "ko": "침범자"
   },
   {
     "id": "Replica Infractem",
-    "ko": "침범자 모조품",
-    "table": "words"
+    "ko": "침범자 모조품"
   },
   {
     "id": "Essentia Sanguis",
-    "ko": "피의 정수",
-    "table": "words"
+    "ko": "피의 정수"
   },
   {
     "id": "Titucus Span",
-    "ko": "티투커스 방패",
-    "table": "words"
+    "ko": "티투커스 방패"
   },
   {
     "id": "Titucius' Span",
-    "ko": "티투시우스의 방패",
-    "table": "words"
+    "ko": "티투시우스의 방패"
   },
   {
     "id": "Foxshade",
-    "ko": "여우 그림자",
-    "table": "words"
+    "ko": "여우 그림자"
   },
   {
     "id": "Taryn's Shiver",
-    "ko": "타린의 오한",
-    "table": "words"
+    "ko": "타린의 오한"
   },
   {
     "id": "Goldrim",
-    "ko": "금테",
-    "table": "words"
+    "ko": "금테"
   },
   {
     "id": "Aegis Aurora",
-    "ko": "비호의 오로라",
-    "table": "words"
+    "ko": "비호의 오로라"
   },
   {
     "id": "The Supreme Truth",
-    "ko": "지고의 진리",
-    "table": "words"
+    "ko": "지고의 진리"
   },
   {
     "id": "The Covenant",
-    "ko": "계약",
-    "table": "words"
+    "ko": "계약"
   },
   {
     "id": "Infernal Mantle",
-    "ko": "지옥불 외투",
-    "table": "words"
+    "ko": "지옥불 외투"
   },
   {
     "id": "Mortem Morsu",
-    "ko": "고통스러운 죽음",
-    "table": "words"
+    "ko": "고통스러운 죽음"
   },
   {
     "id": "Queen's Decree",
-    "ko": "여왕의 법령",
-    "table": "words"
+    "ko": "여왕의 법령"
   },
   {
     "id": "Atziri's Mirror",
-    "ko": "앗지리의 거울",
-    "table": "words"
+    "ko": "앗지리의 거울"
   },
   {
     "id": "The Blood Reaper",
-    "ko": "피의 수확자",
-    "table": "words"
+    "ko": "피의 수확자"
   },
   {
     "id": "Storm Cloud",
-    "ko": "태풍 구름",
-    "table": "words"
+    "ko": "태풍 구름"
   },
   {
     "id": "Demigod's Triumph",
-    "ko": "반신의 성공",
-    "table": "words"
+    "ko": "반신의 성공"
   },
   {
     "id": "Matua Tupuna",
-    "ko": "마투아 투푸나",
-    "table": "words"
+    "ko": "마투아 투푸나"
   },
   {
     "id": "Heartbreaker",
-    "ko": "심장 분쇄기",
-    "table": "words"
+    "ko": "심장 분쇄기"
   },
   {
     "id": "Replica Heartbreaker",
-    "ko": "심장 분쇄기 모조품",
-    "table": "words"
+    "ko": "심장 분쇄기 모조품"
   },
   {
     "id": "Maelström of Chaos",
-    "ko": "혼돈의 마엘스트롬",
-    "table": "words"
+    "ko": "혼돈의 마엘스트롬"
   },
   {
     "id": "Carcass Jack",
-    "ko": "시체 상인",
-    "table": "words"
+    "ko": "시체 상인"
   },
   {
     "id": "Le Heup of All",
-    "ko": "만인의 르 흐프",
-    "table": "words"
+    "ko": "만인의 르 흐프"
   },
   {
     "id": "Chernobog's Pillar",
-    "ko": "체르노보그의 기둥",
-    "table": "words"
+    "ko": "체르노보그의 기둥"
   },
   {
     "id": "Nightfall",
-    "ko": "해질녘",
-    "table": "words"
+    "ko": "해질녘"
   },
   {
     "id": "The Coward's Trial",
-    "ko": "겁쟁이의 시험",
-    "table": "words"
+    "ko": "겁쟁이의 시험"
   },
   {
     "id": "Nycta's Lantern",
-    "ko": "닉타의 등불",
-    "table": "words"
+    "ko": "닉타의 등불"
   },
   {
     "id": "Acton's Nightmare",
-    "ko": "액턴의 악몽",
-    "table": "words"
+    "ko": "액턴의 악몽"
   },
   {
     "id": "Starkonja's Head",
-    "ko": "스타콘자의 머리",
-    "table": "words"
+    "ko": "스타콘자의 머리"
   },
   {
     "id": "Bloodseeker",
-    "ko": "피의 탐색자",
-    "table": "words"
+    "ko": "피의 탐색자"
   },
   {
     "id": "Chober Chaber",
-    "ko": "초버 차버",
-    "table": "words"
+    "ko": "초버 차버"
   },
   {
     "id": "Alpha's Howl",
-    "ko": "우두머리의 울부짖음",
-    "table": "words"
+    "ko": "우두머리의 울부짖음"
   },
   {
     "id": "Replica Alpha's Howl",
-    "ko": "우두머리의 울부짖음 모조품",
-    "table": "words"
+    "ko": "우두머리의 울부짖음 모조품"
   },
   {
     "id": "Rise of the Phoenix",
-    "ko": "불사조의 비상",
-    "table": "words"
+    "ko": "불사조의 비상"
   },
   {
     "id": "Thousand Ribbons",
-    "ko": "천 개의 리본",
-    "table": "words"
+    "ko": "천 개의 리본"
   },
   {
     "id": "Bronn's Lithe",
-    "ko": "브론의 융통성",
-    "table": "words"
+    "ko": "브론의 융통성"
   },
   {
     "id": "Rainbowstride",
-    "ko": "무지갯빛 발걸음",
-    "table": "words"
+    "ko": "무지갯빛 발걸음"
   },
   {
     "id": "Tabula Rasa",
-    "ko": "타뷸라 라사",
-    "table": "words"
+    "ko": "타뷸라 라사"
   },
   {
     "id": "Darkray Vectors",
-    "ko": "어두운 빛의 궤적",
-    "table": "words"
+    "ko": "어두운 빛의 궤적"
   },
   {
     "id": "Pillar of the Caged God",
-    "ko": "갇힌 신의 기둥",
-    "table": "words"
+    "ko": "갇힌 신의 기둥"
   },
   {
     "id": "Icetomb",
-    "ko": "얼음 묘지",
-    "table": "words"
+    "ko": "얼음 묘지"
   },
   {
     "id": "Soul Mantle",
-    "ko": "영혼의 외투",
-    "table": "words"
+    "ko": "영혼의 외투"
   },
   {
     "id": "Wurmfist",
-    "ko": "웜의 주먹",
-    "table": "words"
+    "ko": "웜의 주먹"
   },
   {
     "id": "Asenath's Gentle Touch",
-    "ko": "아세나스의 부드러운 손길",
-    "table": "words"
+    "ko": "아세나스의 부드러운 손길"
   },
   {
     "id": "Kalisa's Grace",
-    "ko": "칼리사의 은총",
-    "table": "words"
+    "ko": "칼리사의 은총"
   },
   {
     "id": "Replica Kalisa's Grace",
-    "ko": "칼리사의 은총 모조품",
-    "table": "words"
+    "ko": "칼리사의 은총 모조품"
   },
   {
     "id": "Arimagius' Honour",
-    "ko": "아리마기우스의 명예",
-    "table": "words"
+    "ko": "아리마기우스의 명예"
   },
   {
     "id": "Hellbringer",
-    "ko": "지옥 인도자",
-    "table": "words"
+    "ko": "지옥 인도자"
   },
   {
     "id": "Thunderfist",
-    "ko": "천둥 주먹",
-    "table": "words"
+    "ko": "천둥 주먹"
   },
   {
     "id": "Deadman's Hand",
-    "ko": "망자의 손길",
-    "table": "words"
+    "ko": "망자의 손길"
   },
   {
     "id": "Rat's Nest",
-    "ko": "쥐의 둥지",
-    "table": "words"
+    "ko": "쥐의 둥지"
   },
   {
     "id": "Vizaru's Folly",
-    "ko": "비자루의 어리석음",
-    "table": "words"
+    "ko": "비자루의 어리석음"
   },
   {
     "id": "Ylfe Ban",
-    "ko": "일피 반",
-    "table": "words"
+    "ko": "일피 반"
   },
   {
     "id": "Abyssus",
-    "ko": "깊은 심연",
-    "table": "words"
+    "ko": "깊은 심연"
   },
   {
     "id": "Replica Abyssus",
-    "ko": "깊은 심연 모조품",
-    "table": "words"
+    "ko": "깊은 심연 모조품"
   },
   {
     "id": "Aurumvorax",
-    "ko": "금빛 욕망",
-    "table": "words"
+    "ko": "금빛 욕망"
   },
   {
     "id": "Thief's Torment",
-    "ko": "도둑의 고통",
-    "table": "words"
+    "ko": "도둑의 고통"
   },
   {
     "id": "Poorjoy's Asylum",
-    "ko": "푸어조이의 은신처",
-    "table": "words"
+    "ko": "푸어조이의 은신처"
   },
   {
     "id": "Replica Poorjoy's Asylum",
-    "ko": "푸어조이의 은신처 모조품",
-    "table": "words"
+    "ko": "푸어조이의 은신처 모조품"
   },
   {
     "id": "Deidbell",
-    "ko": "죽음의 종",
-    "table": "words"
+    "ko": "죽음의 종"
   },
   {
     "id": "Last Resort",
-    "ko": "최후의 수단",
-    "table": "words"
+    "ko": "최후의 수단"
   },
   {
     "id": "Replica Last Resort",
-    "ko": "최후의 수단 모조품",
-    "table": "words"
+    "ko": "최후의 수단 모조품"
   },
   {
     "id": "Leviathan Ivory",
-    "ko": "레비아탄의 엄니",
-    "table": "words"
+    "ko": "레비아탄의 엄니"
   },
   {
     "id": "Al Dhih",
-    "ko": "알 디",
-    "table": "words"
+    "ko": "알 디"
   },
   {
     "id": "Ungils's Coil",
-    "ko": "웅힐의 고리",
-    "table": "words"
+    "ko": "웅힐의 고리"
   },
   {
     "id": "Atziri's Foible",
-    "ko": "앗지리의 결점",
-    "table": "words"
+    "ko": "앗지리의 결점"
   },
   {
     "id": "Replica Atziri's Foible",
-    "ko": "앗지리의 결점 모조품",
-    "table": "words"
+    "ko": "앗지리의 결점 모조품"
   },
   {
     "id": "Lori's Lantern",
-    "ko": "로리의 등불",
-    "table": "words"
+    "ko": "로리의 등불"
   },
   {
     "id": "The Bringer of Rain",
-    "ko": "비의 인도자",
-    "table": "words"
+    "ko": "비의 인도자"
   },
   {
     "id": "Zahndethus' Cassock",
-    "ko": "잔데투스의 성직복",
-    "table": "words"
+    "ko": "잔데투스의 성직복"
   },
   {
     "id": "Lightbane Raiment",
-    "ko": "사그라든 빛의 의복",
-    "table": "words"
+    "ko": "사그라든 빛의 의복"
   },
   {
     "id": "Void Battery",
-    "ko": "공허 충전기",
-    "table": "words"
+    "ko": "공허 충전기"
   },
   {
     "id": "Rebuke of the Vaal",
-    "ko": "바알의 질책",
-    "table": "words"
+    "ko": "바알의 질책"
   },
   {
     "id": "Rory's Revengance",
-    "ko": "로리의 복수",
-    "table": "words"
+    "ko": "로리의 복수"
   },
   {
     "id": "Mark2's Mastery",
-    "ko": "마크 2의 숙련",
-    "table": "words"
+    "ko": "마크 2의 숙련"
   },
   {
     "id": "Robbie's Rotten Mace",
-    "ko": "로비의 썩은 철퇴",
-    "table": "words"
+    "ko": "로비의 썩은 철퇴"
   },
   {
     "id": "Carl's Crusher",
-    "ko": "카를의 분쇄기",
-    "table": "words"
+    "ko": "카를의 분쇄기"
   },
   {
     "id": "DrTestapus' Charm",
-    "ko": "타스타퍼스의 부적",
-    "table": "words"
+    "ko": "타스타퍼스의 부적"
   },
   {
     "id": "Convent of the Twins' Flame",
-    "ko": "쌍둥이 불꽃의 수녀원",
-    "table": "words"
+    "ko": "쌍둥이 불꽃의 수녀원"
   },
   {
     "id": "Mao Kun",
-    "ko": "마오 쿤",
-    "table": "words"
+    "ko": "마오 쿤"
   },
   {
     "id": "The Rathorn",
-    "ko": "라손",
-    "table": "words"
+    "ko": "라손"
   },
   {
     "id": "Wraeclast Pantheon",
-    "ko": "레이클라스트 판테온",
-    "table": "words"
+    "ko": "레이클라스트 판테온"
   },
   {
     "id": "Sibyl's Lament",
-    "ko": "시빌의 한탄",
-    "table": "words"
+    "ko": "시빌의 한탄"
   },
   {
     "id": "Oba's Cursed Trove",
-    "ko": "오바의 저주받은 전리품",
-    "table": "words"
+    "ko": "오바의 저주받은 전리품"
   },
   {
     "id": "Soul Taker",
-    "ko": "영혼 수확자",
-    "table": "words"
+    "ko": "영혼 수확자"
   },
   {
     "id": "Replica Soul Taker",
-    "ko": "영혼 수확자 모조품",
-    "table": "words"
+    "ko": "영혼 수확자 모조품"
   },
   {
     "id": "Olmec's Sanctum",
-    "ko": "올멕의 지성소",
-    "table": "words"
+    "ko": "올멕의 지성소"
   },
   {
     "id": "Untainted Paradise",
-    "ko": "때묻지 않은 낙원",
-    "table": "words"
+    "ko": "때묻지 않은 낙원"
   },
   {
     "id": "Daresso's Salute",
-    "ko": "다레소의 경례",
-    "table": "words"
+    "ko": "다레소의 경례"
   },
   {
     "id": "Voll's Devotion",
-    "ko": "볼의 헌신",
-    "table": "words"
+    "ko": "볼의 헌신"
   },
   {
     "id": "Victario's Acuity",
-    "ko": "빅타리오의 예리함",
-    "table": "words"
+    "ko": "빅타리오의 예리함"
   },
   {
     "id": "Gifts from Above",
-    "ko": "하늘에서 내려준 선물",
-    "table": "words"
+    "ko": "하늘에서 내려준 선물"
   },
   {
     "id": "Death Rush",
-    "ko": "죽음의 재촉",
-    "table": "words"
+    "ko": "죽음의 재촉"
   },
   {
     "id": "Shavronne's Revelation",
-    "ko": "샤브론의 계시",
-    "table": "words"
+    "ko": "샤브론의 계시"
   },
   {
     "id": "Auxium",
-    "ko": "오시움",
-    "table": "words"
+    "ko": "오시움"
   },
   {
     "id": "BlackGuardz",
-    "ko": "검은 근위대",
-    "table": "words"
+    "ko": "검은 근위대"
   },
   {
     "id": "The Blood Dance",
-    "ko": "피의 춤",
-    "table": "words"
+    "ko": "피의 춤"
   },
   {
     "id": "Kongor's Undying Rage",
-    "ko": "콩고르의 끝없는 격노",
-    "table": "words"
+    "ko": "콩고르의 끝없는 격노"
   },
   {
     "id": "Replica Kongor's Undying Rage",
-    "ko": "콩고르의 끝없는 격노 모조품",
-    "table": "words"
+    "ko": "콩고르의 끝없는 격노 모조품"
   },
   {
     "id": "The Goddess Scorned",
-    "ko": "경멸받는 여신",
-    "table": "words"
+    "ko": "경멸받는 여신"
   },
   {
     "id": "The Anvil",
-    "ko": "모루",
-    "table": "words"
+    "ko": "모루"
   },
   {
     "id": "Mon'tregul's Grasp",
-    "ko": "몬트레굴의 장악",
-    "table": "words"
+    "ko": "몬트레굴의 장악"
   },
   {
     "id": "Perandus Signet",
-    "ko": "페란두스 인장",
-    "table": "words"
+    "ko": "페란두스 인장"
   },
   {
     "id": "Pyre",
-    "ko": "장작",
-    "table": "words"
+    "ko": "장작"
   },
   {
     "id": "Divination Distillate",
-    "ko": "예언의 정수",
-    "table": "words"
+    "ko": "예언의 정수"
   },
   {
     "id": "Queen of the Forest",
-    "ko": "숲의 여왕",
-    "table": "words"
+    "ko": "숲의 여왕"
   },
   {
     "id": "Crown of Eyes",
-    "ko": "눈알 왕관",
-    "table": "words"
+    "ko": "눈알 왕관"
   },
   {
     "id": "Demigod's Stride",
-    "ko": "반신의 질주",
-    "table": "words"
+    "ko": "반신의 질주"
   },
   {
     "id": "Windripper",
-    "ko": "윈드리퍼",
-    "table": "words"
+    "ko": "윈드리퍼"
   },
   {
     "id": "Replica Windripper",
-    "ko": "윈드리퍼 모조품",
-    "table": "words"
+    "ko": "윈드리퍼 모조품"
   },
   {
     "id": "Death's Oath",
-    "ko": "죽음의 서약",
-    "table": "words"
+    "ko": "죽음의 서약"
   },
   {
     "id": "Voidbringer",
-    "ko": "공허 인도자",
-    "table": "words"
+    "ko": "공허 인도자"
   },
   {
     "id": "The Goddess Bound",
-    "ko": "속박된 여신",
-    "table": "words"
+    "ko": "속박된 여신"
   },
   {
     "id": "Belly of the Beast",
-    "ko": "짐승의 소굴",
-    "table": "words"
+    "ko": "짐승의 소굴"
   },
   {
     "id": "Mindspiral",
-    "ko": "정신의 소용돌이",
-    "table": "words"
+    "ko": "정신의 소용돌이"
   },
   {
     "id": "Leer Cast",
-    "ko": "음흉한 시선",
-    "table": "words"
+    "ko": "음흉한 시선"
   },
   {
     "id": "Replica Leer Cast",
-    "ko": "음흉한 시선 모조품",
-    "table": "words"
+    "ko": "음흉한 시선 모조품"
   },
   {
     "id": "Seven-League Step",
-    "ko": "바람의 걸음",
-    "table": "words"
+    "ko": "바람의 걸음"
   },
   {
     "id": "Dusktoe",
-    "ko": "황혼의 끝자락",
-    "table": "words"
+    "ko": "황혼의 끝자락"
   },
   {
     "id": "Battlehaste",
-    "ko": "신속 전투",
-    "table": "words"
+    "ko": "신속 전투"
   },
   {
     "id": "Wideswing",
-    "ko": "넓은 자루 도끼",
-    "table": "words"
+    "ko": "넓은 자루 도끼"
   },
   {
     "id": "Quecholli",
-    "ko": "퀘촐리",
-    "table": "words"
+    "ko": "퀘촐리"
   },
   {
     "id": "Mordhau",
-    "ko": "모드하우",
-    "table": "words"
+    "ko": "모드하우"
   },
   {
     "id": "Maligaro's Etcher",
-    "ko": "말리가로의 부각사",
-    "table": "words"
+    "ko": "말리가로의 부각사"
   },
   {
     "id": "Felltooth",
-    "ko": "펠투스",
-    "table": "words"
+    "ko": "펠투스"
   },
   {
     "id": "Galla's Riposte",
-    "ko": "갈라의 반격",
-    "table": "words"
+    "ko": "갈라의 반격"
   },
   {
     "id": "Pagan Geis",
-    "ko": "이교도의 응고제",
-    "table": "words"
+    "ko": "이교도의 응고제"
   },
   {
     "id": "Stillwater",
-    "ko": "잔잔한 수면",
-    "table": "words"
+    "ko": "잔잔한 수면"
   },
   {
     "id": "Wings of Entropy",
-    "ko": "엔트로피의 날개",
-    "table": "words"
+    "ko": "엔트로피의 날개"
   },
   {
     "id": "Replica Wings of Entropy",
-    "ko": "엔트로피의 날개 모조품",
-    "table": "words"
+    "ko": "엔트로피의 날개 모조품"
   },
   {
     "id": "Voltaxic Rift",
-    "ko": "전도성 균열",
-    "table": "words"
+    "ko": "전도성 균열"
   },
   {
     "id": "Doedre's Elixir",
-    "ko": "도이드리의 묘약",
-    "table": "words"
+    "ko": "도이드리의 묘약"
   },
   {
     "id": "Marylene's Fallacy",
-    "ko": "마릴린의 오산",
-    "table": "words"
+    "ko": "마릴린의 오산"
   },
   {
     "id": "Mana Sponge",
-    "ko": "마나 스폰지",
-    "table": "words"
+    "ko": "마나 스폰지"
   },
   {
     "id": "Briskwrap",
-    "ko": "활력의 겉옷",
-    "table": "words"
+    "ko": "활력의 겉옷"
   },
   {
     "id": "Oro's Sacrifice",
-    "ko": "오로의 희생",
-    "table": "words"
+    "ko": "오로의 희생"
   },
   {
     "id": "Replica Oro's Sacrifice",
-    "ko": "오로의 희생 모조품",
-    "table": "words"
+    "ko": "오로의 희생 모조품"
   },
   {
     "id": "Cybil's Paw",
-    "ko": "시빌의 발",
-    "table": "words"
+    "ko": "시빌의 발"
   },
   {
     "id": "Prismatic Eclipse",
-    "ko": "분광 월식",
-    "table": "words"
+    "ko": "분광 월식"
   },
   {
     "id": "Daresso's Defiance",
-    "ko": "다레소의 저항",
-    "table": "words"
+    "ko": "다레소의 저항"
   },
   {
     "id": "Santoni's Faith",
-    "ko": "산토니의 믿음",
-    "table": "words"
+    "ko": "산토니의 믿음"
   },
   {
     "id": "Ming's Heart",
-    "ko": "밍의 심장",
-    "table": "words"
+    "ko": "밍의 심장"
   },
   {
     "id": "Lightning Coil",
-    "ko": "번개 도선",
-    "table": "words"
+    "ko": "번개 도선"
   },
   {
     "id": "Romira's Banquet",
-    "ko": "로미라의 연회",
-    "table": "words"
+    "ko": "로미라의 연회"
   },
   {
     "id": "Dyadus",
-    "ko": "디아두스",
-    "table": "words"
+    "ko": "디아두스"
   },
   {
     "id": "Sunblast",
-    "ko": "태양의 파동",
-    "table": "words"
+    "ko": "태양의 파동"
   },
   {
     "id": "Deerstalker",
-    "ko": "사슴 추적자",
-    "table": "words"
+    "ko": "사슴 추적자"
   },
   {
     "id": "Berek's Pass",
-    "ko": "베렉의 길",
-    "table": "words"
+    "ko": "베렉의 길"
   },
   {
     "id": "Berek's Grip",
-    "ko": "베렉의 손아귀",
-    "table": "words"
+    "ko": "베렉의 손아귀"
   },
   {
     "id": "Berek's Respite",
-    "ko": "베렉의 유예",
-    "table": "words"
+    "ko": "베렉의 유예"
   },
   {
     "id": "The Taming",
-    "ko": "조련",
-    "table": "words"
+    "ko": "조련"
   },
   {
     "id": "Blood of the Warrior",
-    "ko": "전사의 피",
-    "table": "words"
+    "ko": "전사의 피"
   },
   {
     "id": "Opportunity",
-    "ko": "기회",
-    "table": "words"
+    "ko": "기회"
   },
   {
     "id": "Lavianga's Spirits",
-    "ko": "라비앙가의 혼백",
-    "table": "words"
+    "ko": "라비앙가의 혼백"
   },
   {
     "id": "Uhtred's Chalice",
-    "ko": "우트레드의 성배",
-    "table": "words"
+    "ko": "우트레드의 성배"
   },
   {
     "id": "Replica Lavianga's Spirit",
-    "ko": "라비앙가의 혼백 모조품",
-    "table": "words"
+    "ko": "라비앙가의 혼백 모조품"
   },
   {
     "id": "The Gull",
-    "ko": "갈매기",
-    "table": "words"
+    "ko": "갈매기"
   },
   {
     "id": "Headhunter",
-    "ko": "헤드헌터",
-    "table": "words"
+    "ko": "헤드헌터"
   },
   {
     "id": "Replica Headhunter",
-    "ko": "헤드헌터 모조품",
-    "table": "words"
+    "ko": "헤드헌터 모조품"
   },
   {
     "id": "Cloak of Defiance",
-    "ko": "저항의 망토",
-    "table": "words"
+    "ko": "저항의 망토"
   },
   {
     "id": "Immortal Flesh",
-    "ko": "불멸의 육체",
-    "table": "words"
+    "ko": "불멸의 육체"
   },
   {
     "id": "Fragment of Eternity",
-    "ko": "영원의 조각",
-    "table": "words"
+    "ko": "영원의 조각"
   },
   {
     "id": "Splinter of the Moon",
-    "ko": "달의 파편",
-    "table": "words"
+    "ko": "달의 파편"
   },
   {
     "id": "Remnant of Empires",
-    "ko": "제국의 유물",
-    "table": "words"
+    "ko": "제국의 유물"
   },
   {
     "id": "Rust of Winter",
-    "ko": "부패한 겨울",
-    "table": "words"
+    "ko": "부패한 겨울"
   },
   {
     "id": "Ashes of the Sun",
-    "ko": "태양의 재",
-    "table": "words"
+    "ko": "태양의 재"
   },
   {
     "id": "Thunder of the Dawn",
-    "ko": "새벽의 천둥",
-    "table": "words"
+    "ko": "새벽의 천둥"
   },
   {
     "id": "Vestige of Divinity",
-    "ko": "신성의 자취",
-    "table": "words"
+    "ko": "신성의 자취"
   },
   {
     "id": "Relic of the Cycle",
-    "ko": "순환의 유물",
-    "table": "words"
+    "ko": "순환의 유물"
   },
   {
     "id": "Tear of Entropy",
-    "ko": "엔트로피의 눈물",
-    "table": "words"
+    "ko": "엔트로피의 눈물"
   },
   {
     "id": "Chains of Time",
-    "ko": "시간의 사슬",
-    "table": "words"
+    "ko": "시간의 사슬"
   },
   {
     "id": "Doon Cuebiyari",
-    "ko": "둔 큐비야리",
-    "table": "words"
+    "ko": "둔 큐비야리"
   },
   {
     "id": "Lifesprig",
-    "ko": "생명의 가지",
-    "table": "words"
+    "ko": "생명의 가지"
   },
   {
     "id": "Demigod's Touch",
-    "ko": "반신의 손길",
-    "table": "words"
+    "ko": "반신의 손길"
   },
   {
     "id": "Ghostmarch",
-    "ko": "유령의 행진",
-    "table": "words"
+    "ko": "유령의 행진"
   },
   {
     "id": "Death and Taxes",
-    "ko": "죽음과 의무",
-    "table": "words"
+    "ko": "죽음과 의무"
   },
   {
     "id": "Cagan's Map",
-    "ko": "케이건의 지도",
-    "table": "words"
+    "ko": "케이건의 지도"
   },
   {
     "id": "Solaris Lorica",
-    "ko": "솔라리스 흉갑",
-    "table": "words"
+    "ko": "솔라리스 흉갑"
   },
   {
     "id": "Chalice of Horrors",
-    "ko": "공포의 성배",
-    "table": "words"
+    "ko": "공포의 성배"
   },
   {
     "id": "Death Rattle",
-    "ko": "죽음의 소란",
-    "table": "words"
+    "ko": "죽음의 소란"
   },
   {
     "id": "Wheel of the Stormsail",
-    "ko": "거친 항해의 타륜",
-    "table": "words"
+    "ko": "거친 항해의 타륜"
   },
   {
     "id": "Ironweld",
-    "ko": "쇠 용접",
-    "table": "words"
+    "ko": "쇠 용접"
   },
   {
     "id": "Celestial Fragment",
-    "ko": "천공의 조각",
-    "table": "words"
+    "ko": "천공의 조각"
   },
   {
     "id": "The Screaming Eagle",
-    "ko": "울부짖는 독수리",
-    "table": "words"
+    "ko": "울부짖는 독수리"
   },
   {
     "id": "Boreal Shepherd",
-    "ko": "북쪽의 양치기",
-    "table": "words"
+    "ko": "북쪽의 양치기"
   },
   {
     "id": "Bartek's Finger",
-    "ko": "바텍의 손가락",
-    "table": "words"
+    "ko": "바텍의 손가락"
   },
   {
     "id": "Stormblast",
-    "ko": "태풍 파열",
-    "table": "words"
+    "ko": "태풍 파열"
   },
   {
     "id": "Fencoil",
-    "ko": "늪 감긴 가지",
-    "table": "words"
+    "ko": "늪 감긴 가지"
   },
   {
     "id": "Replica Fencoil",
-    "ko": "늪 감긴 가지 모조품",
-    "table": "words"
+    "ko": "늪 감긴 가지 모조품"
   },
   {
     "id": "Bino's Kitchen Knife",
-    "ko": "비노의 부엌칼",
-    "table": "words"
+    "ko": "비노의 부엌칼"
   },
   {
     "id": "Veil of the Night",
-    "ko": "밤의 장막",
-    "table": "words"
+    "ko": "밤의 장막"
   },
   {
     "id": "Replica Veil of the Night",
-    "ko": "밤의 장막 모조품",
-    "table": "words"
+    "ko": "밤의 장막 모조품"
   },
   {
     "id": "Song of the Sirens",
-    "ko": "사이렌의 노래",
-    "table": "words"
+    "ko": "사이렌의 노래"
   },
   {
     "id": "The Three Dragons",
-    "ko": "세 마리의 용",
-    "table": "words"
+    "ko": "세 마리의 용"
   },
   {
     "id": "Shackles of the Wretched",
-    "ko": "불운아의 족쇄",
-    "table": "words"
+    "ko": "불운아의 족쇄"
   },
   {
     "id": "Mjölner",
-    "ko": "묠니르",
-    "table": "words"
+    "ko": "묠니르"
   },
   {
     "id": "Dying Breath",
-    "ko": "죽어가는 숨결",
-    "table": "words"
+    "ko": "죽어가는 숨결"
   },
   {
     "id": "Snakebite",
-    "ko": "뱀 이빨",
-    "table": "words"
+    "ko": "뱀 이빨"
   },
   {
     "id": "Alberon's Warpath",
-    "ko": "알베른의 적대",
-    "table": "words"
+    "ko": "알베른의 적대"
   },
   {
     "id": "Replica Alberon's Warpath",
-    "ko": "알베른의 적대 모조품",
-    "table": "words"
+    "ko": "알베른의 적대 모조품"
   },
   {
     "id": "Skullhead",
-    "ko": "두개골 투구",
-    "table": "words"
+    "ko": "두개골 투구"
   },
   {
     "id": "Voideye",
-    "ko": "공허의 눈",
-    "table": "words"
+    "ko": "공허의 눈"
   },
   {
     "id": "Replica Voideye",
-    "ko": "공허의 눈 모조품",
-    "table": "words"
+    "ko": "공허의 눈 모조품"
   },
   {
     "id": "Vaal Caress",
-    "ko": "바알의 손길",
-    "table": "words"
+    "ko": "바알의 손길"
   },
   {
     "id": "Drillneck",
-    "ko": "치명적 송곳",
-    "table": "words"
+    "ko": "치명적 송곳"
   },
   {
     "id": "Rearguard",
-    "ko": "후위 경계",
-    "table": "words"
+    "ko": "후위 경계"
   },
   {
     "id": "Pledge of Hands",
-    "ko": "손으로 맺은 서약",
-    "table": "words"
+    "ko": "손으로 맺은 서약"
   },
   {
     "id": "Atziri's Step",
-    "ko": "앗지리의 걸음",
-    "table": "words"
+    "ko": "앗지리의 걸음"
   },
   {
     "id": "Doryani's Invitation",
-    "ko": "도리아니의 초대",
-    "table": "words"
+    "ko": "도리아니의 초대"
   },
   {
     "id": "Atziri's Promise",
-    "ko": "앗지리의 약속",
-    "table": "words"
+    "ko": "앗지리의 약속"
   },
   {
     "id": "Atziri's Acuity",
-    "ko": "앗지리의 예리함",
-    "table": "words"
+    "ko": "앗지리의 예리함"
   },
   {
     "id": "Replica Atziri's Acuity",
-    "ko": "앗지리의 예리함 모조품",
-    "table": "words"
+    "ko": "앗지리의 예리함 모조품"
   },
   {
     "id": "Atziri's Splendour",
-    "ko": "앗지리의 위풍",
-    "table": "words"
+    "ko": "앗지리의 위풍"
   },
   {
     "id": "The Vertex",
-    "ko": "최정점",
-    "table": "words"
+    "ko": "최정점"
   },
   {
     "id": "Atziri's Disfavour",
-    "ko": "앗지리의 경멸",
-    "table": "words"
+    "ko": "앗지리의 경멸"
   },
   {
     "id": "Vis Mortis",
-    "ko": "비스 모티스",
-    "table": "words"
+    "ko": "비스 모티스"
   },
   {
     "id": "Doryani's Catalyst",
-    "ko": "도리아니의 기폭제",
-    "table": "words"
+    "ko": "도리아니의 기폭제"
   },
   {
     "id": "Piscator's Vigil",
-    "ko": "피스카토의 기도",
-    "table": "words"
+    "ko": "피스카토의 기도"
   },
   {
     "id": "Demigod's Bounty",
-    "ko": "반신의 하사품",
-    "table": "words"
+    "ko": "반신의 하사품"
   },
   {
     "id": " DO NOT USE",
-    "ko": " 사용 안 함",
-    "table": "words"
+    "ko": " 사용 안 함"
   },
   {
     "id": "Asphyxia's Wrath",
-    "ko": "질식의 진노",
-    "table": "words"
+    "ko": "질식의 진노"
   },
   {
     "id": "Incandescent Heart",
-    "ko": "백열하는 심장",
-    "table": "words"
+    "ko": "백열하는 심장"
   },
   {
     "id": "Hyrri's Bite",
-    "ko": "하이리의 이빨",
-    "table": "words"
+    "ko": "하이리의 이빨"
   },
   {
     "id": "Doomfletch",
-    "ko": "죽음의 깃",
-    "table": "words"
+    "ko": "죽음의 깃"
   },
   {
     "id": "Hyaon's Fury",
-    "ko": "하야온의 광분",
-    "table": "words"
+    "ko": "하야온의 광분"
   },
   {
     "id": "Perandus Bank",
-    "ko": "페란두스 저축함",
-    "table": "words"
+    "ko": "페란두스 저축함"
   },
   {
     "id": "Kaom's Cache",
-    "ko": "카옴의 은닉함",
-    "table": "words"
+    "ko": "카옴의 은닉함"
   },
   {
     "id": "Empyrean Apparatus",
-    "ko": "창공의 장치",
-    "table": "words"
+    "ko": "창공의 장치"
   },
   {
     "id": "Kaom's Roots",
-    "ko": "카옴의 근본",
-    "table": "words"
+    "ko": "카옴의 근본"
   },
   {
     "id": "Fidelitas' Spike",
-    "ko": "피델리타스의 가시",
-    "table": "words"
+    "ko": "피델리타스의 가시"
   },
   {
     "id": "Soul Strike",
-    "ko": "영혼의 일격",
-    "table": "words"
+    "ko": "영혼의 일격"
   },
   {
     "id": "Replica Soul Strike",
-    "ko": "영혼의 일격 모조품",
-    "table": "words"
+    "ko": "영혼의 일격 모조품"
   },
   {
     "id": "Forbidden Taste",
-    "ko": "금단의 맛",
-    "table": "words"
+    "ko": "금단의 맛"
   },
   {
     "id": "Hegemony's Era",
-    "ko": "패권의 시대",
-    "table": "words"
+    "ko": "패권의 시대"
   },
   {
     "id": "Scar of Fate",
-    "ko": "운명의 흉터",
-    "table": "words"
+    "ko": "운명의 흉터"
   },
   {
     "id": "Blood of Summer",
-    "ko": "여름날의 피",
-    "table": "words"
+    "ko": "여름날의 피"
   },
   {
     "id": "Whakawairua Tuahu",
-    "ko": "와카와 투아후",
-    "table": "words"
+    "ko": "와카와 투아후"
   },
   {
     "id": "Jaws of Agony",
-    "ko": "고통의 턱",
-    "table": "words"
+    "ko": "고통의 턱"
   },
   {
     "id": "Thousand Teeth Temu",
-    "ko": "천 개의 이빨 테무",
-    "table": "words"
+    "ko": "천 개의 이빨 테무"
   },
   {
     "id": "Fairgraves' Bearing",
-    "ko": "페어그레이브즈의 인내",
-    "table": "words"
+    "ko": "페어그레이브즈의 인내"
   },
   {
     "id": "Mokou's Embrace",
-    "ko": "모코우의 포옹",
-    "table": "words"
+    "ko": "모코우의 포옹"
   },
   {
     "id": "Mark of the Doubting Knight",
-    "ko": "불안한 기사의 징표",
-    "table": "words"
+    "ko": "불안한 기사의 징표"
   },
   {
     "id": "Rumi's Concoction",
-    "ko": "루미의 혼합물",
-    "table": "words"
+    "ko": "루미의 혼합물"
   },
   {
     "id": "Replica Rumi's Concoction",
-    "ko": "루미의 혼합물 모조품",
-    "table": "words"
+    "ko": "루미의 혼합물 모조품"
   },
   {
     "id": "Dreamfeather",
-    "ko": "꿈의 깃털",
-    "table": "words"
+    "ko": "꿈의 깃털"
   },
   {
     "id": "Replica Dreamfeather",
-    "ko": "꿈의 깃털 모조품",
-    "table": "words"
+    "ko": "꿈의 깃털 모조품"
   },
   {
     "id": "Gang's Momentum",
-    "ko": "무리의 추진력",
-    "table": "words"
+    "ko": "무리의 추진력"
   },
   {
     "id": "Nomic's Storm",
-    "ko": "노믹의 태풍",
-    "table": "words"
+    "ko": "노믹의 태풍"
   },
   {
     "id": "Cherrubim's Maleficence",
-    "ko": "체루빔의 악행",
-    "table": "words"
+    "ko": "체루빔의 악행"
   },
   {
     "id": "Apep's Rage",
-    "ko": "아펩의 격노",
-    "table": "words"
+    "ko": "아펩의 격노"
   },
   {
     "id": "Jack, the Axe",
-    "ko": "도끼마 잭",
-    "table": "words"
+    "ko": "도끼마 잭"
   },
   {
     "id": "Null and Void",
-    "ko": "무효와 공허",
-    "table": "words"
+    "ko": "무효와 공허"
   },
   {
     "id": "Flesh and Spirit",
-    "ko": "육체와 영혼",
-    "table": "words"
+    "ko": "육체와 영혼"
   },
   {
     "id": "Shadows and Dust",
-    "ko": "그림자와 먼지",
-    "table": "words"
+    "ko": "그림자와 먼지"
   },
   {
     "id": "The Harvest",
-    "ko": "수확",
-    "table": "words"
+    "ko": "수확"
   },
   {
     "id": "Replica Harvest",
-    "ko": "수확 모조품",
-    "table": "words"
+    "ko": "수확 모조품"
   },
   {
     "id": "Edge of Madness",
-    "ko": "광기의 칼날",
-    "table": "words"
+    "ko": "광기의 칼날"
   },
   {
     "id": "The Dark Seer",
-    "ko": "어둠 예견자",
-    "table": "words"
+    "ko": "어둠 예견자"
   },
   {
     "id": "Craghead",
-    "ko": "바위 화살촉",
-    "table": "words"
+    "ko": "바위 화살촉"
   },
   {
     "id": "Hall of Grandmasters",
-    "ko": "명인의 전당",
-    "table": "words"
+    "ko": "명인의 전당"
   },
   {
     "id": "Malachai's Artifice",
-    "ko": "말라카이의 책략",
-    "table": "words"
+    "ko": "말라카이의 책략"
   },
   {
     "id": "Replica Malachai's Artifice",
-    "ko": "말라카이의 책략 모조품",
-    "table": "words"
+    "ko": "말라카이의 책략 모조품"
   },
   {
     "id": "Sentari's Answer",
-    "ko": "센타리의 응답",
-    "table": "words"
+    "ko": "센타리의 응답"
   },
   {
     "id": "Doomsower",
-    "ko": "멸망 유발자",
-    "table": "words"
+    "ko": "멸망 유발자"
   },
   {
     "id": "Great Old One's Ward",
-    "ko": "위대한 고대 신의 수호",
-    "table": "words"
+    "ko": "위대한 고대 신의 수호"
   },
   {
     "id": "Oba's Prized Cache",
-    "ko": "오바의 귀중한 은닉함",
-    "table": "words"
+    "ko": "오바의 귀중한 은닉함"
   },
   {
     "id": "Oba's Riches",
-    "ko": "오바의 재물",
-    "table": "words"
+    "ko": "오바의 재물"
   },
   {
     "id": "Oba's Glittering Stash",
-    "ko": "오바의 번쩍이는 보관함",
-    "table": "words"
+    "ko": "오바의 번쩍이는 보관함"
   },
   {
     "id": "Demigod's Eye",
-    "ko": "반신의 눈",
-    "table": "words"
+    "ko": "반신의 눈"
   },
   {
     "id": "Agnerod",
-    "ko": "아그네로드",
-    "table": "words"
+    "ko": "아그네로드"
   },
   {
     "id": "Agnerod East",
-    "ko": "동쪽의 아그네로드",
-    "table": "words"
+    "ko": "동쪽의 아그네로드"
   },
   {
     "id": "Talisman of the Victor",
-    "ko": "승리자의 부적",
-    "table": "words"
+    "ko": "승리자의 부적"
   },
   {
     "id": "The Blood Thorn",
-    "ko": "피의 가시",
-    "table": "words"
+    "ko": "피의 가시"
   },
   {
     "id": "Replica Blood Thorn",
-    "ko": "피의 가시 모조품",
-    "table": "words"
+    "ko": "피의 가시 모조품"
   },
   {
     "id": "Agnerod North",
-    "ko": "북쪽의 아그네로드",
-    "table": "words"
+    "ko": "북쪽의 아그네로드"
   },
   {
     "id": "Prismweave",
-    "ko": "빛의 매듭",
-    "table": "words"
+    "ko": "빛의 매듭"
   },
   {
     "id": "Replica Prismweave",
-    "ko": "빛의 매듭 모조품",
-    "table": "words"
+    "ko": "빛의 매듭 모조품"
   },
   {
     "id": "Bated Breath",
-    "ko": "약해진 숨결",
-    "table": "words"
+    "ko": "약해진 숨결"
   },
   {
     "id": "Replica Bated Breath",
-    "ko": "약해진 숨결 모조품",
-    "table": "words"
+    "ko": "약해진 숨결 모조품"
   },
   {
     "id": "Kikazaru",
-    "ko": "키카자루",
-    "table": "words"
+    "ko": "키카자루"
   },
   {
     "id": "Reverberation Rod",
-    "ko": "울림의 막대",
-    "table": "words"
+    "ko": "울림의 막대"
   },
   {
     "id": "Ungil's Harmony",
-    "ko": "웅힐의 조화",
-    "table": "words"
+    "ko": "웅힐의 조화"
   },
   {
     "id": "Maligaro's Lens",
-    "ko": "말리가로의 렌즈",
-    "table": "words"
+    "ko": "말리가로의 렌즈"
   },
   {
     "id": "Maligaro's Restraint",
-    "ko": "말리가로의 속박",
-    "table": "words"
+    "ko": "말리가로의 속박"
   },
   {
     "id": "The Broken Crown",
-    "ko": "부서진 왕관",
-    "table": "words"
+    "ko": "부서진 왕관"
   },
   {
     "id": "Maloney's Nightfall",
-    "ko": "말로니의 해질녘",
-    "table": "words"
+    "ko": "말로니의 해질녘"
   },
   {
     "id": "Surgebinders",
-    "ko": "몰려드는 격동",
-    "table": "words"
+    "ko": "몰려드는 격동"
   },
   {
     "id": "Belt of the Deceiver",
-    "ko": "기만자의 허리띠",
-    "table": "words"
+    "ko": "기만자의 허리띠"
   },
   {
     "id": "Timeclasp",
-    "ko": "시간의 속박",
-    "table": "words"
+    "ko": "시간의 속박"
   },
   {
     "id": "Bloodboil",
-    "ko": "끓는 피",
-    "table": "words"
+    "ko": "끓는 피"
   },
   {
     "id": "Null's Inclination",
-    "ko": "몰살 의지",
-    "table": "words"
+    "ko": "몰살 의지"
   },
   {
     "id": "Rashkaldor's Patience",
-    "ko": "라시칼도어의 인내",
-    "table": "words"
+    "ko": "라시칼도어의 인내"
   },
   {
     "id": "Valako's Sign",
-    "ko": "발라코의 표식",
-    "table": "words"
+    "ko": "발라코의 표식"
   },
   {
     "id": "Tasalio's Sign",
-    "ko": "타살리오의 표식",
-    "table": "words"
+    "ko": "타살리오의 표식"
   },
   {
     "id": "Replica Tasalio's Sign",
-    "ko": "타살리오의 표식 모조품",
-    "table": "words"
+    "ko": "타살리오의 표식 모조품"
   },
   {
     "id": "Ngamahu's Sign",
-    "ko": "나마후의 표식",
-    "table": "words"
+    "ko": "나마후의 표식"
   },
   {
     "id": "The Rat Cage",
-    "ko": "쥐덫",
-    "table": "words"
+    "ko": "쥐덫"
   },
   {
     "id": "Scold's Bridle",
-    "ko": "꾸짖음의 굴레",
-    "table": "words"
+    "ko": "꾸짖음의 굴레"
   },
   {
     "id": "Brutus' Lead Sprinkler",
-    "ko": "브루투스의 리드 스프링클러",
-    "table": "words"
+    "ko": "브루투스의 리드 스프링클러"
   },
   {
     "id": "Taste of Hate",
-    "ko": "증오의 맛",
-    "table": "words"
+    "ko": "증오의 맛"
   },
   {
     "id": "Greed's Embrace",
-    "ko": "탐욕의 포옹",
-    "table": "words"
+    "ko": "탐욕의 포옹"
   },
   {
     "id": "Warped Timepiece",
-    "ko": "뒤틀린 시계",
-    "table": "words"
+    "ko": "뒤틀린 시계"
   },
   {
     "id": "Doedre's Scorn",
-    "ko": "도이드리의 멸시",
-    "table": "words"
+    "ko": "도이드리의 멸시"
   },
   {
     "id": "Black Sun Crest",
-    "ko": "검은 태양 문양",
-    "table": "words"
+    "ko": "검은 태양 문양"
   },
   {
     "id": "Agnerod South",
-    "ko": "남쪽의 아그네로드",
-    "table": "words"
+    "ko": "남쪽의 아그네로드"
   },
   {
     "id": "Southbound",
-    "ko": "남행",
-    "table": "words"
+    "ko": "남행"
   },
   {
     "id": "Grandmaster's Gemcutting Cache",
-    "ko": "명인의 세공 은닉함",
-    "table": "words"
+    "ko": "명인의 세공 은닉함"
   },
   {
     "id": "Grandmaster's Arcanist Cache",
-    "ko": "명인의 신비학자 은닉함",
-    "table": "words"
+    "ko": "명인의 신비학자 은닉함"
   },
   {
     "id": "Grandmaster's Cartography Cache",
-    "ko": "명인의 지도 제작 은닉함",
-    "table": "words"
+    "ko": "명인의 지도 제작 은닉함"
   },
   {
     "id": "Grandmaster's Ornate Cache",
-    "ko": "명인의 화려한 은닉함",
-    "table": "words"
+    "ko": "명인의 화려한 은닉함"
   },
   {
     "id": "Grandmaster's Treasury",
-    "ko": "명인의 보고",
-    "table": "words"
+    "ko": "명인의 보고"
   },
   {
     "id": "Grandmaster's Trove",
-    "ko": "명인의 발견물",
-    "table": "words"
+    "ko": "명인의 발견물"
   },
   {
     "id": "Grandmaster's Corrupted Cache",
-    "ko": "명인의 타락한 은닉함",
-    "table": "words"
+    "ko": "명인의 타락한 은닉함"
   },
   {
     "id": "Grandmaster's Large Cache",
-    "ko": "명인의 거대한 은닉함",
-    "table": "words"
+    "ko": "명인의 거대한 은닉함"
   },
   {
     "id": "Ventor's Gamble",
-    "ko": "벤토의 도박",
-    "table": "words"
+    "ko": "벤토의 도박"
   },
   {
     "id": "Heartbound Loop",
-    "ko": "마음에 묶인 고리",
-    "table": "words"
+    "ko": "마음에 묶인 고리"
   },
   {
     "id": "Dyadian Dawn",
-    "ko": "쌍둥이의 여명",
-    "table": "words"
+    "ko": "쌍둥이의 여명"
   },
   {
     "id": "Sire of Shards",
-    "ko": "파편의 영주",
-    "table": "words"
+    "ko": "파편의 영주"
   },
   {
     "id": "Strange Barrel",
-    "ko": "수상한 통",
-    "table": "words"
+    "ko": "수상한 통"
   },
   {
     "id": "Victario's Influence",
-    "ko": "빅타리오의 영향력",
-    "table": "words"
+    "ko": "빅타리오의 영향력"
   },
   {
     "id": "The Consuming Dark",
-    "ko": "타들어 가는 어둠",
-    "table": "words"
+    "ko": "타들어 가는 어둠"
   },
   {
     "id": "Shaper's Seed",
-    "ko": "쉐이퍼의 씨앗",
-    "table": "words"
+    "ko": "쉐이퍼의 씨앗"
   },
   {
     "id": "Tremor Rod",
-    "ko": "전율의 막대",
-    "table": "words"
+    "ko": "전율의 막대"
   },
   {
     "id": "Relentless Fury",
-    "ko": "맹렬한 광분",
-    "table": "words"
+    "ko": "맹렬한 광분"
   },
   {
     "id": "Cameria's Maul",
-    "ko": "카메리아의 대형 망치",
-    "table": "words"
+    "ko": "카메리아의 대형 망치"
   },
   {
     "id": "Kitoko's Current",
-    "ko": "키토코의 흐름",
-    "table": "words"
+    "ko": "키토코의 흐름"
   },
   {
     "id": "Callinellus Malleus",
-    "ko": "집게발 쇠망치",
-    "table": "words"
+    "ko": "집게발 쇠망치"
   },
   {
     "id": "Death's Hand",
-    "ko": "죽음의 손길",
-    "table": "words"
+    "ko": "죽음의 손길"
   },
   {
     "id": "The Goddess Unleashed",
-    "ko": "해방된 여신",
-    "table": "words"
+    "ko": "해방된 여신"
   },
   {
     "id": "Ichimonji",
-    "ko": "이치몬지",
-    "table": "words"
+    "ko": "이치몬지"
   },
   {
     "id": "Empire's Grasp",
-    "ko": "제국의 손아귀",
-    "table": "words"
+    "ko": "제국의 손아귀"
   },
   {
     "id": "The Restless Ward",
-    "ko": "끊임없는 수호",
-    "table": "words"
+    "ko": "끊임없는 수호"
   },
   {
     "id": "Replica Restless Ward",
-    "ko": "끊임없는 수호 모조품",
-    "table": "words"
+    "ko": "끊임없는 수호 모조품"
   },
   {
     "id": "Lion's Roar",
-    "ko": "사자의 포효",
-    "table": "words"
+    "ko": "사자의 포효"
   },
   {
     "id": "Ornament of the East",
-    "ko": "동방의 장신구",
-    "table": "words"
+    "ko": "동방의 장신구"
   },
   {
     "id": "The Whispering Ice",
-    "ko": "속삭이는 얼음",
-    "table": "words"
+    "ko": "속삭이는 얼음"
   },
   {
     "id": "Tear of Purity",
-    "ko": "정화의 눈물",
-    "table": "words"
+    "ko": "정화의 눈물"
   },
   {
     "id": "Blood of Corruption",
-    "ko": "타락의 피",
-    "table": "words"
+    "ko": "타락의 피"
   },
   {
     "id": "Lioneye's Vision",
-    "ko": "라이온아이의 시각",
-    "table": "words"
+    "ko": "라이온아이의 시각"
   },
   {
     "id": "Repentance",
-    "ko": "참회",
-    "table": "words"
+    "ko": "참회"
   },
   {
     "id": "Twyzel",
-    "ko": "트위즐",
-    "table": "words"
+    "ko": "트위즐"
   },
   {
     "id": "Replica Twyzel",
-    "ko": "트위즐 모조품",
-    "table": "words"
+    "ko": "트위즐 모조품"
   },
   {
     "id": "Kingmaker",
-    "ko": "실세",
-    "table": "words"
+    "ko": "실세"
   },
   {
     "id": "To Dust",
-    "ko": "먼지처럼 사라져라",
-    "table": "words"
+    "ko": "먼지처럼 사라져라"
   },
   {
     "id": "Band of the Victor",
-    "ko": "승리자의 반지",
-    "table": "words"
+    "ko": "승리자의 반지"
   },
   {
     "id": "Eldritch Knowledge",
-    "ko": "섬뜩한 지식",
-    "table": "words"
+    "ko": "섬뜩한 지식"
   },
   {
     "id": "Inspired Learning",
-    "ko": "탁월한 학습",
-    "table": "words"
+    "ko": "탁월한 학습"
   },
   {
     "id": "Martial Artistry",
-    "ko": "무도가의 기교",
-    "table": "words"
+    "ko": "무도가의 기교"
   },
   {
     "id": "Lioneye's Fall",
-    "ko": "라이온아이의 몰락",
-    "table": "words"
+    "ko": "라이온아이의 몰락"
   },
   {
     "id": "Intuitive Leap",
-    "ko": "직관의 도약",
-    "table": "words"
+    "ko": "직관의 도약"
   },
   {
     "id": "Selfless Leadership",
-    "ko": "이타적인 통솔력",
-    "table": "words"
+    "ko": "이타적인 통솔력"
   },
   {
     "id": "Survival Skills",
-    "ko": "생존 기술",
-    "table": "words"
+    "ko": "생존 기술"
   },
   {
     "id": "Survival Instincts",
-    "ko": "생존 본능",
-    "table": "words"
+    "ko": "생존 본능"
   },
   {
     "id": "Survival Secrets",
-    "ko": "생존 비결",
-    "table": "words"
+    "ko": "생존 비결"
   },
   {
     "id": "Fertile Mind",
-    "ko": "풍요로운 마음",
-    "table": "words"
+    "ko": "풍요로운 마음"
   },
   {
     "id": "Fluid Motion",
-    "ko": "유체 운동",
-    "table": "words"
+    "ko": "유체 운동"
   },
   {
     "id": "Cannibalistic Habits",
-    "ko": "야만적 습성",
-    "table": "words"
+    "ko": "야만적 습성"
   },
   {
     "id": "Spire of Stone",
-    "ko": "첨탑",
-    "table": "words"
+    "ko": "첨탑"
   },
   {
     "id": "Apparitions",
-    "ko": "유령",
-    "table": "words"
+    "ko": "유령"
   },
   {
     "id": "Mantra of Flames",
-    "ko": "화염의 주문",
-    "table": "words"
+    "ko": "화염의 주문"
   },
   {
     "id": "Fortified Legion",
-    "ko": "견고한 부대",
-    "table": "words"
+    "ko": "견고한 부대"
   },
   {
     "id": "Vampire's Might",
-    "ko": "흡혈귀의 완력",
-    "table": "words"
+    "ko": "흡혈귀의 완력"
   },
   {
     "id": "Hotheaded",
-    "ko": "핫헤드",
-    "table": "words"
+    "ko": "핫헤드"
   },
   {
     "id": "Replica Hotheaded",
-    "ko": "핫헤드 모조품",
-    "table": "words"
+    "ko": "핫헤드 모조품"
   },
   {
     "id": "Combustibles",
-    "ko": "가연성 보석",
-    "table": "words"
+    "ko": "가연성 보석"
   },
   {
     "id": "Weight of Sin",
-    "ko": "죄의 무게",
-    "table": "words"
+    "ko": "죄의 무게"
   },
   {
     "id": "Fevered Mind",
-    "ko": "흥분한 마음",
-    "table": "words"
+    "ko": "흥분한 마음"
   },
   {
     "id": "The Naming Temporary",
-    "ko": "임시 이름",
-    "table": "words"
+    "ko": "임시 이름"
   },
   {
     "id": "Fragile Bloom",
-    "ko": "가냘픈 꽃",
-    "table": "words"
+    "ko": "가냘픈 꽃"
   },
   {
     "id": "Replica Fragile Bloom",
-    "ko": "가냘픈 꽃 모조품",
-    "table": "words"
+    "ko": "가냘픈 꽃 모조품"
   },
   {
     "id": "Hidden Potential",
-    "ko": "숨겨진 잠재력",
-    "table": "words"
+    "ko": "숨겨진 잠재력"
   },
   {
     "id": "Rain of Splinters",
-    "ko": "파편의 비",
-    "table": "words"
+    "ko": "파편의 비"
   },
   {
     "id": "Malicious Intent",
-    "ko": "불순한 의도",
-    "table": "words"
+    "ko": "불순한 의도"
   },
   {
     "id": "Brawn",
-    "ko": "근육",
-    "table": "words"
+    "ko": "근육"
   },
   {
     "id": "Clear Mind",
-    "ko": "맑은 정신",
-    "table": "words"
+    "ko": "맑은 정신"
   },
   {
     "id": "Specialised",
-    "ko": "특별함",
-    "table": "words"
+    "ko": "특별함"
   },
   {
     "id": "Miser of Misery",
-    "ko": "불행의 수전노",
-    "table": "words"
+    "ko": "불행의 수전노"
   },
   {
     "id": "Efficient Training",
-    "ko": "효율적인 훈련",
-    "table": "words"
+    "ko": "효율적인 훈련"
   },
   {
     "id": "Brute Force Solution",
-    "ko": "완력 해결",
-    "table": "words"
+    "ko": "완력 해결"
   },
   {
     "id": "Inertia",
-    "ko": "관성",
-    "table": "words"
+    "ko": "관성"
   },
   {
     "id": "Careful Planning",
-    "ko": "철저한 계획",
-    "table": "words"
+    "ko": "철저한 계획"
   },
   {
     "id": "Sacrificial Harvest",
-    "ko": "희생의 수확",
-    "table": "words"
+    "ko": "희생의 수확"
   },
   {
     "id": "Atziri's Reign",
-    "ko": "앗지리의 치세",
-    "table": "words"
+    "ko": "앗지리의 치세"
   },
   {
     "id": "Vaal Sentencing",
-    "ko": "바알의 판결",
-    "table": "words"
+    "ko": "바알의 판결"
   },
   {
     "id": "Poacher's Aim",
-    "ko": "밀렵꾼의 조준",
-    "table": "words"
+    "ko": "밀렵꾼의 조준"
   },
   {
     "id": "Warlord's Reach",
-    "ko": "전쟁군주의 역량",
-    "table": "words"
+    "ko": "전쟁군주의 역량"
   },
   {
     "id": "Assassin's Haste",
-    "ko": "암살자의 신속함",
-    "table": "words"
+    "ko": "암살자의 신속함"
   },
   {
     "id": "Conqueror's Efficiency",
-    "ko": "정복자의 효율",
-    "table": "words"
+    "ko": "정복자의 효율"
   },
   {
     "id": "Replica Conqueror's Efficiency",
-    "ko": "정복자의 효율 모조품",
-    "table": "words"
+    "ko": "정복자의 효율 모조품"
   },
   {
     "id": "Conqueror's Potency",
-    "ko": "정복자의 능력",
-    "table": "words"
+    "ko": "정복자의 능력"
   },
   {
     "id": "Conqueror's Longevity",
-    "ko": "정복자의 수명",
-    "table": "words"
+    "ko": "정복자의 수명"
   },
   {
     "id": "Ancient Waystones",
-    "ko": "고대 경로석",
-    "table": "words"
+    "ko": "고대 경로석"
   },
   {
     "id": "Chill of Corruption",
-    "ko": "타락의 한기",
-    "table": "words"
+    "ko": "타락의 한기"
   },
   {
     "id": "Mutated Growth",
-    "ko": "변이한 종양",
-    "table": "words"
+    "ko": "변이한 종양"
   },
   {
     "id": "Hungry Abyss",
-    "ko": "굶주린 심연",
-    "table": "words"
+    "ko": "굶주린 심연"
   },
   {
     "id": "Zerphi's Youth",
-    "ko": "제르피의 젊음",
-    "table": "words"
+    "ko": "제르피의 젊음"
   },
   {
     "id": "Corrupted Energy",
-    "ko": "타락한 에너지",
-    "table": "words"
+    "ko": "타락한 에너지"
   },
   {
     "id": "Self-Flagellation",
-    "ko": "자학 채찍질",
-    "table": "words"
+    "ko": "자학 채찍질"
   },
   {
     "id": "Blood Sacrifice",
-    "ko": "피의 희생",
-    "table": "words"
+    "ko": "피의 희생"
   },
   {
     "id": "Replica Blood Sacrifice",
-    "ko": "피의 희생 모조품",
-    "table": "words"
+    "ko": "피의 희생 모조품"
   },
   {
     "id": "Brittle Barrier",
-    "ko": "부실한 방어막",
-    "table": "words"
+    "ko": "부실한 방어막"
   },
   {
     "id": "Pacifism",
-    "ko": "평화주의",
-    "table": "words"
+    "ko": "평화주의"
   },
   {
     "id": "Fragility",
-    "ko": "허약",
-    "table": "words"
+    "ko": "허약"
   },
   {
     "id": "Powerlessness",
-    "ko": "무력함",
-    "table": "words"
+    "ko": "무력함"
   },
   {
     "id": "Call of the Brotherhood",
-    "ko": "형제의 부름",
-    "table": "words"
+    "ko": "형제의 부름"
   },
   {
     "id": "Pugilist",
-    "ko": "권투가",
-    "table": "words"
+    "ko": "권투가"
   },
   {
     "id": "Cold Steel",
-    "ko": "냉기의 강철",
-    "table": "words"
+    "ko": "냉기의 강철"
   },
   {
     "id": "Fireborn",
-    "ko": "불의 체질",
-    "table": "words"
+    "ko": "불의 체질"
   },
   {
     "id": "Energised Armour",
-    "ko": "활력의 방어구",
-    "table": "words"
+    "ko": "활력의 방어구"
   },
   {
     "id": "Energy From Within",
-    "ko": "내재한 에너지",
-    "table": "words"
+    "ko": "내재한 에너지"
   },
   {
     "id": "Anatomical Knowledge",
-    "ko": "육체에 대한 지식",
-    "table": "words"
+    "ko": "육체에 대한 지식"
   },
   {
     "id": "Static Electricity",
-    "ko": "정전기",
-    "table": "words"
+    "ko": "정전기"
   },
   {
     "id": "Healthy Mind",
-    "ko": "건강한 마음",
-    "table": "words"
+    "ko": "건강한 마음"
   },
   {
     "id": "Might in All Forms",
-    "ko": "만물의 힘",
-    "table": "words"
+    "ko": "만물의 힘"
   },
   {
     "id": "Kingsguard",
-    "ko": "왕의 보호구",
-    "table": "words"
+    "ko": "왕의 보호구"
   },
   {
     "id": "Goredrill",
-    "ko": "유혈 관통",
-    "table": "words"
+    "ko": "유혈 관통"
   },
   {
     "id": "Bloodplay",
-    "ko": "피의 오락",
-    "table": "words"
+    "ko": "피의 오락"
   },
   {
     "id": "Replica Bloodplay",
-    "ko": "피의 오락 모조품",
-    "table": "words"
+    "ko": "피의 오락 모조품"
   },
   {
     "id": "Abberath's Horn",
-    "ko": "아버라스의 뿔",
-    "table": "words"
+    "ko": "아버라스의 뿔"
   },
   {
     "id": "Realmshaper",
-    "ko": "영역 형성자",
-    "table": "words"
+    "ko": "영역 형성자"
   },
   {
     "id": "Wildslash",
-    "ko": "거친 베기",
-    "table": "words"
+    "ko": "거친 베기"
   },
   {
     "id": "The Deep One's Hide",
-    "ko": "심해의 가죽",
-    "table": "words"
+    "ko": "심해의 가죽"
   },
   {
     "id": "Dreadarc",
-    "ko": "접근하는 공포",
-    "table": "words"
+    "ko": "접근하는 공포"
   },
   {
     "id": "Moonbender's Wing",
-    "ko": "달을 구부리는 자의 날개",
-    "table": "words"
+    "ko": "달을 구부리는 자의 날개"
   },
   {
     "id": "The Princess",
-    "ko": "공주",
-    "table": "words"
+    "ko": "공주"
   },
   {
     "id": "Lakishu's Blade",
-    "ko": "라키슈의 검",
-    "table": "words"
+    "ko": "라키슈의 검"
   },
   {
     "id": "Gorebreaker",
-    "ko": "유혈 분쇄기",
-    "table": "words"
+    "ko": "유혈 분쇄기"
   },
   {
     "id": "Lavianga's Wisdom",
-    "ko": "라비앙가의 지혜",
-    "table": "words"
+    "ko": "라비앙가의 지혜"
   },
   {
     "id": "Flesh-Eater",
-    "ko": "식인종",
-    "table": "words"
+    "ko": "식인종"
   },
   {
     "id": "The Stormheart",
-    "ko": "태풍의 눈",
-    "table": "words"
+    "ko": "태풍의 눈"
   },
   {
     "id": "Brinerot Mark",
-    "ko": "부패한 염수단 징표",
-    "table": "words"
+    "ko": "부패한 염수단 징표"
   },
   {
     "id": "Redblade Band",
-    "ko": "적검단 가락지",
-    "table": "words"
+    "ko": "적검단 가락지"
   },
   {
     "id": "Mutewind Seal",
-    "ko": "고요한 바람단 봉인",
-    "table": "words"
+    "ko": "고요한 바람단 봉인"
   },
   {
     "id": "Brinerot Flag",
-    "ko": "부패한 염수단 깃발",
-    "table": "words"
+    "ko": "부패한 염수단 깃발"
   },
   {
     "id": "Redblade Banner",
-    "ko": "적검단 깃발",
-    "table": "words"
+    "ko": "적검단 깃발"
   },
   {
     "id": "Mutewind Pennant",
-    "ko": "고요한 바람단 페넌트",
-    "table": "words"
+    "ko": "고요한 바람단 페넌트"
   },
   {
     "id": "Demigod's Beacon",
-    "ko": "반신의 횃불",
-    "table": "words"
+    "ko": "반신의 횃불"
   },
   {
     "id": "Brinerot Whalers",
-    "ko": "부패한 염수단 고래잡이 신발",
-    "table": "words"
+    "ko": "부패한 염수단 고래잡이 신발"
   },
   {
     "id": "Mutewind Whispersteps",
-    "ko": "고요한 바람단의 속삭임 신발",
-    "table": "words"
+    "ko": "고요한 바람단의 속삭임 신발"
   },
   {
     "id": "Redblade Tramplers",
-    "ko": "적검단 유린자",
-    "table": "words"
+    "ko": "적검단 유린자"
   },
   {
     "id": "Trolltimber Spire",
-    "ko": "트롤나무 꼭대기",
-    "table": "words"
+    "ko": "트롤나무 꼭대기"
   },
   {
     "id": "Jorrhast's Blacksteel",
-    "ko": "요르하스트의 강철",
-    "table": "words"
+    "ko": "요르하스트의 강철"
   },
   {
     "id": "Crown of the Pale King",
-    "ko": "창백한 왕의 왕관",
-    "table": "words"
+    "ko": "창백한 왕의 왕관"
   },
   {
     "id": "Ylfeban's Trickery",
-    "ko": "일프밴의 계략",
-    "table": "words"
+    "ko": "일프밴의 계략"
   },
   {
     "id": "Emberwake",
-    "ko": "잉걸불 지피기",
-    "table": "words"
+    "ko": "잉걸불 지피기"
   },
   {
     "id": "Replica Emberwake",
-    "ko": "잉걸불 지피기 모조품",
-    "table": "words"
+    "ko": "잉걸불 지피기 모조품"
   },
   {
     "id": "Slivers of Providence",
-    "ko": "섭리의 편린 화살통",
-    "table": "words"
+    "ko": "섭리의 편린 화살통"
   },
   {
     "id": "Allure",
-    "ko": "매혹",
-    "table": "words"
+    "ko": "매혹"
   },
   {
     "id": "Replica Allure",
-    "ko": "매혹 모조품",
-    "table": "words"
+    "ko": "매혹 모조품"
   },
   {
     "id": "Steppan Eard",
-    "ko": "스테판 야드",
-    "table": "words"
+    "ko": "스테판 야드"
   },
   {
     "id": "Broken Faith",
-    "ko": "부서진 믿음",
-    "table": "words"
+    "ko": "부서진 믿음"
   },
   {
     "id": "The Pariah",
-    "ko": "부랑자",
-    "table": "words"
+    "ko": "부랑자"
   },
   {
     "id": "Coruscating Elixir",
-    "ko": "빛나는 묘약",
-    "table": "words"
+    "ko": "빛나는 묘약"
   },
   {
     "id": "The Aylardex",
-    "ko": "에일러덱스",
-    "table": "words"
+    "ko": "에일러덱스"
   },
   {
     "id": "Shattered Chains",
-    "ko": "바스라진 사슬",
-    "table": "words"
+    "ko": "바스라진 사슬"
   },
   {
     "id": "Weight of the Empire",
-    "ko": "제국의 무게",
-    "table": "words"
+    "ko": "제국의 무게"
   },
   {
     "id": "Pitch Darkness",
-    "ko": "칠흑 같은 어둠",
-    "table": "words"
+    "ko": "칠흑 같은 어둠"
   },
   {
     "id": "Steel Spirit",
-    "ko": "강철 혼백",
-    "table": "words"
+    "ko": "강철 혼백"
   },
   {
     "id": "Growing Agony",
-    "ko": "심해지는 고통",
-    "table": "words"
+    "ko": "심해지는 고통"
   },
   {
     "id": "Agnerod West",
-    "ko": "서쪽의 아그네로드",
-    "table": "words"
+    "ko": "서쪽의 아그네로드"
   },
   {
     "id": "The Vinktar Square",
-    "ko": "빙타 광장",
-    "table": "words"
+    "ko": "빙타 광장"
   },
   {
     "id": "Feastbind",
-    "ko": "연회의 속박",
-    "table": "words"
+    "ko": "연회의 속박"
   },
   {
     "id": "Faminebind",
-    "ko": "기근의 속박",
-    "table": "words"
+    "ko": "기근의 속박"
   },
   {
     "id": "The Retch",
-    "ko": "레치",
-    "table": "words"
+    "ko": "레치"
   },
   {
     "id": "Bloodgrip",
-    "ko": "피의 지배",
-    "table": "words"
+    "ko": "피의 지배"
   },
   {
     "id": "Hezmana's Bloodlust",
-    "ko": "헤즈마나의 유혈 충동",
-    "table": "words"
+    "ko": "헤즈마나의 유혈 충동"
   },
   {
     "id": "Vessel of Vinktar",
-    "ko": "빙타의 그릇",
-    "table": "words"
+    "ko": "빙타의 그릇"
   },
   {
     "id": "Kongming's Stratagem",
-    "ko": "공명의 계략",
-    "table": "words"
+    "ko": "공명의 계략"
   },
   {
     "id": "Skyforth",
-    "ko": "하늘 달리기",
-    "table": "words"
+    "ko": "하늘 달리기"
   },
   {
     "id": "Reckless Defence",
-    "ko": "무모한 방어",
-    "table": "words"
+    "ko": "무모한 방어"
   },
   {
     "id": "Replica Reckless Defence",
-    "ko": "무모한 방어 모조품",
-    "table": "words"
+    "ko": "무모한 방어 모조품"
   },
   {
     "id": "Roth's Reach",
-    "ko": "로스의 역량",
-    "table": "words"
+    "ko": "로스의 역량"
   },
   {
     "id": "Winds of Change",
-    "ko": "변화의 바람",
-    "table": "words"
+    "ko": "변화의 바람"
   },
   {
     "id": "Rotgut",
-    "ko": "썩은 내장",
-    "table": "words"
+    "ko": "썩은 내장"
   },
   {
     "id": "The Vigil",
-    "ko": "철야 기도",
-    "table": "words"
+    "ko": "철야 기도"
   },
   {
     "id": "Rolling Flames",
-    "ko": "몰려오는 불꽃",
-    "table": "words"
+    "ko": "몰려오는 불꽃"
   },
   {
     "id": "Winter's Bounty",
-    "ko": "겨울의 하사품",
-    "table": "words"
+    "ko": "겨울의 하사품"
   },
   {
     "id": "Spirited Response",
-    "ko": "맹렬한 응답",
-    "table": "words"
+    "ko": "맹렬한 응답"
   },
   {
     "id": "Femurs of the Saints",
-    "ko": "성자의 대퇴골",
-    "table": "words"
+    "ko": "성자의 대퇴골"
   },
   {
     "id": "Cannot Die",
-    "ko": "사망 불가",
-    "table": "words"
+    "ko": "사망 불가"
   },
   {
     "id": "Elemental Weapon",
-    "ko": "원소 무기",
-    "table": "words"
+    "ko": "원소 무기"
   },
   {
     "id": "Attribute Override",
-    "ko": "능력치 무효화",
-    "table": "words"
+    "ko": "능력치 무효화"
   },
   {
     "id": "Ailment Durations",
-    "ko": "상태 이상 지속시간",
-    "table": "words"
+    "ko": "상태 이상 지속시간"
   },
   {
     "id": "De-Playerification",
-    "ko": "플레이어 지정 해제",
-    "table": "words"
+    "ko": "플레이어 지정 해제"
   },
   {
     "id": "Obliteration",
-    "ko": "말살",
-    "table": "words"
+    "ko": "말살"
   },
   {
     "id": "Wyrmsign",
-    "ko": "아룡의 징조",
-    "table": "words"
+    "ko": "아룡의 징조"
   },
   {
     "id": "Spine of the First Claimant",
-    "ko": "최초 선구자의 척추",
-    "table": "words"
+    "ko": "최초 선구자의 척추"
   },
   {
     "id": "Izaro's Turmoil",
-    "ko": "이자로의 혼란",
-    "table": "words"
+    "ko": "이자로의 혼란"
   },
   {
     "id": "Chitus' Needle",
-    "ko": "치투스의 바늘",
-    "table": "words"
+    "ko": "치투스의 바늘"
   },
   {
     "id": "Izaro's Dilemma",
-    "ko": "이자로의 난제",
-    "table": "words"
+    "ko": "이자로의 난제"
   },
   {
     "id": "Extractor Mentis",
-    "ko": "정신 추출기",
-    "table": "words"
+    "ko": "정신 추출기"
   },
   {
     "id": "The Dancing Dervish",
-    "ko": "춤추는 수도승",
-    "table": "words"
+    "ko": "춤추는 수도승"
   },
   {
     "id": "Dead Reckoning",
-    "ko": "망자의 판단",
-    "table": "words"
+    "ko": "망자의 판단"
   },
   {
     "id": "Rapid Expansion",
-    "ko": "신속한 확장",
-    "table": "words"
+    "ko": "신속한 확장"
   },
   {
     "id": "Volley Fire",
-    "ko": "일제 포격",
-    "table": "words"
+    "ko": "일제 포격"
   },
   {
     "id": "Spirit Guards",
-    "ko": "혼백의 수호",
-    "table": "words"
+    "ko": "혼백의 수호"
   },
   {
     "id": "Iron Commander",
-    "ko": "철의 지휘관",
-    "table": "words"
+    "ko": "철의 지휘관"
   },
   {
     "id": "Replica Iron Commander",
-    "ko": "철의 지휘관 모조품",
-    "table": "words"
+    "ko": "철의 지휘관 모조품"
   },
   {
     "id": "Storm Prison",
-    "ko": "태풍 감옥",
-    "table": "words"
+    "ko": "태풍 감옥"
   },
   {
     "id": "Eclipse Solaris",
-    "ko": "솔라리스의 쇠퇴",
-    "table": "words"
+    "ko": "솔라리스의 쇠퇴"
   },
   {
     "id": "Disjunction",
-    "ko": "분열",
-    "table": "words"
+    "ko": "분열"
   },
   {
     "id": "Singularity",
-    "ko": "중력 붕괴",
-    "table": "words"
+    "ko": "중력 붕괴"
   },
   {
     "id": "Bitterdream",
-    "ko": "악몽",
-    "table": "words"
+    "ko": "악몽"
   },
   {
     "id": "Replica Bitterdream",
-    "ko": "악몽 모조품",
-    "table": "words"
+    "ko": "악몽 모조품"
   },
   {
     "id": "Soulthirst",
-    "ko": "목마른 영혼",
-    "table": "words"
+    "ko": "목마른 영혼"
   },
   {
     "id": "Night's Hold",
-    "ko": "밤의 연장",
-    "table": "words"
+    "ko": "밤의 연장"
   },
   {
     "id": "Essence Worm",
-    "ko": "에센스 웜",
-    "table": "words"
+    "ko": "에센스 웜"
   },
   {
     "id": "Star of Wraeclast",
-    "ko": "레이클라스트의 별",
-    "table": "words"
+    "ko": "레이클라스트의 별"
   },
   {
     "id": "Blightwell",
-    "ko": "황폐한 샘",
-    "table": "words"
+    "ko": "황폐한 샘"
   },
   {
     "id": "Natural Hierarchy",
-    "ko": "순수의 지배",
-    "table": "words"
+    "ko": "순수의 지배"
   },
   {
     "id": "Rigwald's Curse",
-    "ko": "리그월드의 저주",
-    "table": "words"
+    "ko": "리그월드의 저주"
   },
   {
     "id": "Eyes of the Greatwolf",
-    "ko": "위대한 늑대의 눈",
-    "table": "words"
+    "ko": "위대한 늑대의 눈"
   },
   {
     "id": "Rigwald's Crest",
-    "ko": "리그월드의 문양",
-    "table": "words"
+    "ko": "리그월드의 문양"
   },
   {
     "id": "Rigwald's Savagery",
-    "ko": "리그월드의 야만",
-    "table": "words"
+    "ko": "리그월드의 야만"
   },
   {
     "id": "Rigwald's Command",
-    "ko": "리그월드의 명령",
-    "table": "words"
+    "ko": "리그월드의 명령"
   },
   {
     "id": "Rigwald's Quills",
-    "ko": "리그월드의 화살",
-    "table": "words"
+    "ko": "리그월드의 화살"
   },
   {
     "id": "Caer Blaidd, Wolfpack's Den",
-    "ko": "캐어블레이드 늑대의 소굴",
-    "table": "words"
+    "ko": "캐어블레이드 늑대의 소굴"
   },
   {
     "id": "Winterheart",
-    "ko": "겨울심장",
-    "table": "words"
+    "ko": "겨울심장"
   },
   {
     "id": "Replica Winterheart",
-    "ko": "겨울심장 모조품",
-    "table": "words"
+    "ko": "겨울심장 모조품"
   },
   {
     "id": "Demigod's Dominance",
-    "ko": "반신의 지배",
-    "table": "words"
+    "ko": "반신의 지배"
   },
   {
     "id": "The Writhing Jar",
-    "ko": "꿈틀거리는 단지",
-    "table": "words"
+    "ko": "꿈틀거리는 단지"
   },
   {
     "id": "Malachai's Loop",
-    "ko": "말라카이의 고리",
-    "table": "words"
+    "ko": "말라카이의 고리"
   },
   {
     "id": "Ngamahu's Flame",
-    "ko": "나마후의 불꽃",
-    "table": "words"
+    "ko": "나마후의 불꽃"
   },
   {
     "id": "WIP Stone Flask",
-    "ko": "WIP 돌 플라스크",
-    "table": "words"
+    "ko": "WIP 돌 플라스크"
   },
   {
     "id": "Borrowed Power",
-    "ko": "융통된 힘",
-    "table": "words"
+    "ko": "융통된 힘"
   },
   {
     "id": "Umbilicus Immortalis",
-    "ko": "불멸의 탯줄",
-    "table": "words"
+    "ko": "불멸의 탯줄"
   },
   {
     "id": "Frost Unbroken",
-    "ko": "온전한 서리",
-    "table": "words"
+    "ko": "온전한 서리"
   },
   {
     "id": "Advancing Fortress",
-    "ko": "전진하는 요새",
-    "table": "words"
+    "ko": "전진하는 요새"
   },
   {
     "id": "Replica Advancing Fortress",
-    "ko": "전진하는 요새 모조품",
-    "table": "words"
+    "ko": "전진하는 요새 모조품"
   },
   {
     "id": "Xirgil's Crank",
-    "ko": "저글의 손잡이",
-    "table": "words"
+    "ko": "저글의 손잡이"
   },
   {
     "id": "Deshret's Storm",
-    "ko": "데쉬렛의 태풍",
-    "table": "words"
+    "ko": "데쉬렛의 태풍"
   },
   {
     "id": "Ashes of the Condemned",
-    "ko": "사형수의 재",
-    "table": "words"
+    "ko": "사형수의 재"
   },
   {
     "id": "Mutewind Cache",
-    "ko": "고요한 바람단 은닉함",
-    "table": "words"
+    "ko": "고요한 바람단 은닉함"
   },
   {
     "id": "Redblade Cache",
-    "ko": "적검단 은닉함",
-    "table": "words"
+    "ko": "적검단 은닉함"
   },
   {
     "id": "Brinerot Cache",
-    "ko": "부패한 염수단 은닉함",
-    "table": "words"
+    "ko": "부패한 염수단 은닉함"
   },
   {
     "id": "Renegades Cache",
-    "ko": "탈주자 은닉함",
-    "table": "words"
+    "ko": "탈주자 은닉함"
   },
   {
     "id": "Trypanon",
-    "ko": "트리파논",
-    "table": "words"
+    "ko": "트리파논"
   },
   {
     "id": "Replica Trypanon",
-    "ko": "트리파논 모조품",
-    "table": "words"
+    "ko": "트리파논 모조품"
   },
   {
     "id": "Widowmaker",
-    "ko": "위도우메이커",
-    "table": "words"
+    "ko": "위도우메이커"
   },
   {
     "id": "Clayshaper",
-    "ko": "클레이쉐이퍼",
-    "table": "words"
+    "ko": "클레이쉐이퍼"
   },
   {
     "id": "Frostbreath",
-    "ko": "서리 숨결",
-    "table": "words"
+    "ko": "서리 숨결"
   },
   {
     "id": "Replica Frostbreath",
-    "ko": "서리 숨결 모조품",
-    "table": "words"
+    "ko": "서리 숨결 모조품"
   },
   {
     "id": "The Tempestuous Steel",
-    "ko": "격렬한 강철",
-    "table": "words"
+    "ko": "격렬한 강철"
   },
   {
     "id": "Replica Tempestuous Steel",
-    "ko": "격렬한 강철 모조품",
-    "table": "words"
+    "ko": "격렬한 강철 모조품"
   },
   {
     "id": "Daresso's Passion",
-    "ko": "다레소의 열정",
-    "table": "words"
+    "ko": "다레소의 열정"
   },
   {
     "id": "Ashcaller",
-    "ko": "재 소환사",
-    "table": "words"
+    "ko": "재 소환사"
   },
   {
     "id": "Liminal Coil",
-    "ko": "경계 감개",
-    "table": "words"
+    "ko": "경계 감개"
   },
   {
     "id": "Runeseeker's Call",
-    "ko": "룬 탐구자의 소명",
-    "table": "words"
+    "ko": "룬 탐구자의 소명"
   },
   {
     "id": "Reefbane",
-    "ko": "암초의 파멸",
-    "table": "words"
+    "ko": "암초의 파멸"
   },
   {
     "id": "The Sorrow of the Divine",
-    "ko": "신의 슬픔",
-    "table": "words"
+    "ko": "신의 슬픔"
   },
   {
     "id": "Replica Sorrow of the Divine",
-    "ko": "신의 슬픔 모조품",
-    "table": "words"
+    "ko": "신의 슬픔 모조품"
   },
   {
     "id": "Geofri's Sanctuary",
-    "ko": "조프리의 성역",
-    "table": "words"
+    "ko": "조프리의 성역"
   },
   {
     "id": "Axiom Perpetuum",
-    "ko": "액시옴의 무기징역",
-    "table": "words"
+    "ko": "액시옴의 무기징역"
   },
   {
     "id": "Varunastra",
-    "ko": "바루나스트라",
-    "table": "words"
+    "ko": "바루나스트라"
   },
   {
     "id": "Viper's Scales",
-    "ko": "독사의 비늘",
-    "table": "words"
+    "ko": "독사의 비늘"
   },
   {
     "id": "Abberath's Hooves",
-    "ko": "아버라스의 발굽",
-    "table": "words"
+    "ko": "아버라스의 발굽"
   },
   {
     "id": "The Beast Fur Shawl",
-    "ko": "야수 모피 숄",
-    "table": "words"
+    "ko": "야수 모피 숄"
   },
   {
     "id": "Zerphi's Last Breath",
-    "ko": "제르피의 마지막 숨결",
-    "table": "words"
+    "ko": "제르피의 마지막 숨결"
   },
   {
     "id": "The Overflowing Chalice",
-    "ko": "넘치는 성배",
-    "table": "words"
+    "ko": "넘치는 성배"
   },
   {
     "id": "Rive",
-    "ko": "리브",
-    "table": "words"
+    "ko": "리브"
   },
   {
     "id": "Cheap Construction",
-    "ko": "저렴한 건축",
-    "table": "words"
+    "ko": "저렴한 건축"
   },
   {
     "id": "Replica Cheap Construction",
-    "ko": "저렴한 건축 모조품",
-    "table": "words"
+    "ko": "저렴한 건축 모조품"
   },
   {
     "id": "Glitterdisc",
-    "ko": "빛나는 원반",
-    "table": "words"
+    "ko": "빛나는 원반"
   },
   {
     "id": "Hair Trigger",
-    "ko": "민감한 반응",
-    "table": "words"
+    "ko": "민감한 반응"
   },
   {
     "id": "Nuro's Harp",
-    "ko": "누로의 하프",
-    "table": "words"
+    "ko": "누로의 하프"
   },
   {
     "id": "Coated Shrapnel",
-    "ko": "뒤덮은 파편",
-    "table": "words"
+    "ko": "뒤덮은 파편"
   },
   {
     "id": "Unstable Payload",
-    "ko": "불안정한 하중",
-    "table": "words"
+    "ko": "불안정한 하중"
   },
   {
     "id": "Replica Unstable Payload",
-    "ko": "불안정한 하중 모조품",
-    "table": "words"
+    "ko": "불안정한 하중 모조품"
   },
   {
     "id": "Heretic's Veil",
-    "ko": "이단자의 면사포",
-    "table": "words"
+    "ko": "이단자의 면사포"
   },
   {
     "id": "Emperor's Cunning",
-    "ko": "황제의 잔꾀",
-    "table": "words"
+    "ko": "황제의 잔꾀"
   },
   {
     "id": "Emperor's Wit",
-    "ko": "황제의 재치",
-    "table": "words"
+    "ko": "황제의 재치"
   },
   {
     "id": "Emperor's Might",
-    "ko": "황제의 완력",
-    "table": "words"
+    "ko": "황제의 완력"
   },
   {
     "id": "Emperor's Mastery",
-    "ko": "황제의 숙련",
-    "table": "words"
+    "ko": "황제의 숙련"
   },
   {
     "id": "Victario's Charity",
-    "ko": "빅타리오의 자비",
-    "table": "words"
+    "ko": "빅타리오의 자비"
   },
   {
     "id": "Replica Victario's Charity",
-    "ko": "빅타리오의 자비 모조품",
-    "table": "words"
+    "ko": "빅타리오의 자비 모조품"
   },
   {
     "id": "The Perandus Manor",
-    "ko": "페란두스 저택",
-    "table": "words"
+    "ko": "페란두스 저택"
   },
   {
     "id": "Innsbury Edge",
-    "ko": "인스뷰리 칼날",
-    "table": "words"
+    "ko": "인스뷰리 칼날"
   },
   {
     "id": "Replica Innsbury Edge",
-    "ko": "인스뷰리 칼날 모조품",
-    "table": "words"
+    "ko": "인스뷰리 칼날 모조품"
   },
   {
     "id": "Duskwing",
-    "ko": "황혼 날개",
-    "table": "words"
+    "ko": "황혼 날개"
   },
   {
     "id": "Bloodletter",
-    "ko": "사혈자",
-    "table": "words"
+    "ko": "사혈자"
   },
   {
     "id": "Three-step Assault",
-    "ko": "삼단 공격",
-    "table": "words"
+    "ko": "삼단 공격"
   },
   {
     "id": "Replica Three-step Assault",
-    "ko": "삼단 공격 모조품",
-    "table": "words"
+    "ko": "삼단 공격 모조품"
   },
   {
     "id": "The Rack",
-    "ko": "선반",
-    "table": "words"
+    "ko": "선반"
   },
   {
     "id": "Cloak of Tawm'r Isley",
-    "ko": "탐위르 이슬리의 망토",
-    "table": "words"
+    "ko": "탐위르 이슬리의 망토"
   },
   {
     "id": "Grand Spectrum",
-    "ko": "장대한 파장",
-    "table": "words"
+    "ko": "장대한 파장"
   },
   {
     "id": "Ascent From Flesh",
-    "ko": "육체로부터의 해방",
-    "table": "words"
+    "ko": "육체로부터의 해방"
   },
   {
     "id": "Mind of the Council",
-    "ko": "의회의 정신",
-    "table": "words"
+    "ko": "의회의 정신"
   },
   {
     "id": "Hinekora's Sight",
-    "ko": "히네코라의 통찰력",
-    "table": "words"
+    "ko": "히네코라의 통찰력"
   },
   {
     "id": "Eventide Petals",
-    "ko": "해거름 꽃잎",
-    "table": "words"
+    "ko": "해거름 꽃잎"
   },
   {
     "id": "Immaculate Adherence",
-    "ko": "완전무결한 준수",
-    "table": "words"
+    "ko": "완전무결한 준수"
   },
   {
     "id": "Kitava's Thirst",
-    "ko": "키타바의 갈증",
-    "table": "words"
+    "ko": "키타바의 갈증"
   },
   {
     "id": "Scaeva",
-    "ko": "스카이바",
-    "table": "words"
+    "ko": "스카이바"
   },
   {
     "id": "Saemus' Gift",
-    "ko": "새무스의 선물",
-    "table": "words"
+    "ko": "새무스의 선물"
   },
   {
     "id": "Veruso's Battering Rams",
-    "ko": "베루소의 공성추",
-    "table": "words"
+    "ko": "베루소의 공성추"
   },
   {
     "id": "Kintsugi",
-    "ko": "킨츠키",
-    "table": "words"
+    "ko": "킨츠키"
   },
   {
     "id": "Rumblemarch",
-    "ko": "요란한 행진",
-    "table": "words"
+    "ko": "요란한 행진"
   },
   {
     "id": "Underdog's Fury",
-    "ko": "패배자의 광분",
-    "table": "words"
+    "ko": "패배자의 광분"
   },
   {
     "id": "Touch of Anguish",
-    "ko": "비통의 손길",
-    "table": "words"
+    "ko": "비통의 손길"
   },
   {
     "id": "Spiritskin",
-    "ko": "영혼가죽",
-    "table": "words"
+    "ko": "영혼가죽"
   },
   {
     "id": "Hiltless",
-    "ko": "고통의 검",
-    "table": "words"
+    "ko": "고통의 검"
   },
   {
     "id": "Ewar's Mirage",
-    "ko": "이워의 신기루",
-    "table": "words"
+    "ko": "이워의 신기루"
   },
   {
     "id": "Lycosidae",
-    "ko": "늑대 거미",
-    "table": "words"
+    "ko": "늑대 거미"
   },
   {
     "id": "Voll's Vision",
-    "ko": "볼의 시각",
-    "table": "words"
+    "ko": "볼의 시각"
   },
   {
     "id": "Malachai's Vision",
-    "ko": "말라카이의 시각",
-    "table": "words"
+    "ko": "말라카이의 시각"
   },
   {
     "id": "Karui Charge",
-    "ko": "카루이의 돌진",
-    "table": "words"
+    "ko": "카루이의 돌진"
   },
   {
     "id": "Wall of Brambles",
-    "ko": "가시나무 벽",
-    "table": "words"
+    "ko": "가시나무 벽"
   },
   {
     "id": "Shavronne's Gambit",
-    "ko": "샤브론의 책략",
-    "table": "words"
+    "ko": "샤브론의 책략"
   },
   {
     "id": "Death's Opus",
-    "ko": "죽음의 작품",
-    "table": "words"
+    "ko": "죽음의 작품"
   },
   {
     "id": "Cospri's Will",
-    "ko": "코스프리의 의지",
-    "table": "words"
+    "ko": "코스프리의 의지"
   },
   {
     "id": "Forgotten Warden",
-    "ko": "잊혀진 간수",
-    "table": "words"
+    "ko": "잊혀진 간수"
   },
   {
     "id": "The Ascetic",
-    "ko": "고행자",
-    "table": "words"
+    "ko": "고행자"
   },
   {
     "id": "Skirmish",
-    "ko": "접전",
-    "table": "words"
+    "ko": "접전"
   },
   {
     "id": "The Learning Stone",
-    "ko": "배움의 돌",
-    "table": "words"
+    "ko": "배움의 돌"
   },
   {
     "id": "Grip of the Council",
-    "ko": "의회의 장악",
-    "table": "words"
+    "ko": "의회의 장악"
   },
   {
     "id": "Replica Grip of the Council",
-    "ko": "의회의 장악 모조품",
-    "table": "words"
+    "ko": "의회의 장악 모조품"
   },
   {
     "id": "Kiara's Determination",
-    "ko": "키아라의 결의",
-    "table": "words"
+    "ko": "키아라의 결의"
   },
   {
     "id": "Tinkerskin",
-    "ko": "톱니의 보호",
-    "table": "words"
+    "ko": "톱니의 보호"
   },
   {
     "id": "Death's Door",
-    "ko": "죽음의 문턱",
-    "table": "words"
+    "ko": "죽음의 문턱"
   },
   {
     "id": "Reach of the Council",
-    "ko": "의회의 역량",
-    "table": "words"
+    "ko": "의회의 역량"
   },
   {
     "id": "Breath of the Council",
-    "ko": "의회의 숨결",
-    "table": "words"
+    "ko": "의회의 숨결"
   },
   {
     "id": "Voidheart",
-    "ko": "공허의 심장",
-    "table": "words"
+    "ko": "공허의 심장"
   },
   {
     "id": "Cragfall",
-    "ko": "바위 폭포",
-    "table": "words"
+    "ko": "바위 폭포"
   },
   {
     "id": "The Signal Fire",
-    "ko": "봉화",
-    "table": "words"
+    "ko": "봉화"
   },
   {
     "id": "Ngamahu Tiki",
-    "ko": "나마후 티키",
-    "table": "words"
+    "ko": "나마후 티키"
   },
   {
     "id": "Hrimburn",
-    "ko": "흐림번",
-    "table": "words"
+    "ko": "흐림번"
   },
   {
     "id": "Martyr's Crown",
-    "ko": "순교자의 왕관",
-    "table": "words"
+    "ko": "순교자의 왕관"
   },
   {
     "id": "Ezomyte Hold",
-    "ko": "에조미어의 방호",
-    "table": "words"
+    "ko": "에조미어의 방호"
   },
   {
     "id": "Deidbellow",
-    "ko": "죽음의 괘종",
-    "table": "words"
+    "ko": "죽음의 괘종"
   },
   {
     "id": "Thirst for Horrors",
-    "ko": "공포에 대한 갈증",
-    "table": "words"
+    "ko": "공포에 대한 갈증"
   },
   {
     "id": "The Oak",
-    "ko": "참나무",
-    "table": "words"
+    "ko": "참나무"
   },
   {
     "id": "Kaltensoul",
-    "ko": "붙잡은 영혼",
-    "table": "words"
+    "ko": "붙잡은 영혼"
   },
   {
     "id": "The Gryphon",
-    "ko": "그리폰",
-    "table": "words"
+    "ko": "그리폰"
   },
   {
     "id": "The Cauteriser",
-    "ko": "소각로",
-    "table": "words"
+    "ko": "소각로"
   },
   {
     "id": "Doomfletch's Prism",
-    "ko": "죽음의 깃의 분광기",
-    "table": "words"
+    "ko": "죽음의 깃의 분광기"
   },
   {
     "id": "Silverbough",
-    "ko": "은빛 나뭇가지",
-    "table": "words"
+    "ko": "은빛 나뭇가지"
   },
   {
     "id": "The Tempest",
-    "ko": "폭풍",
-    "table": "words"
+    "ko": "폭풍"
   },
   {
     "id": "Hrimnor's Dirge",
-    "ko": "흐림노르의 만가",
-    "table": "words"
+    "ko": "흐림노르의 만가"
   },
   {
     "id": "Amplification Rod",
-    "ko": "증폭 막대",
-    "table": "words"
+    "ko": "증폭 막대"
   },
   {
     "id": "Realm Ender",
-    "ko": "종결자",
-    "table": "words"
+    "ko": "종결자"
   },
   {
     "id": "Queen's Escape",
-    "ko": "여왕의 탈주",
-    "table": "words"
+    "ko": "여왕의 탈주"
   },
   {
     "id": "The Plaguemaw's Offering",
-    "ko": "역병 나락의 공물",
-    "table": "words"
+    "ko": "역병 나락의 공물"
   },
   {
     "id": "Kaom's Way",
-    "ko": "카옴의 길",
-    "table": "words"
+    "ko": "카옴의 길"
   },
   {
     "id": "Praxis",
-    "ko": "관습",
-    "table": "words"
+    "ko": "관습"
   },
   {
     "id": "Kondo's Pride",
-    "ko": "콘도의 자부심",
-    "table": "words"
+    "ko": "콘도의 자부심"
   },
   {
     "id": "Valyrium",
-    "ko": "발리륨",
-    "table": "words"
+    "ko": "발리륨"
   },
   {
     "id": "The Brass Dome",
-    "ko": "황동 철갑",
-    "table": "words"
+    "ko": "황동 철갑"
   },
   {
     "id": "Brain Rattler",
-    "ko": "요동치는 두뇌",
-    "table": "words"
+    "ko": "요동치는 두뇌"
   },
   {
     "id": "Razor of the Seventh Sun",
-    "ko": "날카로운 일곱 번째 태양",
-    "table": "words"
+    "ko": "날카로운 일곱 번째 태양"
   },
   {
     "id": "Eye of Innocence",
-    "ko": "결백의 눈",
-    "table": "words"
+    "ko": "결백의 눈"
   },
   {
     "id": "Slivertongue",
-    "ko": "슬리버텅",
-    "table": "words"
+    "ko": "슬리버텅"
   },
   {
     "id": "Obscurantis",
-    "ko": "몽매주의",
-    "table": "words"
+    "ko": "몽매주의"
   },
   {
     "id": "Snakepit",
-    "ko": "뱀 구덩이",
-    "table": "words"
+    "ko": "뱀 구덩이"
   },
   {
     "id": "The Scourge",
-    "ko": "재앙",
-    "table": "words"
+    "ko": "재앙"
   },
   {
     "id": "Cospri's Malice",
-    "ko": "코스프리의 장난",
-    "table": "words"
+    "ko": "코스프리의 장난"
   },
   {
     "id": "Starforge",
-    "ko": "별의 탄생",
-    "table": "words"
+    "ko": "별의 탄생"
   },
   {
     "id": "Unending Hunger",
-    "ko": "끝없는 허기",
-    "table": "words"
+    "ko": "끝없는 허기"
   },
   {
     "id": "Voidwalker",
-    "ko": "공허 보행자",
-    "table": "words"
+    "ko": "공허 보행자"
   },
   {
     "id": "Replica Voidwalker",
-    "ko": "공허 보행자 모조품",
-    "table": "words"
+    "ko": "공허 보행자 모조품"
   },
   {
     "id": "Shaper's Touch",
-    "ko": "쉐이퍼의 손길",
-    "table": "words"
+    "ko": "쉐이퍼의 손길"
   },
   {
     "id": "The Master's Reach",
-    "ko": "대가의 깜냥",
-    "table": "words"
+    "ko": "대가의 깜냥"
   },
   {
     "id": "The Warden's Brand",
-    "ko": "간수의 낙인",
-    "table": "words"
+    "ko": "간수의 낙인"
   },
   {
     "id": "Witchfire Brew",
-    "ko": "불타는 마녀의 술",
-    "table": "words"
+    "ko": "불타는 마녀의 술"
   },
   {
     "id": "Dying Sun",
-    "ko": "죽어가는 해",
-    "table": "words"
+    "ko": "죽어가는 해"
   },
   {
     "id": "The Putrid Cloister",
-    "ko": "악취 나는 수도원",
-    "table": "words"
+    "ko": "악취 나는 수도원"
   },
   {
     "id": "Atziri's Vessel",
-    "ko": "앗지리의 그릇",
-    "table": "words"
+    "ko": "앗지리의 그릇"
   },
   {
     "id": "Hallowed Ground",
-    "ko": "거룩한 대지",
-    "table": "words"
+    "ko": "거룩한 대지"
   },
   {
     "id": "Breach Box",
-    "ko": "균열의 상자",
-    "table": "words"
+    "ko": "균열의 상자"
   },
   {
     "id": "Primordial Harmony",
-    "ko": "태고의 조화",
-    "table": "words"
+    "ko": "태고의 조화"
   },
   {
     "id": "Primordial Might",
-    "ko": "태고의 완력",
-    "table": "words"
+    "ko": "태고의 완력"
   },
   {
     "id": "Replica Primordial Might",
-    "ko": "태고의 완력 모조품",
-    "table": "words"
+    "ko": "태고의 완력 모조품"
   },
   {
     "id": "Primordial Eminence",
-    "ko": "태고의 고귀",
-    "table": "words"
+    "ko": "태고의 고귀"
   },
   {
     "id": "The Anima Stone",
-    "ko": "생명의 돌",
-    "table": "words"
+    "ko": "생명의 돌"
   },
   {
     "id": "The Coming Calamity",
-    "ko": "다가오는 대재난",
-    "table": "words"
+    "ko": "다가오는 대재난"
   },
   {
     "id": "Bisco's Collar",
-    "ko": "비스코의 목걸이",
-    "table": "words"
+    "ko": "비스코의 목걸이"
   },
   {
     "id": "Inpulsa's Broken Heart",
-    "ko": "인펄사의 상심",
-    "table": "words"
+    "ko": "인펄사의 상심"
   },
   {
     "id": "Xoph's Nurture",
-    "ko": "조프의 보살핌",
-    "table": "words"
+    "ko": "조프의 보살핌"
   },
   {
     "id": "Xoph's Inception",
-    "ko": "조프의 시초",
-    "table": "words"
+    "ko": "조프의 시초"
   },
   {
     "id": "The Formless Flame",
-    "ko": "무형의 불꽃",
-    "table": "words"
+    "ko": "무형의 불꽃"
   },
   {
     "id": "The Formless Inferno",
-    "ko": "무형의 지옥불",
-    "table": "words"
+    "ko": "무형의 지옥불"
   },
   {
     "id": "Xoph's Heart",
-    "ko": "조프의 심장",
-    "table": "words"
+    "ko": "조프의 심장"
   },
   {
     "id": "Xoph's Blood",
-    "ko": "조프의 피",
-    "table": "words"
+    "ko": "조프의 피"
   },
   {
     "id": "Tulborn",
-    "ko": "툴의 탄생",
-    "table": "words"
+    "ko": "툴의 탄생"
   },
   {
     "id": "Tulfall",
-    "ko": "툴의 몰락",
-    "table": "words"
+    "ko": "툴의 몰락"
   },
   {
     "id": "Replica Tulfall",
-    "ko": "툴의 몰락 모조품",
-    "table": "words"
+    "ko": "툴의 몰락 모조품"
   },
   {
     "id": "The Snowblind Grace",
-    "ko": "설맹의 은총",
-    "table": "words"
+    "ko": "설맹의 은총"
   },
   {
     "id": "The Perfect Form",
-    "ko": "완벽한 구조",
-    "table": "words"
+    "ko": "완벽한 구조"
   },
   {
     "id": "Replica Perfect Form",
-    "ko": "완벽한 구조 모조품",
-    "table": "words"
+    "ko": "완벽한 구조 모조품"
   },
   {
     "id": "The Halcyon",
-    "ko": "평온",
-    "table": "words"
+    "ko": "평온"
   },
   {
     "id": "The Pandemonius",
-    "ko": "대혼란",
-    "table": "words"
+    "ko": "대혼란"
   },
   {
     "id": "Hand of Thought and Motion",
-    "ko": "사고와 움직임의 손아귀",
-    "table": "words"
+    "ko": "사고와 움직임의 손아귀"
   },
   {
     "id": "Hand of Wisdom and Action",
-    "ko": "지혜와 행동의 손아귀",
-    "table": "words"
+    "ko": "지혜와 행동의 손아귀"
   },
   {
     "id": "Esh's Mirror",
-    "ko": "에쉬의 거울",
-    "table": "words"
+    "ko": "에쉬의 거울"
   },
   {
     "id": "Esh's Visage",
-    "ko": "에쉬의 얼굴",
-    "table": "words"
+    "ko": "에쉬의 얼굴"
   },
   {
     "id": "Voice of the Storm",
-    "ko": "태풍의 목소리",
-    "table": "words"
+    "ko": "태풍의 목소리"
   },
   {
     "id": "Choir of the Storm",
-    "ko": "태풍의 합창",
-    "table": "words"
+    "ko": "태풍의 합창"
   },
   {
     "id": "The Infinite Pursuit",
-    "ko": "끝없는 추적",
-    "table": "words"
+    "ko": "끝없는 추적"
   },
   {
     "id": "The Red Trail",
-    "ko": "붉은 발자취",
-    "table": "words"
+    "ko": "붉은 발자취"
   },
   {
     "id": "Replica Red Trail",
-    "ko": "붉은 발자취 모조품",
-    "table": "words"
+    "ko": "붉은 발자취 모조품"
   },
   {
     "id": "Uul-Netol's Kiss",
-    "ko": "울네톨의 입맞춤",
-    "table": "words"
+    "ko": "울네톨의 입맞춤"
   },
   {
     "id": "Uul-Netol's Embrace",
-    "ko": "울네톨의 포옹",
-    "table": "words"
+    "ko": "울네톨의 포옹"
   },
   {
     "id": "The Anticipation",
-    "ko": "기대",
-    "table": "words"
+    "ko": "기대"
   },
   {
     "id": "The Surrender",
-    "ko": "포기",
-    "table": "words"
+    "ko": "포기"
   },
   {
     "id": "Severed in Sleep",
-    "ko": "야습",
-    "table": "words"
+    "ko": "야습"
   },
   {
     "id": "United in Dream",
-    "ko": "꿈속의 연합",
-    "table": "words"
+    "ko": "꿈속의 연합"
   },
   {
     "id": "Skin of the Loyal",
-    "ko": "충신의 가죽",
-    "table": "words"
+    "ko": "충신의 가죽"
   },
   {
     "id": "Skin of the Lords",
-    "ko": "군주의 가죽",
-    "table": "words"
+    "ko": "군주의 가죽"
   },
   {
     "id": "The Red Dream",
-    "ko": "붉은 꿈",
-    "table": "words"
+    "ko": "붉은 꿈"
   },
   {
     "id": "The Red Nightmare",
-    "ko": "붉은 악몽",
-    "table": "words"
+    "ko": "붉은 악몽"
   },
   {
     "id": "The Green Dream",
-    "ko": "녹색 꿈",
-    "table": "words"
+    "ko": "녹색 꿈"
   },
   {
     "id": "The Green Nightmare",
-    "ko": "녹색 악몽",
-    "table": "words"
+    "ko": "녹색 악몽"
   },
   {
     "id": "The Blue Dream",
-    "ko": "파란 꿈",
-    "table": "words"
+    "ko": "파란 꿈"
   },
   {
     "id": "The Blue Nightmare",
-    "ko": "파란 악몽",
-    "table": "words"
+    "ko": "파란 악몽"
   },
   {
     "id": "Tukohama's Fortress",
-    "ko": "투코하마의 요새",
-    "table": "words"
+    "ko": "투코하마의 요새"
   },
   {
     "id": "Replica Tukohama's Fortress",
-    "ko": "투코하마의 요새 모조품",
-    "table": "words"
+    "ko": "투코하마의 요새 모조품"
   },
   {
     "id": "Soul Tether",
-    "ko": "영혼 올가미",
-    "table": "words"
+    "ko": "영혼 올가미"
   },
   {
     "id": "Replica Soul Tether",
-    "ko": "영혼 올가미 모조품",
-    "table": "words"
+    "ko": "영혼 올가미 모조품"
   },
   {
     "id": "Angler's Plait",
-    "ko": "낚시꾼의 고리",
-    "table": "words"
+    "ko": "낚시꾼의 고리"
   },
   {
     "id": "Haemophilia",
-    "ko": "혈우병",
-    "table": "words"
+    "ko": "혈우병"
   },
   {
     "id": "The Baron",
-    "ko": "남작",
-    "table": "words"
+    "ko": "남작"
   },
   {
     "id": "Ahn's Heritage",
-    "ko": "안의 유산",
-    "table": "words"
+    "ko": "안의 유산"
   },
   {
     "id": "Shade of Solaris",
-    "ko": "솔라리스의 그늘",
-    "table": "words"
+    "ko": "솔라리스의 그늘"
   },
   {
     "id": "The Maelström Cell",
-    "ko": "마엘스트롬 감옥",
-    "table": "words"
+    "ko": "마엘스트롬 감옥"
   },
   {
     "id": "The Brine Crown",
-    "ko": "염수 왕관",
-    "table": "words"
+    "ko": "염수 왕관"
   },
   {
     "id": "Sin's Rebirth",
-    "ko": "씬의 부활",
-    "table": "words"
+    "ko": "씬의 부활"
   },
   {
     "id": "Light of Lunaris",
-    "ko": "루나리스의 빛",
-    "table": "words"
+    "ko": "루나리스의 빛"
   },
   {
     "id": "Kitava's Feast",
-    "ko": "키타바의 연회",
-    "table": "words"
+    "ko": "키타바의 연회"
   },
   {
     "id": "Duskdawn",
-    "ko": "황혼의 아침",
-    "table": "words"
+    "ko": "황혼의 아침"
   },
   {
     "id": "Replica Duskdawn",
-    "ko": "황혼의 아침 모조품",
-    "table": "words"
+    "ko": "황혼의 아침 모조품"
   },
   {
     "id": "Perseverance",
-    "ko": "인내",
-    "table": "words"
+    "ko": "인내"
   },
   {
     "id": "Arakaali's Fang",
-    "ko": "아라칼리의 송곳니",
-    "table": "words"
+    "ko": "아라칼리의 송곳니"
   },
   {
     "id": "Gruthkul's Pelt",
-    "ko": "그루스컬의 가죽",
-    "table": "words"
+    "ko": "그루스컬의 가죽"
   },
   {
     "id": "Presence of Chayula",
-    "ko": "차율라의 존재",
-    "table": "words"
+    "ko": "차율라의 존재"
   },
   {
     "id": "Weylam's War Chest",
-    "ko": "웨일럼의 군자금 상자",
-    "table": "words"
+    "ko": "웨일럼의 군자금 상자"
   },
   {
     "id": "Collateral Damage",
-    "ko": "부가적 피해",
-    "table": "words"
+    "ko": "부가적 피해"
   },
   {
     "id": "Sudden Ignition",
-    "ko": "기습적인 점화",
-    "table": "words"
+    "ko": "기습적인 점화"
   },
   {
     "id": "Overwhelming Odds",
-    "ko": "압도적인 역경",
-    "table": "words"
+    "ko": "압도적인 역경"
   },
   {
     "id": "First Snow",
-    "ko": "첫눈",
-    "table": "words"
+    "ko": "첫눈"
   },
   {
     "id": "Omen on the Winds",
-    "ko": "바람에 실린 전조",
-    "table": "words"
+    "ko": "바람에 실린 전조"
   },
   {
     "id": "Wildfire",
-    "ko": "도깨비불",
-    "table": "words"
+    "ko": "도깨비불"
   },
   {
     "id": "Fight for Survival",
-    "ko": "처절한 분투",
-    "table": "words"
+    "ko": "처절한 분투"
   },
   {
     "id": "Might and Influence",
-    "ko": "권력과 영향력",
-    "table": "words"
+    "ko": "권력과 영향력"
   },
   {
     "id": "Frozen Trail",
-    "ko": "얼어붙은 길",
-    "table": "words"
+    "ko": "얼어붙은 길"
   },
   {
     "id": "Ring of Blades",
-    "ko": "칼날 경기장",
-    "table": "words"
+    "ko": "칼날 경기장"
   },
   {
     "id": "Boundless Grasp",
-    "ko": "끝없는 장악",
-    "table": "words"
+    "ko": "끝없는 장악"
   },
   {
     "id": "Inevitability",
-    "ko": "필연",
-    "table": "words"
+    "ko": "필연"
   },
   {
     "id": "Winter Burial",
-    "ko": "한겨울의 장례식",
-    "table": "words"
+    "ko": "한겨울의 장례식"
   },
   {
     "id": "Bisco's Leash",
-    "ko": "비스코의 가죽끈",
-    "table": "words"
+    "ko": "비스코의 가죽끈"
   },
   {
     "id": "Spreading Rot",
-    "ko": "퍼져가는 부패",
-    "table": "words"
+    "ko": "퍼져가는 부패"
   },
   {
     "id": "Garukhan's Flight",
-    "ko": "가루칸의 비행",
-    "table": "words"
+    "ko": "가루칸의 비행"
   },
   {
     "id": "Prospero's Vault",
-    "ko": "프로스페로의 금고",
-    "table": "words"
+    "ko": "프로스페로의 금고"
   },
   {
     "id": "Debeon's Dirge",
-    "ko": "데비온의 장승곡",
-    "table": "words"
+    "ko": "데비온의 장승곡"
   },
   {
     "id": "The Wise Oak",
-    "ko": "지혜의 참나무",
-    "table": "words"
+    "ko": "지혜의 참나무"
   },
   {
     "id": "Violent Dead",
-    "ko": "난폭한 망자",
-    "table": "words"
+    "ko": "난폭한 망자"
   },
   {
     "id": "Hazardous Research",
-    "ko": "위험한 연구",
-    "table": "words"
+    "ko": "위험한 연구"
   },
   {
     "id": "Tidebreaker",
-    "ko": "물결 분쇄기",
-    "table": "words"
+    "ko": "물결 분쇄기"
   },
   {
     "id": "Martyr of Innocence",
-    "ko": "결백한 순교자",
-    "table": "words"
+    "ko": "결백한 순교자"
   },
   {
     "id": "Bloodbond",
-    "ko": "피붙이",
-    "table": "words"
+    "ko": "피붙이"
   },
   {
     "id": "Legacy Relic",
-    "ko": "물려받은 유물",
-    "table": "words"
+    "ko": "물려받은 유물"
   },
   {
     "id": "Timeworn Chest",
-    "ko": "오래된 상자",
-    "table": "words"
+    "ko": "오래된 상자"
   },
   {
     "id": "Vaal Repository",
-    "ko": "바알의 보고",
-    "table": "words"
+    "ko": "바알의 보고"
   },
   {
     "id": "Forgotten Guilt",
-    "ko": "잊혀진 죄책감",
-    "table": "words"
+    "ko": "잊혀진 죄책감"
   },
   {
     "id": "Visceral Remnant",
-    "ko": "본능적인 잔해",
-    "table": "words"
+    "ko": "본능적인 잔해"
   },
   {
     "id": "Shiny Toy Box",
-    "ko": "반짝이는 장난감 상자",
-    "table": "words"
+    "ko": "반짝이는 장난감 상자"
   },
   {
     "id": "Archive Cache",
-    "ko": "서고 은닉함",
-    "table": "words"
+    "ko": "서고 은닉함"
   },
   {
     "id": "What Little Remains",
-    "ko": "얼마 남지 않은 흔적",
-    "table": "words"
+    "ko": "얼마 남지 않은 흔적"
   },
   {
     "id": "A Father's Love",
-    "ko": "아버지의 사랑",
-    "table": "words"
+    "ko": "아버지의 사랑"
   },
   {
     "id": "Silent Legacy",
-    "ko": "은밀한 유산",
-    "table": "words"
+    "ko": "은밀한 유산"
   },
   {
     "id": "Voidborn Chest",
-    "ko": "공허의 시초 상자",
-    "table": "words"
+    "ko": "공허의 시초 상자"
   },
   {
     "id": "Ryslatha's Coil",
-    "ko": "리슬라사의 감개",
-    "table": "words"
+    "ko": "리슬라사의 감개"
   },
   {
     "id": "Speaker's Wreath",
-    "ko": "연설가의 화관",
-    "table": "words"
+    "ko": "연설가의 화관"
   },
   {
     "id": "Ahn's Contempt",
-    "ko": "안의 경멸",
-    "table": "words"
+    "ko": "안의 경멸"
   },
   {
     "id": "Ahn's Might",
-    "ko": "안의 완력",
-    "table": "words"
+    "ko": "안의 완력"
   },
   {
     "id": "Inya's Epiphany",
-    "ko": "이냐의 통찰",
-    "table": "words"
+    "ko": "이냐의 통찰"
   },
   {
     "id": "Replica Inya's Epiphany",
-    "ko": "이냐의 통찰 모조품",
-    "table": "words"
+    "ko": "이냐의 통찰 모조품"
   },
   {
     "id": "Volkuur's Guidance",
-    "ko": "볼쿠르의 인도",
-    "table": "words"
+    "ko": "볼쿠르의 인도"
   },
   {
     "id": "Replica Volkuur's Guidance",
-    "ko": "볼쿠르의 인도 모조품",
-    "table": "words"
+    "ko": "볼쿠르의 인도 모조품"
   },
   {
     "id": "Yriel's Fostering",
-    "ko": "이리엘의 훈육",
-    "table": "words"
+    "ko": "이리엘의 훈육"
   },
   {
     "id": "Eber's Unification",
-    "ko": "이버의 통합",
-    "table": "words"
+    "ko": "이버의 통합"
   },
   {
     "id": "Pact of Skulls",
-    "ko": "해골의 계약",
-    "table": "words"
+    "ko": "해골의 계약"
   },
   {
     "id": "Choking Ash",
-    "ko": "숨막히는 잿더미",
-    "table": "words"
+    "ko": "숨막히는 잿더미"
   },
   {
     "id": "Straight and True",
-    "ko": "정직한 진실",
-    "table": "words"
+    "ko": "정직한 진실"
   },
   {
     "id": "Balefire",
-    "ko": "대화재",
-    "table": "words"
+    "ko": "대화재"
   },
   {
     "id": "The Rippling Thoughts",
-    "ko": "퍼져나가는 생각",
-    "table": "words"
+    "ko": "퍼져나가는 생각"
   },
   {
     "id": "The Flow Untethered",
-    "ko": "얽매이지 않은 흐름",
-    "table": "words"
+    "ko": "얽매이지 않은 흐름"
   },
   {
     "id": "The Unshattered Will",
-    "ko": "불굴의 의지",
-    "table": "words"
+    "ko": "불굴의 의지"
   },
   {
     "id": "First Piece of Focus",
-    "ko": "집중의 첫 번째 조각",
-    "table": "words"
+    "ko": "집중의 첫 번째 조각"
   },
   {
     "id": "Second Piece of Focus",
-    "ko": "집중의 두 번째 조각",
-    "table": "words"
+    "ko": "집중의 두 번째 조각"
   },
   {
     "id": "Third Piece of Focus",
-    "ko": "집중의 세 번째 조각",
-    "table": "words"
+    "ko": "집중의 세 번째 조각"
   },
   {
     "id": "Fourth Piece of Focus",
-    "ko": "집중의 네 번째 조각",
-    "table": "words"
+    "ko": "집중의 네 번째 조각"
   },
   {
     "id": "The Fracturing Spinner",
-    "ko": "분쇄형 회전기",
-    "table": "words"
+    "ko": "분쇄형 회전기"
   },
   {
     "id": "The Tempest's Binding",
-    "ko": "폭풍의 속박",
-    "table": "words"
+    "ko": "폭풍의 속박"
   },
   {
     "id": "From Dust",
-    "ko": "먼지처럼 나타나라",
-    "table": "words"
+    "ko": "먼지처럼 나타나라"
   },
   {
     "id": "The Wasp Nest",
-    "ko": "말벌의 독침",
-    "table": "words"
+    "ko": "말벌의 독침"
   },
   {
     "id": "Taproot",
-    "ko": "흡혈 뿌리",
-    "table": "words"
+    "ko": "흡혈 뿌리"
   },
   {
     "id": "Maligaro's Cruelty",
-    "ko": "말리가로의 잔혹성",
-    "table": "words"
+    "ko": "말리가로의 잔혹성"
   },
   {
     "id": "Dendrobate",
-    "ko": "화살독 갑옷",
-    "table": "words"
+    "ko": "화살독 갑옷"
   },
   {
     "id": "The Embalmer",
-    "ko": "시체처리사의 장갑",
-    "table": "words"
+    "ko": "시체처리사의 장갑"
   },
   {
     "id": "Allelopathy",
-    "ko": "생존 경쟁",
-    "table": "words"
+    "ko": "생존 경쟁"
   },
   {
     "id": "Replica Allelopathy",
-    "ko": "생존 경쟁 모조품",
-    "table": "words"
+    "ko": "생존 경쟁 모조품"
   },
   {
     "id": "The Enmity Divine",
-    "ko": "증오의 신",
-    "table": "words"
+    "ko": "증오의 신"
   },
   {
     "id": "First Piece of the Arcane",
-    "ko": "비전의 첫 번째 조각",
-    "table": "words"
+    "ko": "비전의 첫 번째 조각"
   },
   {
     "id": "Second Piece of the Arcane",
-    "ko": "비전의 두 번째 조각",
-    "table": "words"
+    "ko": "비전의 두 번째 조각"
   },
   {
     "id": "Third Piece of the Arcane",
-    "ko": "비전의 세 번째 조각",
-    "table": "words"
+    "ko": "비전의 세 번째 조각"
   },
   {
     "id": "First Piece of Brutality",
-    "ko": "잔인성의 첫 번째 조각",
-    "table": "words"
+    "ko": "잔인성의 첫 번째 조각"
   },
   {
     "id": "Second Piece of Brutality",
-    "ko": "잔인성의 두 번째 조각",
-    "table": "words"
+    "ko": "잔인성의 두 번째 조각"
   },
   {
     "id": "Third Piece of Brutality",
-    "ko": "잔인성의 세 번째 조각",
-    "table": "words"
+    "ko": "잔인성의 세 번째 조각"
   },
   {
     "id": "First Piece of Time",
-    "ko": "시간의 첫 번째 조각",
-    "table": "words"
+    "ko": "시간의 첫 번째 조각"
   },
   {
     "id": "Second Piece of Time",
-    "ko": "시간의 두 번째 조각",
-    "table": "words"
+    "ko": "시간의 두 번째 조각"
   },
   {
     "id": "First Piece of Directions",
-    "ko": "방향의 첫 번째 조각",
-    "table": "words"
+    "ko": "방향의 첫 번째 조각"
   },
   {
     "id": "Second Piece of Directions",
-    "ko": "방향의 두 번째 조각",
-    "table": "words"
+    "ko": "방향의 두 번째 조각"
   },
   {
     "id": "Third Piece of Directions",
-    "ko": "방향의 세 번째 조각",
-    "table": "words"
+    "ko": "방향의 세 번째 조각"
   },
   {
     "id": "First Piece of Storms",
-    "ko": "태풍의 첫 번째 조각",
-    "table": "words"
+    "ko": "태풍의 첫 번째 조각"
   },
   {
     "id": "Second Piece of Storms",
-    "ko": "태풍의 두 번째 조각",
-    "table": "words"
+    "ko": "태풍의 두 번째 조각"
   },
   {
     "id": "Third Piece of Storms",
-    "ko": "태풍의 세 번째 조각",
-    "table": "words"
+    "ko": "태풍의 세 번째 조각"
   },
   {
     "id": "The Beachhead",
-    "ko": "교두보",
-    "table": "words"
+    "ko": "교두보"
   },
   {
     "id": "Doedre's Skin",
-    "ko": "도이드리의 가죽",
-    "table": "words"
+    "ko": "도이드리의 가죽"
   },
   {
     "id": "The Twilight Temple",
-    "ko": "황혼의 사원",
-    "table": "words"
+    "ko": "황혼의 사원"
   },
   {
     "id": "Vix Lunaris",
-    "ko": "불굴의 달",
-    "table": "words"
+    "ko": "불굴의 달"
   },
   {
     "id": "Invictus Solaris",
-    "ko": "지지 않는 태양",
-    "table": "words"
+    "ko": "지지 않는 태양"
   },
   {
     "id": "Doryani's Delusion",
-    "ko": "도리아니의 기만",
-    "table": "words"
+    "ko": "도리아니의 기만"
   },
   {
     "id": "Doryani's Machinarium",
-    "ko": "도리아니의 기계실",
-    "table": "words"
+    "ko": "도리아니의 기계실"
   },
   {
     "id": "Dialla's Malefaction",
-    "ko": "디알라의 악행",
-    "table": "words"
+    "ko": "디알라의 악행"
   },
   {
     "id": "Malachai's Mark",
-    "ko": "말라카이의 징표",
-    "table": "words"
+    "ko": "말라카이의 징표"
   },
   {
     "id": "Book Stand Strongbox",
-    "ko": "독서대 금고",
-    "table": "words"
+    "ko": "독서대 금고"
   },
   {
     "id": "Pillars of Arun",
-    "ko": "아룬의 기둥",
-    "table": "words"
+    "ko": "아룬의 기둥"
   },
   {
     "id": "Replica Pillars of Arun",
-    "ko": "아룬의 기둥 모조품",
-    "table": "words"
+    "ko": "아룬의 기둥 모조품"
   },
   {
     "id": "Stormcharger",
-    "ko": "태풍 돌격대",
-    "table": "words"
+    "ko": "태풍 돌격대"
   },
   {
     "id": "Giantsbane",
-    "ko": "거대한 파멸",
-    "table": "words"
+    "ko": "거대한 파멸"
   },
   {
     "id": "Wraithlord",
-    "ko": "악령 군주",
-    "table": "words"
+    "ko": "악령 군주"
   },
   {
     "id": "Cane of Unravelling",
-    "ko": "해결의 지팡이",
-    "table": "words"
+    "ko": "해결의 지팡이"
   },
   {
     "id": "Ralakesh's Impatience",
-    "ko": "랄라케쉬의 조바심",
-    "table": "words"
+    "ko": "랄라케쉬의 조바심"
   },
   {
     "id": "The Hungry Loop",
-    "ko": "허기진 고리",
-    "table": "words"
+    "ko": "허기진 고리"
   },
   {
     "id": "The Poet's Pen",
-    "ko": "시인의 펜",
-    "table": "words"
+    "ko": "시인의 펜"
   },
   {
     "id": "Coralito's Signature",
-    "ko": "코랄리토의 서명",
-    "table": "words"
+    "ko": "코랄리토의 서명"
   },
   {
     "id": "The Long Winter",
-    "ko": "기나긴 겨울",
-    "table": "words"
+    "ko": "기나긴 겨울"
   },
   {
     "id": "Pure Talent",
-    "ko": "타고난 재능",
-    "table": "words"
+    "ko": "타고난 재능"
   },
   {
     "id": "Replica Pure Talent",
-    "ko": "타고난 재능 모조품",
-    "table": "words"
+    "ko": "타고난 재능 모조품"
   },
   {
     "id": "Oskarm",
-    "ko": "오스캄",
-    "table": "words"
+    "ko": "오스캄"
   },
   {
     "id": "Might of the Meek",
-    "ko": "온유의 힘",
-    "table": "words"
+    "ko": "온유의 힘"
   },
   {
     "id": "Sands of Shakari",
-    "ko": "샤카리의 모래",
-    "table": "words"
+    "ko": "샤카리의 모래"
   },
   {
     "id": "The Golden Rule",
-    "ko": "황금 법칙",
-    "table": "words"
+    "ko": "황금 법칙"
   },
   {
     "id": "Soul's Wick",
-    "ko": "영혼의 심지",
-    "table": "words"
+    "ko": "영혼의 심지"
   },
   {
     "id": "Oni-Goroshi",
-    "ko": "오니고로시",
-    "table": "words"
+    "ko": "오니고로시"
   },
   {
     "id": "Memory Vault",
-    "ko": "기억의 금고",
-    "table": "words"
+    "ko": "기억의 금고"
   },
   {
     "id": "Cyclopean Coil",
-    "ko": "키클로프의 고리",
-    "table": "words"
+    "ko": "키클로프의 고리"
   },
   {
     "id": "Magna Eclipsis",
-    "ko": "커다란 일식",
-    "table": "words"
+    "ko": "커다란 일식"
   },
   {
     "id": "Leper's Alms",
-    "ko": "나병 환자의 자선",
-    "table": "words"
+    "ko": "나병 환자의 자선"
   },
   {
     "id": "Impresence",
-    "ko": "무존재",
-    "table": "words"
+    "ko": "무존재"
   },
   {
     "id": "Iron Heart",
-    "ko": "철 심장",
-    "table": "words"
+    "ko": "철 심장"
   },
   {
     "id": "Bubonic Trail",
-    "ko": "죽음의 자취",
-    "table": "words"
+    "ko": "죽음의 자취"
   },
   {
     "id": "White Wind",
-    "ko": "눈바람",
-    "table": "words"
+    "ko": "눈바람"
   },
   {
     "id": "Arborix",
-    "ko": "아보릭스",
-    "table": "words"
+    "ko": "아보릭스"
   },
   {
     "id": "Yoke of Suffering",
-    "ko": "고통의 멍에",
-    "table": "words"
+    "ko": "고통의 멍에"
   },
   {
     "id": "Gorgon's Gaze",
-    "ko": "고르곤의 응시",
-    "table": "words"
+    "ko": "고르곤의 응시"
   },
   {
     "id": "Tombfist",
-    "ko": "툼피스트",
-    "table": "words"
+    "ko": "툼피스트"
   },
   {
     "id": "Darkness Enthroned",
-    "ko": "어둠에 대한 경외",
-    "table": "words"
+    "ko": "어둠에 대한 경외"
   },
   {
     "id": "Lightpoacher",
-    "ko": "빛의 밀렵꾼",
-    "table": "words"
+    "ko": "빛의 밀렵꾼"
   },
   {
     "id": "Shroud of the Lightless",
-    "ko": "무광의 연막",
-    "table": "words"
+    "ko": "무광의 연막"
   },
   {
     "id": "Replica Shroud of the Lightless",
-    "ko": "무광의 연막 모조품",
-    "table": "words"
+    "ko": "무광의 연막 모조품"
   },
   {
     "id": "Watcher's Eye",
-    "ko": "감시자의 눈",
-    "table": "words"
+    "ko": "감시자의 눈"
   },
   {
     "id": "Blasphemer's Grasp",
-    "ko": "신성 모독자의 장악",
-    "table": "words"
+    "ko": "신성 모독자의 장악"
   },
   {
     "id": "Nebuloch",
-    "ko": "네뷸록",
-    "table": "words"
+    "ko": "네뷸록"
   },
   {
     "id": "Hopeshredder",
-    "ko": "희망 종결자",
-    "table": "words"
+    "ko": "희망 종결자"
   },
   {
     "id": "Shimmeron",
-    "ko": "쉬머론",
-    "table": "words"
+    "ko": "쉬머론"
   },
   {
     "id": "Grelwood Shank",
-    "ko": "그렐우드 자루",
-    "table": "words"
+    "ko": "그렐우드 자루"
   },
   {
     "id": "Beltimber Blade",
-    "ko": "벨팀버 검",
-    "table": "words"
+    "ko": "벨팀버 검"
   },
   {
     "id": "Vulconus",
-    "ko": "불커누스",
-    "table": "words"
+    "ko": "불커누스"
   },
   {
     "id": "Augyre",
-    "ko": "오귀르",
-    "table": "words"
+    "ko": "오귀르"
   },
   {
     "id": "Gloomfang",
-    "ko": "그롬팡",
-    "table": "words"
+    "ko": "그롬팡"
   },
   {
     "id": "Mark of the Elder",
-    "ko": "엘더의 징표",
-    "table": "words"
+    "ko": "엘더의 징표"
   },
   {
     "id": "Mark of the Shaper",
-    "ko": "쉐이퍼의 징표",
-    "table": "words"
+    "ko": "쉐이퍼의 징표"
   },
   {
     "id": "Indigon",
-    "ko": "인디곤",
-    "table": "words"
+    "ko": "인디곤"
   },
   {
     "id": "Disintegrator",
-    "ko": "파쇄자",
-    "table": "words"
+    "ko": "파쇄자"
   },
   {
     "id": "Voidforge",
-    "ko": "공허의 탄생",
-    "table": "words"
+    "ko": "공허의 탄생"
   },
   {
     "id": "Voidfletcher",
-    "ko": "공허 화살깃",
-    "table": "words"
+    "ko": "공허 화살깃"
   },
   {
     "id": "Mark of the Red Covenant",
-    "ko": "붉은 계약의 징표",
-    "table": "words"
+    "ko": "붉은 계약의 징표"
   },
   {
     "id": "Soulwrest",
-    "ko": "영혼 착취",
-    "table": "words"
+    "ko": "영혼 착취"
   },
   {
     "id": "Sinvicta's Mettle",
-    "ko": "신빅타의 패기",
-    "table": "words"
+    "ko": "신빅타의 패기"
   },
   {
     "id": "Saqawal's Winds",
-    "ko": "사카왈의 바람",
-    "table": "words"
+    "ko": "사카왈의 바람"
   },
   {
     "id": "Saqawal's Nest",
-    "ko": "사카왈의 둥지",
-    "table": "words"
+    "ko": "사카왈의 둥지"
   },
   {
     "id": "Saqawal's Talons",
-    "ko": "사카왈의 발톱",
-    "table": "words"
+    "ko": "사카왈의 발톱"
   },
   {
     "id": "Saqawal's Flock",
-    "ko": "사카왈의 무리",
-    "table": "words"
+    "ko": "사카왈의 무리"
   },
   {
     "id": "Craiceann's Carapace",
-    "ko": "크라칸의 등딱지",
-    "table": "words"
+    "ko": "크라칸의 등딱지"
   },
   {
     "id": "Craiceann's Chitin",
-    "ko": "크라칸의 키틴질",
-    "table": "words"
+    "ko": "크라칸의 키틴질"
   },
   {
     "id": "Craiceann's Pincers",
-    "ko": "크라칸의 집게",
-    "table": "words"
+    "ko": "크라칸의 집게"
   },
   {
     "id": "Craiceann's Tracks",
-    "ko": "크라칸의 발자국",
-    "table": "words"
+    "ko": "크라칸의 발자국"
   },
   {
     "id": "Farrul's Fur",
-    "ko": "페룰의 모피",
-    "table": "words"
+    "ko": "페룰의 모피"
   },
   {
     "id": "Replica Farrul's Fur",
-    "ko": "페룰의 모피 모조품",
-    "table": "words"
+    "ko": "페룰의 모피 모조품"
   },
   {
     "id": "Farrul's Bite",
-    "ko": "페룰의 이빨",
-    "table": "words"
+    "ko": "페룰의 이빨"
   },
   {
     "id": "Farrul's Pounce",
-    "ko": "페룰의 급습",
-    "table": "words"
+    "ko": "페룰의 급습"
   },
   {
     "id": "Farrul's Chase",
-    "ko": "페룰의 추적",
-    "table": "words"
+    "ko": "페룰의 추적"
   },
   {
     "id": "Fenumus' Shroud",
-    "ko": "페누무스의 연막",
-    "table": "words"
+    "ko": "페누무스의 연막"
   },
   {
     "id": "Fenumus' Toxins",
-    "ko": "페누무스의 독소",
-    "table": "words"
+    "ko": "페누무스의 독소"
   },
   {
     "id": "Fenumus' Weave",
-    "ko": "페누무스의 매듭",
-    "table": "words"
+    "ko": "페누무스의 매듭"
   },
   {
     "id": "Fenumus' Spinnerets",
-    "ko": "페누무스의 방사 돌기",
-    "table": "words"
+    "ko": "페누무스의 방사 돌기"
   },
   {
     "id": "Loreweave",
-    "ko": "지식의 매듭",
-    "table": "words"
+    "ko": "지식의 매듭"
   },
   {
     "id": "Replica Loreweave",
-    "ko": "지식의 매듭 모조품",
-    "table": "words"
+    "ko": "지식의 매듭 모조품"
   },
   {
     "id": "Unyielding Flame",
-    "ko": "완고한 불꽃",
-    "table": "words"
+    "ko": "완고한 불꽃"
   },
   {
     "id": "Stormfire",
-    "ko": "태풍불길",
-    "table": "words"
+    "ko": "태풍불길"
   },
   {
     "id": "Gluttony",
-    "ko": "폭식",
-    "table": "words"
+    "ko": "폭식"
   },
   {
     "id": "Crystal Vault",
-    "ko": "수정 금고",
-    "table": "words"
+    "ko": "수정 금고"
   },
   {
     "id": "Greedtrap",
-    "ko": "탐욕의 발판",
-    "table": "words"
+    "ko": "탐욕의 발판"
   },
   {
     "id": "Wildwrap",
-    "ko": "황야의 겉옷",
-    "table": "words"
+    "ko": "황야의 겉옷"
   },
   {
     "id": "Sunspite",
-    "ko": "태양의 원한",
-    "table": "words"
+    "ko": "태양의 원한"
   },
   {
     "id": "Windshriek",
-    "ko": "바람의 비명",
-    "table": "words"
+    "ko": "바람의 비명"
   },
   {
     "id": "Duskblight",
-    "ko": "황혼의 황폐",
-    "table": "words"
+    "ko": "황혼의 황폐"
   },
   {
     "id": "Meginord's Vigour",
-    "ko": "메기노드의 활력",
-    "table": "words"
+    "ko": "메기노드의 활력"
   },
   {
     "id": "Doedre's Malevolence",
-    "ko": "도이드리의 악의",
-    "table": "words"
+    "ko": "도이드리의 악의"
   },
   {
     "id": "Frostferno",
-    "ko": "서리와 화염",
-    "table": "words"
+    "ko": "서리와 화염"
   },
   {
     "id": "Timetwist",
-    "ko": "시간 왜곡",
-    "table": "words"
+    "ko": "시간 왜곡"
   },
   {
     "id": "Atziri's Reflection",
-    "ko": "앗지리의 성찰",
-    "table": "words"
+    "ko": "앗지리의 성찰"
   },
   {
     "id": "Panquetzaliztli",
-    "ko": "판케찰리스틀리",
-    "table": "words"
+    "ko": "판케찰리스틀리"
   },
   {
     "id": "Mirebough",
-    "ko": "늪 가지",
-    "table": "words"
+    "ko": "늪 가지"
   },
   {
     "id": "The Stormwall",
-    "ko": "태풍의 장벽",
-    "table": "words"
+    "ko": "태풍의 장벽"
   },
   {
     "id": "Fox's Fortune",
-    "ko": "여우의 행운",
-    "table": "words"
+    "ko": "여우의 행운"
   },
   {
     "id": "Asenath's Chant",
-    "ko": "아세나스의 노래",
-    "table": "words"
+    "ko": "아세나스의 노래"
   },
   {
     "id": "Honourhold",
-    "ko": "명예의 지배",
-    "table": "words"
+    "ko": "명예의 지배"
   },
   {
     "id": "Malachai's Awakening",
-    "ko": "말라카이의 각성",
-    "table": "words"
+    "ko": "말라카이의 각성"
   },
   {
     "id": "Sidhebite",
-    "ko": "요정의 이빨",
-    "table": "words"
+    "ko": "요정의 이빨"
   },
   {
     "id": "The Effigon",
-    "ko": "에피곤",
-    "table": "words"
+    "ko": "에피곤"
   },
   {
     "id": "The Tactician",
-    "ko": "전술가",
-    "table": "words"
+    "ko": "전술가"
   },
   {
     "id": "The Nomad",
-    "ko": "유목민",
-    "table": "words"
+    "ko": "유목민"
   },
   {
     "id": "Winterweave",
-    "ko": "겨울 매듭",
-    "table": "words"
+    "ko": "겨울 매듭"
   },
   {
     "id": "Hyrri's Demise",
-    "ko": "하이리의 소멸",
-    "table": "words"
+    "ko": "하이리의 소멸"
   },
   {
     "id": "Dreadsurge",
-    "ko": "밀려드는 공포",
-    "table": "words"
+    "ko": "밀려드는 공포"
   },
   {
     "id": "Sanguine Gambol",
-    "ko": "핏빛 장난",
-    "table": "words"
+    "ko": "핏빛 장난"
   },
   {
     "id": "Geofri's Devotion",
-    "ko": "조프리의 헌신",
-    "table": "words"
+    "ko": "조프리의 헌신"
   },
   {
     "id": "Cameria's Avarice",
-    "ko": "카메리아의 탐욕",
-    "table": "words"
+    "ko": "카메리아의 탐욕"
   },
   {
     "id": "Dreadbeak",
-    "ko": "공포의 부리",
-    "table": "words"
+    "ko": "공포의 부리"
   },
   {
     "id": "The Dancing Duo",
-    "ko": "춤추는 한 쌍",
-    "table": "words"
+    "ko": "춤추는 한 쌍"
   },
   {
     "id": "Corona Solaris",
-    "ko": "솔라리스의 광환",
-    "table": "words"
+    "ko": "솔라리스의 광환"
   },
   {
     "id": "The Iron Fortress",
-    "ko": "철의 요새",
-    "table": "words"
+    "ko": "철의 요새"
   },
   {
     "id": "Chains of Command",
-    "ko": "지휘관의 사슬",
-    "table": "words"
+    "ko": "지휘관의 사슬"
   },
   {
     "id": "Architect's Hand",
-    "ko": "건축가의 손길",
-    "table": "words"
+    "ko": "건축가의 손길"
   },
   {
     "id": "Slavedriver's Hand",
-    "ko": "노예 감독관의 손길",
-    "table": "words"
+    "ko": "노예 감독관의 손길"
   },
   {
     "id": "Mask of the Spirit Drinker",
-    "ko": "영혼 흡수자의 가면",
-    "table": "words"
+    "ko": "영혼 흡수자의 가면"
   },
   {
     "id": "Mask of the Stitched Demon",
-    "ko": "꿰맨 악마의 가면",
-    "table": "words"
+    "ko": "꿰맨 악마의 가면"
   },
   {
     "id": "Apep's Slumber",
-    "ko": "아펩의 수면",
-    "table": "words"
+    "ko": "아펩의 수면"
   },
   {
     "id": "Apep's Supremacy",
-    "ko": "아펩의 패권",
-    "table": "words"
+    "ko": "아펩의 패권"
   },
   {
     "id": "Shadowstitch",
-    "ko": "그림자 봉합",
-    "table": "words"
+    "ko": "그림자 봉합"
   },
   {
     "id": "Sacrificial Heart",
-    "ko": "희생의 심장",
-    "table": "words"
+    "ko": "희생의 심장"
   },
   {
     "id": "Zerphi's Heart",
-    "ko": "제르피의 심장",
-    "table": "words"
+    "ko": "제르피의 심장"
   },
   {
     "id": "Tempered Flesh",
-    "ko": "조절된 육체",
-    "table": "words"
+    "ko": "조절된 육체"
   },
   {
     "id": "Tempered Spirit",
-    "ko": "조절된 정신",
-    "table": "words"
+    "ko": "조절된 정신"
   },
   {
     "id": "Tempered Mind",
-    "ko": "조절된 마음",
-    "table": "words"
+    "ko": "조절된 마음"
   },
   {
     "id": "Transcendent Flesh",
-    "ko": "초월한 육체",
-    "table": "words"
+    "ko": "초월한 육체"
   },
   {
     "id": "Transcendent Spirit",
-    "ko": "초월한 정신",
-    "table": "words"
+    "ko": "초월한 정신"
   },
   {
     "id": "Transcendent Mind",
-    "ko": "초월한 마음",
-    "table": "words"
+    "ko": "초월한 마음"
   },
   {
     "id": "Soul Catcher",
-    "ko": "영혼 포획자",
-    "table": "words"
+    "ko": "영혼 포획자"
   },
   {
     "id": "Soul Ripper",
-    "ko": "영혼 거열기",
-    "table": "words"
+    "ko": "영혼 거열기"
   },
   {
     "id": "String of Servitude",
-    "ko": "노예의 끈",
-    "table": "words"
+    "ko": "노예의 끈"
   },
   {
     "id": "Dance of the Offered",
-    "ko": "제물의 춤",
-    "table": "words"
+    "ko": "제물의 춤"
   },
   {
     "id": "Omeyocan",
-    "ko": "오메이오칸",
-    "table": "words"
+    "ko": "오메이오칸"
   },
   {
     "id": "Coward's Chains",
-    "ko": "겁쟁이의 사슬",
-    "table": "words"
+    "ko": "겁쟁이의 사슬"
   },
   {
     "id": "Coward's Legacy",
-    "ko": "겁쟁이의 유물",
-    "table": "words"
+    "ko": "겁쟁이의 유물"
   },
   {
     "id": "Story of the Vaal",
-    "ko": "바알의 사연",
-    "table": "words"
+    "ko": "바알의 사연"
   },
   {
     "id": "Fate of the Vaal",
-    "ko": "바알의 운명",
-    "table": "words"
+    "ko": "바알의 운명"
   },
   {
     "id": "Zeel's Amplifier",
-    "ko": "질의 증폭기",
-    "table": "words"
+    "ko": "질의 증폭기"
   },
   {
     "id": "Earendel's Embrace",
-    "ko": "에아렌델의 포옹",
-    "table": "words"
+    "ko": "에아렌델의 포옹"
   },
   {
     "id": "Replica Earendel's Embrace",
-    "ko": "에아렌델의 포옹 모조품",
-    "table": "words"
+    "ko": "에아렌델의 포옹 모조품"
   },
   {
     "id": "Combat Focus",
-    "ko": "집중 전투",
-    "table": "words"
+    "ko": "집중 전투"
   },
   {
     "id": "Malachai's Brilliance",
-    "ko": "말라카이의 광채",
-    "table": "words"
+    "ko": "말라카이의 광채"
   },
   {
     "id": "Unnatural Instinct",
-    "ko": "기이한 본능",
-    "table": "words"
+    "ko": "기이한 본능"
   },
   {
     "id": "Lawbreaker",
-    "ko": "범법자",
-    "table": "words"
+    "ko": "범법자"
   },
   {
     "id": "Mark of Submission",
-    "ko": "복종의 징표",
-    "table": "words"
+    "ko": "복종의 징표"
   },
   {
     "id": "The Grey Spire",
-    "ko": "회색 가지",
-    "table": "words"
+    "ko": "회색 가지"
   },
   {
     "id": "The Primordial Chain",
-    "ko": "태고의 사슬",
-    "table": "words"
+    "ko": "태고의 사슬"
   },
   {
     "id": "Vixen's Entrapment",
-    "ko": "암여우의 함정",
-    "table": "words"
+    "ko": "암여우의 함정"
   },
   {
     "id": "The Eternal Apple",
-    "ko": "영원한 사과",
-    "table": "words"
+    "ko": "영원한 사과"
   },
   {
     "id": "Perquil's Toe",
-    "ko": "퍼퀼의 발가락",
-    "table": "words"
+    "ko": "퍼퀼의 발가락"
   },
   {
     "id": "Demon Stitcher",
-    "ko": "악마 봉합자",
-    "table": "words"
+    "ko": "악마 봉합자"
   },
   {
     "id": "Command of the Pit",
-    "ko": "구덩이의 지배자",
-    "table": "words"
+    "ko": "구덩이의 지배자"
   },
   {
     "id": "Curtain Call",
-    "ko": "커튼콜",
-    "table": "words"
+    "ko": "커튼콜"
   },
   {
     "id": "Cerberus Limb",
-    "ko": "케르베로스의 발",
-    "table": "words"
+    "ko": "케르베로스의 발"
   },
   {
     "id": "Hale Negator",
-    "ko": "건장한 부정자",
-    "table": "words"
+    "ko": "건장한 부정자"
   },
   {
     "id": "Crown of the Tyrant",
-    "ko": "폭군의 왕관",
-    "table": "words"
+    "ko": "폭군의 왕관"
   },
   {
     "id": "Ahkeli's Mountain",
-    "ko": "아켈리의 산",
-    "table": "words"
+    "ko": "아켈리의 산"
   },
   {
     "id": "Ahkeli's Meadow",
-    "ko": "아켈리의 초원",
-    "table": "words"
+    "ko": "아켈리의 초원"
   },
   {
     "id": "Ahkeli's Valley",
-    "ko": "아켈리의 계곡",
-    "table": "words"
+    "ko": "아켈리의 계곡"
   },
   {
     "id": "Uzaza's Mountain",
-    "ko": "우자자의 산",
-    "table": "words"
+    "ko": "우자자의 산"
   },
   {
     "id": "Uzaza's Meadow",
-    "ko": "우자자의 초원",
-    "table": "words"
+    "ko": "우자자의 초원"
   },
   {
     "id": "Uzaza's Valley",
-    "ko": "우자자의 계곡",
-    "table": "words"
+    "ko": "우자자의 계곡"
   },
   {
     "id": "Putembo's Mountain",
-    "ko": "푸템보의 산",
-    "table": "words"
+    "ko": "푸템보의 산"
   },
   {
     "id": "Putembo's Meadow",
-    "ko": "푸템보의 초원",
-    "table": "words"
+    "ko": "푸템보의 초원"
   },
   {
     "id": "Putembo's Valley",
-    "ko": "푸템보의 계곡",
-    "table": "words"
+    "ko": "푸템보의 계곡"
   },
   {
     "id": "Precursor's Emblem",
-    "ko": "선도자의 상징",
-    "table": "words"
+    "ko": "선도자의 상징"
   },
   {
     "id": "Aul's Uprising",
-    "ko": "아울의 반란",
-    "table": "words"
+    "ko": "아울의 반란"
   },
   {
     "id": "Chaber Cairn",
-    "ko": "차버 케른",
-    "table": "words"
+    "ko": "차버 케른"
   },
   {
     "id": "Ullr's Advent",
-    "ko": "울러의 출현",
-    "table": "words"
+    "ko": "울러의 출현"
   },
   {
     "id": "Geofri's Legacy",
-    "ko": "조프리의 유산",
-    "table": "words"
+    "ko": "조프리의 유산"
   },
   {
     "id": "Unearth Threshold",
-    "ko": "발굴의 한계",
-    "table": "words"
+    "ko": "발굴의 한계"
   },
   {
     "id": "Toxic Vapours",
-    "ko": "맹독성 증기",
-    "table": "words"
+    "ko": "맹독성 증기"
   },
   {
     "id": "Waycarver",
-    "ko": "개척가",
-    "table": "words"
+    "ko": "개척가"
   },
   {
     "id": "Worldcarver",
-    "ko": "세계분쇄기",
-    "table": "words"
+    "ko": "세계분쇄기"
   },
   {
     "id": "Farsight",
-    "ko": "멀리 보는 자",
-    "table": "words"
+    "ko": "멀리 보는 자"
   },
   {
     "id": "Flamesight",
-    "ko": "불꽃 시야",
-    "table": "words"
+    "ko": "불꽃 시야"
   },
   {
     "id": "Galesight",
-    "ko": "강풍 시야",
-    "table": "words"
+    "ko": "강풍 시야"
   },
   {
     "id": "Thundersight",
-    "ko": "천둥 시야",
-    "table": "words"
+    "ko": "천둥 시야"
   },
   {
     "id": "The Eternity Shroud",
-    "ko": "영원의 연막",
-    "table": "words"
+    "ko": "영원의 연막"
   },
   {
     "id": "Replica Eternity Shroud",
-    "ko": "영원의 연막 모조품",
-    "table": "words"
+    "ko": "영원의 연막 모조품"
   },
   {
     "id": "Solstice Vigil",
-    "ko": "동짓날 밤",
-    "table": "words"
+    "ko": "동짓날 밤"
   },
   {
     "id": "Vivinsect",
-    "ko": "생체 해부",
-    "table": "words"
+    "ko": "생체 해부"
   },
   {
     "id": "The Crimson Storm",
-    "ko": "진홍색 태풍",
-    "table": "words"
+    "ko": "진홍색 태풍"
   },
   {
     "id": "Paradoxica",
-    "ko": "모순",
-    "table": "words"
+    "ko": "모순"
   },
   {
     "id": "Replica Paradoxica",
-    "ko": "모순 모조품",
-    "table": "words"
+    "ko": "모순 모조품"
   },
   {
     "id": "Hyperboreus",
-    "ko": "북방 주민",
-    "table": "words"
+    "ko": "북방 주민"
   },
   {
     "id": "The Queen's Hunger",
-    "ko": "여왕의 갈망",
-    "table": "words"
+    "ko": "여왕의 갈망"
   },
   {
     "id": "Cinderswallow Urn",
-    "ko": "잿더미 단지",
-    "table": "words"
+    "ko": "잿더미 단지"
   },
   {
     "id": "The Devouring Diadem",
-    "ko": "걸신들린 왕관",
-    "table": "words"
+    "ko": "걸신들린 왕관"
   },
   {
     "id": "Bitterbind Point",
-    "ko": "쓰라린 속박의 끝",
-    "table": "words"
+    "ko": "쓰라린 속박의 끝"
   },
   {
     "id": "Whakatutuki o Matua",
-    "ko": "와카투투키 오 마투아",
-    "table": "words"
+    "ko": "와카투투키 오 마투아"
   },
   {
     "id": "Nebulis",
-    "ko": "성운",
-    "table": "words"
+    "ko": "성운"
   },
   {
     "id": "Replica Nebulis",
-    "ko": "성운 모조품",
-    "table": "words"
+    "ko": "성운 모조품"
   },
   {
     "id": "Bottled Faith",
-    "ko": "병에 담긴 믿음",
-    "table": "words"
+    "ko": "병에 담긴 믿음"
   },
   {
     "id": "Offering to the Serpent",
-    "ko": "독사에게 바치는 공물",
-    "table": "words"
+    "ko": "독사에게 바치는 공물"
   },
   {
     "id": "Garb of the Ephemeral",
-    "ko": "덧없는 자의 의복",
-    "table": "words"
+    "ko": "덧없는 자의 의복"
   },
   {
     "id": "Storm's Gift",
-    "ko": "태풍의 선물",
-    "table": "words"
+    "ko": "태풍의 선물"
   },
   {
     "id": "Mask of the Tribunal",
-    "ko": "재판소의 가면",
-    "table": "words"
+    "ko": "재판소의 가면"
   },
   {
     "id": "Circle of Anguish",
-    "ko": "비통의 고리",
-    "table": "words"
+    "ko": "비통의 고리"
   },
   {
     "id": "Circle of Fear",
-    "ko": "두려움의 고리",
-    "table": "words"
+    "ko": "두려움의 고리"
   },
   {
     "id": "Circle of Regret",
-    "ko": "후회의 고리",
-    "table": "words"
+    "ko": "후회의 고리"
   },
   {
     "id": "Circle of Nostalgia",
-    "ko": "그리움의 고리",
-    "table": "words"
+    "ko": "그리움의 고리"
   },
   {
     "id": "Circle of Guilt",
-    "ko": "유죄의 고리",
-    "table": "words"
+    "ko": "유죄의 고리"
   },
   {
     "id": "Hyrri's Truth",
-    "ko": "하이리의 진리",
-    "table": "words"
+    "ko": "하이리의 진리"
   },
   {
     "id": "Replica Hyrri's Truth",
-    "ko": "하이리의 진리 모조품",
-    "table": "words"
+    "ko": "하이리의 진리 모조품"
   },
   {
     "id": "Perepiteia",
-    "ko": "영구장치",
-    "table": "words"
+    "ko": "영구장치"
   },
   {
     "id": "March of the Legion",
-    "ko": "군단의 행진",
-    "table": "words"
+    "ko": "군단의 행진"
   },
   {
     "id": "Maloney's Mechanism",
-    "ko": "말로니의 기계 장치",
-    "table": "words"
+    "ko": "말로니의 기계 장치"
   },
   {
     "id": "Replica Maloney's Mechanism",
-    "ko": "말로니의 기계 장치 모조품",
-    "table": "words"
+    "ko": "말로니의 기계 장치 모조품"
   },
   {
     "id": "Aukuna's Will",
-    "ko": "아우카나의 의지",
-    "table": "words"
+    "ko": "아우카나의 의지"
   },
   {
     "id": "Maw of Conquest",
-    "ko": "정복지의 구렁텅이",
-    "table": "words"
+    "ko": "정복지의 구렁텅이"
   },
   {
     "id": "Tavukai",
-    "ko": "타부카이",
-    "table": "words"
+    "ko": "타부카이"
   },
   {
     "id": "Fractal Thoughts",
-    "ko": "프랙털 사상",
-    "table": "words"
+    "ko": "프랙털 사상"
   },
   {
     "id": "Gifts of the Sacrificed",
-    "ko": "희생자의 선물",
-    "table": "words"
+    "ko": "희생자의 선물"
   },
   {
     "id": "Gifts of the Red Queen",
-    "ko": "붉은 여왕의 선물",
-    "table": "words"
+    "ko": "붉은 여왕의 선물"
   },
   {
     "id": "Demigod's Immortality",
-    "ko": "반신의 불멸",
-    "table": "words"
+    "ko": "반신의 불멸"
   },
   {
     "id": "Wreath of Phrecia",
-    "ko": "프레시아의 화관",
-    "table": "words"
+    "ko": "프레시아의 화관"
   },
   {
     "id": "Sign of the Sin Eater",
-    "ko": "죄악을 먹는 자의 흔적",
-    "table": "words"
+    "ko": "죄악을 먹는 자의 흔적"
   },
   {
     "id": "Glorious Vanity",
-    "ko": "찬란한 허영심",
-    "table": "words"
+    "ko": "찬란한 허영심"
   },
   {
     "id": "Lethal Pride",
-    "ko": "치명적인 긍지",
-    "table": "words"
+    "ko": "치명적인 긍지"
   },
   {
     "id": "Brutal Restraint",
-    "ko": "잔인한 속박",
-    "table": "words"
+    "ko": "잔인한 속박"
   },
   {
     "id": "Militant Faith",
-    "ko": "호전적인 신념",
-    "table": "words"
+    "ko": "호전적인 신념"
   },
   {
     "id": "Elegant Hubris",
-    "ko": "고상한 오만",
-    "table": "words"
+    "ko": "고상한 오만"
   },
   {
     "id": "Seething Fury",
-    "ko": "끓어오르는 광분",
-    "table": "words"
+    "ko": "끓어오르는 광분"
   },
   {
     "id": "Altered Distant Memory",
-    "ko": "뒤바뀐 희미한 기억",
-    "table": "words"
+    "ko": "뒤바뀐 희미한 기억"
   },
   {
     "id": "Augmented Distant Memory",
-    "ko": "강화된 희미한 기억",
-    "table": "words"
+    "ko": "강화된 희미한 기억"
   },
   {
     "id": "Twisted Distant Memory",
-    "ko": "뒤틀린 희미한 기억",
-    "table": "words"
+    "ko": "뒤틀린 희미한 기억"
   },
   {
     "id": "Rewritten Distant Memory",
-    "ko": "다시 쓰인 희미한 기억",
-    "table": "words"
+    "ko": "다시 쓰인 희미한 기억"
   },
   {
     "id": "Cortex",
-    "ko": "코텍스",
-    "table": "words"
+    "ko": "코텍스"
   },
   {
     "id": "Replica Cortex",
-    "ko": "코텍스 모조품",
-    "table": "words"
+    "ko": "코텍스 모조품"
   },
   {
     "id": "Triad Grip",
-    "ko": "삼합의 손아귀",
-    "table": "words"
+    "ko": "삼합의 손아귀"
   },
   {
     "id": "Venopuncture",
-    "ko": "혈관 관통",
-    "table": "words"
+    "ko": "혈관 관통"
   },
   {
     "id": "Icefang Orbit",
-    "ko": "얼음송곳니의 위력",
-    "table": "words"
+    "ko": "얼음송곳니의 위력"
   },
   {
     "id": "Rotting Legion",
-    "ko": "썩어가는 군단",
-    "table": "words"
+    "ko": "썩어가는 군단"
   },
   {
     "id": "Badge of the Brotherhood",
-    "ko": "형제단의 증표",
-    "table": "words"
+    "ko": "형제단의 증표"
   },
   {
     "id": "Siegebreaker",
-    "ko": "공성분쇄기",
-    "table": "words"
+    "ko": "공성분쇄기"
   },
   {
     "id": "Replica Siegebreaker",
-    "ko": "공성분쇄기 모조품",
-    "table": "words"
+    "ko": "공성분쇄기 모조품"
   },
   {
     "id": "Torchoak Step",
-    "ko": "횃불 참나무 층계",
-    "table": "words"
+    "ko": "횃불 참나무 층계"
   },
   {
     "id": "Machina Mitts",
-    "ko": "마키나 미트",
-    "table": "words"
+    "ko": "마키나 미트"
   },
   {
     "id": "Fortress Covenant",
-    "ko": "요새 계약",
-    "table": "words"
+    "ko": "요새 계약"
   },
   {
     "id": "Quickening Covenant",
-    "ko": "재촉의 계약",
-    "table": "words"
+    "ko": "재촉의 계약"
   },
   {
     "id": "Cold Iron Point",
-    "ko": "날붙이 끝",
-    "table": "words"
+    "ko": "날붙이 끝"
   },
   {
     "id": "Replica Cold Iron Point",
-    "ko": "날붙이 끝 모조품",
-    "table": "words"
+    "ko": "날붙이 끝 모조품"
   },
   {
     "id": "The Stampede",
-    "ko": "쇄도",
-    "table": "words"
+    "ko": "쇄도"
   },
   {
     "id": "Replica Stampede",
-    "ko": "쇄도 모조품",
-    "table": "words"
+    "ko": "쇄도 모조품"
   },
   {
     "id": "Cowl of the Thermophile",
-    "ko": "고열애호가의 고깔",
-    "table": "words"
+    "ko": "고열애호가의 고깔"
   },
   {
     "id": "Cowl of the Cryophile",
-    "ko": "냉동애호가의 고깔",
-    "table": "words"
+    "ko": "냉동애호가의 고깔"
   },
   {
     "id": "Cowl of the Ceraunophile",
-    "ko": "번개애호가의 고깔",
-    "table": "words"
+    "ko": "번개애호가의 고깔"
   },
   {
     "id": "Breathstealer",
-    "ko": "숨결강탈자",
-    "table": "words"
+    "ko": "숨결강탈자"
   },
   {
     "id": "Sporeguard",
-    "ko": "포자 수호",
-    "table": "words"
+    "ko": "포자 수호"
   },
   {
     "id": "The Jinxed Juju",
-    "ko": "징크스 액막이",
-    "table": "words"
+    "ko": "징크스 액막이"
   },
   {
     "id": "Fury Valve",
-    "ko": "광분의 밸브",
-    "table": "words"
+    "ko": "광분의 밸브"
   },
   {
     "id": "Crown of the Inward Eye",
-    "ko": "심안의 왕관",
-    "table": "words"
+    "ko": "심안의 왕관"
   },
   {
     "id": "The Ivory Tower",
-    "ko": "상아탑",
-    "table": "words"
+    "ko": "상아탑"
   },
   {
     "id": "The Unleashed",
-    "ko": "해방된 자",
-    "table": "words"
+    "ko": "해방된 자"
   },
   {
     "id": "Decree of Loyalty",
-    "ko": "충성의 법령",
-    "table": "words"
+    "ko": "충성의 법령"
   },
   {
     "id": "Manastorm",
-    "ko": "마나폭풍",
-    "table": "words"
+    "ko": "마나폭풍"
   },
   {
     "id": "Leash of Oblation",
-    "ko": "봉헌의 가죽끈",
-    "table": "words"
+    "ko": "봉헌의 가죽끈"
   },
   {
     "id": "Mistwall",
-    "ko": "안개 벽",
-    "table": "words"
+    "ko": "안개 벽"
   },
   {
     "id": "Replica Mistwall",
-    "ko": "안개 벽 모조품",
-    "table": "words"
+    "ko": "안개 벽 모조품"
   },
   {
     "id": "Painseeker",
-    "ko": "고통 탐구자",
-    "table": "words"
+    "ko": "고통 탐구자"
   },
   {
     "id": "The Black Cane",
-    "ko": "검은 지팡이",
-    "table": "words"
+    "ko": "검은 지팡이"
   },
   {
     "id": "Hands of the High Templar",
-    "ko": "고위 템플러의 손",
-    "table": "words"
+    "ko": "고위 템플러의 손"
   },
   {
     "id": "The Warlord's Annex",
-    "ko": "전쟁군주의 부속물",
-    "table": "words"
+    "ko": "전쟁군주의 부속물"
   },
   {
     "id": "Mother's Embrace",
-    "ko": "어머니의 포옹",
-    "table": "words"
+    "ko": "어머니의 포옹"
   },
   {
     "id": "Warrior's Legacy",
-    "ko": "전사의 유산",
-    "table": "words"
+    "ko": "전사의 유산"
   },
   {
     "id": "Astral Projector",
-    "ko": "우주의 영사기",
-    "table": "words"
+    "ko": "우주의 영사기"
   },
   {
     "id": "The Saviour",
-    "ko": "구원자",
-    "table": "words"
+    "ko": "구원자"
   },
   {
     "id": "Willowgift",
-    "ko": "버드나무 선물",
-    "table": "words"
+    "ko": "버드나무 선물"
   },
   {
     "id": "Thread of Hope",
-    "ko": "희망의 실타래",
-    "table": "words"
+    "ko": "희망의 실타래"
   },
   {
     "id": "Eye of Malice",
-    "ko": "적의의 눈",
-    "table": "words"
+    "ko": "적의의 눈"
   },
   {
     "id": "Terror",
-    "ko": "공포",
-    "table": "words"
+    "ko": "공포"
   },
   {
     "id": "Stalwart Defenders",
-    "ko": "강건한 수비병",
-    "table": "words"
+    "ko": "강건한 수비병"
   },
   {
     "id": "Misinformation",
-    "ko": "와전",
-    "table": "words"
+    "ko": "와전"
   },
   {
     "id": "Irresistible Temptation",
-    "ko": "뿌리칠 수 없는 유혹",
-    "table": "words"
+    "ko": "뿌리칠 수 없는 유혹"
   },
   {
     "id": "Territories Unknown",
-    "ko": "미지의 영역",
-    "table": "words"
+    "ko": "미지의 영역"
   },
   {
     "id": "War Among the Stars",
-    "ko": "별들의 전쟁",
-    "table": "words"
+    "ko": "별들의 전쟁"
   },
   {
     "id": "Booming Populace",
-    "ko": "불어나는 무리",
-    "table": "words"
+    "ko": "불어나는 무리"
   },
   {
     "id": "Algor Mortis",
-    "ko": "사후 냉각",
-    "table": "words"
+    "ko": "사후 냉각"
   },
   {
     "id": "Perfidy",
-    "ko": "배반",
-    "table": "words"
+    "ko": "배반"
   },
   {
     "id": "Assailum",
-    "ko": "공격병동",
-    "table": "words"
+    "ko": "공격병동"
   },
   {
     "id": "Profane Proxy",
-    "ko": "부정한 대리자",
-    "table": "words"
+    "ko": "부정한 대리자"
   },
   {
     "id": "Kitava's Teachings",
-    "ko": "키타바의 가르침",
-    "table": "words"
+    "ko": "키타바의 가르침"
   },
   {
     "id": "Calamitous Visions",
-    "ko": "환란의 시각",
-    "table": "words"
+    "ko": "환란의 시각"
   },
   {
     "id": "Natural Affinity",
-    "ko": "타고난 친화력",
-    "table": "words"
+    "ko": "타고난 친화력"
   },
   {
     "id": "The Interrogation",
-    "ko": "취조",
-    "table": "words"
+    "ko": "취조"
   },
   {
     "id": "The Siege",
-    "ko": "포위 작전",
-    "table": "words"
+    "ko": "포위 작전"
   },
   {
     "id": "Child of Violence",
-    "ko": "폭력의 아이",
-    "table": "words"
+    "ko": "폭력의 아이"
   },
   {
     "id": "The Front Line",
-    "ko": "최전방",
-    "table": "words"
+    "ko": "최전방"
   },
   {
     "id": "One With Nothing",
-    "ko": "맨주먹",
-    "table": "words"
+    "ko": "맨주먹"
   },
   {
     "id": "Voices",
-    "ko": "목소리",
-    "table": "words"
+    "ko": "목소리"
   },
   {
     "id": "Megalomaniac",
-    "ko": "과대망상",
-    "table": "words"
+    "ko": "과대망상"
   },
   {
     "id": "Split Personality",
-    "ko": "이중 인격",
-    "table": "words"
+    "ko": "이중 인격"
   },
   {
     "id": "Beacon of Madness",
-    "ko": "광기의 신호",
-    "table": "words"
+    "ko": "광기의 신호"
   },
   {
     "id": "Usurper's Penance",
-    "ko": "찬탈자의 속죄",
-    "table": "words"
+    "ko": "찬탈자의 속죄"
   },
   {
     "id": "Storm Secret",
-    "ko": "태풍의 비밀",
-    "table": "words"
+    "ko": "태풍의 비밀"
   },
   {
     "id": "Abhorrent Interrogation",
-    "ko": "혐오스러운 취조",
-    "table": "words"
+    "ko": "혐오스러운 취조"
   },
   {
     "id": "Horror's Flight",
-    "ko": "경악의 비행",
-    "table": "words"
+    "ko": "경악의 비행"
   },
   {
     "id": "Doryani's Prototype",
-    "ko": "도리아니의 프로토타입",
-    "table": "words"
+    "ko": "도리아니의 프로토타입"
   },
   {
     "id": "Forbidden Shako",
-    "ko": "금단의 샤코",
-    "table": "words"
+    "ko": "금단의 샤코"
   },
   {
     "id": "Replica Forbidden Shako",
-    "ko": "금단의 샤코 모조품",
-    "table": "words"
+    "ko": "금단의 샤코 모조품"
   },
   {
     "id": "Great Old One's Tentacles",
-    "ko": "위대한 고대 신의 촉수",
-    "table": "words"
+    "ko": "위대한 고대 신의 촉수"
   },
   {
     "id": "Scorpion's Call",
-    "ko": "전갈의 부름",
-    "table": "words"
+    "ko": "전갈의 부름"
   },
   {
     "id": "Fleshcrafter",
-    "ko": "살점조각사",
-    "table": "words"
+    "ko": "살점조각사"
   },
   {
     "id": "Emperor's Vigilance",
-    "ko": "황제의 철야",
-    "table": "words"
+    "ko": "황제의 철야"
   },
   {
     "id": "Retaliation Charm",
-    "ko": "보복 부적",
-    "table": "words"
+    "ko": "보복 부적"
   },
   {
     "id": "Law of the Wilds",
-    "ko": "황야의 법칙",
-    "table": "words"
+    "ko": "황야의 법칙"
   },
   {
     "id": "Witchhunter's Judgment",
-    "ko": "마녀 사냥꾼의 심판",
-    "table": "words"
+    "ko": "마녀 사냥꾼의 심판"
   },
   {
     "id": "The Torrent's Reclamation",
-    "ko": "격류의 교화",
-    "table": "words"
+    "ko": "격류의 교화"
   },
   {
     "id": "The Shattered Divinity",
-    "ko": "산산이 조각난 신성",
-    "table": "words"
+    "ko": "산산이 조각난 신성"
   },
   {
     "id": "The Tempest's Liberation",
-    "ko": "폭풍의 해방",
-    "table": "words"
+    "ko": "폭풍의 해방"
   },
   {
     "id": "The Surging Thoughts",
-    "ko": "쇄도하는 생각",
-    "table": "words"
+    "ko": "쇄도하는 생각"
   },
   {
     "id": "The Yielding Mortality",
-    "ko": "누그러진 필멸성",
-    "table": "words"
+    "ko": "누그러진 필멸성"
   },
   {
     "id": "The Immortal Will",
-    "ko": "불멸의 의지",
-    "table": "words"
+    "ko": "불멸의 의지"
   },
   {
     "id": "The Felbog Fang",
-    "ko": "펠보그 송곳니",
-    "table": "words"
+    "ko": "펠보그 송곳니"
   },
   {
     "id": "Plume of Pursuit",
-    "ko": "추적의 깃털",
-    "table": "words"
+    "ko": "추적의 깃털"
   },
   {
     "id": "Bear's Girdle",
-    "ko": "곰의 허리띠",
-    "table": "words"
+    "ko": "곰의 허리띠"
   },
   {
     "id": "Infused Beachhead",
-    "ko": "주입된 교두보",
-    "table": "words"
+    "ko": "주입된 교두보"
   },
   {
     "id": "The Iron Mass",
-    "ko": "철제 운집",
-    "table": "words"
+    "ko": "철제 운집"
   },
   {
     "id": "Expedition's End",
-    "ko": "탐험의 끝",
-    "table": "words"
+    "ko": "탐험의 끝"
   },
   {
     "id": "The Ephemeral Bond",
-    "ko": "덧없는 유대",
-    "table": "words"
+    "ko": "덧없는 유대"
   },
   {
     "id": "Corpsewalker",
-    "ko": "시체 보행자",
-    "table": "words"
+    "ko": "시체 보행자"
   },
   {
     "id": "Mercenary's Lot",
-    "ko": "용병의 운명",
-    "table": "words"
+    "ko": "용병의 운명"
   },
   {
     "id": "Chains of Emancipation",
-    "ko": "해방의 사슬",
-    "table": "words"
+    "ko": "해방의 사슬"
   },
   {
     "id": "Actum",
-    "ko": "액툼",
-    "table": "words"
+    "ko": "액툼"
   },
   {
     "id": "Maw of Mischief",
-    "ko": "말썽의 나락",
-    "table": "words"
+    "ko": "말썽의 나락"
   },
   {
     "id": "The Druggery",
-    "ko": "약품",
-    "table": "words"
+    "ko": "약품"
   },
   {
     "id": "Endless Misery",
-    "ko": "끝없는 불행",
-    "table": "words"
+    "ko": "끝없는 불행"
   },
   {
     "id": "The Highwayman",
-    "ko": "노상강도",
-    "table": "words"
+    "ko": "노상강도"
   },
   {
     "id": "Fated End",
-    "ko": "예견된 최후",
-    "table": "words"
+    "ko": "예견된 최후"
   },
   {
     "id": "The Hidden Blade",
-    "ko": "숨겨진 칼날",
-    "table": "words"
+    "ko": "숨겨진 칼날"
   },
   {
     "id": "The Admiral",
-    "ko": "제독",
-    "table": "words"
+    "ko": "제독"
   },
   {
     "id": "Blunderbore",
-    "ko": "블런더보어",
-    "table": "words"
+    "ko": "블런더보어"
   },
   {
     "id": "Crest of Desire",
-    "ko": "갈망의 문양",
-    "table": "words"
+    "ko": "갈망의 문양"
   },
   {
     "id": "The Fulcrum",
-    "ko": "버팀대",
-    "table": "words"
+    "ko": "버팀대"
   },
   {
     "id": "Willclash",
-    "ko": "의지의 충돌",
-    "table": "words"
+    "ko": "의지의 충돌"
   },
   {
     "id": "Font of Thunder",
-    "ko": "천둥의 샘",
-    "table": "words"
+    "ko": "천둥의 샘"
   },
   {
     "id": "Contract: Jamanra's Rest",
-    "ko": "계약: 자만라의 휴식",
-    "table": "words"
+    "ko": "계약: 자만라의 휴식"
   },
   {
     "id": "Contract: Breaking the Unbreakable",
-    "ko": "계약: 파괴 불가능한 존재 파괴하기",
-    "table": "words"
+    "ko": "계약: 파괴 불가능한 존재 파괴하기"
   },
   {
     "id": "Contract: Heart of Glory",
-    "ko": "계약: 영광의 심장",
-    "table": "words"
+    "ko": "계약: 영광의 심장"
   },
   {
     "id": "Contract: The Slaver King",
-    "ko": "계약: 노예상의 왕",
-    "table": "words"
+    "ko": "계약: 노예상의 왕"
   },
   {
     "id": "Contract: Death to Darnaw",
-    "ko": "계약: 다나우에게 죽음을",
-    "table": "words"
+    "ko": "계약: 다나우에게 죽음을"
   },
   {
     "id": "Contract: The Twins",
-    "ko": "계약: 쌍둥이",
-    "table": "words"
+    "ko": "계약: 쌍둥이"
   },
   {
     "id": "Lord of Steel",
-    "ko": "강철의 군주",
-    "table": "words"
+    "ko": "강철의 군주"
   },
   {
     "id": "Apex Mode",
-    "ko": "정점 모드",
-    "table": "words"
+    "ko": "정점 모드"
   },
   {
     "id": "Nadir Mode",
-    "ko": "저점 모드",
-    "table": "words"
+    "ko": "저점 모드"
   },
   {
     "id": "Shattershard",
-    "ko": "파편 분쇄",
-    "table": "words"
+    "ko": "파편 분쇄"
   },
   {
     "id": "The Ghastly Theatre",
-    "ko": "무시무시한 극장",
-    "table": "words"
+    "ko": "무시무시한 극장"
   },
   {
     "id": "Eyes of the Runefather",
-    "ko": "룬 아버지의 눈",
-    "table": "words"
+    "ko": "룬 아버지의 눈"
   },
   {
     "id": "The Fledgling",
-    "ko": "풋내기",
-    "table": "words"
+    "ko": "풋내기"
   },
   {
     "id": "Pyroshock Clasp",
-    "ko": "화염격 걸쇠",
-    "table": "words"
+    "ko": "화염격 걸쇠"
   },
   {
     "id": "Leadership's Price",
-    "ko": "통솔력의 가치",
-    "table": "words"
+    "ko": "통솔력의 가치"
   },
   {
     "id": "Qotra's Regulator",
-    "ko": "쿼트라의 제어기",
-    "table": "words"
+    "ko": "쿼트라의 제어기"
   },
   {
     "id": "Blackflame",
-    "ko": "검은화염",
-    "table": "words"
+    "ko": "검은화염"
   },
   {
     "id": "Hand of the Fervent",
-    "ko": "열렬한 자의 손",
-    "table": "words"
+    "ko": "열렬한 자의 손"
   },
   {
     "id": "Survivor's Guilt",
-    "ko": "생존자의 죄책감",
-    "table": "words"
+    "ko": "생존자의 죄책감"
   },
   {
     "id": "Viridi's Veil",
-    "ko": "비리디의 장막",
-    "table": "words"
+    "ko": "비리디의 장막"
   },
   {
     "id": "Goblinedge",
-    "ko": "고블린날",
-    "table": "words"
+    "ko": "고블린날"
   },
   {
     "id": "Doppelgänger Guise",
-    "ko": "도플갱어 위장",
-    "table": "words"
+    "ko": "도플갱어 위장"
   },
   {
     "id": "Arn's Anguish",
-    "ko": "안의 비통",
-    "table": "words"
+    "ko": "안의 비통"
   },
   {
     "id": "Olesya's Delight",
-    "ko": "올레샤의 기쁨",
-    "table": "words"
+    "ko": "올레샤의 기쁨"
   },
   {
     "id": "Graven's Secret",
-    "ko": "그레이븐의 비밀",
-    "table": "words"
+    "ko": "그레이븐의 비밀"
   },
   {
     "id": "Rotblood Promise",
-    "ko": "부식혈의 약속",
-    "table": "words"
+    "ko": "부식혈의 약속"
   },
   {
     "id": "Ancient Skull",
-    "ko": "고대 해골",
-    "table": "words"
+    "ko": "고대 해골"
   },
   {
     "id": "Legacy of Fury",
-    "ko": "광분의 유산",
-    "table": "words"
+    "ko": "광분의 유산"
   },
   {
     "id": "Demigod's Authority",
-    "ko": "반신의 권위",
-    "table": "words"
+    "ko": "반신의 권위"
   },
   {
     "id": "The Walls",
-    "ko": "장벽",
-    "table": "words"
+    "ko": "장벽"
   },
   {
     "id": "The Claim",
-    "ko": "소유권",
-    "table": "words"
+    "ko": "소유권"
   },
   {
     "id": "The Builder",
-    "ko": "개척자",
-    "table": "words"
+    "ko": "개척자"
   },
   {
     "id": "The Vast Horizon",
-    "ko": "끝없는 지평선",
-    "table": "words"
+    "ko": "끝없는 지평선"
   },
   {
     "id": "The Closest Peak",
-    "ko": "근접한 봉우리",
-    "table": "words"
+    "ko": "근접한 봉우리"
   },
   {
     "id": "Restless Cycles",
-    "ko": "쉴 수 없는 반복",
-    "table": "words"
+    "ko": "쉴 수 없는 반복"
   },
   {
     "id": "The False Hope",
-    "ko": "거짓 희망",
-    "table": "words"
+    "ko": "거짓 희망"
   },
   {
     "id": "Atop the Atlas",
-    "ko": "아틀라스의 꼭대기",
-    "table": "words"
+    "ko": "아틀라스의 꼭대기"
   },
   {
     "id": "Mahuxotl's Machination",
-    "ko": "마훅소틀의 계책",
-    "table": "words"
+    "ko": "마훅소틀의 계책"
   },
   {
     "id": "Hateforge",
-    "ko": "증오의 탄생",
-    "table": "words"
+    "ko": "증오의 탄생"
   },
   {
     "id": "Yaomac's Accord",
-    "ko": "야오맥의 합의",
-    "table": "words"
+    "ko": "야오맥의 합의"
   },
   {
     "id": "Temptation Step",
-    "ko": "유혹의 발걸음",
-    "table": "words"
+    "ko": "유혹의 발걸음"
   },
   {
     "id": "Glimpse of Chaos",
-    "ko": "혼돈의 섬광",
-    "table": "words"
+    "ko": "혼돈의 섬광"
   },
   {
     "id": "Relic of the Pact",
-    "ko": "맹약의 유물",
-    "table": "words"
+    "ko": "맹약의 유물"
   },
   {
     "id": "Atziri's Rule",
-    "ko": "앗지리의 통치",
-    "table": "words"
+    "ko": "앗지리의 통치"
   },
   {
     "id": "Atziri's Contempt",
-    "ko": "앗지리의 경멸",
-    "table": "words"
+    "ko": "앗지리의 경멸"
   },
   {
     "id": "Triumvirate Authority",
-    "ko": "삼두 정치의 권위",
-    "table": "words"
+    "ko": "삼두 정치의 권위"
   },
   {
     "id": "The Raven's Flock",
-    "ko": "큰까마귀의 떼",
-    "table": "words"
+    "ko": "큰까마귀의 떼"
   },
   {
     "id": "The Unborn Lich",
-    "ko": "태어나지 않은 리치",
-    "table": "words"
+    "ko": "태어나지 않은 리치"
   },
   {
     "id": "Tecrod's Gaze",
-    "ko": "테크로드의 응시",
-    "table": "words"
+    "ko": "테크로드의 응시"
   },
   {
     "id": "Ulaman's Gaze",
-    "ko": "울라만의 응시",
-    "table": "words"
+    "ko": "울라만의 응시"
   },
   {
     "id": "Kurgal's Gaze",
-    "ko": "쿠르갈의 응시",
-    "table": "words"
+    "ko": "쿠르갈의 응시"
   },
   {
     "id": "Amanamu's Gaze",
-    "ko": "아마나무의 응시",
-    "table": "words"
+    "ko": "아마나무의 응시"
   },
   {
     "id": "Steelworm",
-    "ko": "강철지렁이",
-    "table": "words"
+    "ko": "강철지렁이"
   },
   {
     "id": "The Scales of Justice",
-    "ko": "정의의 저울",
-    "table": "words"
+    "ko": "정의의 저울"
   },
   {
     "id": "Nightgrip",
-    "ko": "밤손아귀",
-    "table": "words"
+    "ko": "밤손아귀"
   },
   {
     "id": "Medved's Challenge",
-    "ko": "메드베드의 도전",
-    "table": "words"
+    "ko": "메드베드의 도전"
   },
   {
     "id": "Faithguard",
-    "ko": "신념의 수호",
-    "table": "words"
+    "ko": "신념의 수호"
   },
   {
     "id": "Cadigan's Crown",
-    "ko": "캐디건의 왕관",
-    "table": "words"
+    "ko": "캐디건의 왕관"
   },
   {
     "id": "Vorana's March",
-    "ko": "보라나의 행진",
-    "table": "words"
+    "ko": "보라나의 행진"
   },
   {
     "id": "Olroth's Charge",
-    "ko": "올로스의 돌진",
-    "table": "words"
+    "ko": "올로스의 돌진"
   },
   {
     "id": "Olroth's Resolve",
-    "ko": "올로스의 결의",
-    "table": "words"
+    "ko": "올로스의 결의"
   },
   {
     "id": "Starlight Chalice",
-    "ko": "별빛 성배",
-    "table": "words"
+    "ko": "별빛 성배"
   },
   {
     "id": "Elixir of the Unbroken Circle",
-    "ko": "끊어진 원의 영액",
-    "table": "words"
+    "ko": "끊어진 원의 영액"
   },
   {
     "id": "Vorana's Preparation",
-    "ko": "보라나의 준비",
-    "table": "words"
+    "ko": "보라나의 준비"
   },
   {
     "id": "Gravebind",
-    "ko": "무덤의 속박",
-    "table": "words"
+    "ko": "무덤의 속박"
   },
   {
     "id": "Stranglegasp",
-    "ko": "교살의 손아귀",
-    "table": "words"
+    "ko": "교살의 손아귀"
   },
   {
     "id": "Mageblood",
-    "ko": "마법사의 피",
-    "table": "words"
+    "ko": "마법사의 피"
   },
   {
     "id": "Stasis Prison",
-    "ko": "정체 감옥",
-    "table": "words"
+    "ko": "정체 감옥"
   },
   {
     "id": "Uul-Netol's Vow",
-    "ko": "울네톨의 맹세",
-    "table": "words"
+    "ko": "울네톨의 맹세"
   },
   {
     "id": "The Squire",
-    "ko": "종자",
-    "table": "words"
+    "ko": "종자"
   },
   {
     "id": "The Oppressor",
-    "ko": "억압자",
-    "table": "words"
+    "ko": "억압자"
   },
   {
     "id": "Melding of the Flesh",
-    "ko": "살점의 융합",
-    "table": "words"
+    "ko": "살점의 융합"
   },
   {
     "id": "Dissolution of the Flesh",
-    "ko": "살점의 융해",
-    "table": "words"
+    "ko": "살점의 융해"
   },
   {
     "id": "Crystallised Omniscience",
-    "ko": "결정화된 전지력",
-    "table": "words"
+    "ko": "결정화된 전지력"
   },
   {
     "id": "Ashes of the Stars",
-    "ko": "별의 재",
-    "table": "words"
+    "ko": "별의 재"
   },
   {
     "id": "The Annihilating Light",
-    "ko": "절멸의 빛",
-    "table": "words"
+    "ko": "절멸의 빛"
   },
   {
     "id": "The Gluttonous Tide",
-    "ko": "걸신들린 파도",
-    "table": "words"
+    "ko": "걸신들린 파도"
   },
   {
     "id": "Black Zenith",
-    "ko": "검은 북극성",
-    "table": "words"
+    "ko": "검은 북극성"
   },
   {
     "id": "Sudden Dawn",
-    "ko": "개벽",
-    "table": "words"
+    "ko": "개벽"
   },
   {
     "id": "Polaric Devastation",
-    "ko": "극성의 유린",
-    "table": "words"
+    "ko": "극성의 유린"
   },
   {
     "id": "Ceaseless Feast",
-    "ko": "끊임없는 연회",
-    "table": "words"
+    "ko": "끊임없는 연회"
   },
   {
     "id": "Inextricable Fate",
-    "ko": "불가분한 운명",
-    "table": "words"
+    "ko": "불가분한 운명"
   },
   {
     "id": "Dawnbreaker",
-    "ko": "여명 분쇄기",
-    "table": "words"
+    "ko": "여명 분쇄기"
   },
   {
     "id": "Forbidden Flame",
-    "ko": "금단의 화염",
-    "table": "words"
+    "ko": "금단의 화염"
   },
   {
     "id": "Forbidden Flesh",
-    "ko": "금단의 살점",
-    "table": "words"
+    "ko": "금단의 살점"
   },
   {
     "id": "Divine Inferno",
-    "ko": "신성한 지옥불",
-    "table": "words"
+    "ko": "신성한 지옥불"
   },
   {
     "id": "The Burden of Truth",
-    "ko": "버거운 진실",
-    "table": "words"
+    "ko": "버거운 진실"
   },
   {
     "id": "Echoes of Creation",
-    "ko": "창조의 메아리",
-    "table": "words"
+    "ko": "창조의 메아리"
   },
   {
     "id": "Decree of Acuity",
-    "ko": "예민함의 법령",
-    "table": "words"
+    "ko": "예민함의 법령"
   },
   {
     "id": "The Eternal Struggle",
-    "ko": "영원한 투쟁",
-    "table": "words"
+    "ko": "영원한 투쟁"
   },
   {
     "id": "Call of the Void",
-    "ko": "공허의 부름",
-    "table": "words"
+    "ko": "공허의 부름"
   },
   {
     "id": "Impossible Escape",
-    "ko": "불가능한 탈출",
-    "table": "words"
+    "ko": "불가능한 탈출"
   },
   {
     "id": "Sublime Vision",
-    "ko": "숭고한 환영",
-    "table": "words"
+    "ko": "숭고한 환영"
   },
   {
     "id": "The Hollow-Eyed Skull",
-    "ko": "퀭한 눈의 해골",
-    "table": "words"
+    "ko": "퀭한 눈의 해골"
   },
   {
     "id": "The Basilisk",
-    "ko": "바실리스크",
-    "table": "words"
+    "ko": "바실리스크"
   },
   {
     "id": "The Angel of Vengeance",
-    "ko": "복수의 천사",
-    "table": "words"
+    "ko": "복수의 천사"
   },
   {
     "id": "The Narcissist",
-    "ko": "자기도취자",
-    "table": "words"
+    "ko": "자기도취자"
   },
   {
     "id": "The Epiphany",
-    "ko": "깨달음",
-    "table": "words"
+    "ko": "깨달음"
   },
   {
     "id": "The Depraved",
-    "ko": "부패한 자",
-    "table": "words"
+    "ko": "부패한 자"
   },
   {
     "id": "The Twisted Trinity",
-    "ko": "뒤틀린 삼위일체",
-    "table": "words"
+    "ko": "뒤틀린 삼위일체"
   },
   {
     "id": "The Raging Inferno",
-    "ko": "격노하는 지옥불",
-    "table": "words"
+    "ko": "격노하는 지옥불"
   },
   {
     "id": "The Unbridled Tempest",
-    "ko": "날뛰는 폭풍",
-    "table": "words"
+    "ko": "날뛰는 폭풍"
   },
   {
     "id": "Insomnia",
-    "ko": "불면증",
-    "table": "words"
+    "ko": "불면증"
   },
   {
     "id": "The Megalomaniac",
-    "ko": "과대망상자",
-    "table": "words"
+    "ko": "과대망상자"
   },
   {
     "id": "The Ancient Angler",
-    "ko": "고대의 낚시꾼",
-    "table": "words"
+    "ko": "고대의 낚시꾼"
   },
   {
     "id": "Escalation",
-    "ko": "증대자",
-    "table": "words"
+    "ko": "증대자"
   },
   {
     "id": "The Arbiter",
-    "ko": "중재자",
-    "table": "words"
+    "ko": "중재자"
   },
   {
     "id": "The Benefactor",
-    "ko": "후원자",
-    "table": "words"
+    "ko": "후원자"
   },
   {
     "id": "The Infested",
-    "ko": "감염자",
-    "table": "words"
+    "ko": "감염자"
   },
   {
     "id": "The Torturer",
-    "ko": "고문자",
-    "table": "words"
+    "ko": "고문자"
   },
   {
     "id": "Kaom's Spirit",
-    "ko": "카옴의 혼백",
-    "table": "words"
+    "ko": "카옴의 혼백"
   },
   {
     "id": "The Tower of Ordeals",
-    "ko": "시련의 탑",
-    "table": "words"
+    "ko": "시련의 탑"
   },
   {
     "id": "Soul Ascension",
-    "ko": "영혼 승천",
-    "table": "words"
+    "ko": "영혼 승천"
   },
   {
     "id": "Dawnstrider",
-    "ko": "여명 질주자",
-    "table": "words"
+    "ko": "여명 질주자"
   },
   {
     "id": "Victorious Fate",
-    "ko": "승리의 운명",
-    "table": "words"
+    "ko": "승리의 운명"
   },
   {
     "id": "Deadly End",
-    "ko": "치명적인 끝",
-    "table": "words"
+    "ko": "치명적인 끝"
   },
   {
     "id": "Will of Chaos",
-    "ko": "혼돈의 의지",
-    "table": "words"
+    "ko": "혼돈의 의지"
   },
   {
     "id": "Ignominious Fate",
-    "ko": "수치스러운 운명",
-    "table": "words"
+    "ko": "수치스러운 운명"
   },
   {
     "id": "Ghostwrithe",
-    "ko": "유령의 몸서리",
-    "table": "words"
+    "ko": "유령의 몸서리"
   },
   {
     "id": "Thrillsteel",
-    "ko": "전율강철",
-    "table": "words"
+    "ko": "전율강철"
   },
   {
     "id": "Elevore",
-    "ko": "원소포식",
-    "table": "words"
+    "ko": "원소포식"
   },
   {
     "id": "Annihilation's Approach",
-    "ko": "전멸의 접근",
-    "table": "words"
+    "ko": "전멸의 접근"
   },
   {
     "id": "The Poised Prism",
-    "ko": "평형의 분광기",
-    "table": "words"
+    "ko": "평형의 분광기"
   },
   {
     "id": "Kalandra's Touch",
-    "ko": "칼란드라의 손길",
-    "table": "words"
+    "ko": "칼란드라의 손길"
   },
   {
     "id": "Progenesis",
-    "ko": "전창조",
-    "table": "words"
+    "ko": "전창조"
   },
   {
     "id": "Rational Doctrine",
-    "ko": "합리적인 교리",
-    "table": "words"
+    "ko": "합리적인 교리"
   },
   {
     "id": "Nimis",
-    "ko": "니미스",
-    "table": "words"
+    "ko": "니미스"
   },
   {
     "id": "Entropic Devastation",
-    "ko": "엔트로피의 유린",
-    "table": "words"
+    "ko": "엔트로피의 유린"
   },
   {
     "id": "Oriath's End",
-    "ko": "오리아스의 종말",
-    "table": "words"
+    "ko": "오리아스의 종말"
   },
   {
     "id": "Eternal Damnation",
-    "ko": "영원한 지옥",
-    "table": "words"
+    "ko": "영원한 지옥"
   },
   {
     "id": "Wilma's Requital",
-    "ko": "윌마의 보답",
-    "table": "words"
+    "ko": "윌마의 보답"
   },
   {
     "id": "Firesong",
-    "ko": "불의 노래",
-    "table": "words"
+    "ko": "불의 노래"
   },
   {
     "id": "Stormshroud",
-    "ko": "폭풍연막",
-    "table": "words"
+    "ko": "폭풍연막"
   },
   {
     "id": "Immutable Force",
-    "ko": "불변의 힘",
-    "table": "words"
+    "ko": "불변의 힘"
   },
   {
     "id": "The Winds of Fate",
-    "ko": "숙명의 바람",
-    "table": "words"
+    "ko": "숙명의 바람"
   },
   {
     "id": "Anathema",
-    "ko": "극한의 혐오",
-    "table": "words"
+    "ko": "극한의 혐오"
   },
   {
     "id": "Doedre's Tongue",
-    "ko": "도이드리의 혀",
-    "table": "words"
+    "ko": "도이드리의 혀"
   },
   {
     "id": "Witchbane",
-    "ko": "마녀의 파멸",
-    "table": "words"
+    "ko": "마녀의 파멸"
   },
   {
     "id": "Echoforge",
-    "ko": "메아리의 탄생",
-    "table": "words"
+    "ko": "메아리의 탄생"
   },
   {
     "id": "The Balance of Terror",
-    "ko": "공포의 균형",
-    "table": "words"
+    "ko": "공포의 균형"
   },
   {
     "id": "Sandstorm Visage",
-    "ko": "모래 폭풍의 얼굴",
-    "table": "words"
+    "ko": "모래 폭풍의 얼굴"
   },
   {
     "id": "The Hour of Divinity",
-    "ko": "신성의 시간",
-    "table": "words"
+    "ko": "신성의 시간"
   },
   {
     "id": "The Peacemaker's Draught",
-    "ko": "평화주의자의 영약",
-    "table": "words"
+    "ko": "평화주의자의 영약"
   },
   {
     "id": "The Desperate Alliance",
-    "ko": "필사적인 동맹",
-    "table": "words"
+    "ko": "필사적인 동맹"
   },
   {
     "id": "The Changing Seasons",
-    "ko": "변화하는 계절",
-    "table": "words"
+    "ko": "변화하는 계절"
   },
   {
     "id": "The Remembered Tales",
-    "ko": "기억된 이야기들",
-    "table": "words"
+    "ko": "기억된 이야기들"
   },
   {
     "id": "The Burden of Leadership",
-    "ko": "통솔의 짐",
-    "table": "words"
+    "ko": "통솔의 짐"
   },
   {
     "id": "The Last Flame",
-    "ko": "마지막 불길",
-    "table": "words"
+    "ko": "마지막 불길"
   },
   {
     "id": "Original Sin",
-    "ko": "원죄",
-    "table": "words"
+    "ko": "원죄"
   },
   {
     "id": "The Blood of Innocence",
-    "ko": "이노센스의 피",
-    "table": "words"
+    "ko": "이노센스의 피"
   },
   {
     "id": "The Chains of Castigation",
-    "ko": "징계의 사슬",
-    "table": "words"
+    "ko": "징계의 사슬"
   },
   {
     "id": "The Power and the Promise",
-    "ko": "힘과 약속",
-    "table": "words"
+    "ko": "힘과 약속"
   },
   {
     "id": "Blood Price",
-    "ko": "피의 대가",
-    "table": "words"
+    "ko": "피의 대가"
   },
   {
     "id": "Tainted Pact",
-    "ko": "더럽혀진 맹약",
-    "table": "words"
+    "ko": "더럽혀진 맹약"
   },
   {
     "id": "Ancestral Vision",
-    "ko": "선대의 환영",
-    "table": "words"
+    "ko": "선대의 환영"
   },
   {
     "id": "Stormseeker",
-    "ko": "폭풍 탐구자",
-    "table": "words"
+    "ko": "폭풍 탐구자"
   },
   {
     "id": "Widowhail",
-    "ko": "과부우박",
-    "table": "words"
+    "ko": "과부우박"
   },
   {
     "id": "Chain of Endurance",
-    "ko": "인내의 사슬",
-    "table": "words"
+    "ko": "인내의 사슬"
   },
   {
     "id": "Tanu Ahi",
-    "ko": "타누 아히",
-    "table": "words"
+    "ko": "타누 아히"
   },
   {
     "id": "Orbala's Stand",
-    "ko": "오발라의 항전",
-    "table": "words"
+    "ko": "오발라의 항전"
   },
   {
     "id": "Bloodnotch",
-    "ko": "피의 오늬",
-    "table": "words"
+    "ko": "피의 오늬"
   },
   {
     "id": "The Fourth Vow",
-    "ko": "네 번째 맹세",
-    "table": "words"
+    "ko": "네 번째 맹세"
   },
   {
     "id": "Soulbound",
-    "ko": "속박된 영혼",
-    "table": "words"
+    "ko": "속박된 영혼"
   },
   {
     "id": "Bloodsoaked Medallion",
-    "ko": "피투성이 메달리온",
-    "table": "words"
+    "ko": "피투성이 메달리온"
   },
   {
     "id": "Ceinture of Benevolence",
-    "ko": "관대함의 띠",
-    "table": "words"
+    "ko": "관대함의 띠"
   },
   {
     "id": "El'Abin's Visage",
-    "ko": "엘라빈의 얼굴",
-    "table": "words"
+    "ko": "엘라빈의 얼굴"
   },
   {
     "id": "The Geomantic Gyre",
-    "ko": "대지술 선회",
-    "table": "words"
+    "ko": "대지술 선회"
   },
   {
     "id": "The Redblade",
-    "ko": "적검",
-    "table": "words"
+    "ko": "적검"
   },
   {
     "id": "Winter's Bite",
-    "ko": "겨울의 추위",
-    "table": "words"
+    "ko": "겨울의 추위"
   },
   {
     "id": "Daevata's Wind",
-    "ko": "다이바타의 바람",
-    "table": "words"
+    "ko": "다이바타의 바람"
   },
   {
     "id": "The Endless Night",
-    "ko": "끝없는 밤",
-    "table": "words"
+    "ko": "끝없는 밤"
   },
   {
     "id": "Oaksworn",
-    "ko": "참나무맹세",
-    "table": "words"
+    "ko": "참나무맹세"
   },
   {
     "id": "Greymake",
-    "ko": "회색작품",
-    "table": "words"
+    "ko": "회색작품"
   },
   {
     "id": "Bramblesiege",
-    "ko": "가시나무의 포위",
-    "table": "words"
+    "ko": "가시나무의 포위"
   },
   {
     "id": "Bluetongue",
-    "ko": "푸른혀",
-    "table": "words"
+    "ko": "푸른혀"
   },
   {
     "id": "The Black Doubt",
-    "ko": "검은 의혹",
-    "table": "words"
+    "ko": "검은 의혹"
   },
   {
     "id": "Perandus' Cure-all",
-    "ko": "페란두스의 만병통치약",
-    "table": "words"
+    "ko": "페란두스의 만병통치약"
   },
   {
     "id": "Candlemaker",
-    "ko": "양초 제작자",
-    "table": "words"
+    "ko": "양초 제작자"
   },
   {
     "id": "Infernoclasp",
-    "ko": "지옥불 죔쇠",
-    "table": "words"
+    "ko": "지옥불 죔쇠"
   },
   {
     "id": "Deathrattle",
-    "ko": "단말마의 숨소리",
-    "table": "words"
+    "ko": "단말마의 숨소리"
   },
   {
     "id": "The Barrow Dweller",
-    "ko": "고분의 주민",
-    "table": "words"
+    "ko": "고분의 주민"
   },
   {
     "id": "Serpent's Lesson",
-    "ko": "독사의 교훈",
-    "table": "words"
+    "ko": "독사의 교훈"
   },
   {
     "id": "Blackbraid",
-    "ko": "검은끈",
-    "table": "words"
+    "ko": "검은끈"
   },
   {
     "id": "The Dark Defiler",
-    "ko": "어둠의 모독자",
-    "table": "words"
+    "ko": "어둠의 모독자"
   },
   {
     "id": "Skysliver",
-    "ko": "하늘의 편린",
-    "table": "words"
+    "ko": "하늘의 편린"
   },
   {
     "id": "Doomgate",
-    "ko": "멸망문",
-    "table": "words"
+    "ko": "멸망문"
   },
   {
     "id": "The Knight-errant",
-    "ko": "무사 수행 기사",
-    "table": "words"
+    "ko": "무사 수행 기사"
   },
   {
     "id": "Bristleboar",
-    "ko": "가시털멧돼지",
-    "table": "words"
+    "ko": "가시털멧돼지"
   },
   {
     "id": "Splinter of Lorrata",
-    "ko": "로라타의 파편",
-    "table": "words"
+    "ko": "로라타의 파편"
   },
   {
     "id": "Shadowstalk",
-    "ko": "그림자추적",
-    "table": "words"
+    "ko": "그림자추적"
   },
   {
     "id": "Mask of the Sanguimancer",
-    "ko": "혈액술사의 가면",
-    "table": "words"
+    "ko": "혈액술사의 가면"
   },
   {
     "id": "Alkem Eira",
-    "ko": "알켐 에이라",
-    "table": "words"
+    "ko": "알켐 에이라"
   },
   {
     "id": "Guiding Palm",
-    "ko": "인도하는 손바닥",
-    "table": "words"
+    "ko": "인도하는 손바닥"
   },
   {
     "id": "Guiding Palm of the Heart",
-    "ko": "심장의 인도하는 손바닥",
-    "table": "words"
+    "ko": "심장의 인도하는 손바닥"
   },
   {
     "id": "Guiding Palm of the Mind",
-    "ko": "정신의 인도하는 손바닥",
-    "table": "words"
+    "ko": "정신의 인도하는 손바닥"
   },
   {
     "id": "Guiding Palm of the Eye",
-    "ko": "눈의 인도하는 손바닥",
-    "table": "words"
+    "ko": "눈의 인도하는 손바닥"
   },
   {
     "id": "Palm of the Dreamer",
-    "ko": "몽상가의 손바닥",
-    "table": "words"
+    "ko": "몽상가의 손바닥"
   },
   {
     "id": "Sylvan's Effigy",
-    "ko": "숲의 제웅",
-    "table": "words"
+    "ko": "숲의 제웅"
   },
   {
     "id": "Killjoy",
-    "ko": "깨진 흥",
-    "table": "words"
+    "ko": "깨진 흥"
   },
   {
     "id": "Coat of Red",
-    "ko": "붉은색의 외투",
-    "table": "words"
+    "ko": "붉은색의 외투"
   },
   {
     "id": "Painter's Servant",
-    "ko": "화가의 종",
-    "table": "words"
+    "ko": "화가의 종"
   },
   {
     "id": "Thunderstep",
-    "ko": "우레걸음",
-    "table": "words"
+    "ko": "우레걸음"
   },
   {
     "id": "Gloomform",
-    "ko": "순흑체",
-    "table": "words"
+    "ko": "순흑체"
   },
   {
     "id": "Tangletongue",
-    "ko": "꼬인혀",
-    "table": "words"
+    "ko": "꼬인혀"
   },
   {
     "id": "Innsmouth",
-    "ko": "인즈머스",
-    "table": "words"
+    "ko": "인즈머스"
   },
   {
     "id": "Crown of the Victor",
-    "ko": "승리자의 왕관",
-    "table": "words"
+    "ko": "승리자의 왕관"
   },
   {
     "id": "Wandering Reliquary",
-    "ko": "방랑하는 성유물 보관실",
-    "table": "words"
+    "ko": "방랑하는 성유물 보관실"
   },
   {
     "id": "Dustbloom",
-    "ko": "황혼꽃",
-    "table": "words"
+    "ko": "황혼꽃"
   },
   {
     "id": "Pariah's Embrace",
-    "ko": "부랑자의 포옹",
-    "table": "words"
+    "ko": "부랑자의 포옹"
   },
   {
     "id": "Quatl's Molt",
-    "ko": "콰틀의 허물",
-    "table": "words"
+    "ko": "콰틀의 허물"
   },
   {
     "id": "Fear of the Embrace",
-    "ko": "포옹을 향한 공포",
-    "table": "words"
+    "ko": "포옹을 향한 공포"
   },
   {
     "id": "The Sunken Vessel",
-    "ko": "가라앉은 함선",
-    "table": "words"
+    "ko": "가라앉은 함선"
   },
   {
     "id": "The Dancing Mirage",
-    "ko": "춤추는 신기루",
-    "table": "words"
+    "ko": "춤추는 신기루"
   },
   {
     "id": "Radiant Grief",
-    "ko": "찬란한 슬픔",
-    "table": "words"
+    "ko": "찬란한 슬픔"
   },
   {
     "id": "Bitterbloom",
-    "ko": "독살꽃",
-    "table": "words"
+    "ko": "독살꽃"
   },
   {
     "id": "Sands of Silk",
-    "ko": "실크의 모래",
-    "table": "words"
+    "ko": "실크의 모래"
   },
   {
     "id": "Sierran Inheritance",
-    "ko": "시에라의 유산",
-    "table": "words"
+    "ko": "시에라의 유산"
   },
   {
     "id": "The Smiling Knight",
-    "ko": "미소 짓는 기사",
-    "table": "words"
+    "ko": "미소 짓는 기사"
   },
   {
     "id": "Dionadair",
-    "ko": "다이오나데어",
-    "table": "words"
+    "ko": "다이오나데어"
   },
   {
     "id": "Bronzebeard",
-    "ko": "황동의 턱수염",
-    "table": "words"
+    "ko": "황동의 턱수염"
   },
   {
     "id": "Edyrn's Tusks",
-    "ko": "에디른의 엄니",
-    "table": "words"
+    "ko": "에디른의 엄니"
   },
   {
     "id": "Prayers for Rain",
-    "ko": "기우 기도",
-    "table": "words"
+    "ko": "기우 기도"
   },
   {
     "id": "The Road Warrior",
-    "ko": "도로의 전사",
-    "table": "words"
+    "ko": "도로의 전사"
   },
   {
     "id": "Apron of Emiran",
-    "ko": "에미란의 앞치마",
-    "table": "words"
+    "ko": "에미란의 앞치마"
   },
   {
     "id": "Legionstride",
-    "ko": "군단의 보조",
-    "table": "words"
+    "ko": "군단의 보조"
   },
   {
     "id": "Visage of Ayah",
-    "ko": "아야의 얼굴",
-    "table": "words"
+    "ko": "아야의 얼굴"
   },
   {
     "id": "Necromantle",
-    "ko": "강령외투",
-    "table": "words"
+    "ko": "강령외투"
   },
   {
     "id": "Briarpatch",
-    "ko": "가시밭",
-    "table": "words"
+    "ko": "가시밭"
   },
   {
     "id": "Corpsewade",
-    "ko": "시신걸음",
-    "table": "words"
+    "ko": "시신걸음"
   },
   {
     "id": "Timberwolf",
-    "ko": "숲늑대",
-    "table": "words"
+    "ko": "숲늑대"
   },
   {
     "id": "Forbidden Gaze",
-    "ko": "금단의 응시",
-    "table": "words"
+    "ko": "금단의 응시"
   },
   {
     "id": "Gamblesprint",
-    "ko": "도박질주",
-    "table": "words"
+    "ko": "도박질주"
   },
   {
     "id": "Ironride",
-    "ko": "철의 질주",
-    "table": "words"
+    "ko": "철의 질주"
   },
   {
     "id": "Treefingers",
-    "ko": "나무손가락",
-    "table": "words"
+    "ko": "나무손가락"
   },
   {
     "id": "Horns of Bynden",
-    "ko": "빈덴의 뿔",
-    "table": "words"
+    "ko": "빈덴의 뿔"
   },
   {
     "id": "Wings of Caelyn",
-    "ko": "카일린의 날개",
-    "table": "words"
+    "ko": "카일린의 날개"
   },
   {
     "id": "Northpaw",
-    "ko": "북방발",
-    "table": "words"
+    "ko": "북방발"
   },
   {
     "id": "Zerphi's Serape",
-    "ko": "제르피의 모포",
-    "table": "words"
+    "ko": "제르피의 모포"
   },
   {
     "id": "Plaguefinger",
-    "ko": "역병손가락",
-    "table": "words"
+    "ko": "역병손가락"
   },
   {
     "id": "Trampletoe",
-    "ko": "짓발가락",
-    "table": "words"
+    "ko": "짓발가락"
   },
   {
     "id": "Atsak's Sight",
-    "ko": "아차크의 시야",
-    "table": "words"
+    "ko": "아차크의 시야"
   },
   {
     "id": "Garuk's Current",
-    "ko": "가루크의 흐름",
-    "table": "words"
+    "ko": "가루크의 흐름"
   },
   {
     "id": "Atziri's Disdain",
-    "ko": "앗지리의 멸시",
-    "table": "words"
+    "ko": "앗지리의 멸시"
   },
   {
     "id": "The Vile Knight",
-    "ko": "끔찍한 기사",
-    "table": "words"
+    "ko": "끔찍한 기사"
   },
   {
     "id": "Gravis Grimace",
-    "ko": "심한 우거지상",
-    "table": "words"
+    "ko": "심한 우거지상"
   },
   {
     "id": "Corona of the Red Sun",
-    "ko": "붉은 태양의 광환",
-    "table": "words"
+    "ko": "붉은 태양의 광환"
   },
   {
     "id": "The Deepest Tower",
-    "ko": "가장 깊은 탑",
-    "table": "words"
+    "ko": "가장 깊은 탑"
   },
   {
     "id": "Nightscale",
-    "ko": "밤비늘",
-    "table": "words"
+    "ko": "밤비늘"
   },
   {
     "id": "Golden Atonement",
-    "ko": "황금의 속죄",
-    "table": "words"
+    "ko": "황금의 속죄"
   },
   {
     "id": "Myris Uxor",
-    "ko": "미리스 욱소르",
-    "table": "words"
+    "ko": "미리스 욱소르"
   },
   {
     "id": "Fidelio",
-    "ko": "피델리오",
-    "table": "words"
+    "ko": "피델리오"
   },
   {
     "id": "Bushwhack",
-    "ko": "덤불 매복",
-    "table": "words"
+    "ko": "덤불 매복"
   },
   {
     "id": "Irongrasp",
-    "ko": "철손아귀",
-    "table": "words"
+    "ko": "철손아귀"
   },
   {
     "id": "Titanrot Cataphract",
-    "ko": "거신부패 비늘 갑옷",
-    "table": "words"
+    "ko": "거신부패 비늘 갑옷"
   },
   {
     "id": "The Hollow Mask",
-    "ko": "텅 빈 가면",
-    "table": "words"
+    "ko": "텅 빈 가면"
   },
   {
     "id": "Enfolding Dawn",
-    "ko": "감싸 안는 여명",
-    "table": "words"
+    "ko": "감싸 안는 여명"
   },
   {
     "id": "Reverie",
-    "ko": "몽상",
-    "table": "words"
+    "ko": "몽상"
   },
   {
     "id": "Blueflame Bracers",
-    "ko": "푸른불길 팔보호구",
-    "table": "words"
+    "ko": "푸른불길 팔보호구"
   },
   {
     "id": "Benedictus Domini",
-    "ko": "베네딕투스 도미니",
-    "table": "words"
+    "ko": "베네딕투스 도미니"
   },
   {
     "id": "Tetzlapokal's Desire",
-    "ko": "테츨라포칼의 갈망",
-    "table": "words"
+    "ko": "테츨라포칼의 갈망"
   },
   {
     "id": "Dreadfist",
-    "ko": "공포주먹",
-    "table": "words"
+    "ko": "공포주먹"
   },
   {
     "id": "Jarngreipr",
-    "ko": "야릉그레이프",
-    "table": "words"
+    "ko": "야릉그레이프"
   },
   {
     "id": "Widow's Reign",
-    "ko": "과부의 치세",
-    "table": "words"
+    "ko": "과부의 치세"
   },
   {
     "id": "The Mutable Star",
-    "ko": "변이하는 별",
-    "table": "words"
+    "ko": "변이하는 별"
   },
   {
     "id": "Cornathaum",
-    "ko": "코르나타움",
-    "table": "words"
+    "ko": "코르나타움"
   },
   {
     "id": "Grip of Winter",
-    "ko": "겨울의 손아귀",
-    "table": "words"
+    "ko": "겨울의 손아귀"
   },
   {
     "id": "Idle Hands",
-    "ko": "게으른 손",
-    "table": "words"
+    "ko": "게으른 손"
   },
   {
     "id": "Deathblow",
-    "ko": "죽음의 일격",
-    "table": "words"
+    "ko": "죽음의 일격"
   },
   {
     "id": "Morior Invictus",
-    "ko": "모리오르 인빅투스",
-    "table": "words"
+    "ko": "모리오르 인빅투스"
   },
   {
     "id": "Solus Ipse",
-    "ko": "솔루스 입세",
-    "table": "words"
+    "ko": "솔루스 입세"
   },
   {
     "id": "Sine Aequo",
-    "ko": "시네 아이쿠오",
-    "table": "words"
+    "ko": "시네 아이쿠오"
   },
   {
     "id": "Sacred Flame",
-    "ko": "신성한 불꽃",
-    "table": "words"
+    "ko": "신성한 불꽃"
   },
   {
     "id": "Ab Aeterno",
-    "ko": "아브 아이테르노",
-    "table": "words"
+    "ko": "아브 아이테르노"
   },
   {
     "id": "Temporalis",
-    "ko": "템포랄리스",
-    "table": "words"
+    "ko": "템포랄리스"
   },
   {
     "id": "Mageguard",
-    "ko": "수호마법사",
-    "table": "words"
+    "ko": "수호마법사"
   },
   {
     "id": "Herald of Wraeclast",
-    "ko": "레이클라스트의 전령",
-    "table": "words"
+    "ko": "레이클라스트의 전령"
   },
   {
     "id": "Waveshaper",
-    "ko": "파도형성자",
-    "table": "words"
+    "ko": "파도형성자"
   },
   {
     "id": "Byrnabas",
-    "ko": "비르나바스",
-    "table": "words"
+    "ko": "비르나바스"
   },
   {
     "id": "Shankgonne",
-    "ko": "정강이대",
-    "table": "words"
+    "ko": "정강이대"
   },
   {
     "id": "Wings of Vastiri",
-    "ko": "바스티리의 날개",
-    "table": "words"
+    "ko": "바스티리의 날개"
   },
   {
     "id": "Calgyra's Arc",
-    "ko": "칼기라의 원호",
-    "table": "words"
+    "ko": "칼기라의 원호"
   },
   {
     "id": "Sunsplinter",
-    "ko": "태양분열자",
-    "table": "words"
+    "ko": "태양분열자"
   },
   {
     "id": "Luminous Pace",
-    "ko": "빛나는 발걸음",
-    "table": "words"
+    "ko": "빛나는 발걸음"
   },
   {
     "id": "Wulfsbane",
-    "ko": "늑대의 천적",
-    "table": "words"
+    "ko": "늑대의 천적"
   },
   {
     "id": "Erian's Cobble",
-    "ko": "에리안의 수선",
-    "table": "words"
+    "ko": "에리안의 수선"
   },
   {
     "id": "Arvil's Wheel",
-    "ko": "아르빌의 바퀴",
-    "table": "words"
+    "ko": "아르빌의 바퀴"
   },
   {
     "id": "Bloodbarrier",
-    "ko": "혈장벽",
-    "table": "words"
+    "ko": "혈장벽"
   },
   {
     "id": "The Wailing Wall",
-    "ko": "울부짖는 벽",
-    "table": "words"
+    "ko": "울부짖는 벽"
   },
   {
     "id": "Crest of Ardura",
-    "ko": "아르듀라의 문양",
-    "table": "words"
+    "ko": "아르듀라의 문양"
   },
   {
     "id": "Merit of Service",
-    "ko": "근정훈장",
-    "table": "words"
+    "ko": "근정훈장"
   },
   {
     "id": "Dunkelhalt",
-    "ko": "둥켈할트",
-    "table": "words"
+    "ko": "둥켈할트"
   },
   {
     "id": "Brynhand's Mark",
-    "ko": "브린핸드의 징표",
-    "table": "words"
+    "ko": "브린핸드의 징표"
   },
   {
     "id": "Wylund's Stake",
-    "ko": "와일룬드의 말뚝",
-    "table": "words"
+    "ko": "와일룬드의 말뚝"
   },
   {
     "id": "The Sentry",
-    "ko": "보초",
-    "table": "words"
+    "ko": "보초"
   },
   {
     "id": "Window to Paradise",
-    "ko": "낙원으로 열린 창",
-    "table": "words"
+    "ko": "낙원으로 열린 창"
   },
   {
     "id": "Shyaba",
-    "ko": "샤바",
-    "table": "words"
+    "ko": "샤바"
   },
   {
     "id": "Heartseeker",
-    "ko": "심장 추적자",
-    "table": "words"
+    "ko": "심장 추적자"
   },
   {
     "id": "Feathered Fortress",
-    "ko": "깃털 달린 요새",
-    "table": "words"
+    "ko": "깃털 달린 요새"
   },
   {
     "id": "Hoghunt",
-    "ko": "돼지사냥",
-    "table": "words"
+    "ko": "돼지사냥"
   },
   {
     "id": "Font of Power",
-    "ko": "힘의 샘",
-    "table": "words"
+    "ko": "힘의 샘"
   },
   {
     "id": "Rondel de Ezo",
-    "ko": "론델 데 에소",
-    "table": "words"
+    "ko": "론델 데 에소"
   },
   {
     "id": "Silverthorne",
-    "ko": "은빛가시",
-    "table": "words"
+    "ko": "은빛가시"
   },
   {
     "id": "Sibling Rivalry",
-    "ko": "형제의 경쟁",
-    "table": "words"
+    "ko": "형제의 경쟁"
   },
   {
     "id": "Splinterheart",
-    "ko": "파편심장",
-    "table": "words"
+    "ko": "파편심장"
   },
   {
     "id": "Redflare Conduit",
-    "ko": "붉은섬광 도관",
-    "table": "words"
+    "ko": "붉은섬광 도관"
   },
   {
     "id": "The Black Insignia",
-    "ko": "검은 휘장",
-    "table": "words"
+    "ko": "검은 휘장"
   },
   {
     "id": "Threaded Light",
-    "ko": "실오라기 같은 빛",
-    "table": "words"
+    "ko": "실오라기 같은 빛"
   },
   {
     "id": "Midnight Braid",
-    "ko": "심야의 끈",
-    "table": "words"
+    "ko": "심야의 끈"
   },
   {
     "id": "Spirit Link",
-    "ko": "영혼 고리",
-    "table": "words"
+    "ko": "영혼 고리"
   },
   {
     "id": "Aerisvane's Wings",
-    "ko": "아이리스베인의 날개",
-    "table": "words"
+    "ko": "아이리스베인의 날개"
   },
   {
     "id": "Falling Snow",
-    "ko": "내리는 눈",
-    "table": "words"
+    "ko": "내리는 눈"
   },
   {
     "id": "Dusk Vigil",
-    "ko": "황혼의 불침번",
-    "table": "words"
+    "ko": "황혼의 불침번"
   },
   {
     "id": "The Velvet Orchestra",
-    "ko": "벨벳 오케스트라",
-    "table": "words"
+    "ko": "벨벳 오케스트라"
   },
   {
     "id": "Couture of Crimson",
-    "ko": "진홍의 예복",
-    "table": "words"
+    "ko": "진홍의 예복"
   },
   {
     "id": "Keelhaul",
-    "ko": "용골쓸기",
-    "table": "words"
+    "ko": "용골쓸기"
   },
   {
     "id": "Birthright Buckle",
-    "ko": "생득권 버클",
-    "table": "words"
+    "ko": "생득권 버클"
   },
   {
     "id": "Seeing Stars",
-    "ko": "눈앞의 별",
-    "table": "words"
+    "ko": "눈앞의 별"
   },
   {
     "id": "Obern's Bastion",
-    "ko": "오베른의 보루",
-    "table": "words"
+    "ko": "오베른의 보루"
   },
   {
     "id": "Valako's Vice",
-    "ko": "발라코의 악덕",
-    "table": "words"
+    "ko": "발라코의 악덕"
   },
   {
     "id": "Ravenous Passion",
-    "ko": "굶주린 열정",
-    "table": "words"
+    "ko": "굶주린 열정"
   },
   {
     "id": "Vestige of Darkness",
-    "ko": "어둠의 자취",
-    "table": "words"
+    "ko": "어둠의 자취"
   },
   {
     "id": "Gloamgown",
-    "ko": "석양법복",
-    "table": "words"
+    "ko": "석양법복"
   },
   {
     "id": "Nocturne",
-    "ko": "야상곡",
-    "table": "words"
+    "ko": "야상곡"
   },
   {
     "id": "Pulpit Pulper",
-    "ko": "설교단을 뭉개는 자",
-    "table": "words"
+    "ko": "설교단을 뭉개는 자"
   },
   {
     "id": "Trephina",
-    "ko": "트레피나",
-    "table": "words"
+    "ko": "트레피나"
   },
   {
     "id": "Fairgraves' Curse",
-    "ko": "페어그레이브즈의 저주",
-    "table": "words"
+    "ko": "페어그레이브즈의 저주"
   },
   {
     "id": "Perandus Seal",
-    "ko": "페란두스 봉인",
-    "table": "words"
+    "ko": "페란두스 봉인"
   },
   {
     "id": "Defiance of Destiny",
-    "ko": "운명의 저항",
-    "table": "words"
+    "ko": "운명의 저항"
   },
   {
     "id": "The Flawed Refuge",
-    "ko": "결함 있는 피난처",
-    "table": "words"
+    "ko": "결함 있는 피난처"
   },
   {
     "id": "Rhea's Rhythm",
-    "ko": "리아의 리듬",
-    "table": "words"
+    "ko": "리아의 리듬"
   },
   {
     "id": "Carrion Call",
-    "ko": "부패하는 부름",
-    "table": "words"
+    "ko": "부패하는 부름"
   },
   {
     "id": "The Eternal Spark",
-    "ko": "영원한 불꽃",
-    "table": "words"
+    "ko": "영원한 불꽃"
   },
   {
     "id": "Powertread",
-    "ko": "위세의 발 보호대",
-    "table": "words"
+    "ko": "위세의 발 보호대"
   },
   {
     "id": "Shavronne's Satchel",
-    "ko": "샤브론의 가방",
-    "table": "words"
+    "ko": "샤브론의 가방"
   },
   {
     "id": "Waistgate",
-    "ko": "허리문",
-    "table": "words"
+    "ko": "허리문"
   },
   {
     "id": "Cat O' Nine Tails",
-    "ko": "아홉 꼬리 고양이",
-    "table": "words"
+    "ko": "아홉 꼬리 고양이"
   },
   {
     "id": "Bijouborne",
-    "ko": "보석박이",
-    "table": "words"
+    "ko": "보석박이"
   },
   {
     "id": "Silverpoint",
-    "ko": "은필",
-    "table": "words"
+    "ko": "은필"
   },
   {
     "id": "Goregirdle",
-    "ko": "선혈의 요대",
-    "table": "words"
+    "ko": "선혈의 요대"
   },
   {
     "id": "Circle of Protection",
-    "ko": "보호의 고리",
-    "table": "words"
+    "ko": "보호의 고리"
   },
   {
     "id": "Effigy of Cruelty",
-    "ko": "잔혹성의 인형",
-    "table": "words"
+    "ko": "잔혹성의 인형"
   },
   {
     "id": "Cracklecreep",
-    "ko": "살금박살",
-    "table": "words"
+    "ko": "살금박살"
   },
   {
     "id": "Matsya",
-    "ko": "마챠",
-    "table": "words"
+    "ko": "마챠"
   },
   {
     "id": "The Empty Roar",
-    "ko": "공허한 포효",
-    "table": "words"
+    "ko": "공허한 포효"
   },
   {
     "id": "Rampart Raptor",
-    "ko": "성벽 랩터",
-    "table": "words"
+    "ko": "성벽 랩터"
   },
   {
     "id": "Sanguine Diviner",
-    "ko": "핏빛 예언자",
-    "table": "words"
+    "ko": "핏빛 예언자"
   },
   {
     "id": "Rod of Enervation",
-    "ko": "피폐의 막대",
-    "table": "words"
+    "ko": "피폐의 막대"
   },
   {
     "id": "Enezun's Charge",
-    "ko": "에네준의 돌진",
-    "table": "words"
+    "ko": "에네준의 돌진"
   },
   {
     "id": "Mist Whisper",
-    "ko": "연무의 속삭임",
-    "table": "words"
+    "ko": "연무의 속삭임"
   },
   {
     "id": "The Wicked Quill",
-    "ko": "부도덕한 깃펜",
-    "table": "words"
+    "ko": "부도덕한 깃펜"
   },
   {
     "id": "Trenchtimbre",
-    "ko": "참호목",
-    "table": "words"
+    "ko": "참호목"
   },
   {
     "id": "Sculpted Suffering",
-    "ko": "조각된 고통",
-    "table": "words"
+    "ko": "조각된 고통"
   },
   {
     "id": "Grimgrasp",
-    "ko": "스산한 손아귀",
-    "table": "words"
+    "ko": "스산한 손아귀"
   },
   {
     "id": "Ironbound",
-    "ko": "철결속",
-    "table": "words"
+    "ko": "철결속"
   },
   {
     "id": "Earthbound",
-    "ko": "대지결속",
-    "table": "words"
+    "ko": "대지결속"
   },
   {
     "id": "Wax and Wane",
-    "ko": "차고 이지러짐",
-    "table": "words"
+    "ko": "차고 이지러짐"
   },
   {
     "id": "Birth of Fury",
-    "ko": "광분의 탄생",
-    "table": "words"
+    "ko": "광분의 탄생"
   },
   {
     "id": "Prized Pain",
-    "ko": "귀한 고통",
-    "table": "words"
+    "ko": "귀한 고통"
   },
   {
     "id": "Glowswarm",
-    "ko": "빛무리",
-    "table": "words"
+    "ko": "빛무리"
   },
   {
     "id": "Seed of Cataclysm",
-    "ko": "대재앙의 씨앗",
-    "table": "words"
+    "ko": "대재앙의 씨앗"
   },
   {
     "id": "Blistering Bond",
-    "ko": "물집을 잡는 결속",
-    "table": "words"
+    "ko": "물집을 잡는 결속"
   },
   {
     "id": "Polcirkeln",
-    "ko": "폴시르켈른",
-    "table": "words"
+    "ko": "폴시르켈른"
   },
   {
     "id": "Whisper of the Brotherhood",
-    "ko": "형제의 속삭임",
-    "table": "words"
+    "ko": "형제의 속삭임"
   },
   {
     "id": "Levinstone",
-    "ko": "전광석",
-    "table": "words"
+    "ko": "전광석"
   },
   {
     "id": "The Burrower",
-    "ko": "굴착자",
-    "table": "words"
+    "ko": "굴착자"
   },
   {
     "id": "Vigilant View",
-    "ko": "경계하는 시야",
-    "table": "words"
+    "ko": "경계하는 시야"
   },
   {
     "id": "Evergrasping Ring",
-    "ko": "거머쥐는 손아귀의 반지",
-    "table": "words"
+    "ko": "거머쥐는 손아귀의 반지"
   },
   {
     "id": "Victario's Study",
-    "ko": "빅타리오의 연구",
-    "table": "words"
+    "ko": "빅타리오의 연구"
   },
   {
     "id": "Nighthowl",
-    "ko": "밤의 울부짖음",
-    "table": "words"
+    "ko": "밤의 울부짖음"
   },
   {
     "id": "Nazir's Judgement",
-    "ko": "나지르의 심판",
-    "table": "words"
+    "ko": "나지르의 심판"
   },
   {
     "id": "Goldshaper",
-    "ko": "금을 빚는 자",
-    "table": "words"
+    "ko": "금을 빚는 자"
   },
   {
     "id": "Constricting Command",
-    "ko": "목 죄이는 명령",
-    "table": "words"
+    "ko": "목 죄이는 명령"
   },
   {
     "id": "Idol of Uldurn",
-    "ko": "울던의 우상",
-    "table": "words"
+    "ko": "울던의 우상"
   },
   {
     "id": "The Everlasting Gaze",
-    "ko": "영원한 응시",
-    "table": "words"
+    "ko": "영원한 응시"
   },
   {
     "id": "Surefooted Sigil",
-    "ko": "굳건한 부적",
-    "table": "words"
+    "ko": "굳건한 부적"
   },
   {
     "id": "Ligurium Talisman",
-    "ko": "리구리움 부적",
-    "table": "words"
+    "ko": "리구리움 부적"
   },
   {
     "id": "Rondel of Fragility",
-    "ko": "허약의 론델",
-    "table": "words"
+    "ko": "허약의 론델"
   },
   {
     "id": "Fixation of Yix",
-    "ko": "익스의 집착",
-    "table": "words"
+    "ko": "익스의 집착"
   },
   {
     "id": "Beacon of Azis",
-    "ko": "아지스의 등불",
-    "table": "words"
+    "ko": "아지스의 등불"
   },
   {
     "id": "Fireflower",
-    "ko": "화염꽃",
-    "table": "words"
+    "ko": "화염꽃"
   },
   {
     "id": "Serpent's Egg",
-    "ko": "독사의 알",
-    "table": "words"
+    "ko": "독사의 알"
   },
   {
     "id": "Revered Resin",
-    "ko": "신성한 수지",
-    "table": "words"
+    "ko": "신성한 수지"
   },
   {
     "id": "Igniferis",
-    "ko": "이그니페리스",
-    "table": "words"
+    "ko": "이그니페리스"
   },
   {
     "id": "The Adorned",
-    "ko": "치장한 자",
-    "table": "words"
+    "ko": "치장한 자"
   },
   {
     "id": "Zerphi's Genesis",
-    "ko": "제르피의 시원",
-    "table": "words"
+    "ko": "제르피의 시원"
   },
   {
     "id": "Blessed Bonds",
-    "ko": "축복받은 유대",
-    "table": "words"
+    "ko": "축복받은 유대"
   },
   {
     "id": "Safrin's Resolve",
-    "ko": "사프린의 결의",
-    "table": "words"
+    "ko": "사프린의 결의"
   },
   {
     "id": "Eshtera's Path",
-    "ko": "에슈테라의 길",
-    "table": "words"
+    "ko": "에슈테라의 길"
   },
   {
     "id": "Zaida's Longevity",
-    "ko": "자이다의 장수",
-    "table": "words"
+    "ko": "자이다의 장수"
   },
   {
     "id": "Svalinn",
-    "ko": "스발린",
-    "table": "words"
+    "ko": "스발린"
   },
   {
     "id": "Keeper of the Arc",
-    "ko": "전호의 보관자",
-    "table": "words"
+    "ko": "전호의 보관자"
   },
   {
     "id": "Olrovasara",
-    "ko": "올로바사라",
-    "table": "words"
+    "ko": "올로바사라"
   },
   {
     "id": "The Burden of Shadows",
-    "ko": "그림자의 짐",
-    "table": "words"
+    "ko": "그림자의 짐"
   },
   {
     "id": "Pragmatism",
-    "ko": "실용주의",
-    "table": "words"
+    "ko": "실용주의"
   },
   {
     "id": "Melting Maelstrom",
-    "ko": "녹아내리는 소용돌이",
-    "table": "words"
+    "ko": "녹아내리는 소용돌이"
   },
   {
     "id": "Collapsing Horizon",
-    "ko": "무너지는 지평선",
-    "table": "words"
+    "ko": "무너지는 지평선"
   },
   {
     "id": "Beyond Reach",
-    "ko": "요원한 저 너머",
-    "table": "words"
+    "ko": "요원한 저 너머"
   },
   {
     "id": "The Fallen Formation",
-    "ko": "몰락자 진형",
-    "table": "words"
+    "ko": "몰락자 진형"
   },
   {
     "id": "The Hammer of Faith",
-    "ko": "신념의 망치",
-    "table": "words"
+    "ko": "신념의 망치"
   },
   {
     "id": "Strike of Inspiration",
-    "ko": "영감의 강타",
-    "table": "words"
+    "ko": "영감의 강타"
   },
   {
     "id": "Chainsting",
-    "ko": "사슬침",
-    "table": "words"
+    "ko": "사슬침"
   },
   {
     "id": "Spire of Ire",
-    "ko": "노여움의 첨탑",
-    "table": "words"
+    "ko": "노여움의 첨탑"
   },
   {
     "id": "Adonia's Ego",
-    "ko": "아도니아의 자아",
-    "table": "words"
+    "ko": "아도니아의 자아"
   },
   {
     "id": "Saitha's Spear",
-    "ko": "사이타의 창",
-    "table": "words"
+    "ko": "사이타의 창"
   },
   {
     "id": "Napuatzi's Bite",
-    "ko": "나푸앗지의 이빨",
-    "table": "words"
+    "ko": "나푸앗지의 이빨"
   },
   {
     "id": "Rhoa Reaver",
-    "ko": "로아 강탈자",
-    "table": "words"
+    "ko": "로아 강탈자"
   },
   {
     "id": "Tale of the Tempest",
-    "ko": "격풍의 이야기",
-    "table": "words"
+    "ko": "격풍의 이야기"
   },
   {
     "id": "Tyranny's Grip",
-    "ko": "폭정의 손아귀",
-    "table": "words"
+    "ko": "폭정의 손아귀"
   },
   {
     "id": "Murkshaft",
-    "ko": "진창 수갱",
-    "table": "words"
+    "ko": "진창 수갱"
   },
   {
     "id": "The Lethal Draw",
-    "ko": "죽음을 부르는 무승부",
-    "table": "words"
+    "ko": "죽음을 부르는 무승부"
   },
   {
     "id": "Sacrosanctum",
-    "ko": "천골성소",
-    "table": "words"
+    "ko": "천골성소"
   },
   {
     "id": "Silks of Veneration",
-    "ko": "숭배의 비단",
-    "table": "words"
+    "ko": "숭배의 비단"
   },
   {
     "id": "The Prisoner's Manacles",
-    "ko": "죄수의 수갑",
-    "table": "words"
+    "ko": "죄수의 수갑"
   },
   {
     "id": "Black Vise",
-    "ko": "검은 조임쇠",
-    "table": "words"
+    "ko": "검은 조임쇠"
   },
   {
     "id": "Paleshade",
-    "ko": "창백한 그늘",
-    "table": "words"
+    "ko": "창백한 그늘"
   },
   {
     "id": "The Last Lament",
-    "ko": "최후의 한탄",
-    "table": "words"
+    "ko": "최후의 한탄"
   },
   {
     "id": "Double Vision",
-    "ko": "이중 시각",
-    "table": "words"
+    "ko": "이중 시각"
   },
   {
     "id": "Seastrider",
-    "ko": "바다질주자",
-    "table": "words"
+    "ko": "바다질주자"
   },
   {
     "id": "The Celestial Brace",
-    "ko": "천공의 죔쇠",
-    "table": "words"
+    "ko": "천공의 죔쇠"
   },
   {
     "id": "Leopold's Applause",
-    "ko": "레오폴드의 갈채",
-    "table": "words"
+    "ko": "레오폴드의 갈채"
   },
   {
     "id": "Demon's Lantern",
-    "ko": "악마의 등불",
-    "table": "words"
+    "ko": "악마의 등불"
   },
   {
     "id": "Pauper's Path",
-    "ko": "극빈자의 길",
-    "table": "words"
+    "ko": "극빈자의 길"
   },
   {
     "id": "The Tempest Rising",
-    "ko": "몰려오는 폭풍",
-    "table": "words"
+    "ko": "몰려오는 폭풍"
   },
   {
     "id": "Decree of Flight",
-    "ko": "비행의 법령",
-    "table": "words"
+    "ko": "비행의 법령"
   },
   {
     "id": "Sorrowshroud",
-    "ko": "슬픔의 연막",
-    "table": "words"
+    "ko": "슬픔의 연막"
   },
   {
     "id": "Kiloava's Bluster",
-    "ko": "킬로아바의 엄포",
-    "table": "words"
+    "ko": "킬로아바의 엄포"
   },
   {
     "id": "Cursecarver",
-    "ko": "저주난자",
-    "table": "words"
+    "ko": "저주난자"
   },
   {
     "id": "Windpiercer",
-    "ko": "바람송곳",
-    "table": "words"
+    "ko": "바람송곳"
   },
   {
     "id": "The Gnashing Sash",
-    "ko": "악무는 띠",
-    "table": "words"
+    "ko": "악무는 띠"
   },
   {
     "id": "Bursting Decay",
-    "ko": "터져 나오는 부패",
-    "table": "words"
+    "ko": "터져 나오는 부패"
   },
   {
     "id": "Death Articulated",
-    "ko": "또렷하게 들려오는 죽음",
-    "table": "words"
+    "ko": "또렷하게 들려오는 죽음"
   },
   {
     "id": "Demigod's Virtue",
-    "ko": "반신의 미덕",
-    "table": "words"
+    "ko": "반신의 미덕"
   },
   {
     "id": "Demigod's Duty",
-    "ko": "반신의 의무",
-    "table": "words"
+    "ko": "반신의 의무"
   },
   {
     "id": "Demigod's Loyalty",
-    "ko": "반신의 충성심",
-    "table": "words"
+    "ko": "반신의 충성심"
   },
   {
     "id": "Demigod's Valor",
-    "ko": "반신의 용맹",
-    "table": "words"
+    "ko": "반신의 용맹"
   },
   {
     "id": "Demigod's Fortitude",
-    "ko": "반신의 기백",
-    "table": "words"
+    "ko": "반신의 기백"
   },
   {
     "id": "Demigod's Judgement",
-    "ko": "반신의 심판",
-    "table": "words"
+    "ko": "반신의 심판"
   },
   {
     "id": "INCOMPLETE",
-    "ko": "미완성",
-    "table": "words"
+    "ko": "미완성"
   },
   {
     "id": "Amor Mandragora",
-    "ko": "아모르 만드라고라",
-    "table": "words"
+    "ko": "아모르 만드라고라"
   },
   {
     "id": "Spiteful Floret",
-    "ko": "악의에 찬 소화",
-    "table": "words"
+    "ko": "악의에 찬 소화"
   },
   {
     "id": "Hysseg's Claw",
-    "ko": "히세그의 발톱",
-    "table": "words"
+    "ko": "히세그의 발톱"
   },
   {
     "id": "The Flesh Poppet",
-    "ko": "살점 귀염둥이",
-    "table": "words"
+    "ko": "살점 귀염둥이"
   },
   {
     "id": "Surge of the Tide",
-    "ko": "밀려드는 파도",
-    "table": "words"
+    "ko": "밀려드는 파도"
   },
   {
     "id": "Fury of the King",
-    "ko": "왕의 광분",
-    "table": "words"
+    "ko": "왕의 광분"
   },
   {
     "id": "Heroic Tragedy",
-    "ko": "영웅적인 비극",
-    "table": "words"
+    "ko": "영웅적인 비극"
   },
   {
     "id": "Against the Darkness",
-    "ko": "어둠 저항",
-    "table": "words"
+    "ko": "어둠 저항"
   },
   {
     "id": "Beetlebite",
-    "ko": "딱정벌레 이빨",
-    "table": "words"
+    "ko": "딱정벌레 이빨"
   },
   {
     "id": "Ingenuity",
-    "ko": "기발함",
-    "table": "words"
+    "ko": "기발함"
   },
   {
     "id": "Prism of Belief",
-    "ko": "믿음의 분광기",
-    "table": "words"
+    "ko": "믿음의 분광기"
   },
   {
     "id": "From Nothing",
-    "ko": "허무의 산물",
-    "table": "words"
+    "ko": "허무의 산물"
   },
   {
     "id": "Controlled Metamorphosis",
-    "ko": "제어된 변형",
-    "table": "words"
+    "ko": "제어된 변형"
   },
   {
     "id": "Strugglescream",
-    "ko": "몸부림치는 비명",
-    "table": "words"
+    "ko": "몸부림치는 비명"
   },
   {
     "id": "Twilight Order Chest",
-    "ko": "황혼의 교단 상자",
-    "table": "words"
+    "ko": "황혼의 교단 상자"
   },
   {
     "id": "Ixchel's Torment",
-    "ko": "익스첼의 고통",
-    "table": "words"
+    "ko": "익스첼의 고통"
   },
   {
     "id": "Ogham's Legacy",
-    "ko": "오검의 유산",
-    "table": "words"
+    "ko": "오검의 유산"
   },
   {
     "id": "Ventor's Contraption",
-    "ko": "벤토의 고안",
-    "table": "words"
+    "ko": "벤토의 고안"
   },
   {
     "id": "The Rain Festival Beetle",
-    "ko": "비의 축제 딱정벌레",
-    "table": "words"
+    "ko": "비의 축제 딱정벌레"
   },
   {
     "id": "Beira's Anguish",
-    "ko": "베이라의 비통",
-    "table": "words"
+    "ko": "베이라의 비통"
   },
   {
     "id": "Forgotten By Time",
-    "ko": "시간에 잊힌 존재",
-    "table": "words"
+    "ko": "시간에 잊힌 존재"
   },
   {
     "id": "The Grand Project",
-    "ko": "대공사",
-    "table": "words"
+    "ko": "대공사"
   },
   {
     "id": "Ngamahu's Chosen",
-    "ko": "나마후의 선택받은 자",
-    "table": "words"
+    "ko": "나마후의 선택받은 자"
   },
   {
     "id": "The Fall of the Axe",
-    "ko": "도끼의 추락",
-    "table": "words"
+    "ko": "도끼의 추락"
   },
   {
     "id": "Cruel Hegemony",
-    "ko": "잔혹한 헤게모니",
-    "table": "words"
+    "ko": "잔혹한 헤게모니"
   },
   {
     "id": "Clear Skies",
-    "ko": "맑은 하늘",
-    "table": "words"
+    "ko": "맑은 하늘"
   },
   {
     "id": "Freedom of Faith",
-    "ko": "신념의 자유",
-    "table": "words"
+    "ko": "신념의 자유"
   },
   {
     "id": "Season of the Hunt",
-    "ko": "사냥철",
-    "table": "words"
+    "ko": "사냥철"
   },
   {
     "id": "Rite of Passage",
-    "ko": "통과의례",
-    "table": "words"
+    "ko": "통과의례"
   },
   {
     "id": "Wraeclast Besieged",
-    "ko": "포위당한 레이클라스트",
-    "table": "words"
+    "ko": "포위당한 레이클라스트"
   },
   {
     "id": "Visions of Paradise",
-    "ko": "낙원의 환영",
-    "table": "words"
+    "ko": "낙원의 환영"
   },
   {
     "id": "Sanguis Heroum",
-    "ko": "상귀스 헤로움",
-    "table": "words"
+    "ko": "상귀스 헤로움"
   },
   {
     "id": "Arakaali's Gift",
-    "ko": "아라칼리의 선물",
-    "table": "words"
+    "ko": "아라칼리의 선물"
   },
   {
     "id": "Breath of the Mountains",
-    "ko": "산맥의 숨결",
-    "table": "words"
+    "ko": "산맥의 숨결"
   },
   {
     "id": "Valako's Roar",
-    "ko": "발라코의 포효",
-    "table": "words"
+    "ko": "발라코의 포효"
   },
   {
     "id": "Forsaken Bangle",
-    "ko": "버림받은 팔찌",
-    "table": "words"
+    "ko": "버림받은 팔찌"
   },
   {
     "id": "Nascent Hope",
-    "ko": "태동하는 희망",
-    "table": "words"
+    "ko": "태동하는 희망"
   },
   {
     "id": "The Black Cat",
-    "ko": "검은 고양이",
-    "table": "words"
+    "ko": "검은 고양이"
   },
   {
     "id": "For Utopia",
-    "ko": "유토피아를 위해",
-    "table": "words"
+    "ko": "유토피아를 위해"
   },
   {
     "id": "The Ordained",
-    "ko": "명을 받은 자",
-    "table": "words"
+    "ko": "명을 받은 자"
   },
   {
     "id": "Twisted Empyrean",
-    "ko": "뒤틀린 천공인",
-    "table": "words"
+    "ko": "뒤틀린 천공인"
   },
   {
     "id": "Periphery",
-    "ko": "주변부",
-    "table": "words"
+    "ko": "주변부"
   },
   {
     "id": "Sadist's Mercy",
-    "ko": "가학자의 자비",
-    "table": "words"
+    "ko": "가학자의 자비"
   },
   {
     "id": "Unnatural Evolution",
-    "ko": "부자연스러운 진화",
-    "table": "words"
+    "ko": "부자연스러운 진화"
   },
   {
     "id": "Great Serpent's Bane",
-    "ko": "큰독사의 파멸",
-    "table": "words"
+    "ko": "큰독사의 파멸"
   },
   {
     "id": "Duality",
-    "ko": "이중성",
-    "table": "words"
+    "ko": "이중성"
   },
   {
     "id": "Cadiro's Gambit",
-    "ko": "카디로의 책략",
-    "table": "words"
+    "ko": "카디로의 책략"
   },
   {
     "id": "Grip of Kulemak",
-    "ko": "쿨레막의 손아귀",
-    "table": "words"
+    "ko": "쿨레막의 손아귀"
   },
   {
     "id": "Veilpiercer",
-    "ko": "장막송곳",
-    "table": "words"
+    "ko": "장막송곳"
   },
   {
     "id": "Gatecrasher",
-    "ko": "관문파괴자",
-    "table": "words"
+    "ko": "관문파괴자"
   },
   {
     "id": "[DNT] Tawhoa's Felling",
-    "ko": "타호아의 벌채",
-    "table": "words"
+    "ko": "타호아의 벌채"
   },
   {
     "id": "Undying Hate",
-    "ko": "죽지 않는 증오",
-    "table": "words"
+    "ko": "죽지 않는 증오"
   },
   {
     "id": "Serle's Grit",
-    "ko": "세를의 근성",
-    "table": "words"
+    "ko": "세를의 근성"
   },
   {
     "id": "Heart of the Well",
-    "ko": "우물의 심장",
-    "table": "words"
+    "ko": "우물의 심장"
   },
   {
     "id": "Flesh Crucible",
-    "ko": "살점 도가니",
-    "table": "words"
+    "ko": "살점 도가니"
   },
   {
     "id": "Taua, the Lich Born",
-    "ko": "리치 태생 타우아",
-    "table": "words"
+    "ko": "리치 태생 타우아"
   },
   {
     "id": "Raok, the Lich Born",
-    "ko": "리치 태생 라오크",
-    "table": "words"
+    "ko": "리치 태생 라오크"
   },
   {
     "id": "Bronnach, the Lich Born",
-    "ko": "리치 태생 브로나크",
-    "table": "words"
+    "ko": "리치 태생 브로나크"
   },
   {
     "id": "Adrienne, the Lich Born",
-    "ko": "리치 태생 아드리엔",
-    "table": "words"
+    "ko": "리치 태생 아드리엔"
   },
   {
     "id": "Nisha, the Lich Born",
-    "ko": "리치 태생 니샤",
-    "table": "words"
+    "ko": "리치 태생 니샤"
   },
   {
     "id": "Izel, the Lich Born",
-    "ko": "리치 태생 이젤",
-    "table": "words"
+    "ko": "리치 태생 이젤"
   },
   {
     "id": "Vasa, the Lich Born",
-    "ko": "리치 태생 바사",
-    "table": "words"
+    "ko": "리치 태생 바사"
   },
   {
     "id": "Ciara, the Lich Born",
-    "ko": "리치 태생 시아라",
-    "table": "words"
+    "ko": "리치 태생 시아라"
   },
   {
     "id": "Nyassa, the Lich Born",
-    "ko": "리치 태생 니아사",
-    "table": "words"
+    "ko": "리치 태생 니아사"
   },
   {
     "id": "Hesperia, the Lich Born",
-    "ko": "리치 태생 헤스페리아",
-    "table": "words"
+    "ko": "리치 태생 헤스페리아"
   },
   {
     "id": "Ulfred, the Lich Born",
-    "ko": "리치 태생 울프레드",
-    "table": "words"
+    "ko": "리치 태생 울프레드"
   },
   {
     "id": "Drusian, the Lich Born",
-    "ko": "리치 태생 드루시안",
-    "table": "words"
+    "ko": "리치 태생 드루시안"
   },
   {
     "id": "Sondar, the Lich Born",
-    "ko": "리치 태생 손다르",
-    "table": "words"
+    "ko": "리치 태생 손다르"
   },
   {
     "id": "Doran, the Lich Born",
-    "ko": "리치 태생 도란",
-    "table": "words"
+    "ko": "리치 태생 도란"
   },
   {
     "id": "The Watcher in the Dark",
-    "ko": "어둠 속의 감시자",
-    "table": "words"
+    "ko": "어둠 속의 감시자"
   },
   {
     "id": "Ervig's Cane",
-    "ko": "에르빅의 지팡이",
-    "table": "words"
+    "ko": "에르빅의 지팡이"
   },
   {
     "id": "Unforeseen Consequences",
-    "ko": "예기치 못한 결과",
-    "table": "words"
+    "ko": "예기치 못한 결과"
   },
   {
     "id": "Redemption",
-    "ko": "구원",
-    "table": "words"
+    "ko": "구원"
   },
   {
     "id": "Mastered Domain",
-    "ko": "통달한 영토",
-    "table": "words"
+    "ko": "통달한 영토"
   },
   {
     "id": "Legacy of the Order",
-    "ko": "질서의 유산",
-    "table": "words"
+    "ko": "질서의 유산"
   }
 ]

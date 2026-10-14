@@ -1,362 +1,290 @@
 [
   {
     "id": "Flask",
-    "ko": "플라스크",
-    "table": "itemclasscategories"
+    "ko": "플라스크"
   },
   {
     "id": "One Hand Mace",
-    "ko": "한손 철퇴",
-    "table": "itemclasscategories"
+    "ko": "한손 철퇴"
   },
   {
     "id": "One Hand Sword",
-    "ko": "한손 검",
-    "table": "itemclasscategories"
+    "ko": "한손 검"
   },
   {
     "id": "Dagger",
-    "ko": "단검",
-    "table": "itemclasscategories"
+    "ko": "단검"
   },
   {
     "id": "Staff",
-    "ko": "지팡이",
-    "table": "itemclasscategories"
+    "ko": "지팡이"
   },
   {
     "id": "Quarterstaff",
-    "ko": "육척봉",
-    "table": "itemclasscategories"
+    "ko": "육척봉"
   },
   {
     "id": "Currency",
-    "ko": "화폐",
-    "table": "itemclasscategories"
+    "ko": "화폐"
   },
   {
     "id": "Amulet",
-    "ko": "목걸이",
-    "table": "itemclasscategories"
+    "ko": "목걸이"
   },
   {
     "id": "Ring",
-    "ko": "반지",
-    "table": "itemclasscategories"
+    "ko": "반지"
   },
   {
     "id": "Claw",
-    "ko": "클로",
-    "table": "itemclasscategories"
+    "ko": "클로"
   },
   {
     "id": "Wand",
-    "ko": "마법봉",
-    "table": "itemclasscategories"
+    "ko": "마법봉"
   },
   {
     "id": "One Hand Axe",
-    "ko": "한손 도끼",
-    "table": "itemclasscategories"
+    "ko": "한손 도끼"
   },
   {
     "id": "Bow",
-    "ko": "활",
-    "table": "itemclasscategories"
+    "ko": "활"
   },
   {
     "id": "Two Hand Sword",
-    "ko": "양손 검",
-    "table": "itemclasscategories"
+    "ko": "양손 검"
   },
   {
     "id": "Two Hand Axe",
-    "ko": "양손 도끼",
-    "table": "itemclasscategories"
+    "ko": "양손 도끼"
   },
   {
     "id": "Two Hand Mace",
-    "ko": "양손 철퇴",
-    "table": "itemclasscategories"
+    "ko": "양손 철퇴"
   },
   {
     "id": "Skill Gem",
-    "ko": "스킬 젬",
-    "table": "itemclasscategories"
+    "ko": "스킬 젬"
   },
   {
     "id": "Support Gem",
-    "ko": "보조 젬",
-    "table": "itemclasscategories"
+    "ko": "보조 젬"
   },
   {
     "id": "Quiver",
-    "ko": "화살통",
-    "table": "itemclasscategories"
+    "ko": "화살통"
   },
   {
     "id": "Belt",
-    "ko": "허리띠",
-    "table": "itemclasscategories"
+    "ko": "허리띠"
   },
   {
     "id": "Gloves",
-    "ko": "장갑",
-    "table": "itemclasscategories"
+    "ko": "장갑"
   },
   {
     "id": "Boots",
-    "ko": "장화",
-    "table": "itemclasscategories"
+    "ko": "장화"
   },
   {
     "id": "Body Armour",
-    "ko": "갑옷",
-    "table": "itemclasscategories"
+    "ko": "갑옷"
   },
   {
     "id": "Helmet",
-    "ko": "투구",
-    "table": "itemclasscategories"
+    "ko": "투구"
   },
   {
     "id": "Shield",
-    "ko": "방패",
-    "table": "itemclasscategories"
+    "ko": "방패"
   },
   {
     "id": "Quest Item",
-    "ko": "퀘스트 아이템",
-    "table": "itemclasscategories"
+    "ko": "퀘스트 아이템"
   },
   {
     "id": "Waystone",
-    "ko": "경로석",
-    "table": "itemclasscategories"
+    "ko": "경로석"
   },
   {
     "id": "Fishing Rod",
-    "ko": "낚싯대",
-    "table": "itemclasscategories"
+    "ko": "낚싯대"
   },
   {
     "id": "Map Fragment",
-    "ko": "지도 조각",
-    "table": "itemclasscategories"
+    "ko": "지도 조각"
   },
   {
     "id": "Jewel",
-    "ko": "주얼",
-    "table": "itemclasscategories"
+    "ko": "주얼"
   },
   {
     "id": "Divination Card",
-    "ko": "점술 카드",
-    "table": "itemclasscategories"
+    "ko": "점술 카드"
   },
   {
     "id": "Labyrinth Key",
-    "ko": "미궁 열쇠",
-    "table": "itemclasscategories"
+    "ko": "미궁 열쇠"
   },
   {
     "id": "Labyrinth Trinket",
-    "ko": "미궁 장신구",
-    "table": "itemclasscategories"
+    "ko": "미궁 장신구"
   },
   {
     "id": "Leaguestone",
-    "ko": "리그스톤",
-    "table": "itemclasscategories"
+    "ko": "리그스톤"
   },
   {
     "id": "Captured Soul",
-    "ko": "포획한 영혼",
-    "table": "itemclasscategories"
+    "ko": "포획한 영혼"
   },
   {
     "id": "Unique Piece",
-    "ko": "고유 조각",
-    "table": "itemclasscategories"
+    "ko": "고유 조각"
   },
   {
     "id": "Abyss Jewel",
-    "ko": "심연 주얼",
-    "table": "itemclasscategories"
+    "ko": "심연 주얼"
   },
   {
     "id": "Incursion Item",
-    "ko": "기습 아이템",
-    "table": "itemclasscategories"
+    "ko": "기습 아이템"
   },
   {
     "id": "Resonator",
-    "ko": "공명기",
-    "table": "itemclasscategories"
+    "ko": "공명기"
   },
   {
     "id": "Incubator",
-    "ko": "인큐베이터",
-    "table": "itemclasscategories"
+    "ko": "인큐베이터"
   },
   {
     "id": "Watchstone",
-    "ko": "감시자의 돌",
-    "table": "itemclasscategories"
+    "ko": "감시자의 돌"
   },
   {
     "id": "Contract",
-    "ko": "계약",
-    "table": "itemclasscategories"
+    "ko": "계약"
   },
   {
     "id": "Heist Gear",
-    "ko": "강탈 장비",
-    "table": "itemclasscategories"
+    "ko": "강탈 장비"
   },
   {
     "id": "Heist Tool",
-    "ko": "강탈 도구",
-    "table": "itemclasscategories"
+    "ko": "강탈 도구"
   },
   {
     "id": "Heist Cloak",
-    "ko": "강탈 망토",
-    "table": "itemclasscategories"
+    "ko": "강탈 망토"
   },
   {
     "id": "Heist Brooch",
-    "ko": "강탈 브로치",
-    "table": "itemclasscategories"
+    "ko": "강탈 브로치"
   },
   {
     "id": "Blueprint",
-    "ko": "도면",
-    "table": "itemclasscategories"
+    "ko": "도면"
   },
   {
     "id": "Trinket",
-    "ko": "장신구",
-    "table": "itemclasscategories"
+    "ko": "장신구"
   },
   {
     "id": "Heist Target",
-    "ko": "강탈 대상",
-    "table": "itemclasscategories"
+    "ko": "강탈 대상"
   },
   {
     "id": "Expedition Logbook",
-    "ko": "탐험 일지",
-    "table": "itemclasscategories"
+    "ko": "탐험 일지"
   },
   {
     "id": "Instance Local Item",
-    "ko": "인스턴스 특정 아이템",
-    "table": "itemclasscategories"
+    "ko": "인스턴스 특정 아이템"
   },
   {
     "id": "Sentinel Drone",
-    "ko": "파수꾼 드론",
-    "table": "itemclasscategories"
+    "ko": "파수꾼 드론"
   },
   {
     "id": "Relic",
-    "ko": "유물",
-    "table": "itemclasscategories"
+    "ko": "유물"
   },
   {
     "id": "Memory",
-    "ko": "기억",
-    "table": "itemclasscategories"
+    "ko": "기억"
   },
   {
     "id": "Breachstone",
-    "ko": "균열석",
-    "table": "itemclasscategories"
+    "ko": "균열석"
   },
   {
     "id": "Vault Key",
-    "ko": "금고실 열쇠",
-    "table": "itemclasscategories"
+    "ko": "금고실 열쇠"
   },
   {
     "id": "Spear",
-    "ko": "창",
-    "table": "itemclasscategories"
+    "ko": "창"
   },
   {
     "id": "Crossbow",
-    "ko": "석궁",
-    "table": "itemclasscategories"
+    "ko": "석궁"
   },
   {
     "id": "Focus",
-    "ko": "집중구",
-    "table": "itemclasscategories"
+    "ko": "집중구"
   },
   {
     "id": "Flail",
-    "ko": "도리깨",
-    "table": "itemclasscategories"
+    "ko": "도리깨"
   },
   {
     "id": "Sceptre",
-    "ko": "셉터",
-    "table": "itemclasscategories"
+    "ko": "셉터"
   },
   {
     "id": "Buckler",
-    "ko": "버클러",
-    "table": "itemclasscategories"
+    "ko": "버클러"
   },
   {
     "id": "Trap",
-    "ko": "덫",
-    "table": "itemclasscategories"
+    "ko": "덫"
   },
   {
     "id": "Unarmed",
-    "ko": "비무장",
-    "table": "itemclasscategories"
+    "ko": "비무장"
   },
   {
     "id": "Augment",
-    "ko": "증강물",
-    "table": "itemclasscategories"
+    "ko": "증강물"
   },
   {
     "id": "Tablet",
-    "ko": "서판",
-    "table": "itemclasscategories"
+    "ko": "서판"
   },
   {
     "id": "Charm",
-    "ko": "호신부",
-    "table": "itemclasscategories"
+    "ko": "호신부"
   },
   {
     "id": "Omen",
-    "ko": "징조",
-    "table": "itemclasscategories"
+    "ko": "징조"
   },
   {
     "id": "Pinnacle Key",
-    "ko": "최종 열쇠",
-    "table": "itemclasscategories"
+    "ko": "최종 열쇠"
   },
   {
     "id": "Talisman",
-    "ko": "부적",
-    "table": "itemclasscategories"
+    "ko": "부적"
   },
   {
     "id": "Transcendent Limb",
-    "ko": "초월의 사지",
-    "table": "itemclasscategories"
+    "ko": "초월의 사지"
   },
   {
     "id": "Wombgift",
-    "ko": "생명의 결실",
-    "table": "itemclasscategories"
+    "ko": "생명의 결실"
   }
 ]
