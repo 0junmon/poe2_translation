@@ -6620,11 +6620,6 @@
     "table": "buffdefinitions"
   },
   {
-    "id": "Elemental Overload",
-    "ko": "원소 과부하(Elemental Overload)",
-    "table": "buffdefinitions"
-  },
-  {
     "id": "Avatar of Fire",
     "ko": "불의 화신(Avatar of Fire)",
     "table": "buffdefinitions"
@@ -8035,11 +8030,6 @@
     "table": "buffdefinitions"
   },
   {
-    "id": "Burning",
-    "ko": "화상",
-    "table": "buffdefinitions"
-  },
-  {
     "id": "Speed Gale",
     "ko": "속도 강풍",
     "table": "buffdefinitions"
@@ -8507,11 +8497,6 @@
   {
     "id": "Covered in Frost",
     "ko": "서리에 뒤덮임",
-    "table": "buffdefinitions"
-  },
-  {
-    "id": "Executioner's Presence",
-    "ko": "집행자의 존재",
     "table": "buffdefinitions"
   },
   {
@@ -11297,11 +11282,6 @@
   {
     "id": "Footsteps",
     "ko": "발걸음",
-    "table": "grantedeffectlabels"
-  },
-  {
-    "id": "Explosion",
-    "ko": "폭발",
     "table": "grantedeffectlabels"
   },
   {
@@ -14492,11 +14472,6 @@
   {
     "id": "Periodically Enrages",
     "ko": "주기적으로 격앙됨",
-    "table": "keywordpopups"
-  },
-  {
-    "id": "Enraged",
-    "ko": "격앙됨",
     "table": "keywordpopups"
   },
   {
@@ -20200,11 +20175,6 @@
     "table": "mods"
   },
   {
-    "id": "Infernal",
-    "ko": "지옥불",
-    "table": "mods"
-  },
-  {
     "id": "Pernicious",
     "ko": "유해한",
     "table": "mods"
@@ -20227,11 +20197,6 @@
   {
     "id": "Frostbound",
     "ko": "서리결속",
-    "table": "mods"
-  },
-  {
-    "id": "Ruthless",
-    "ko": "무자비",
     "table": "mods"
   },
   {
@@ -21035,11 +21000,6 @@
     "table": "mods"
   },
   {
-    "id": "of Rapidity",
-    "ko": "- 신속",
-    "table": "mods"
-  },
-  {
     "id": "Expanding",
     "ko": "확장하는",
     "table": "mods"
@@ -21152,11 +21112,6 @@
   {
     "id": "Heralding",
     "ko": "전파의",
-    "table": "mods"
-  },
-  {
-    "id": "Burning",
-    "ko": "화상",
     "table": "mods"
   },
   {
@@ -21675,11 +21630,6 @@
     "table": "mods"
   },
   {
-    "id": "of Stone Skin",
-    "ko": "- 돌 피부",
-    "table": "mods"
-  },
-  {
     "id": "of Shattering",
     "ko": "- 산산조각",
     "table": "mods"
@@ -21955,11 +21905,6 @@
     "table": "mods"
   },
   {
-    "id": "Infernal",
-    "ko": "지옥불의",
-    "table": "mods"
-  },
-  {
     "id": "Frostbitten",
     "ko": "동상 걸린",
     "table": "mods"
@@ -21997,11 +21942,6 @@
   {
     "id": "of the Unwavering",
     "ko": "- 변함없는 자",
-    "table": "mods"
-  },
-  {
-    "id": "Precise",
-    "ko": "정밀한",
     "table": "mods"
   },
   {
@@ -22675,11 +22615,6 @@
     "table": "mods"
   },
   {
-    "id": "Essences",
-    "ko": "에센스",
-    "table": "mods"
-  },
-  {
     "id": "Hexproof",
     "ko": "사술 방지",
     "table": "mods"
@@ -22972,11 +22907,6 @@
   {
     "id": "Vaal",
     "ko": "바알",
-    "table": "mods"
-  },
-  {
-    "id": "Profane",
-    "ko": "모독적인",
     "table": "mods"
   },
   {
@@ -23977,11 +23907,6 @@
   {
     "id": "Fierce",
     "ko": "흉악한",
-    "table": "mods"
-  },
-  {
-    "id": "Lethal",
-    "ko": "치명적인",
     "table": "mods"
   },
   {
@@ -26140,11 +26065,6 @@
     "table": "mods"
   },
   {
-    "id": "of Plenty",
-    "ko": "- 풍부함",
-    "table": "mods"
-  },
-  {
     "id": "of Aid",
     "ko": "- 도움",
     "table": "mods"
@@ -27660,11 +27580,6 @@
     "table": "mods"
   },
   {
-    "id": "Savage",
-    "ko": "야만인",
-    "table": "mods"
-  },
-  {
     "id": "Fire Rune",
     "ko": "화염 룬",
     "table": "mods"
@@ -28030,21 +27945,6 @@
     "table": "mods"
   },
   {
-    "id": "Sanguine",
-    "ko": "핏빛",
-    "table": "mods"
-  },
-  {
-    "id": "Robust",
-    "ko": "왕성한",
-    "table": "mods"
-  },
-  {
-    "id": "Cobalt",
-    "ko": "코발트",
-    "table": "mods"
-  },
-  {
     "id": "Katla's",
     "ko": "카틀라의",
     "table": "mods"
@@ -28142,11 +28042,6 @@
   {
     "id": "of Management",
     "ko": "- 관리",
-    "table": "mods"
-  },
-  {
-    "id": "of Control",
-    "ko": "- 제어",
     "table": "mods"
   },
   {
@@ -28327,11 +28222,6 @@
   {
     "id": "of Stampeding",
     "ko": "- 쇄도",
-    "table": "mods"
-  },
-  {
-    "id": "Runic",
-    "ko": "룬",
     "table": "mods"
   },
   {
@@ -28587,11 +28477,6 @@
   {
     "id": "Tactician's",
     "ko": "택티션의",
-    "table": "mods"
-  },
-  {
-    "id": "Monk's",
-    "ko": "몽크의",
     "table": "mods"
   },
   {
@@ -29002,11 +28887,6 @@
   {
     "id": "Courtesan",
     "ko": "매춘부",
-    "table": "monstervarieties"
-  },
-  {
-    "id": "Courtesan",
-    "ko": "코르티잔",
     "table": "monstervarieties"
   },
   {
@@ -34460,11 +34340,6 @@
     "table": "npcs"
   },
   {
-    "id": "Count's Decree",
-    "ko": "백작의 칙령",
-    "table": "npcs"
-  },
-  {
     "id": "Psalm of Madness",
     "ko": "광기의 찬송가",
     "table": "npcs"
@@ -37585,11 +37460,6 @@
     "table": "passiveskills"
   },
   {
-    "id": "Slow Effect on You",
-    "ko": "플레이어에게 적용되는 감속 효과",
-    "table": "passiveskills"
-  },
-  {
     "id": "Iron Slippers",
     "ko": "철제 슬리퍼",
     "table": "passiveskills"
@@ -39025,11 +38895,6 @@
     "table": "passiveskills"
   },
   {
-    "id": "Rage when Hit",
-    "ko": "피격 시 격노",
-    "table": "passiveskills"
-  },
-  {
     "id": "Vengeful Fury",
     "ko": "복수의 광분",
     "table": "passiveskills"
@@ -39052,11 +38917,6 @@
   {
     "id": "Invigorating Hate",
     "ko": "활기를 주는 증오",
-    "table": "passiveskills"
-  },
-  {
-    "id": "Later Rage Loss Start ",
-    "ko": "격노 상실 시작 지연",
     "table": "passiveskills"
   },
   {
@@ -40175,11 +40035,6 @@
     "table": "passiveskills"
   },
   {
-    "id": "Melee Damage ",
-    "ko": "근접 피해",
-    "table": "passiveskills"
-  },
-  {
     "id": "Melee Critical Chance",
     "ko": "근접 치명타 확률",
     "table": "passiveskills"
@@ -40397,11 +40252,6 @@
   {
     "id": "Projectile Damage",
     "ko": "투사체 피해",
-    "table": "passiveskills"
-  },
-  {
-    "id": "Stun Buildup",
-    "ko": "기절 축적",
     "table": "passiveskills"
   },
   {
@@ -42055,11 +41905,6 @@
     "table": "passiveskills"
   },
   {
-    "id": "Shapeshifted Damage",
-    "ko": "형태 변환 피해",
-    "table": "passiveskills"
-  },
-  {
     "id": "Shapeshifted Stun Buildup",
     "ko": "형태 변환 시 기절 축적",
     "table": "passiveskills"
@@ -42167,11 +42012,6 @@
   {
     "id": "Shapeshifted Energy Shield Delay",
     "ko": "형태 변환 상태일 때 에너지 보호막 지연시간",
-    "table": "passiveskills"
-  },
-  {
-    "id": "Shapeshifted Elemental Damage",
-    "ko": "형태 변환 상태일 때 원소 피해",
     "table": "passiveskills"
   },
   {
@@ -44510,11 +44350,6 @@
     "table": "passiveskills"
   },
   {
-    "id": "Movement Speed ",
-    "ko": "이동 속도",
-    "table": "passiveskills"
-  },
-  {
     "id": "Movement Speed and Slow Effect on You",
     "ko": "이동 속도 및 플레이어에게 적용되는 감속 효과",
     "table": "passiveskills"
@@ -44672,11 +44507,6 @@
   {
     "id": "Invigorating Archon",
     "ko": "활기를 주는 집정관",
-    "table": "passiveskills"
-  },
-  {
-    "id": "Archon Duration",
-    "ko": "집정관 효과",
     "table": "passiveskills"
   },
   {
@@ -45847,11 +45677,6 @@
   {
     "id": "Guardian",
     "ko": "가디언",
-    "table": "passiveskills"
-  },
-  {
-    "id": "Oracle",
-    "ko": "오라클",
     "table": "passiveskills"
   },
   {
