@@ -1,0 +1,9 @@
+# Only the translations/ folder is published to GitHub.
+# Everything else in this project (index.js, korean-search.html,
+# chrome-extension/, userscripts/, scripts/, data/, node_modules/,
+# virtualenvs, crawler output, ...) is local-only tooling for analysing
+# the game data and generating the translations/ dataset.
+/*
+!/translations/
+!/.gitignore
+
