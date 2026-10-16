@@ -1,0 +1,80 @@
+[
+  {
+    "id": "english",
+    "ko": "한글",
+    "baseItem": "base",
+    "itemClass": "class"
+  },
+  {
+    "id": "Skill damage multiplier",
+    "ko": "스킬 피해 배율"
+  },
+  {
+    "id": "#% converted to other types",
+    "ko": "다른 피해로 #% 전환"
+  },
+  {
+    "id": "Converted from Physical (#%)",
+    "ko": "물리 피해에서 전환 (#%)"
+  },
+  {
+    "id": "Converted from Lightning (#%)",
+    "ko": "번개 피해에서 전환 (#%)"
+  },
+  {
+    "id": "Converted from Cold (#%)",
+    "ko": "냉기 피해에서 전환 (#%)"
+  },
+  {
+    "id": "Converted from Fire (#%)",
+    "ko": "화염 피해에서 전환 (#%)"
+  },
+  {
+    "id": "Converted from Chaos (#%)",
+    "ko": "카오스 피해에서 전환 (#%)"
+  },
+  {
+    "id": "Added Physical Damage",
+    "ko": "추가된 물리 피해"
+  },
+  {
+    "id": "Added Lightning Damage",
+    "ko": "추가된 번개 피해"
+  },
+  {
+    "id": "Added Cold Damage",
+    "ko": "추가된 냉기 피해"
+  },
+  {
+    "id": "Added Fire Damage",
+    "ko": "추가된 화염 피해"
+  },
+  {
+    "id": "Added Chaos Damage",
+    "ko": "추가된 카오스 피해"
+  },
+  {
+    "id": "Gained from Physical (#%)",
+    "ko": "물리 피해에서 획득 (#%)"
+  },
+  {
+    "id": "Gained from Lightning (#%)",
+    "ko": "번개 피해에서 획득 (#%)"
+  },
+  {
+    "id": "Gained from Cold (#%)",
+    "ko": "냉기 피해에서 획득 (#%)"
+  },
+  {
+    "id": "Gained from Fire (#%)",
+    "ko": "화염 피해에서 획득 (#%)"
+  },
+  {
+    "id": "Gained from Chaos (#%)",
+    "ko": "카오스 피해에서 획득 (#%)"
+  },
+  {
+    "id": "Bifurcated Crit Damage Bonus (#%)",
+    "ko": "두 갈래 치명 피해 보너스 (#%)"
+  }
+]

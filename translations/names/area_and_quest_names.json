@@ -1,0 +1,2238 @@
+[
+  {
+    "id": "A Crown of Stone",
+    "ko": "돌의 왕관"
+  },
+  {
+    "id": "A Reprieve",
+    "ko": "유예"
+  },
+  {
+    "id": "A Theft of Ivory",
+    "ko": "상아 도둑"
+  },
+  {
+    "id": "A Travesty",
+    "ko": "엉터리 흉내"
+  },
+  {
+    "id": "A Warning",
+    "ko": "경고"
+  },
+  {
+    "id": "Abandoned Prison",
+    "ko": "버려진 감옥"
+  },
+  {
+    "id": "Abandoned Shrine",
+    "ko": "버려진 성소"
+  },
+  {
+    "id": "Abyssal Power",
+    "ko": "심연의 힘"
+  },
+  {
+    "id": "Aggorat",
+    "ko": "아고라트"
+  },
+  {
+    "id": "Ahkeli's Pillar",
+    "ko": "아켈리의 기둥"
+  },
+  {
+    "id": "Akthi and Anundr",
+    "ko": "아크티와 아눈드르"
+  },
+  {
+    "id": "Alima's Pillar",
+    "ko": "알리마의 기둥"
+  },
+  {
+    "id": "All at Sea Hideout",
+    "ko": "아득한 바다 은신처"
+  },
+  {
+    "id": "Alpine Plateau Hideout",
+    "ko": "높은 산의 고원 은신처"
+  },
+  {
+    "id": "Alpine Ridge",
+    "ko": "고산지대 산등성이"
+  },
+  {
+    "id": "Ancestral Hideout",
+    "ko": "선대의 은신처"
+  },
+  {
+    "id": "Ancestral Tattoos",
+    "ko": "선조 문신"
+  },
+  {
+    "id": "Ancient Arsenal",
+    "ko": "고대 병기창"
+  },
+  {
+    "id": "Ancient Beacons",
+    "ko": "고대 등대"
+  },
+  {
+    "id": "Ancient Cache",
+    "ko": "고대의 은닉함"
+  },
+  {
+    "id": "Ancient Gateway",
+    "ko": "고대 관문"
+  },
+  {
+    "id": "Ancient Ruin",
+    "ko": "고대 유적"
+  },
+  {
+    "id": "Ancient Treasures",
+    "ko": "고대 보물"
+  },
+  {
+    "id": "Ancient Vows",
+    "ko": "고대의 맹세"
+  },
+  {
+    "id": "Apex of Filth",
+    "ko": "오물의 정점"
+  },
+  {
+    "id": "Arastas",
+    "ko": "아라스타스"
+  },
+  {
+    "id": "Arbiter Boss Atlas Skill Books",
+    "ko": "중재자 보스 아틀라스 기술의 서"
+  },
+  {
+    "id": "Arbiter of Divinity",
+    "ko": "신성의 중재자"
+  },
+  {
+    "id": "Arcane Isle Hideout",
+    "ko": "비전의 섬 은신처"
+  },
+  {
+    "id": "Arid Plains",
+    "ko": "메마른 평야"
+  },
+  {
+    "id": "Arroyo",
+    "ko": "마른 하천"
+  },
+  {
+    "id": "Ascent to Power",
+    "ko": "힘의 상승"
+  },
+  {
+    "id": "Ash and Bone",
+    "ko": "재와 뼈"
+  },
+  {
+    "id": "Ashen Forest",
+    "ko": "잿빛 수림"
+  },
+  {
+    "id": "Atlas Hideout",
+    "ko": "아틀라스 은신처"
+  },
+  {
+    "id": "Augury",
+    "ko": "점술"
+  },
+  {
+    "id": "Azmerian Ranges",
+    "ko": "아즈메리 산맥"
+  },
+  {
+    "id": "Azurite Cavern Hideout",
+    "ko": "남동석 암굴 은신처"
+  },
+  {
+    "id": "Back in the Bottle",
+    "ko": "다시 병 속으로"
+  },
+  {
+    "id": "Backwash",
+    "ko": "역류"
+  },
+  {
+    "id": "Bared Runestones",
+    "ko": "드러난 룬석"
+  },
+  {
+    "id": "Barren Atoll",
+    "ko": "불모의 산호섬"
+  },
+  {
+    "id": "Bastille",
+    "ko": "방어탑"
+  },
+  {
+    "id": "Bazaar",
+    "ko": "장터"
+  },
+  {
+    "id": "Beacon of Salvation Hideout",
+    "ko": "구원의 등대 은신처"
+  },
+  {
+    "id": "Beast Pen",
+    "ko": "야수 우리"
+  },
+  {
+    "id": "Beckoning Clam",
+    "ko": "부르는 조개"
+  },
+  {
+    "id": "Bell Chest",
+    "ko": "종 상자"
+  },
+  {
+    "id": "Benedictus, First Herald",
+    "ko": "첫 번째 전령 베네딕투스"
+  },
+  {
+    "id": "Black Cathedral Hideout",
+    "ko": "검은 대성당 은신처"
+  },
+  {
+    "id": "Black Void Hideout",
+    "ko": "검은 공허 은신처"
+  },
+  {
+    "id": "Blacksmith Chest",
+    "ko": "대장장이 상자"
+  },
+  {
+    "id": "Blank Runes",
+    "ko": "빈 룬"
+  },
+  {
+    "id": "Bleached Shoals",
+    "ko": "표백된 모래톱"
+  },
+  {
+    "id": "Blood Offerings",
+    "ko": "피의 공물"
+  },
+  {
+    "id": "Blood in the Water",
+    "ko": "물속의 피"
+  },
+  {
+    "id": "Bloodreaver Manor Hideout",
+    "ko": "피 강탈자 저택 은신처"
+  },
+  {
+    "id": "Bloodwood",
+    "ko": "피숲"
+  },
+  {
+    "id": "Blooming Field",
+    "ko": "꽃피는 들판"
+  },
+  {
+    "id": "Boss Rush Area 1",
+    "ko": "보스 러시 지역 1"
+  },
+  {
+    "id": "Boss Rush Area 2",
+    "ko": "보스 러시 지역 2"
+  },
+  {
+    "id": "Boss Rush Area 3",
+    "ko": "보스 러시 지역 3"
+  },
+  {
+    "id": "Boundless Skies Hideout",
+    "ko": "광대한 창공 은신처"
+  },
+  {
+    "id": "Breach Atlas Skill Books",
+    "ko": "균열 아틀라스 기술의 서"
+  },
+  {
+    "id": "Brinerot Cove",
+    "ko": "부패한 염수단 만"
+  },
+  {
+    "id": "Bubbling Respite",
+    "ko": "부글대는 휴식"
+  },
+  {
+    "id": "Burial Bog",
+    "ko": "매장용 습지대"
+  },
+  {
+    "id": "Buried Shrines",
+    "ko": "묻힌 성소"
+  },
+  {
+    "id": "Caer Tarth",
+    "ko": "캐어 타르스"
+  },
+  {
+    "id": "Caldera",
+    "ko": "칼데라"
+  },
+  {
+    "id": "Canal Hideout",
+    "ko": "운하 은신처"
+  },
+  {
+    "id": "Canal Lever",
+    "ko": "운하 지렛대"
+  },
+  {
+    "id": "Canopy Hideout",
+    "ko": "우듬지 은신처"
+  },
+  {
+    "id": "Canyon",
+    "ko": "협곡"
+  },
+  {
+    "id": "Castaway",
+    "ko": "조난자"
+  },
+  {
+    "id": "Cataclysmic Hideout",
+    "ko": "대재앙 은신처"
+  },
+  {
+    "id": "Celestial Nebula Hideout",
+    "ko": "천공의 성운 은신처"
+  },
+  {
+    "id": "Cemetery of the Eternals",
+    "ko": "영원한 자의 공동묘지"
+  },
+  {
+    "id": "Cenotes",
+    "ko": "세노테"
+  },
+  {
+    "id": "Champion's Hideout",
+    "ko": "용사의 은신처"
+  },
+  {
+    "id": "Channel",
+    "ko": "물길"
+  },
+  {
+    "id": "Chaos Hideout",
+    "ko": "혼돈 은신처"
+  },
+  {
+    "id": "Chaos Statue",
+    "ko": "카오스 조각상"
+  },
+  {
+    "id": "Character Select",
+    "ko": "캐릭터 선택"
+  },
+  {
+    "id": "Chimeral Wetlands",
+    "ko": "키메랄 습지대"
+  },
+  {
+    "id": "Chiyou Hideout",
+    "ko": "치우 은신처"
+  },
+  {
+    "id": "Civic Square Hideout",
+    "ko": "시민 광장 은신처"
+  },
+  {
+    "id": "Clearfell",
+    "ko": "클리어펠"
+  },
+  {
+    "id": "Clearfell Encampment",
+    "ko": "클리어펠 야영지"
+  },
+  {
+    "id": "Clearing the Way",
+    "ko": "길 내기"
+  },
+  {
+    "id": "Cliffside",
+    "ko": "낭떠러지"
+  },
+  {
+    "id": "Confluence",
+    "ko": "합류지"
+  },
+  {
+    "id": "Cooled Bridge",
+    "ko": "식은 다리"
+  },
+  {
+    "id": "Corrupted Hideout",
+    "ko": "타락한 은신처"
+  },
+  {
+    "id": "Cracks in the Earth",
+    "ko": "땅에 생긴 균열"
+  },
+  {
+    "id": "Craggy Peninsula",
+    "ko": "바위투성이 반도"
+  },
+  {
+    "id": "Crimson Shores",
+    "ko": "붉은 물가"
+  },
+  {
+    "id": "Crop Circle",
+    "ko": "수수께끼의 원무늬"
+  },
+  {
+    "id": "Crucible Hideout",
+    "ko": "혹독한 시련의 은신처"
+  },
+  {
+    "id": "Crux of Nothingness",
+    "ko": "허무의 핵심"
+  },
+  {
+    "id": "Current Town",
+    "ko": "현재 마을"
+  },
+  {
+    "id": "Dark Domain",
+    "ko": "어둠의 영토"
+  },
+  {
+    "id": "Dark Mists",
+    "ko": "어둑한 안개"
+  },
+  {
+    "id": "Dark Omens",
+    "ko": "어두운 징조"
+  },
+  {
+    "id": "Darkwood Hideout",
+    "ko": "흑단목 은신처"
+  },
+  {
+    "id": "Death in the Ranges",
+    "ko": "산맥의 죽음"
+  },
+  {
+    "id": "Decayed Laboratory",
+    "ko": "쇠퇴한 실험실"
+  },
+  {
+    "id": "Decrepit Runestones",
+    "ko": "노후한 룬석"
+  },
+  {
+    "id": "Deforestation",
+    "ko": "벌채지"
+  },
+  {
+    "id": "Delirium Atlas Skill Books",
+    "ko": "환영 아틀라스 기술의 서"
+  },
+  {
+    "id": "Derelict Catacombs",
+    "ko": "방치된 지하 묘지"
+  },
+  {
+    "id": "Derelict Mansion",
+    "ko": "방치된 저택"
+  },
+  {
+    "id": "Desert Omens",
+    "ko": "사막의 징조"
+  },
+  {
+    "id": "Deserted",
+    "ko": "인적 없는"
+  },
+  {
+    "id": "Deserted Post",
+    "ko": "버려진 초소"
+  },
+  {
+    "id": "Deshar",
+    "ko": "데샤르"
+  },
+  {
+    "id": "Design (Lite)",
+    "ko": "디자인 (라이트)"
+  },
+  {
+    "id": "Digsite",
+    "ko": "발굴 현장"
+  },
+  {
+    "id": "Doomed Mine",
+    "ko": "몰락한 광산"
+  },
+  {
+    "id": "Doomguard Hideout",
+    "ko": "파멸수호병 은신처"
+  },
+  {
+    "id": "Doryani's Science",
+    "ko": "도리아니의 과학"
+  },
+  {
+    "id": "Dread Crab",
+    "ko": "공포의 게"
+  },
+  {
+    "id": "Dreadnought",
+    "ko": "드레드노트"
+  },
+  {
+    "id": "Druid Trailer",
+    "ko": "드루이드 트레일러"
+  },
+  {
+    "id": "Dryadic Ritual",
+    "ko": "드라이어드의 의식"
+  },
+  {
+    "id": "Earning Passage",
+    "ko": "통행의 자격"
+  },
+  {
+    "id": "Eastern Enigma Chamber",
+    "ko": "동쪽 수수께끼 석실"
+  },
+  {
+    "id": "Eastern Gateway",
+    "ko": "동쪽 관문"
+  },
+  {
+    "id": "Eclipsed Hideout",
+    "ko": "그늘진 은신처"
+  },
+  {
+    "id": "Elemental Offering",
+    "ko": "원소 공물"
+  },
+  {
+    "id": "Embattled Trove",
+    "ko": "교전 중인 발견물"
+  },
+  {
+    "id": "Emerging Arm",
+    "ko": "나타나는 팔"
+  },
+  {
+    "id": "Endgame Unique Quest",
+    "ko": "엔드게임 고유 퀘스트"
+  },
+  {
+    "id": "Endless Sands Hideout",
+    "ko": "끝없는 사막 은신처"
+  },
+  {
+    "id": "Entombed Hideout",
+    "ko": "매장된 은신처"
+  },
+  {
+    "id": "Epitaph",
+    "ko": "비문"
+  },
+  {
+    "id": "Ervig, the Rotten Druid",
+    "ko": "썩은 드루이드 에르빅"
+  },
+  {
+    "id": "Etched Ravine",
+    "ko": "아로새겨진 심곡"
+  },
+  {
+    "id": "Eternal Wasteland Hideout",
+    "ko": "영원의 황무지 은신처"
+  },
+  {
+    "id": "Exhumed Ruins",
+    "ko": "파헤쳐진 폐허"
+  },
+  {
+    "id": "Expedition Atlas Skill Books",
+    "ko": "탐험 아틀라스 기술의 서"
+  },
+  {
+    "id": "Explore the Temple",
+    "ko": "사원 탐험하기"
+  },
+  {
+    "id": "Eye of Hinekora",
+    "ko": "히네코라의 눈"
+  },
+  {
+    "id": "Ezomyte Infiltration",
+    "ko": "에조미어의 침투"
+  },
+  {
+    "id": "Facing the Simulacrum",
+    "ko": "복제된 영토 마주하기"
+  },
+  {
+    "id": "Famed Pond",
+    "ko": "유명한 연못"
+  },
+  {
+    "id": "Faridun Foray",
+    "ko": "파리둔 급습"
+  },
+  {
+    "id": "Faridun War Cache",
+    "ko": "파리둔 전쟁 은닉함"
+  },
+  {
+    "id": "Farmlands Hideout",
+    "ko": "농지 은신처"
+  },
+  {
+    "id": "Felled Hideout",
+    "ko": "벌채된 은신처"
+  },
+  {
+    "id": "Final Letter",
+    "ko": "마지막 편지"
+  },
+  {
+    "id": "Finding the Forge",
+    "ko": "대장간 찾기"
+  },
+  {
+    "id": "Flotsam",
+    "ko": "표류물"
+  },
+  {
+    "id": "Follow Tavakai",
+    "ko": "타바카이 따라가기"
+  },
+  {
+    "id": "Forgotten Cells",
+    "ko": "잊혀진 감방"
+  },
+  {
+    "id": "Forgotten Riches",
+    "ko": "잊혀진 재물"
+  },
+  {
+    "id": "Forward Command Tents",
+    "ko": "전방 지휘 막사"
+  },
+  {
+    "id": "Freight",
+    "ko": "화물"
+  },
+  {
+    "id": "Freythorn",
+    "ko": "프레이쏜"
+  },
+  {
+    "id": "Frigid Bluffs",
+    "ko": "차디찬 절벽"
+  },
+  {
+    "id": "Frozen Falls",
+    "ko": "얼어붙은 폭포"
+  },
+  {
+    "id": "Frozen Lake Hideout",
+    "ko": "얼어붙은 호수 은신처"
+  },
+  {
+    "id": "Furious Hideout",
+    "ko": "분개한 은신처"
+  },
+  {
+    "id": "Galai's Pillar",
+    "ko": "갈라이의 기둥"
+  },
+  {
+    "id": "Garukhan's Tomb",
+    "ko": "가루칸의 무덤"
+  },
+  {
+    "id": "Ghost-lit Graveyard Hideout",
+    "ko": "유령이 밝힌 묘지 은신처"
+  },
+  {
+    "id": "Gilded Deposit",
+    "ko": "도금된 광맥"
+  },
+  {
+    "id": "Glacial Expanse Hideout",
+    "ko": "드넓은 빙하 은신처"
+  },
+  {
+    "id": "Glacial Tarn",
+    "ko": "빙하 호수"
+  },
+  {
+    "id": "Goddess of Justice",
+    "ko": "정의의 여신"
+  },
+  {
+    "id": "Golden Bells",
+    "ko": "금 종"
+  },
+  {
+    "id": "Golden Tomb",
+    "ko": "황금 무덤"
+  },
+  {
+    "id": "Grave Findings",
+    "ko": "엄중한 발견"
+  },
+  {
+    "id": "Grave Tidings",
+    "ko": "엄중한 소식"
+  },
+  {
+    "id": "Grazed Prairie",
+    "ko": "풀이 뜯긴 프레리"
+  },
+  {
+    "id": "Greater Blank Runes",
+    "ko": "상위 빈 룬"
+  },
+  {
+    "id": "Greenhouse",
+    "ko": "온실"
+  },
+  {
+    "id": "Grim Portents",
+    "ko": "음울한 전조"
+  },
+  {
+    "id": "Grimhaven",
+    "ko": "그림헤이븐"
+  },
+  {
+    "id": "Grinding Hideout",
+    "ko": "연마하는 은신처"
+  },
+  {
+    "id": "Guarded Sarcophagus",
+    "ko": "보호받는 석관"
+  },
+  {
+    "id": "Halani's Pillar",
+    "ko": "할라니의 기둥"
+  },
+  {
+    "id": "Halls of the Dead",
+    "ko": "죽음의 전당"
+  },
+  {
+    "id": "Hanging Tree",
+    "ko": "매달린 나무"
+  },
+  {
+    "id": "Headland",
+    "ko": "갑"
+  },
+  {
+    "id": "Heart of the Tribe",
+    "ko": "부족의 심장부"
+  },
+  {
+    "id": "Hidden Aquifer",
+    "ko": "숨겨진 대수층"
+  },
+  {
+    "id": "Hidden Grotto",
+    "ko": "숨겨진 석굴"
+  },
+  {
+    "id": "Hilda's Campsite",
+    "ko": "힐다의 야영지"
+  },
+  {
+    "id": "Hilda's Hunting",
+    "ko": "힐다의 사냥"
+  },
+  {
+    "id": "Historical Utzaal, draft #1\r\nest. year 400bic\r\npreliminary survey\r\nfor the future records of\r\nThe Reliquarians, 1619ic",
+    "ko": "웃자알 역사, 초안 1 제국력 전 400년 설립됨 유물 탐색자의 추후 기록을 위한 예비 조사, 제국력 1619년"
+  },
+  {
+    "id": "Hive Colony",
+    "ko": "벌레집 군락지"
+  },
+  {
+    "id": "Hive Fortress",
+    "ko": "벌레집 요새"
+  },
+  {
+    "id": "Holten",
+    "ko": "홀튼"
+  },
+  {
+    "id": "Holten Estate",
+    "ko": "홀튼 영지"
+  },
+  {
+    "id": "Hostile Takeover",
+    "ko": "적대적 영역"
+  },
+  {
+    "id": "Hourglass Hideout",
+    "ko": "모래시계 은신처"
+  },
+  {
+    "id": "Howling Caves",
+    "ko": "울부짖는 동굴"
+  },
+  {
+    "id": "Howling Winds",
+    "ko": "울부짖는 바람"
+  },
+  {
+    "id": "Humanoid Pet Hideout",
+    "ko": "인간형 애완동물 은신처"
+  },
+  {
+    "id": "Hunting Grounds",
+    "ko": "사냥터"
+  },
+  {
+    "id": "Ice Cave",
+    "ko": "얼음 동굴"
+  },
+  {
+    "id": "Indomitable Hideout",
+    "ko": "불굴의 은신처"
+  },
+  {
+    "id": "Inferno",
+    "ko": "지옥불"
+  },
+  {
+    "id": "Infested Barrens",
+    "ko": "들끓는 불모지"
+  },
+  {
+    "id": "Infiltrating Oriath",
+    "ko": "오리아스 침투"
+  },
+  {
+    "id": "Infinite Abyss Hideout",
+    "ko": "무한한 심연 은신처"
+  },
+  {
+    "id": "Innocent Hideout",
+    "ko": "순수한 은신처"
+  },
+  {
+    "id": "Interlude",
+    "ko": "막간"
+  },
+  {
+    "id": "Isle of Decay",
+    "ko": "부패의 섬"
+  },
+  {
+    "id": "Isle of Kin",
+    "ko": "혈족의 섬"
+  },
+  {
+    "id": "Isolde and Heldra",
+    "ko": "이졸데와 헬드라"
+  },
+  {
+    "id": "Jado's Campsite",
+    "ko": "자도의 야영지"
+  },
+  {
+    "id": "Jado's Spycraft",
+    "ko": "자도의 첩보술"
+  },
+  {
+    "id": "Jiquani's Machinarium",
+    "ko": "지콰니의 기계실"
+  },
+  {
+    "id": "Jiquani's Sanctum",
+    "ko": "지콰니의 지성소"
+  },
+  {
+    "id": "Journey's End",
+    "ko": "여정의 끝"
+  },
+  {
+    "id": "Jungle Clearing Hideout",
+    "ko": "밀림 빈터 은신처"
+  },
+  {
+    "id": "Jungle Ruins",
+    "ko": "밀림 유적"
+  },
+  {
+    "id": "Kalguuran Tomb",
+    "ko": "칼구르 무덤"
+  },
+  {
+    "id": "Kedge Bay",
+    "ko": "닻의 만"
+  },
+  {
+    "id": "Keepers of the Flame",
+    "ko": "불길의 수호자들"
+  },
+  {
+    "id": "Kingsmarch",
+    "ko": "킹스마치"
+  },
+  {
+    "id": "Kochai's Pillar",
+    "ko": "코차이의 기둥"
+  },
+  {
+    "id": "Kraken's Cove Hideout",
+    "ko": "크라켄의 만 은신처"
+  },
+  {
+    "id": "Kriar Peaks",
+    "ko": "크리아 봉우리"
+  },
+  {
+    "id": "Kriar Village",
+    "ko": "크리아 마을"
+  },
+  {
+    "id": "Land of the Kin",
+    "ko": "혈족의 땅"
+  },
+  {
+    "id": "Legacy of the Maji",
+    "ko": "마지의 유산"
+  },
+  {
+    "id": "Legacy of the Precursors",
+    "ko": "선도자의 유산"
+  },
+  {
+    "id": "Legacy of the Vaal",
+    "ko": "바알의 유산"
+  },
+  {
+    "id": "Library of Kamasa",
+    "ko": "카마사의 도서관"
+  },
+  {
+    "id": "Lightless Passage",
+    "ko": "무광의 통로"
+  },
+  {
+    "id": "Lightless Void",
+    "ko": "무광의 공허"
+  },
+  {
+    "id": "Limestone Hideout",
+    "ko": "석회암 은신처"
+  },
+  {
+    "id": "Loathsome Mire",
+    "ko": "혐오스러운 진창"
+  },
+  {
+    "id": "Lofty Summit",
+    "ko": "높은 정상"
+  },
+  {
+    "id": "Login Scene",
+    "ko": "로그인 장면"
+  },
+  {
+    "id": "Lost Catacombs",
+    "ko": "사라진 지하 묘지"
+  },
+  {
+    "id": "Lost Temple",
+    "ko": "사라진 사원"
+  },
+  {
+    "id": "Lost Towers",
+    "ko": "잃어버린 탑"
+  },
+  {
+    "id": "Lush Isle",
+    "ko": "우거진 섬"
+  },
+  {
+    "id": "Mad Butcher",
+    "ko": "미친 도살자"
+  },
+  {
+    "id": "Magma Twins",
+    "ko": "마그마 쌍둥이"
+  },
+  {
+    "id": "Map Boss Atlas Skill Books",
+    "ko": "지도 보스 아틀라스 기술의 서"
+  },
+  {
+    "id": "Marrow",
+    "ko": "골수"
+  },
+  {
+    "id": "Mastodon Badlands",
+    "ko": "마스토돈 불모지"
+  },
+  {
+    "id": "Mausoleum Hideout",
+    "ko": "능묘 은신처"
+  },
+  {
+    "id": "Mausoleum of the Praetor",
+    "ko": "집정관의 능묘"
+  },
+  {
+    "id": "Mawdun Mine",
+    "ko": "모둔 광산"
+  },
+  {
+    "id": "Mawdun Quarry",
+    "ko": "모둔 채석장"
+  },
+  {
+    "id": "Meeting House",
+    "ko": "회관"
+  },
+  {
+    "id": "Merchant's Campsite",
+    "ko": "상인의 야영지"
+  },
+  {
+    "id": "Mezzanine",
+    "ko": "중층"
+  },
+  {
+    "id": "Mineshaft",
+    "ko": "갱도"
+  },
+  {
+    "id": "Molten Flow",
+    "ko": "마그마 흐름"
+  },
+  {
+    "id": "Molten Shrine",
+    "ko": "녹아내린 성소"
+  },
+  {
+    "id": "Molten Vault",
+    "ko": "녹아내린 금고실"
+  },
+  {
+    "id": "Moment of Zen",
+    "ko": "한 순간의 선"
+  },
+  {
+    "id": "Monastery of the Keepers",
+    "ko": "수호자들의 수도원"
+  },
+  {
+    "id": "Monolith Hideout",
+    "ko": "거석 은신처"
+  },
+  {
+    "id": "Moor of Fallen Skies",
+    "ko": "무너진 하늘의 황야"
+  },
+  {
+    "id": "Morbid Hideout",
+    "ko": "소름 끼치는 은신처"
+  },
+  {
+    "id": "Mortuary",
+    "ko": "시체 안치소"
+  },
+  {
+    "id": "Mournful Cliffside",
+    "ko": "음울한 낭떠러지"
+  },
+  {
+    "id": "Mud Burrow",
+    "ko": "진흙 토굴"
+  },
+  {
+    "id": "Mysterious Altars",
+    "ko": "수수께끼의 제단"
+  },
+  {
+    "id": "Mysterious Campsite",
+    "ko": "수수께끼의 야영지"
+  },
+  {
+    "id": "Mystic Refuge",
+    "ko": "신비한 피난처"
+  },
+  {
+    "id": "Narag's Hut",
+    "ko": "나라그의 오두막"
+  },
+  {
+    "id": "Navali's Rest",
+    "ko": "나발리의 휴식처"
+  },
+  {
+    "id": "Necropolis",
+    "ko": "매장지"
+  },
+  {
+    "id": "Ngakanu",
+    "ko": "응가카누"
+  },
+  {
+    "id": "Ngamahu's Test",
+    "ko": "나마후의 시험"
+  },
+  {
+    "id": "No Rest for the Blighted",
+    "ko": "역병 걸린 자에게 안식은 없다"
+  },
+  {
+    "id": "Obscure Island",
+    "ko": "후미진 섬"
+  },
+  {
+    "id": "Ogham Farmlands",
+    "ko": "오검 농지"
+  },
+  {
+    "id": "Ogham Manor",
+    "ko": "오검 저택"
+  },
+  {
+    "id": "Ogham county, est. 1132ic\r\nin the province of Phaaryl\r\nSurvey commissioned by\r\nthe office of Count Geonor\r\nin the year of 1619ic",
+    "ko": "오검 자치주, 제국력 1132년 파아릴 도내에 설립 제국력 1619년 지오너 백작 집무실에서 측량 실시"
+  },
+  {
+    "id": "Ominous Altars",
+    "ko": "불길한 제단"
+  },
+  {
+    "id": "Orbala's Crossing",
+    "ko": "오발라의 교차로"
+  },
+  {
+    "id": "Orbala's Pillar",
+    "ko": "오발라의 기둥"
+  },
+  {
+    "id": "Ornate Chambers",
+    "ko": "화려한 석실"
+  },
+  {
+    "id": "Orok Campfire",
+    "ko": "오로크 모닥불"
+  },
+  {
+    "id": "Orok Poison",
+    "ko": "오로크 독"
+  },
+  {
+    "id": "Outlands",
+    "ko": "외곽 지역"
+  },
+  {
+    "id": "Overgrown",
+    "ko": "무성한 땅"
+  },
+  {
+    "id": "Overgrown Apex Hideout",
+    "ko": "무성한 정점 은신처"
+  },
+  {
+    "id": "Paquate's Mechanism",
+    "ko": "파콰테의 장치"
+  },
+  {
+    "id": "Path of Mourning",
+    "ko": "통곡의 길"
+  },
+  {
+    "id": "Peculiar Fortunes",
+    "ko": "기이한 재물"
+  },
+  {
+    "id": "Penitentiary",
+    "ko": "교도소"
+  },
+  {
+    "id": "Pinned Down",
+    "ko": "속박"
+  },
+  {
+    "id": "Plantation",
+    "ko": "플랜테이션"
+  },
+  {
+    "id": "Plateau of the Gods Hideout",
+    "ko": "신들의 고원 은신처"
+  },
+  {
+    "id": "Pleasure and Pain",
+    "ko": "기쁨과 고통"
+  },
+  {
+    "id": "Plumbing the Depths",
+    "ko": "심연 파헤치기"
+  },
+  {
+    "id": "Plunder's Point",
+    "ko": "약탈의 거점"
+  },
+  {
+    "id": "Polaric Hideout",
+    "ko": "극성의 은신처"
+  },
+  {
+    "id": "Pools of Khatal",
+    "ko": "카탈의 웅덩이"
+  },
+  {
+    "id": "Powerful Foe",
+    "ko": "강력한 적"
+  },
+  {
+    "id": "Precipice",
+    "ko": "벼랑"
+  },
+  {
+    "id": "Precursor Tower",
+    "ko": "선도자 탑"
+  },
+  {
+    "id": "Precursor Vault",
+    "ko": "선도자 금고실"
+  },
+  {
+    "id": "Preserved Witness",
+    "ko": "보존된 증인"
+  },
+  {
+    "id": "Prison Hideout",
+    "ko": "감옥 은신처"
+  },
+  {
+    "id": "Programming World",
+    "ko": "프로그래밍 월드"
+  },
+  {
+    "id": "Programming World (Lite)",
+    "ko": "프로그래밍 월드"
+  },
+  {
+    "id": "Qimah",
+    "ko": "키마"
+  },
+  {
+    "id": "Qimah Reservoir",
+    "ko": "키마 저수지"
+  },
+  {
+    "id": "Rancid Nest",
+    "ko": "악취 나는 둥지"
+  },
+  {
+    "id": "Ravaged Camp",
+    "ko": "황폐한 야영지"
+  },
+  {
+    "id": "Ravenous Hideout",
+    "ko": "굶주린 은신처"
+  },
+  {
+    "id": "Ravine",
+    "ko": "심곡"
+  },
+  {
+    "id": "Razed Fields",
+    "ko": "초토화된 들판"
+  },
+  {
+    "id": "Reaching Clearfell",
+    "ko": "클리어펠을 향해"
+  },
+  {
+    "id": "Recruit the Ezomytes",
+    "ko": "에조미어인 모집"
+  },
+  {
+    "id": "Recruit the Maraketh",
+    "ko": "마라케스인 모집"
+  },
+  {
+    "id": "Recruit the Vaal",
+    "ko": "바알인 모집"
+  },
+  {
+    "id": "Red Queen's Chambers Hideout",
+    "ko": "붉은 여왕의 방 은신처"
+  },
+  {
+    "id": "Redeemer's Hideout",
+    "ko": "대속자의 은신처"
+  },
+  {
+    "id": "Remote Station",
+    "ko": "외딴 초소"
+  },
+  {
+    "id": "Renly's Workshop",
+    "ko": "렌리의 작업장"
+  },
+  {
+    "id": "Reservoir",
+    "ko": "저수지"
+  },
+  {
+    "id": "Ritual Altar",
+    "ko": "의식 제단"
+  },
+  {
+    "id": "Ritual Atlas Skill Books",
+    "ko": "의식 아틀라스 기술의 서"
+  },
+  {
+    "id": "Ritualist's Hideout",
+    "ko": "의식술사의 은신처"
+  },
+  {
+    "id": "Riverhold",
+    "ko": "강요새"
+  },
+  {
+    "id": "Riverside",
+    "ko": "강변"
+  },
+  {
+    "id": "Rockpools",
+    "ko": "바위틈 웅덩이"
+  },
+  {
+    "id": "Root Hollow",
+    "ko": "뿌리 동혈"
+  },
+  {
+    "id": "Roving Wisps",
+    "ko": "떠도는 도깨비불"
+  },
+  {
+    "id": "Rugosa",
+    "ko": "루고사"
+  },
+  {
+    "id": "Ruins of Kingsmarch",
+    "ko": "킹스마치의 폐허"
+  },
+  {
+    "id": "Runic Catacombs",
+    "ko": "룬 지하 묘지"
+  },
+  {
+    "id": "Rupture",
+    "ko": "파열"
+  },
+  {
+    "id": "Rustbowl",
+    "ko": "녹그릇"
+  },
+  {
+    "id": "Sacred Reservoir",
+    "ko": "성스러운 저수지"
+  },
+  {
+    "id": "Sacred Well",
+    "ko": "성스러운 우물"
+  },
+  {
+    "id": "Sacrificial Apex Hideout",
+    "ko": "희생의 정점 은신처"
+  },
+  {
+    "id": "Saints End Monastery Hideout",
+    "ko": "성자의 끝 수도원 은신처"
+  },
+  {
+    "id": "Sanctuary",
+    "ko": "성역"
+  },
+  {
+    "id": "Sands of Ruin",
+    "ko": "폐허의 사막"
+  },
+  {
+    "id": "Sandspit",
+    "ko": "모래 구덩이"
+  },
+  {
+    "id": "Sandswept Marsh",
+    "ko": "모래에 휩쓸린 습지"
+  },
+  {
+    "id": "Savage Wilds",
+    "ko": "가차 없는 대자연"
+  },
+  {
+    "id": "Savannah",
+    "ko": "사바나"
+  },
+  {
+    "id": "Scorched Cay",
+    "ko": "그을린 암초"
+  },
+  {
+    "id": "Scorched Farmlands",
+    "ko": "그을린 농지"
+  },
+  {
+    "id": "Scrying Pool",
+    "ko": "예지의 웅덩이"
+  },
+  {
+    "id": "Sealed Vault",
+    "ko": "봉인된 금고실"
+  },
+  {
+    "id": "Searing Hideout",
+    "ko": "이글거리는 은신처"
+  },
+  {
+    "id": "Secluded Temple",
+    "ko": "외딴 사원"
+  },
+  {
+    "id": "Secrets in the Dark",
+    "ko": "어둠 속의 비밀"
+  },
+  {
+    "id": "Seepage",
+    "ko": "누수"
+  },
+  {
+    "id": "Seething Hideout",
+    "ko": "끓어오르는 은신처"
+  },
+  {
+    "id": "Sel Khari Sanctuary",
+    "ko": "셀 카리 성역"
+  },
+  {
+    "id": "Shadow Over Ogham",
+    "ko": "오검에 드리운 그림자"
+  },
+  {
+    "id": "Shaped Hideout",
+    "ko": "형성된 은신처"
+  },
+  {
+    "id": "Shifting Vases",
+    "ko": "움직이는 화병"
+  },
+  {
+    "id": "Shipwreck Hideout",
+    "ko": "난파선 은신처"
+  },
+  {
+    "id": "Shoreline Hideout",
+    "ko": "해안선 은신처"
+  },
+  {
+    "id": "Shrike Island",
+    "ko": "때까치 섬"
+  },
+  {
+    "id": "Shrine Hideout",
+    "ko": "성소 은신처"
+  },
+  {
+    "id": "Shrine of Bones",
+    "ko": "뼈의 성소"
+  },
+  {
+    "id": "Siege of Oriath",
+    "ko": "오리아스 공성전"
+  },
+  {
+    "id": "Sigbert and Godwin",
+    "ko": "시그버트와 고드윈"
+  },
+  {
+    "id": "Simulacrum of Delusion",
+    "ko": "망상의 복제된 영토"
+  },
+  {
+    "id": "Singing Caverns",
+    "ko": "노래하는 암굴"
+  },
+  {
+    "id": "Sinkhole",
+    "ko": "낙수혈"
+  },
+  {
+    "id": "Sinking Spire",
+    "ko": "가라앉는 첨탑"
+  },
+  {
+    "id": "Sinter Rift",
+    "ko": "유황화 균열"
+  },
+  {
+    "id": "Siren Pearl",
+    "ko": "사이렌 진주"
+  },
+  {
+    "id": "Sisters of Garukhan",
+    "ko": "가루칸의 자매들"
+  },
+  {
+    "id": "Site of the Chosen",
+    "ko": "선택받은 자의 장소"
+  },
+  {
+    "id": "Skull of the Titan",
+    "ko": "거신의 두개골"
+  },
+  {
+    "id": "Sloughed Gully",
+    "ko": "진창이 된 고랑"
+  },
+  {
+    "id": "Smuggler's Den",
+    "ko": "밀수범 소굴"
+  },
+  {
+    "id": "Snowfall",
+    "ko": "강설"
+  },
+  {
+    "id": "Solitary Confinement",
+    "ko": "독방 감금실"
+  },
+  {
+    "id": "Sorrow Among Stones",
+    "ko": "돌들 사이의 슬픔"
+  },
+  {
+    "id": "Spider Woods",
+    "ko": "거미 숲"
+  },
+  {
+    "id": "Sprawling Jungle",
+    "ko": "뻗어 가는 밀림"
+  },
+  {
+    "id": "Spring",
+    "ko": "샘"
+  },
+  {
+    "id": "Stagnant Basin",
+    "ko": "고인 분지"
+  },
+  {
+    "id": "Stale Crevice",
+    "ko": "퀴퀴한 틈새"
+  },
+  {
+    "id": "Steaming Springs",
+    "ko": "증기 뿜는 샘"
+  },
+  {
+    "id": "Steppe",
+    "ko": "아열대 초원"
+  },
+  {
+    "id": "Stones of Serle",
+    "ko": "세를의 두름돌"
+  },
+  {
+    "id": "Strange Reflection",
+    "ko": "이상한 투영"
+  },
+  {
+    "id": "Stronghold",
+    "ko": "요새"
+  },
+  {
+    "id": "Submerged Hideout",
+    "ko": "물에 잠긴 은신처"
+  },
+  {
+    "id": "Sulphur Mines",
+    "ko": "유황 광산"
+  },
+  {
+    "id": "Sulphuric Caverns",
+    "ko": "유황 동굴"
+  },
+  {
+    "id": "Sun Temple",
+    "ko": "태양의 사원"
+  },
+  {
+    "id": "Sunken Palace Hideout",
+    "ko": "가라앉은 궁전 은신처"
+  },
+  {
+    "id": "Sunken Pyramid",
+    "ko": "가라앉은 피라미드"
+  },
+  {
+    "id": "Sunspire Hideout",
+    "ko": "태양첨탑 은신처"
+  },
+  {
+    "id": "Synthesis Hideout",
+    "ko": "결합 은신처"
+  },
+  {
+    "id": "Tabana's Pillar",
+    "ko": "타바나의 기둥"
+  },
+  {
+    "id": "Tangled Hideout",
+    "ko": "얽힌 은신처"
+  },
+  {
+    "id": "Tasalio's Test",
+    "ko": "타살리오의 시험"
+  },
+  {
+    "id": "Tavakai, Tukohama Chieftain",
+    "ko": "투코하마 부족장 타바카이"
+  },
+  {
+    "id": "Tavern Hideout",
+    "ko": "선술집 은신처"
+  },
+  {
+    "id": "Tawhoa's Test",
+    "ko": "타호아의 시험"
+  },
+  {
+    "id": "Temple of Kopec",
+    "ko": "코펙의 사원"
+  },
+  {
+    "id": "Terrace",
+    "ko": "테라스"
+  },
+  {
+    "id": "Thane Wulfric and Lady Elswyth",
+    "ko": "테인 울프릭과 여인 엘스위트"
+  },
+  {
+    "id": "Thaumaturgical Hideout",
+    "ko": "마석학 은신처"
+  },
+  {
+    "id": "The Ardura Caravan",
+    "ko": "아르듀라 카라반"
+  },
+  {
+    "id": "The Armoury",
+    "ko": "병기 창고"
+  },
+  {
+    "id": "The Assembly",
+    "ko": "조립 시설"
+  },
+  {
+    "id": "The Azak Bog",
+    "ko": "아자크 습지대"
+  },
+  {
+    "id": "The Black Chambers",
+    "ko": "검은 내실"
+  },
+  {
+    "id": "The Blackwood",
+    "ko": "검은 숲"
+  },
+  {
+    "id": "The Bone Pits",
+    "ko": "뼈 구덩이"
+  },
+  {
+    "id": "The Captain's Hideaway",
+    "ko": "선장의 은신처"
+  },
+  {
+    "id": "The Chained Beast",
+    "ko": "사슬에 매인 짐승"
+  },
+  {
+    "id": "The City of Seven Waters",
+    "ko": "일곱 갈래 물의 도시"
+  },
+  {
+    "id": "The Copper Citadel",
+    "ko": "구리의 성채"
+  },
+  {
+    "id": "The Cuachic Vault",
+    "ko": "쿠아식 금고실"
+  },
+  {
+    "id": "The Dreadnought Hideout",
+    "ko": "드레드노트 은신처"
+  },
+  {
+    "id": "The Dreadnought's Wake",
+    "ko": "드레드노트의 바퀴 자국"
+  },
+  {
+    "id": "The Drowned City",
+    "ko": "물에 잠긴 도시"
+  },
+  {
+    "id": "The Edge of Nothingness",
+    "ko": "허무의 변두리"
+  },
+  {
+    "id": "The Excavation",
+    "ko": "발굴터"
+  },
+  {
+    "id": "The Ezomyte Megaliths",
+    "ko": "에조미어 거석"
+  },
+  {
+    "id": "The Fallen Hero",
+    "ko": "몰락한 영웅"
+  },
+  {
+    "id": "The Fallen Star",
+    "ko": "별똥별"
+  },
+  {
+    "id": "The Ferryman",
+    "ko": "뱃사공"
+  },
+  {
+    "id": "The Forgotten Hollow",
+    "ko": "잊혀진 동혈"
+  },
+  {
+    "id": "The Forgotten Prisoner",
+    "ko": "잊혀진 포로"
+  },
+  {
+    "id": "The Fractured Lake",
+    "ko": "분열된 호수"
+  },
+  {
+    "id": "The Galai Gates",
+    "ko": "갈라이 문"
+  },
+  {
+    "id": "The Galleria",
+    "ko": "회랑"
+  },
+  {
+    "id": "The Gallows",
+    "ko": "교수대"
+  },
+  {
+    "id": "The Glade",
+    "ko": "풀숲"
+  },
+  {
+    "id": "The Grand Expedition",
+    "ko": "대탐험"
+  },
+  {
+    "id": "The Grand Quest",
+    "ko": "중차대한 임무"
+  },
+  {
+    "id": "The Grelwood",
+    "ko": "그렐우드"
+  },
+  {
+    "id": "The Grim Tangle",
+    "ko": "으스스한 덩굴"
+  },
+  {
+    "id": "The Halani Gates",
+    "ko": "할라니 관문"
+  },
+  {
+    "id": "The Hooded One's Request",
+    "ko": "두건 쓴 자의 요청"
+  },
+  {
+    "id": "The Hunt Begins",
+    "ko": "사냥의 시작"
+  },
+  {
+    "id": "The Iron Citadel",
+    "ko": "철의 성채"
+  },
+  {
+    "id": "The Jade Isles",
+    "ko": "비취 군도"
+  },
+  {
+    "id": "The Khari Bazaar",
+    "ko": "카리 장터"
+  },
+  {
+    "id": "The Khari Crossing",
+    "ko": "카리 교차로"
+  },
+  {
+    "id": "The Land of Seven Waters\r\nkept in verdance eternal\r\nby the vigilant Maraketh\r\nas seen by the Ardura akhara\r\nof Sekhema Asala by 1619ic",
+    "ko": "일곱 갈래 물의 땅은 제국력 1619년 세케마 아살라의 아르듀라 아카라가 감독하는 경계의 마라케스에 의해 영원한 신록으로 보존되어 있다"
+  },
+  {
+    "id": "The Lost City",
+    "ko": "잃어버린 도시"
+  },
+  {
+    "id": "The Lost Lute",
+    "ko": "잃어버린 류트"
+  },
+  {
+    "id": "The Mad Wolf of Ogham",
+    "ko": "오검의 미친 늑대"
+  },
+  {
+    "id": "The Manor Ramparts",
+    "ko": "저택 성벽"
+  },
+  {
+    "id": "The Matlan Waterways",
+    "ko": "마틀란 수로"
+  },
+  {
+    "id": "The Matriarch Halls",
+    "ko": "가모장의 전당"
+  },
+  {
+    "id": "The Molten Vault",
+    "ko": "녹아내린 금고"
+  },
+  {
+    "id": "The Monument",
+    "ko": "기념물"
+  },
+  {
+    "id": "The Mysterious Shade",
+    "ko": "수수께끼의 그늘"
+  },
+  {
+    "id": "The Origin Tower",
+    "ko": "기원의 탑"
+  },
+  {
+    "id": "The Patriarch Halls",
+    "ko": "가부장의 전당"
+  },
+  {
+    "id": "The Red Vale",
+    "ko": "붉은 계곡"
+  },
+  {
+    "id": "The Refuge",
+    "ko": "피난처"
+  },
+  {
+    "id": "The Riverbank",
+    "ko": "강둑"
+  },
+  {
+    "id": "The Runeseeker",
+    "ko": "룬 탐구자"
+  },
+  {
+    "id": "The Sandstorm Barrier",
+    "ko": "모래 폭풍 장벽"
+  },
+  {
+    "id": "The Search",
+    "ko": "탐색"
+  },
+  {
+    "id": "The Seven Pillars",
+    "ko": "일곱 기둥"
+  },
+  {
+    "id": "The Shadow Trickster",
+    "ko": "그림자 협잡꾼"
+  },
+  {
+    "id": "The Siege of Oriath",
+    "ko": "오리아스 공성전"
+  },
+  {
+    "id": "The Silent Cave",
+    "ko": "고요한 동굴"
+  },
+  {
+    "id": "The Slithering Dead",
+    "ko": "기어가는 망자"
+  },
+  {
+    "id": "The Sovereign Hideout",
+    "ko": "군왕호 은신처"
+  },
+  {
+    "id": "The Spires of Deshar",
+    "ko": "데샤르의 첨탑"
+  },
+  {
+    "id": "The Starlit Rite",
+    "ko": "별빛 의례"
+  },
+  {
+    "id": "The Stone Citadel",
+    "ko": "돌의 성채"
+  },
+  {
+    "id": "The Temple of Chaos",
+    "ko": "혼돈의 사원"
+  },
+  {
+    "id": "The Titan Grotto",
+    "ko": "거신 석굴"
+  },
+  {
+    "id": "The Titan's Fall",
+    "ko": "거신의 몰락"
+  },
+  {
+    "id": "The Trail of Corruption",
+    "ko": "타락의 흔적"
+  },
+  {
+    "id": "The Tree of Souls",
+    "ko": "영혼의 나무"
+  },
+  {
+    "id": "The Trial of Chaos",
+    "ko": "혼돈의 시련"
+  },
+  {
+    "id": "The Trial of Time",
+    "ko": "시간의 시련"
+  },
+  {
+    "id": "The Trial of the Sekhemas",
+    "ko": "세케마의 시련"
+  },
+  {
+    "id": "The Trials of Chaos",
+    "ko": "혼돈의 시련"
+  },
+  {
+    "id": "The Venom Crypts",
+    "ko": "독액 지하실"
+  },
+  {
+    "id": "The Viridian Wildwood",
+    "ko": "취록의 야생림"
+  },
+  {
+    "id": "The Voyage",
+    "ko": "항해"
+  },
+  {
+    "id": "The Well of Souls",
+    "ko": "영혼의 우물"
+  },
+  {
+    "id": "The Withered Willow",
+    "ko": "시든 버드나무"
+  },
+  {
+    "id": "The Ziggurat Refuge",
+    "ko": "지구라트 피난처"
+  },
+  {
+    "id": "The islands surrounding\r\nthe port of Kingsmarch\r\nas described by the\r\nMeridian Free Traders\r\n1619ic",
+    "ko": "메리디아 자유 교역상 협회에서 묘사한 킹스마치 항만 주변의 제도 제국력 1619년"
+  },
+  {
+    "id": "Tidal Omens",
+    "ko": "파도에 실려 오는 징조"
+  },
+  {
+    "id": "Timekeeper's Hideout",
+    "ko": "시간 기록자의 은신처"
+  },
+  {
+    "id": "Tinker's Tools",
+    "ko": "땜장이의 도구"
+  },
+  {
+    "id": "Titan Apex Hideout",
+    "ko": "거신의 정점 은신처"
+  },
+  {
+    "id": "Titans' Treasure",
+    "ko": "거신들의 보물"
+  },
+  {
+    "id": "Tomb of the Consort",
+    "ko": "배우자의 무덤"
+  },
+  {
+    "id": "Tomb of the Fallen Knight",
+    "ko": "몰락 기사의 무덤"
+  },
+  {
+    "id": "Torn Map Piece",
+    "ko": "찢어진 지도 조각"
+  },
+  {
+    "id": "Towering Hideout",
+    "ko": "높이 솟은 은신처"
+  },
+  {
+    "id": "Tradition's Toll",
+    "ko": "관례의 대가"
+  },
+  {
+    "id": "Traitor's Passage",
+    "ko": "배반자의 통로"
+  },
+  {
+    "id": "Tranquil Chamber",
+    "ko": "고요한 방"
+  },
+  {
+    "id": "Transcendent Hideout",
+    "ko": "초월한 은신처"
+  },
+  {
+    "id": "Trarthan Gladiator",
+    "ko": "트라투스의 검투사"
+  },
+  {
+    "id": "Travelling Merchant",
+    "ko": "유랑 상인"
+  },
+  {
+    "id": "Treacherous Ground",
+    "ko": "변덕스러운 대지"
+  },
+  {
+    "id": "Treasures of Utzaal",
+    "ko": "웃자알의 보물"
+  },
+  {
+    "id": "Trenches",
+    "ko": "참호"
+  },
+  {
+    "id": "Trial of Ascendancy",
+    "ko": "전직 시험"
+  },
+  {
+    "id": "Trial of the Ancestors",
+    "ko": "선조들의 심판"
+  },
+  {
+    "id": "Trial of the Sekhemas",
+    "ko": "세케마의 시련"
+  },
+  {
+    "id": "Trialmaster's Challenge",
+    "ko": "시련의 대가의 도전"
+  },
+  {
+    "id": "Tribal Medicine",
+    "ko": "부족의 의술"
+  },
+  {
+    "id": "Tribal Vengeance",
+    "ko": "부족의 복수"
+  },
+  {
+    "id": "Troubled Camp",
+    "ko": "곤경에 처한 야영지"
+  },
+  {
+    "id": "Twisted Domain",
+    "ko": "뒤틀린 영역"
+  },
+  {
+    "id": "Twisted Hideout",
+    "ko": "뒤틀린 은신처"
+  },
+  {
+    "id": "Two Wishes",
+    "ko": "두 개의 소원"
+  },
+  {
+    "id": "Ultimatum",
+    "ko": "결전"
+  },
+  {
+    "id": "Una's Hut",
+    "ko": "우나의 오두막"
+  },
+  {
+    "id": "Undamaged Core",
+    "ko": "손상되지 않은 핵"
+  },
+  {
+    "id": "Urban Sprawl Hideout",
+    "ko": "확산된 도심 은신처"
+  },
+  {
+    "id": "Utopia",
+    "ko": "유토피아"
+  },
+  {
+    "id": "Utzaal",
+    "ko": "웃자알"
+  },
+  {
+    "id": "Utzaal region, draft #2\r\nsites of interest & fatality\r\nfor the future records of\r\nThe Reliquarians, 1619ic",
+    "ko": "웃자알 지역, 초안 2 유물 탐색자의 추후 기록을 위한 관심 및 위험 현장 제국력 1619년"
+  },
+  {
+    "id": "Utzaal region, draft #3\r\nsites of treasure & death\r\nfor the future records of\r\nThe Reliquarians, 1619ic",
+    "ko": "웃자알 지역, 초안 3 유물 탐색자의 추후 기록을 위한 보물 및 죽음의 현장 제국력 1619년"
+  },
+  {
+    "id": "Vaal City",
+    "ko": "바알 도시"
+  },
+  {
+    "id": "Vaal Incursion",
+    "ko": "바알 기습"
+  },
+  {
+    "id": "Vaal Ruins",
+    "ko": "바알 유적"
+  },
+  {
+    "id": "Vaal Village",
+    "ko": "바알 마을"
+  },
+  {
+    "id": "Valley of the Titans",
+    "ko": "거신의 계곡"
+  },
+  {
+    "id": "Vast Plains Hideout",
+    "ko": "광활한 초원 은신처"
+  },
+  {
+    "id": "Vastiri Outskirts",
+    "ko": "바스티리 외곽"
+  },
+  {
+    "id": "Vastiri Plains Hideout",
+    "ko": "바스티리 평야 은신처"
+  },
+  {
+    "id": "Vastiri Racecourse Hideout",
+    "ko": "바스티리 경주장 은신처"
+  },
+  {
+    "id": "Vaults of Kamasa",
+    "ko": "카마사의 금고"
+  },
+  {
+    "id": "Venom Draught",
+    "ko": "독액 영약"
+  },
+  {
+    "id": "Void Hideout",
+    "ko": "공허 은신처"
+  },
+  {
+    "id": "Volcanic Cave Hideout",
+    "ko": "화산 동굴 은신처"
+  },
+  {
+    "id": "Volcanic Warrens",
+    "ko": "화산 땅굴"
+  },
+  {
+    "id": "Warding Hand",
+    "ko": "수호하는 손"
+  },
+  {
+    "id": "Watchful Twins",
+    "ko": "감시하는 쌍둥이"
+  },
+  {
+    "id": "Wayward Isle",
+    "ko": "다스리기 힘든 섬"
+  },
+  {
+    "id": "Western Enigma Chamber",
+    "ko": "서쪽 수수께끼 석실"
+  },
+  {
+    "id": "Western Gateway",
+    "ko": "서쪽 관문"
+  },
+  {
+    "id": "Wetlands",
+    "ko": "습지대"
+  },
+  {
+    "id": "Whakapanu Island",
+    "ko": "와카파누 섬"
+  },
+  {
+    "id": "Wild Runestones",
+    "ko": "야생 룬석"
+  },
+  {
+    "id": "Wildfire Clearing Hideout",
+    "ko": "들불 빈터 은신처"
+  },
+  {
+    "id": "Willow",
+    "ko": "버드나무"
+  },
+  {
+    "id": "Witch Hut",
+    "ko": "마녀 오두막"
+  },
+  {
+    "id": "Wolvenhold",
+    "ko": "울븐홀드"
+  },
+  {
+    "id": "Woodland",
+    "ko": "밀림"
+  },
+  {
+    "id": "Yaochi Hideout",
+    "ko": "요지 은신처"
+  },
+  {
+    "id": "Your Guild Hideout",
+    "ko": "내 길드 은신처"
+  },
+  {
+    "id": "Your Hideout",
+    "ko": "은신처"
+  },
+  {
+    "id": "Ziggurat Encampment",
+    "ko": "지구라트 야영지"
+  },
+  {
+    "id": "Zolin and Zelina",
+    "ko": "졸린과 젤리나"
+  }
+]

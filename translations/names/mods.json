@@ -1,0 +1,9942 @@
+[
+  {
+    "id": "of the Brute",
+    "ko": "- 짐승"
+  },
+  {
+    "id": "of the Wrestler",
+    "ko": "- 씨름꾼"
+  },
+  {
+    "id": "of the Bear",
+    "ko": "- 곰"
+  },
+  {
+    "id": "of the Lion",
+    "ko": "- 사자"
+  },
+  {
+    "id": "of the Gorilla",
+    "ko": "- 고릴라"
+  },
+  {
+    "id": "of the Goliath",
+    "ko": "- 골리앗"
+  },
+  {
+    "id": "of the Leviathan",
+    "ko": "- 레비아탄"
+  },
+  {
+    "id": "of the Titan",
+    "ko": "- 거신"
+  },
+  {
+    "id": "of the Gods",
+    "ko": "- 신들"
+  },
+  {
+    "id": "of the Mongoose",
+    "ko": "- 몽구스"
+  },
+  {
+    "id": "of the Lynx",
+    "ko": "- 스라소니"
+  },
+  {
+    "id": "of the Fox",
+    "ko": "- 여우"
+  },
+  {
+    "id": "of the Falcon",
+    "ko": "- 매"
+  },
+  {
+    "id": "of the Panther",
+    "ko": "- 흑표"
+  },
+  {
+    "id": "of the Leopard",
+    "ko": "- 표범"
+  },
+  {
+    "id": "of the Jaguar",
+    "ko": "- 재규어"
+  },
+  {
+    "id": "of the Phantom",
+    "ko": "- 유령"
+  },
+  {
+    "id": "of the Wind",
+    "ko": "- 바람"
+  },
+  {
+    "id": "of the Pupil",
+    "ko": "- 제자"
+  },
+  {
+    "id": "of the Student",
+    "ko": "- 학생"
+  },
+  {
+    "id": "of the Prodigy",
+    "ko": "- 영재"
+  },
+  {
+    "id": "of the Augur",
+    "ko": "- 점술가"
+  },
+  {
+    "id": "of the Philosopher",
+    "ko": "- 철학자"
+  },
+  {
+    "id": "of the Sage",
+    "ko": "- 현자"
+  },
+  {
+    "id": "of the Savant",
+    "ko": "- 학자"
+  },
+  {
+    "id": "of the Virtuoso",
+    "ko": "- 거장"
+  },
+  {
+    "id": "of the Genius",
+    "ko": "- 천재"
+  },
+  {
+    "id": "of the Clouds",
+    "ko": "- 구름"
+  },
+  {
+    "id": "of the Sky",
+    "ko": "- 하늘"
+  },
+  {
+    "id": "of the Meteor",
+    "ko": "- 유성"
+  },
+  {
+    "id": "of the Comet",
+    "ko": "- 혜성"
+  },
+  {
+    "id": "of the Heavens",
+    "ko": "- 천국"
+  },
+  {
+    "id": "of the Galaxy",
+    "ko": "- 은하"
+  },
+  {
+    "id": "of the Universe",
+    "ko": "- 우주"
+  },
+  {
+    "id": "of the Multiverse",
+    "ko": "- 다중 우주"
+  },
+  {
+    "id": "of the Infinite",
+    "ko": "- 무한"
+  },
+  {
+    "id": "of the Whelpling",
+    "ko": "- 새끼용"
+  },
+  {
+    "id": "of the Salamander",
+    "ko": "- 불도마뱀"
+  },
+  {
+    "id": "of the Drake",
+    "ko": "- 비룡"
+  },
+  {
+    "id": "of the Kiln",
+    "ko": "- 가마"
+  },
+  {
+    "id": "of the Furnace",
+    "ko": "- 용광로"
+  },
+  {
+    "id": "of the Volcano",
+    "ko": "- 화산"
+  },
+  {
+    "id": "of Magma",
+    "ko": "- 마그마"
+  },
+  {
+    "id": "of Tzteosh",
+    "ko": "- 체오쉬"
+  },
+  {
+    "id": "of the Seal",
+    "ko": "- 봉인"
+  },
+  {
+    "id": "of the Penguin",
+    "ko": "- 펭귄"
+  },
+  {
+    "id": "of the Narwhal",
+    "ko": "- 일각고래"
+  },
+  {
+    "id": "of the Yeti",
+    "ko": "- 설인"
+  },
+  {
+    "id": "of the Walrus",
+    "ko": "- 바다코끼리"
+  },
+  {
+    "id": "of the Polar Bear",
+    "ko": "- 북극곰"
+  },
+  {
+    "id": "of the Ice",
+    "ko": "- 얼음판"
+  },
+  {
+    "id": "of Haast",
+    "ko": "- 하스트"
+  },
+  {
+    "id": "of the Cloud",
+    "ko": "- 구름"
+  },
+  {
+    "id": "of the Squall",
+    "ko": "- 돌풍"
+  },
+  {
+    "id": "of the Storm",
+    "ko": "- 태풍"
+  },
+  {
+    "id": "of the Thunderhead",
+    "ko": "- 뇌운"
+  },
+  {
+    "id": "of the Tempest",
+    "ko": "- 폭풍"
+  },
+  {
+    "id": "of the Maelstrom",
+    "ko": "- 큰 소용돌이"
+  },
+  {
+    "id": "of the Lightning",
+    "ko": "- 번개"
+  },
+  {
+    "id": "of Ephij",
+    "ko": "- 에피즈"
+  },
+  {
+    "id": "of the Crystal",
+    "ko": "- 결정"
+  },
+  {
+    "id": "of the Prism",
+    "ko": "- 분광기"
+  },
+  {
+    "id": "of the Kaleidoscope",
+    "ko": "- 만화경"
+  },
+  {
+    "id": "of Variegation",
+    "ko": "- 얼룩무늬"
+  },
+  {
+    "id": "of the Rainbow",
+    "ko": "- 무지개"
+  },
+  {
+    "id": "of the Span",
+    "ko": "- 전체 색"
+  },
+  {
+    "id": "of Adjustment",
+    "ko": "- 조정"
+  },
+  {
+    "id": "of Acclimatisation",
+    "ko": "- 순응"
+  },
+  {
+    "id": "of Adaptation",
+    "ko": "- 적응"
+  },
+  {
+    "id": "of Evolution",
+    "ko": "- 진전"
+  },
+  {
+    "id": "of Progression",
+    "ko": "- 진전"
+  },
+  {
+    "id": "of Metamorphosis",
+    "ko": "- 변형"
+  },
+  {
+    "id": "of the Lost",
+    "ko": "- 상실"
+  },
+  {
+    "id": "of Banishment",
+    "ko": "- 추방"
+  },
+  {
+    "id": "of Eviction",
+    "ko": "- 퇴거"
+  },
+  {
+    "id": "of Expulsion",
+    "ko": "- 축출"
+  },
+  {
+    "id": "of Exile",
+    "ko": "- 유배자"
+  },
+  {
+    "id": "of Bameth",
+    "ko": "- 바메스"
+  },
+  {
+    "id": "Hale",
+    "ko": "정정한"
+  },
+  {
+    "id": "Healthy",
+    "ko": "건강한"
+  },
+  {
+    "id": "Sanguine",
+    "ko": "혈액 과다의"
+  },
+  {
+    "id": "Stalwart",
+    "ko": "건장한"
+  },
+  {
+    "id": "Stout",
+    "ko": "완강한"
+  },
+  {
+    "id": "Robust",
+    "ko": "왕성함"
+  },
+  {
+    "id": "Rotund",
+    "ko": "퉁퉁한"
+  },
+  {
+    "id": "Virile",
+    "ko": "강건한"
+  },
+  {
+    "id": "Athlete's",
+    "ko": "늠름한"
+  },
+  {
+    "id": "Fecund",
+    "ko": "다산의"
+  },
+  {
+    "id": "Vigorous",
+    "ko": "정력적인"
+  },
+  {
+    "id": "Rapturous",
+    "ko": "열광적인"
+  },
+  {
+    "id": "Prime",
+    "ko": "최종형"
+  },
+  {
+    "id": "Hopeful",
+    "ko": "희망찬"
+  },
+  {
+    "id": "Optimistic",
+    "ko": "낙관적인"
+  },
+  {
+    "id": "Confident",
+    "ko": "확신하는"
+  },
+  {
+    "id": "Beryl",
+    "ko": "녹주색"
+  },
+  {
+    "id": "Cobalt",
+    "ko": "코발트색"
+  },
+  {
+    "id": "Azure",
+    "ko": "담청색"
+  },
+  {
+    "id": "Teal",
+    "ko": "청록빛"
+  },
+  {
+    "id": "Cerulean",
+    "ko": "진청색"
+  },
+  {
+    "id": "Aqua",
+    "ko": "물색"
+  },
+  {
+    "id": "Opalescent",
+    "ko": "오팔색"
+  },
+  {
+    "id": "Gentian",
+    "ko": "용담색"
+  },
+  {
+    "id": "Chalybeous",
+    "ko": "연철청색"
+  },
+  {
+    "id": "Mazarine",
+    "ko": "쪽빛"
+  },
+  {
+    "id": "Blue",
+    "ko": "파란색"
+  },
+  {
+    "id": "Zaffre",
+    "ko": "화감청"
+  },
+  {
+    "id": "Ultramarine",
+    "ko": "군청색"
+  },
+  {
+    "id": "Sapphire",
+    "ko": "사파이어"
+  },
+  {
+    "id": "Cognizant",
+    "ko": "인식의"
+  },
+  {
+    "id": "Perceptive",
+    "ko": "통찰하는"
+  },
+  {
+    "id": "Mnemonic",
+    "ko": "연상의"
+  },
+  {
+    "id": "Lacquered",
+    "ko": "옻칠한"
+  },
+  {
+    "id": "Studded",
+    "ko": "징 박힌"
+  },
+  {
+    "id": "Ribbed",
+    "ko": "가로 덧댄"
+  },
+  {
+    "id": "Fortified",
+    "ko": "강화된"
+  },
+  {
+    "id": "Plated",
+    "ko": "판금의"
+  },
+  {
+    "id": "Carapaced",
+    "ko": "등딱지의"
+  },
+  {
+    "id": "Encased",
+    "ko": "뒤덮인"
+  },
+  {
+    "id": "Enveloped",
+    "ko": "봉해진"
+  },
+  {
+    "id": "Abating",
+    "ko": "경감하는"
+  },
+  {
+    "id": "Unmoving",
+    "ko": "부동의"
+  },
+  {
+    "id": "Agile",
+    "ko": "날렵한"
+  },
+  {
+    "id": "Dancer's",
+    "ko": "춤꾼의"
+  },
+  {
+    "id": "Acrobat's",
+    "ko": "곡예사의"
+  },
+  {
+    "id": "Fleet",
+    "ko": "쾌속의"
+  },
+  {
+    "id": "Blurred",
+    "ko": "희미한"
+  },
+  {
+    "id": "Phased",
+    "ko": "차원의"
+  },
+  {
+    "id": "Vaporous",
+    "ko": "증기 가득한"
+  },
+  {
+    "id": "Elusory",
+    "ko": "회피적인"
+  },
+  {
+    "id": "Adroit",
+    "ko": "날랜"
+  },
+  {
+    "id": "Shining",
+    "ko": "반짝이는"
+  },
+  {
+    "id": "Glimmering",
+    "ko": "깜박이는"
+  },
+  {
+    "id": "Glittering",
+    "ko": "번쩍이는"
+  },
+  {
+    "id": "Glowing",
+    "ko": "타오르는"
+  },
+  {
+    "id": "Radiating",
+    "ko": "발산하는"
+  },
+  {
+    "id": "Pulsing",
+    "ko": "맥동하는"
+  },
+  {
+    "id": "Blazing",
+    "ko": "맹렬한"
+  },
+  {
+    "id": "Dazzling",
+    "ko": "현란한"
+  },
+  {
+    "id": "Scintillating",
+    "ko": "섬광의"
+  },
+  {
+    "id": "Incandescent",
+    "ko": "백열하는"
+  },
+  {
+    "id": "Reinforced",
+    "ko": "보강된"
+  },
+  {
+    "id": "Layered",
+    "ko": "겹겹의"
+  },
+  {
+    "id": "Lobstered",
+    "ko": "갑각의"
+  },
+  {
+    "id": "Buttressed",
+    "ko": "지탱의"
+  },
+  {
+    "id": "Thickened",
+    "ko": "두터움의"
+  },
+  {
+    "id": "Girded",
+    "ko": "둘러싼"
+  },
+  {
+    "id": "Impregnable",
+    "ko": "철벽의"
+  },
+  {
+    "id": "Shade's",
+    "ko": "그림자의"
+  },
+  {
+    "id": "Ghost's",
+    "ko": "혼의"
+  },
+  {
+    "id": "Spectre's",
+    "ko": "망령의"
+  },
+  {
+    "id": "Wraith's",
+    "ko": "악령의"
+  },
+  {
+    "id": "Phantasm's",
+    "ko": "환영의"
+  },
+  {
+    "id": "Nightmare's",
+    "ko": "악몽의"
+  },
+  {
+    "id": "Mirage's",
+    "ko": "신기루의"
+  },
+  {
+    "id": "Protective",
+    "ko": "보호하는"
+  },
+  {
+    "id": "Strong-Willed",
+    "ko": "확고한"
+  },
+  {
+    "id": "Resolute",
+    "ko": "단호한"
+  },
+  {
+    "id": "Fearless",
+    "ko": "용맹한"
+  },
+  {
+    "id": "Dauntless",
+    "ko": "대담한"
+  },
+  {
+    "id": "Indomitable",
+    "ko": "불굴의"
+  },
+  {
+    "id": "Unassailable",
+    "ko": "빈틈 없는"
+  },
+  {
+    "id": "Impervious",
+    "ko": "뚫리지 않는"
+  },
+  {
+    "id": "Lissome",
+    "ko": "호리호리한"
+  },
+  {
+    "id": "Fugitive",
+    "ko": "도주하는"
+  },
+  {
+    "id": "Resplendent",
+    "ko": "찬연한"
+  },
+  {
+    "id": "Supple",
+    "ko": "나긋한"
+  },
+  {
+    "id": "Pliant",
+    "ko": "유순한"
+  },
+  {
+    "id": "Flexible",
+    "ko": "유연한"
+  },
+  {
+    "id": "Durable",
+    "ko": "질긴"
+  },
+  {
+    "id": "Sturdy",
+    "ko": "튼튼한"
+  },
+  {
+    "id": "Resilient",
+    "ko": "탄력적인"
+  },
+  {
+    "id": "Adaptable",
+    "ko": "적응하는"
+  },
+  {
+    "id": "Versatile",
+    "ko": "융통성 있는"
+  },
+  {
+    "id": "Blessed",
+    "ko": "축복받은"
+  },
+  {
+    "id": "Anointed",
+    "ko": "기름 부은"
+  },
+  {
+    "id": "Sanctified",
+    "ko": "축성된"
+  },
+  {
+    "id": "Hallowed",
+    "ko": "거룩한"
+  },
+  {
+    "id": "Beatified",
+    "ko": "시복받은"
+  },
+  {
+    "id": "Consecrated",
+    "ko": "신성한"
+  },
+  {
+    "id": "Saintly",
+    "ko": "성인의"
+  },
+  {
+    "id": "Godly",
+    "ko": "신의"
+  },
+  {
+    "id": "Will-o-wisp's",
+    "ko": "도깨비불의"
+  },
+  {
+    "id": "Nymph's",
+    "ko": "님프의"
+  },
+  {
+    "id": "Sylph's",
+    "ko": "실프의"
+  },
+  {
+    "id": "Cherub's",
+    "ko": "아기천사의"
+  },
+  {
+    "id": "Spirit's",
+    "ko": "혼백의"
+  },
+  {
+    "id": "Eidolon's",
+    "ko": "허깨비의"
+  },
+  {
+    "id": "Apparition's",
+    "ko": "유령의"
+  },
+  {
+    "id": "Banshee's",
+    "ko": "밴시의"
+  },
+  {
+    "id": "Impenetrable",
+    "ko": "중갑의"
+  },
+  {
+    "id": "Illusion's",
+    "ko": "환상의"
+  },
+  {
+    "id": "Unfaltering",
+    "ko": "흔들림 없는"
+  },
+  {
+    "id": "Scrapper's",
+    "ko": "난동꾼의"
+  },
+  {
+    "id": "Brawler's",
+    "ko": "싸움꾼의"
+  },
+  {
+    "id": "Fencer's",
+    "ko": "검사의"
+  },
+  {
+    "id": "Gladiator's",
+    "ko": "검투사의"
+  },
+  {
+    "id": "Duelist's",
+    "ko": "듀얼리스트의"
+  },
+  {
+    "id": "Hero's",
+    "ko": "영웅의"
+  },
+  {
+    "id": "Legend's",
+    "ko": "전설의"
+  },
+  {
+    "id": "Victor's",
+    "ko": "승리자의"
+  },
+  {
+    "id": "Infixed",
+    "ko": "스며든"
+  },
+  {
+    "id": "Ingrained",
+    "ko": "물든"
+  },
+  {
+    "id": "Instilled",
+    "ko": "침투된"
+  },
+  {
+    "id": "Infused",
+    "ko": "주입된"
+  },
+  {
+    "id": "Inculcated",
+    "ko": "심어진"
+  },
+  {
+    "id": "Interpolated",
+    "ko": "보간된"
+  },
+  {
+    "id": "Inspired",
+    "ko": "격려된"
+  },
+  {
+    "id": "Interpermeated",
+    "ko": "널리 퍼진"
+  },
+  {
+    "id": "Shadowy",
+    "ko": "아련한"
+  },
+  {
+    "id": "Ethereal",
+    "ko": "천상의"
+  },
+  {
+    "id": "Unworldly",
+    "ko": "탈속의"
+  },
+  {
+    "id": "Ephemeral",
+    "ko": "덧없는"
+  },
+  {
+    "id": "Evanescent",
+    "ko": "무상한"
+  },
+  {
+    "id": "Unreal",
+    "ko": "허위의"
+  },
+  {
+    "id": "Illusory",
+    "ko": "환상의"
+  },
+  {
+    "id": "Incorporeal",
+    "ko": "무형의"
+  },
+  {
+    "id": "Beetle's",
+    "ko": "딱정벌레의"
+  },
+  {
+    "id": "Crab's",
+    "ko": "게의"
+  },
+  {
+    "id": "Armadillo's",
+    "ko": "아르마딜로의"
+  },
+  {
+    "id": "Rhino's",
+    "ko": "코뿔소의"
+  },
+  {
+    "id": "Elephant's",
+    "ko": "코끼리의"
+  },
+  {
+    "id": "Mammoth's",
+    "ko": "매머드의"
+  },
+  {
+    "id": "Mosquito's",
+    "ko": "모기의"
+  },
+  {
+    "id": "Moth's",
+    "ko": "나방의"
+  },
+  {
+    "id": "Butterfly's",
+    "ko": "나비의"
+  },
+  {
+    "id": "Wasp's",
+    "ko": "말벌의"
+  },
+  {
+    "id": "Dragonfly's",
+    "ko": "잠자리의"
+  },
+  {
+    "id": "Hummingbird's",
+    "ko": "벌새의"
+  },
+  {
+    "id": "Pixie's",
+    "ko": "픽시의"
+  },
+  {
+    "id": "Gremlin's",
+    "ko": "그렘린의"
+  },
+  {
+    "id": "Boggart's",
+    "ko": "보가트의"
+  },
+  {
+    "id": "Naga's",
+    "ko": "나가의"
+  },
+  {
+    "id": "Djinn's",
+    "ko": "지니의"
+  },
+  {
+    "id": "Seraphim's",
+    "ko": "고위 천사의"
+  },
+  {
+    "id": "Captain's",
+    "ko": "대장의"
+  },
+  {
+    "id": "Commander's",
+    "ko": "지휘관의"
+  },
+  {
+    "id": "Magnate's",
+    "ko": "거물의"
+  },
+  {
+    "id": "Marshal's",
+    "ko": "원수의"
+  },
+  {
+    "id": "General's",
+    "ko": "장군의"
+  },
+  {
+    "id": "Warlord's",
+    "ko": "전쟁군주의"
+  },
+  {
+    "id": "Defender's",
+    "ko": "방어자의"
+  },
+  {
+    "id": "Protector's",
+    "ko": "보호자의"
+  },
+  {
+    "id": "Keeper's",
+    "ko": "보관자의"
+  },
+  {
+    "id": "Guardian's",
+    "ko": "가디언의"
+  },
+  {
+    "id": "Warden's",
+    "ko": "간수의"
+  },
+  {
+    "id": "Sentinel's",
+    "ko": "파수꾼의"
+  },
+  {
+    "id": "Intuitive",
+    "ko": "직관의"
+  },
+  {
+    "id": "Psychic",
+    "ko": "심령의"
+  },
+  {
+    "id": "Telepath's",
+    "ko": "정신 감응의"
+  },
+  {
+    "id": "Illusionist's",
+    "ko": "환상술사의"
+  },
+  {
+    "id": "Mentalist's",
+    "ko": "유심론자의"
+  },
+  {
+    "id": "Trickster's",
+    "ko": "트릭스터의"
+  },
+  {
+    "id": "Oyster's",
+    "ko": "굴의"
+  },
+  {
+    "id": "Lobster's",
+    "ko": "바닷가재의"
+  },
+  {
+    "id": "Urchin's",
+    "ko": "성게의"
+  },
+  {
+    "id": "Nautilus'",
+    "ko": "앵무조개의"
+  },
+  {
+    "id": "Octopus'",
+    "ko": "문어의"
+  },
+  {
+    "id": "Crocodile's",
+    "ko": "악어의"
+  },
+  {
+    "id": "Flea's",
+    "ko": "벼룩의"
+  },
+  {
+    "id": "Fawn's",
+    "ko": "새끼 사슴의"
+  },
+  {
+    "id": "Mouflon's",
+    "ko": "무플론의"
+  },
+  {
+    "id": "Ram's",
+    "ko": "숫양의"
+  },
+  {
+    "id": "Ibex's",
+    "ko": "큰뿔염소의"
+  },
+  {
+    "id": "Stag's",
+    "ko": "수사슴의"
+  },
+  {
+    "id": "Monk's",
+    "ko": "수도승의"
+  },
+  {
+    "id": "Prior's",
+    "ko": "수도원장의"
+  },
+  {
+    "id": "Abbot's",
+    "ko": "대수도원장의"
+  },
+  {
+    "id": "Bishop's",
+    "ko": "주교의"
+  },
+  {
+    "id": "Exarch's",
+    "ko": "총주교의"
+  },
+  {
+    "id": "Pope's",
+    "ko": "교황의"
+  },
+  {
+    "id": "Bully's",
+    "ko": "깡패의"
+  },
+  {
+    "id": "Thug's",
+    "ko": "암살단원의"
+  },
+  {
+    "id": "Brute's",
+    "ko": "냉혈한의"
+  },
+  {
+    "id": "Assailant's",
+    "ko": "공격자의"
+  },
+  {
+    "id": "Aggressor's",
+    "ko": "침공자의"
+  },
+  {
+    "id": "Predator's",
+    "ko": "포식자의"
+  },
+  {
+    "id": "Augur's",
+    "ko": "점술가의"
+  },
+  {
+    "id": "Auspex's",
+    "ko": "점복관의"
+  },
+  {
+    "id": "Druid's",
+    "ko": "드루이드의"
+  },
+  {
+    "id": "Haruspex's",
+    "ko": "창자 점쟁이의"
+  },
+  {
+    "id": "Visionary's",
+    "ko": "공상가의"
+  },
+  {
+    "id": "Prophet's",
+    "ko": "선견자의"
+  },
+  {
+    "id": "Poet's",
+    "ko": "시인의"
+  },
+  {
+    "id": "Musician's",
+    "ko": "음악가의"
+  },
+  {
+    "id": "Troubadour's",
+    "ko": "재담가의"
+  },
+  {
+    "id": "Bard's",
+    "ko": "음유시인의"
+  },
+  {
+    "id": "Minstrel's",
+    "ko": "민스트럴의"
+  },
+  {
+    "id": "Maestro's",
+    "ko": "숙원의"
+  },
+  {
+    "id": "Imposing",
+    "ko": "인상적인"
+  },
+  {
+    "id": "Venerable",
+    "ko": "덕망 있는"
+  },
+  {
+    "id": "Regal",
+    "ko": "왕실"
+  },
+  {
+    "id": "Colossal",
+    "ko": "초대형"
+  },
+  {
+    "id": "Chieftain's",
+    "ko": "치프틴의"
+  },
+  {
+    "id": "Ancestral",
+    "ko": "선대의"
+  },
+  {
+    "id": "Nomad's",
+    "ko": "유목민의"
+  },
+  {
+    "id": "Drifter's",
+    "ko": "떠돌이의"
+  },
+  {
+    "id": "Traveller's",
+    "ko": "여행자의"
+  },
+  {
+    "id": "Explorer's",
+    "ko": "탐험가의"
+  },
+  {
+    "id": "Wayfarer's",
+    "ko": "나그네의"
+  },
+  {
+    "id": "Wanderer's",
+    "ko": "방랑자의"
+  },
+  {
+    "id": "Imbued",
+    "ko": "부여된"
+  },
+  {
+    "id": "Serene",
+    "ko": "고요한"
+  },
+  {
+    "id": "Sacred",
+    "ko": "성스러운"
+  },
+  {
+    "id": "Celestial",
+    "ko": "천공"
+  },
+  {
+    "id": "Heavenly",
+    "ko": "천국의"
+  },
+  {
+    "id": "Angel's",
+    "ko": "천사의"
+  },
+  {
+    "id": "Rhoa's",
+    "ko": "로아의"
+  },
+  {
+    "id": "Rhex's",
+    "ko": "렉스의"
+  },
+  {
+    "id": "Chimeral's",
+    "ko": "키메랄의"
+  },
+  {
+    "id": "Bull's",
+    "ko": "황소의"
+  },
+  {
+    "id": "Minotaur's",
+    "ko": "미노타우로스의"
+  },
+  {
+    "id": "Cerberus'",
+    "ko": "케르베로스의"
+  },
+  {
+    "id": "Coelacanth's",
+    "ko": "실라캔스의"
+  },
+  {
+    "id": "Swordfish's",
+    "ko": "황새치의"
+  },
+  {
+    "id": "Shark's",
+    "ko": "상어의"
+  },
+  {
+    "id": "Dolphin's",
+    "ko": "돌고래의"
+  },
+  {
+    "id": "Orca's",
+    "ko": "범고래의"
+  },
+  {
+    "id": "Whale's",
+    "ko": "고래의"
+  },
+  {
+    "id": "Vulture's",
+    "ko": "시체매의"
+  },
+  {
+    "id": "Kingfisher's",
+    "ko": "물총새의"
+  },
+  {
+    "id": "Owl's",
+    "ko": "올빼미의"
+  },
+  {
+    "id": "Hawk's",
+    "ko": "사냥매의"
+  },
+  {
+    "id": "Eagle's",
+    "ko": "독수리의"
+  },
+  {
+    "id": "Falcon's",
+    "ko": "매의"
+  },
+  {
+    "id": "Abalone's",
+    "ko": "전복의"
+  },
+  {
+    "id": "Snail's",
+    "ko": "달팽이의"
+  },
+  {
+    "id": "Tortoise's",
+    "ko": "거북이의"
+  },
+  {
+    "id": "Pangolin's",
+    "ko": "천산갑의"
+  },
+  {
+    "id": "Shelled",
+    "ko": "껍질의"
+  },
+  {
+    "id": "Hardened",
+    "ko": "굳어진"
+  },
+  {
+    "id": "Impala's",
+    "ko": "임팔라의"
+  },
+  {
+    "id": "Buck's",
+    "ko": "수토끼의"
+  },
+  {
+    "id": "Moose's",
+    "ko": "무스의"
+  },
+  {
+    "id": "Deer's",
+    "ko": "사슴의"
+  },
+  {
+    "id": "Caribou's",
+    "ko": "카리부의"
+  },
+  {
+    "id": "Antelope's",
+    "ko": "영양의"
+  },
+  {
+    "id": "Deacon's",
+    "ko": "부제의"
+  },
+  {
+    "id": "Cardinal's",
+    "ko": "추기경의"
+  },
+  {
+    "id": "Priest's",
+    "ko": "사제의"
+  },
+  {
+    "id": "High Priest's",
+    "ko": "고위 사제의"
+  },
+  {
+    "id": "Archon's",
+    "ko": "집정관의"
+  },
+  {
+    "id": "Divine",
+    "ko": "신성한"
+  },
+  {
+    "id": "Swordsman's",
+    "ko": "검객의"
+  },
+  {
+    "id": "Fighter's",
+    "ko": "투사의"
+  },
+  {
+    "id": "Veteran's",
+    "ko": "역전 용사의"
+  },
+  {
+    "id": "Warrior's",
+    "ko": "전사의"
+  },
+  {
+    "id": "Knight's",
+    "ko": "기사의"
+  },
+  {
+    "id": "Centurion's",
+    "ko": "백인대장의"
+  },
+  {
+    "id": "Faithful",
+    "ko": "충실한"
+  },
+  {
+    "id": "Noble's",
+    "ko": "귀족의"
+  },
+  {
+    "id": "Inquisitor's",
+    "ko": "인퀴지터의"
+  },
+  {
+    "id": "Crusader's",
+    "ko": "십자군의"
+  },
+  {
+    "id": "Paladin's",
+    "ko": "성기사의"
+  },
+  {
+    "id": "Grand",
+    "ko": "우수한"
+  },
+  {
+    "id": "Pursuer's",
+    "ko": "추구자의"
+  },
+  {
+    "id": "Tracker's",
+    "ko": "추적자의"
+  },
+  {
+    "id": "Chaser's",
+    "ko": "추격자의"
+  },
+  {
+    "id": "Phantom's",
+    "ko": "혼령의"
+  },
+  {
+    "id": "Rogue's",
+    "ko": "부랑자의"
+  },
+  {
+    "id": "Stalker's",
+    "ko": "미행자의"
+  },
+  {
+    "id": "Ascendant",
+    "ko": "승천자"
+  },
+  {
+    "id": "of the Worthy",
+    "ko": "- 자격자"
+  },
+  {
+    "id": "of the Apt",
+    "ko": "- 적격자"
+  },
+  {
+    "id": "of the Talented",
+    "ko": "- 재능"
+  },
+  {
+    "id": "of the Skilled",
+    "ko": "- 실력"
+  },
+  {
+    "id": "of the Proficient",
+    "ko": "- 능숙"
+  },
+  {
+    "id": "of Thick Skin",
+    "ko": "- 두꺼운 가죽"
+  },
+  {
+    "id": "of Reinforced Skin",
+    "ko": "- 보강 피부"
+  },
+  {
+    "id": "of Stone Skin",
+    "ko": "- 돌 가죽"
+  },
+  {
+    "id": "of Iron Skin",
+    "ko": "- 쇠 가죽"
+  },
+  {
+    "id": "of Steel Skin",
+    "ko": "- 강철 가죽"
+  },
+  {
+    "id": "of Granite Skin",
+    "ko": "- 화강암 피부"
+  },
+  {
+    "id": "of Platinum Skin",
+    "ko": "- 백금 피부"
+  },
+  {
+    "id": "of Adamantite Skin",
+    "ko": "- 아다만타이트 가죽"
+  },
+  {
+    "id": "of Corundum Skin",
+    "ko": "- 강옥 가죽"
+  },
+  {
+    "id": "of Obsidian Skin",
+    "ko": "- 흑요석 피부"
+  },
+  {
+    "id": "of Titanium Skin",
+    "ko": "- 티타늄 피부"
+  },
+  {
+    "id": "Runner's",
+    "ko": "주자의"
+  },
+  {
+    "id": "Sprinter's",
+    "ko": "단거리 주자의"
+  },
+  {
+    "id": "Stallion's",
+    "ko": "종마의"
+  },
+  {
+    "id": "Gazelle's",
+    "ko": "가젤의"
+  },
+  {
+    "id": "Cheetah's",
+    "ko": "치타의"
+  },
+  {
+    "id": "Hellion's",
+    "ko": "헬리온의"
+  },
+  {
+    "id": "Thorny",
+    "ko": "가시 있는"
+  },
+  {
+    "id": "Spiny",
+    "ko": "가시투성이"
+  },
+  {
+    "id": "Barbed",
+    "ko": "가시 돋친"
+  },
+  {
+    "id": "Pointed",
+    "ko": "뾰족한"
+  },
+  {
+    "id": "Spiked",
+    "ko": "가시 난"
+  },
+  {
+    "id": "Edged",
+    "ko": "칼날의"
+  },
+  {
+    "id": "Jagged",
+    "ko": "삐죽삐죽한"
+  },
+  {
+    "id": "Glinting",
+    "ko": "미광의"
+  },
+  {
+    "id": "Burnished",
+    "ko": "윤이 나는"
+  },
+  {
+    "id": "Polished",
+    "ko": "광택 나는"
+  },
+  {
+    "id": "Honed",
+    "ko": "연마한"
+  },
+  {
+    "id": "Gleaming",
+    "ko": "번뜩이는"
+  },
+  {
+    "id": "Annealed",
+    "ko": "담금질한"
+  },
+  {
+    "id": "Razor-sharp",
+    "ko": "날이 선"
+  },
+  {
+    "id": "Tempered",
+    "ko": "단조한"
+  },
+  {
+    "id": "Flaring",
+    "ko": "빛을 뿜는"
+  },
+  {
+    "id": "Heated",
+    "ko": "달궈진"
+  },
+  {
+    "id": "Smouldering",
+    "ko": "그을린"
+  },
+  {
+    "id": "Smoking",
+    "ko": "연기 나는"
+  },
+  {
+    "id": "Burning",
+    "ko": "불타는"
+  },
+  {
+    "id": "Flaming",
+    "ko": "불을 뿜는"
+  },
+  {
+    "id": "Scorching",
+    "ko": "작열하는"
+  },
+  {
+    "id": "Incinerating",
+    "ko": "소각하는"
+  },
+  {
+    "id": "Blasting",
+    "ko": "폭발하는"
+  },
+  {
+    "id": "Cremating",
+    "ko": "화장하는"
+  },
+  {
+    "id": "Frosted",
+    "ko": "서리 내린"
+  },
+  {
+    "id": "Icy",
+    "ko": "얼음 같은"
+  },
+  {
+    "id": "Frigid",
+    "ko": "차디찬"
+  },
+  {
+    "id": "Freezing",
+    "ko": "동결의"
+  },
+  {
+    "id": "Frozen",
+    "ko": "얼어붙은"
+  },
+  {
+    "id": "Glaciated",
+    "ko": "빙하의"
+  },
+  {
+    "id": "Polar",
+    "ko": "극지의"
+  },
+  {
+    "id": "Entombing",
+    "ko": "얼음 무덤의"
+  },
+  {
+    "id": "Humming",
+    "ko": "윙윙대는"
+  },
+  {
+    "id": "Buzzing",
+    "ko": "웅웅대는"
+  },
+  {
+    "id": "Snapping",
+    "ko": "타닥대는"
+  },
+  {
+    "id": "Crackling",
+    "ko": "치직대는"
+  },
+  {
+    "id": "Sparking",
+    "ko": "전기불꽃의"
+  },
+  {
+    "id": "Arcing",
+    "ko": "전호의"
+  },
+  {
+    "id": "Shocking",
+    "ko": "감전의"
+  },
+  {
+    "id": "Discharging",
+    "ko": "방전의"
+  },
+  {
+    "id": "Electrocuting",
+    "ko": "전기 처형의"
+  },
+  {
+    "id": "Carbonising",
+    "ko": "탄화한"
+  },
+  {
+    "id": "Crystalising",
+    "ko": "결정화하는"
+  },
+  {
+    "id": "Vapourising",
+    "ko": "증발의"
+  },
+  {
+    "id": "Heavy",
+    "ko": "무거운"
+  },
+  {
+    "id": "Serrated",
+    "ko": "톱니의"
+  },
+  {
+    "id": "Wicked",
+    "ko": "사악한"
+  },
+  {
+    "id": "Vicious",
+    "ko": "포악한"
+  },
+  {
+    "id": "Bloodthirsty",
+    "ko": "피에 목마른"
+  },
+  {
+    "id": "Cruel",
+    "ko": "잔혹한"
+  },
+  {
+    "id": "Tyrannical",
+    "ko": "압제적인"
+  },
+  {
+    "id": "Merciless",
+    "ko": "무자비한"
+  },
+  {
+    "id": "Squire's",
+    "ko": "종자의"
+  },
+  {
+    "id": "Journeyman's",
+    "ko": "숙련공의"
+  },
+  {
+    "id": "Reaver's",
+    "ko": "강탈자의"
+  },
+  {
+    "id": "Mercenary's",
+    "ko": "용병의"
+  },
+  {
+    "id": "Champion's",
+    "ko": "용사의"
+  },
+  {
+    "id": "Conqueror's",
+    "ko": "정복자의"
+  },
+  {
+    "id": "Emperor's",
+    "ko": "황제의"
+  },
+  {
+    "id": "Dictator's",
+    "ko": "독재자의"
+  },
+  {
+    "id": "Coercive",
+    "ko": "강압적인"
+  },
+  {
+    "id": "Agitative",
+    "ko": "동요의"
+  },
+  {
+    "id": "Instigative",
+    "ko": "교사의"
+  },
+  {
+    "id": "Provocative",
+    "ko": "촉발의"
+  },
+  {
+    "id": "Persuasive",
+    "ko": "설득의"
+  },
+  {
+    "id": "Motivating",
+    "ko": "고취하는"
+  },
+  {
+    "id": "Inspirational",
+    "ko": "격려하는"
+  },
+  {
+    "id": "Empowering",
+    "ko": "강화하는"
+  },
+  {
+    "id": "Apprentice's",
+    "ko": "수습생의"
+  },
+  {
+    "id": "Adept's",
+    "ko": "숙련자의"
+  },
+  {
+    "id": "Scholar's",
+    "ko": "학자의"
+  },
+  {
+    "id": "Professor's",
+    "ko": "교수의"
+  },
+  {
+    "id": "Occultist's",
+    "ko": "오컬티스트의"
+  },
+  {
+    "id": "Incanter's",
+    "ko": "주문술사의"
+  },
+  {
+    "id": "Glyphic",
+    "ko": "상형 문자의"
+  },
+  {
+    "id": "Runic",
+    "ko": "룬의"
+  },
+  {
+    "id": "Caster's",
+    "ko": "시전자의"
+  },
+  {
+    "id": "Conjuror's",
+    "ko": "요술사의"
+  },
+  {
+    "id": "Wizard's",
+    "ko": "마술사의"
+  },
+  {
+    "id": "Warlock's",
+    "ko": "흑마법사의"
+  },
+  {
+    "id": "Mage's",
+    "ko": "마법사의"
+  },
+  {
+    "id": "Archmage's",
+    "ko": "대마법사의"
+  },
+  {
+    "id": "Lich's",
+    "ko": "리치의"
+  },
+  {
+    "id": "Searing",
+    "ko": "이글거리는"
+  },
+  {
+    "id": "Sizzling",
+    "ko": "지글거리는"
+  },
+  {
+    "id": "Blistering",
+    "ko": "물집이 생기는"
+  },
+  {
+    "id": "Cauterising",
+    "ko": "지지는"
+  },
+  {
+    "id": "Smoldering",
+    "ko": "그을린"
+  },
+  {
+    "id": "Magmatic",
+    "ko": "마그마의"
+  },
+  {
+    "id": "Volcanic",
+    "ko": "화산의"
+  },
+  {
+    "id": "Pyromancer's",
+    "ko": "화염술사의"
+  },
+  {
+    "id": "Bitter",
+    "ko": "쓰라린"
+  },
+  {
+    "id": "Biting",
+    "ko": "통렬한"
+  },
+  {
+    "id": "Alpine",
+    "ko": "높은 산의"
+  },
+  {
+    "id": "Snowy",
+    "ko": "눈 덮인"
+  },
+  {
+    "id": "Hailing",
+    "ko": "우박의"
+  },
+  {
+    "id": "Arctic",
+    "ko": "한기의"
+  },
+  {
+    "id": "Crystalline",
+    "ko": "결정체의"
+  },
+  {
+    "id": "Cryomancer's",
+    "ko": "동결술사의"
+  },
+  {
+    "id": "Charged",
+    "ko": "충전된"
+  },
+  {
+    "id": "Hissing",
+    "ko": "쉬쉿대는"
+  },
+  {
+    "id": "Bolting",
+    "ko": "번갯불의"
+  },
+  {
+    "id": "Coursing",
+    "ko": "세차게 흐르는"
+  },
+  {
+    "id": "Striking",
+    "ko": "타격하는"
+  },
+  {
+    "id": "Smiting",
+    "ko": "강타하는"
+  },
+  {
+    "id": "Ionising",
+    "ko": "전리되는"
+  },
+  {
+    "id": "Electromancer's",
+    "ko": "전기술사의"
+  },
+  {
+    "id": "Impure",
+    "ko": "불순한"
+  },
+  {
+    "id": "Tainted",
+    "ko": "더럽혀진"
+  },
+  {
+    "id": "Clouded",
+    "ko": "흐릿한"
+  },
+  {
+    "id": "Darkened",
+    "ko": "음침한"
+  },
+  {
+    "id": "Malignant",
+    "ko": "불길한"
+  },
+  {
+    "id": "Vile",
+    "ko": "끔찍한"
+  },
+  {
+    "id": "Twisted",
+    "ko": "뒤틀린"
+  },
+  {
+    "id": "Malevolent",
+    "ko": "심술궂은"
+  },
+  {
+    "id": "Punishing",
+    "ko": "응징하는"
+  },
+  {
+    "id": "Vengeful",
+    "ko": "복수의"
+  },
+  {
+    "id": "Sadistic",
+    "ko": "가학적인"
+  },
+  {
+    "id": "Pitiless",
+    "ko": "무자비한"
+  },
+  {
+    "id": "Agonising",
+    "ko": "고통스러운"
+  },
+  {
+    "id": "Oppressor's",
+    "ko": "억압자의"
+  },
+  {
+    "id": "Torturer's",
+    "ko": "고문자의"
+  },
+  {
+    "id": "Explosive",
+    "ko": "폭발적인"
+  },
+  {
+    "id": "Eviscerating",
+    "ko": "내장 적출의"
+  },
+  {
+    "id": "Crippling",
+    "ko": "힘줄을 자르는"
+  },
+  {
+    "id": "Disabling",
+    "ko": "무력화시키는"
+  },
+  {
+    "id": "Decimating",
+    "ko": "대량 학살의"
+  },
+  {
+    "id": "Demolishing",
+    "ko": "철거의"
+  },
+  {
+    "id": "Obliterating",
+    "ko": "말살하는"
+  },
+  {
+    "id": "Sapper's",
+    "ko": "공병의"
+  },
+  {
+    "id": "Saboteur's",
+    "ko": "사보추어의"
+  },
+  {
+    "id": "Tinkerer's",
+    "ko": "땜장이의"
+  },
+  {
+    "id": "Mechanic's",
+    "ko": "기계공의"
+  },
+  {
+    "id": "Engineer's",
+    "ko": "기술자의"
+  },
+  {
+    "id": "Inventor's",
+    "ko": "발명가의"
+  },
+  {
+    "id": "Artificer's",
+    "ko": "숙련공의"
+  },
+  {
+    "id": "of the Mage",
+    "ko": "- 마법사"
+  },
+  {
+    "id": "of the Enchanter",
+    "ko": "- 마술사"
+  },
+  {
+    "id": "of the Sorcerer",
+    "ko": "- 악령술사"
+  },
+  {
+    "id": "of the Wizard",
+    "ko": "- 마도사"
+  },
+  {
+    "id": "of the Evoker",
+    "ko": "- 기원사"
+  },
+  {
+    "id": "of Coals",
+    "ko": "- 석탄"
+  },
+  {
+    "id": "of Cinders",
+    "ko": "- 재투성이"
+  },
+  {
+    "id": "of Flames",
+    "ko": "- 화염"
+  },
+  {
+    "id": "of Immolation",
+    "ko": "- 제물"
+  },
+  {
+    "id": "of Inferno",
+    "ko": "- 지옥불"
+  },
+  {
+    "id": "of Snow",
+    "ko": "- 눈"
+  },
+  {
+    "id": "of Sleet",
+    "ko": "- 진눈깨비"
+  },
+  {
+    "id": "of Ice",
+    "ko": "- 얼음"
+  },
+  {
+    "id": "of Rime",
+    "ko": "- 흰서리"
+  },
+  {
+    "id": "of Frostbite",
+    "ko": "- 동상"
+  },
+  {
+    "id": "of Sparks",
+    "ko": "- 전기불꽃"
+  },
+  {
+    "id": "of Static",
+    "ko": "- 정전기"
+  },
+  {
+    "id": "of Electricity",
+    "ko": "- 전기"
+  },
+  {
+    "id": "of Voltage",
+    "ko": "- 전압"
+  },
+  {
+    "id": "of Thunder",
+    "ko": "- 천둥"
+  },
+  {
+    "id": "of Anarchy",
+    "ko": "- 무정부"
+  },
+  {
+    "id": "of Turmoil",
+    "ko": "- 소동"
+  },
+  {
+    "id": "of Ruin",
+    "ko": "- 폐허"
+  },
+  {
+    "id": "of Havoc",
+    "ko": "- 혼란"
+  },
+  {
+    "id": "of Armageddon",
+    "ko": "- 아마겟돈"
+  },
+  {
+    "id": "of Agony",
+    "ko": "- 괴로움"
+  },
+  {
+    "id": "of Suffering",
+    "ko": "- 고통"
+  },
+  {
+    "id": "of Torment",
+    "ko": "- 고뇌"
+  },
+  {
+    "id": "of Desolation",
+    "ko": "- 황량함"
+  },
+  {
+    "id": "of Grief",
+    "ko": "- 슬픔"
+  },
+  {
+    "id": "of the Taskmaster",
+    "ko": "- 업무 관리자"
+  },
+  {
+    "id": "of the Despot",
+    "ko": "- 절대군주"
+  },
+  {
+    "id": "of the Overseer",
+    "ko": "- 감독 관리자"
+  },
+  {
+    "id": "of the Slavedriver",
+    "ko": "- 노예 관리자"
+  },
+  {
+    "id": "of the Tyrant",
+    "ko": "- 폭군"
+  },
+  {
+    "id": "of Explosives",
+    "ko": "- 폭발물"
+  },
+  {
+    "id": "of Shrapnel",
+    "ko": "- 파편"
+  },
+  {
+    "id": "of Sabotage",
+    "ko": "- 방해 공작"
+  },
+  {
+    "id": "of Detonation",
+    "ko": "- 폭파"
+  },
+  {
+    "id": "of Pyrotechnics",
+    "ko": "- 꽃불"
+  },
+  {
+    "id": "of Combat",
+    "ko": "- 전투"
+  },
+  {
+    "id": "of Dueling",
+    "ko": "- 결투"
+  },
+  {
+    "id": "of Battle",
+    "ko": "- 전투"
+  },
+  {
+    "id": "of Conflict",
+    "ko": "- 갈등"
+  },
+  {
+    "id": "of War",
+    "ko": "- 전쟁"
+  },
+  {
+    "id": "of the Archer",
+    "ko": "- 궁수"
+  },
+  {
+    "id": "of the Fletcher",
+    "ko": "- 화살 제조자"
+  },
+  {
+    "id": "of the Sharpshooter",
+    "ko": "- 저격수"
+  },
+  {
+    "id": "of the Marksman",
+    "ko": "- 지정사수"
+  },
+  {
+    "id": "of the Sniper",
+    "ko": "- 저격수"
+  },
+  {
+    "id": "of the Newt",
+    "ko": "- 도롱뇽"
+  },
+  {
+    "id": "of the Lizard",
+    "ko": "- 도마뱀"
+  },
+  {
+    "id": "of the Flatworm",
+    "ko": "- 편형동물"
+  },
+  {
+    "id": "of the Starfish",
+    "ko": "- 불가사리"
+  },
+  {
+    "id": "of the Hydra",
+    "ko": "- 히드라"
+  },
+  {
+    "id": "of the Troll",
+    "ko": "- 트롤"
+  },
+  {
+    "id": "of Convalescence",
+    "ko": "- 요양"
+  },
+  {
+    "id": "of Recuperation",
+    "ko": "- 회생"
+  },
+  {
+    "id": "of Resurgence",
+    "ko": "- 재기"
+  },
+  {
+    "id": "of Immortality",
+    "ko": "- 불멸"
+  },
+  {
+    "id": "of the Phoenix",
+    "ko": "- 불사조"
+  },
+  {
+    "id": "of Excitement",
+    "ko": "- 흥분"
+  },
+  {
+    "id": "of Joy",
+    "ko": "- 기쁨"
+  },
+  {
+    "id": "of Elation",
+    "ko": "- 원기왕성"
+  },
+  {
+    "id": "of Bliss",
+    "ko": "- 지복"
+  },
+  {
+    "id": "of Euphoria",
+    "ko": "- 환희"
+  },
+  {
+    "id": "of Nirvana",
+    "ko": "- 열반"
+  },
+  {
+    "id": "of the Parasite",
+    "ko": "- 기생충"
+  },
+  {
+    "id": "of the Locust",
+    "ko": "- 메뚜기"
+  },
+  {
+    "id": "of the Remora",
+    "ko": "- 빨판상어"
+  },
+  {
+    "id": "of the Lamprey",
+    "ko": "- 칠성장어"
+  },
+  {
+    "id": "of the Vampire",
+    "ko": "- 뱀파이어"
+  },
+  {
+    "id": "of the Thirsty",
+    "ko": "- 목마른 자"
+  },
+  {
+    "id": "of the Parched",
+    "ko": "- 바짝 마른 자"
+  },
+  {
+    "id": "of the Arid",
+    "ko": "- 메마름"
+  },
+  {
+    "id": "of the Drought",
+    "ko": "- 가뭄"
+  },
+  {
+    "id": "of the Desperate",
+    "ko": "- 절박한 자"
+  },
+  {
+    "id": "of Success",
+    "ko": "- 성공"
+  },
+  {
+    "id": "of Victory",
+    "ko": "- 승리"
+  },
+  {
+    "id": "of Triumph",
+    "ko": "- 대성공"
+  },
+  {
+    "id": "of Conquest",
+    "ko": "- 정복"
+  },
+  {
+    "id": "of Vanquishing",
+    "ko": "- 격파"
+  },
+  {
+    "id": "of Valour",
+    "ko": "- 기백"
+  },
+  {
+    "id": "of Glory",
+    "ko": "- 영광"
+  },
+  {
+    "id": "of Legend",
+    "ko": "- 전설"
+  },
+  {
+    "id": "of Absorption",
+    "ko": "- 흡수"
+  },
+  {
+    "id": "of Osmosis",
+    "ko": "- 삼투"
+  },
+  {
+    "id": "of Infusion",
+    "ko": "- 주입"
+  },
+  {
+    "id": "of Enveloping",
+    "ko": "- 에움"
+  },
+  {
+    "id": "of Consumption",
+    "ko": "- 소모"
+  },
+  {
+    "id": "of Siphoning",
+    "ko": "- 착취"
+  },
+  {
+    "id": "of Devouring",
+    "ko": "- 포식"
+  },
+  {
+    "id": "of Assimilation",
+    "ko": "- 동화"
+  },
+  {
+    "id": "of Rejuvenation",
+    "ko": "- 회춘"
+  },
+  {
+    "id": "of Restoration",
+    "ko": "- 재생"
+  },
+  {
+    "id": "of Regrowth",
+    "ko": "- 재성장"
+  },
+  {
+    "id": "of Nourishment",
+    "ko": "- 자양분"
+  },
+  {
+    "id": "of Skill",
+    "ko": "- 스킬"
+  },
+  {
+    "id": "of Ease",
+    "ko": "- 쉬움"
+  },
+  {
+    "id": "of Mastery",
+    "ko": "- 숙련"
+  },
+  {
+    "id": "of Renown",
+    "ko": "- 명성"
+  },
+  {
+    "id": "of Acclaim",
+    "ko": "- 갈채"
+  },
+  {
+    "id": "of Fame",
+    "ko": "- 명망"
+  },
+  {
+    "id": "of Infamy",
+    "ko": "- 악명"
+  },
+  {
+    "id": "of Celebration",
+    "ko": "- 축제"
+  },
+  {
+    "id": "of Talent",
+    "ko": "- 재능"
+  },
+  {
+    "id": "of Nimbleness",
+    "ko": "- 기민함"
+  },
+  {
+    "id": "of Expertise",
+    "ko": "- 전문 지식"
+  },
+  {
+    "id": "of Sortilege",
+    "ko": "- 마술"
+  },
+  {
+    "id": "of Legerdemain",
+    "ko": "- 빠른 손재주"
+  },
+  {
+    "id": "of Prestidigitation",
+    "ko": "- 요술"
+  },
+  {
+    "id": "of Finesse",
+    "ko": "- 수완"
+  },
+  {
+    "id": "Precise",
+    "ko": "정확한"
+  },
+  {
+    "id": "Reliable",
+    "ko": "믿음직한"
+  },
+  {
+    "id": "Deliberate",
+    "ko": "치밀한"
+  },
+  {
+    "id": "Consistent",
+    "ko": "일관된"
+  },
+  {
+    "id": "Steady",
+    "ko": "안정적인"
+  },
+  {
+    "id": "Hunter's",
+    "ko": "사냥꾼의"
+  },
+  {
+    "id": "Ranger's",
+    "ko": "레인저의"
+  },
+  {
+    "id": "Amazon's",
+    "ko": "아마존의"
+  },
+  {
+    "id": "Valkyrie's",
+    "ko": "발키리의"
+  },
+  {
+    "id": "of Menace",
+    "ko": "- 위험"
+  },
+  {
+    "id": "of Disaster",
+    "ko": "- 재난"
+  },
+  {
+    "id": "of Calamity",
+    "ko": "- 대재난"
+  },
+  {
+    "id": "of Unmaking",
+    "ko": "- 멸망"
+  },
+  {
+    "id": "of Ire",
+    "ko": "- 노여움"
+  },
+  {
+    "id": "of Anger",
+    "ko": "- 분노"
+  },
+  {
+    "id": "of Rage",
+    "ko": "- 격노"
+  },
+  {
+    "id": "of Fury",
+    "ko": "- 광분"
+  },
+  {
+    "id": "of Ferocity",
+    "ko": "- 흉포함"
+  },
+  {
+    "id": "of Destruction",
+    "ko": "- 파괴"
+  },
+  {
+    "id": "of Plunder",
+    "ko": "- 약탈"
+  },
+  {
+    "id": "of Raiding",
+    "ko": "- 습격"
+  },
+  {
+    "id": "of Archaeology",
+    "ko": "- 고고학"
+  },
+  {
+    "id": "of Excavation",
+    "ko": "- 발굴"
+  },
+  {
+    "id": "of Windfall",
+    "ko": "- 횡재"
+  },
+  {
+    "id": "Magpie's",
+    "ko": "까치의"
+  },
+  {
+    "id": "Collector's",
+    "ko": "수집가의"
+  },
+  {
+    "id": "Hoarder's",
+    "ko": "비축가의"
+  },
+  {
+    "id": "Pirate's",
+    "ko": "해적의"
+  },
+  {
+    "id": "Dragon's",
+    "ko": "용의"
+  },
+  {
+    "id": "of Shining",
+    "ko": "- 반짝임"
+  },
+  {
+    "id": "of Light",
+    "ko": "- 빛"
+  },
+  {
+    "id": "of Radiance",
+    "ko": "- 광휘"
+  },
+  {
+    "id": "of Warmth",
+    "ko": "- 온난"
+  },
+  {
+    "id": "of Kindling",
+    "ko": "- 불쏘시개"
+  },
+  {
+    "id": "of the Hearth",
+    "ko": "- 난로"
+  },
+  {
+    "id": "Steadfast",
+    "ko": "요지부동의"
+  },
+  {
+    "id": "Unrelenting",
+    "ko": "가차없는"
+  },
+  {
+    "id": "Adamant",
+    "ko": "견고한"
+  },
+  {
+    "id": "Warded",
+    "ko": "수호받는"
+  },
+  {
+    "id": "Unwavering",
+    "ko": "변함없는"
+  },
+  {
+    "id": "Enduring",
+    "ko": "인내의"
+  },
+  {
+    "id": "Unyielding",
+    "ko": "완고한"
+  },
+  {
+    "id": "Lady's",
+    "ko": "여성의"
+  },
+  {
+    "id": "Baronness'",
+    "ko": "여남작의"
+  },
+  {
+    "id": "Viscountess'",
+    "ko": "여자작의"
+  },
+  {
+    "id": "Marchioness'",
+    "ko": "여후작의"
+  },
+  {
+    "id": "Countess'",
+    "ko": "여백작의"
+  },
+  {
+    "id": "Duchess'",
+    "ko": "여공작의"
+  },
+  {
+    "id": "Princess'",
+    "ko": "공주의"
+  },
+  {
+    "id": "Queen's",
+    "ko": "여왕의"
+  },
+  {
+    "id": "Lord's",
+    "ko": "군주의"
+  },
+  {
+    "id": "Baron's",
+    "ko": "남작의"
+  },
+  {
+    "id": "Viscount's",
+    "ko": "자작의"
+  },
+  {
+    "id": "Marquess'",
+    "ko": "후작의"
+  },
+  {
+    "id": "Count's",
+    "ko": "백작의"
+  },
+  {
+    "id": "Duke's",
+    "ko": "공작의"
+  },
+  {
+    "id": "Prince's",
+    "ko": "왕자의"
+  },
+  {
+    "id": "King's",
+    "ko": "왕의"
+  },
+  {
+    "id": "Advisor's",
+    "ko": "자문관의"
+  },
+  {
+    "id": "Counselor's",
+    "ko": "고문의"
+  },
+  {
+    "id": "Emissary's",
+    "ko": "특사의"
+  },
+  {
+    "id": "Minister's",
+    "ko": "대신의"
+  },
+  {
+    "id": "Envoy's",
+    "ko": "사절의"
+  },
+  {
+    "id": "Diplomat's",
+    "ko": "외교관의"
+  },
+  {
+    "id": "Chancellor's",
+    "ko": "수상의"
+  },
+  {
+    "id": "of Sealing",
+    "ko": "- 봉인"
+  },
+  {
+    "id": "of Alleviation",
+    "ko": "- 완화"
+  },
+  {
+    "id": "of Allaying",
+    "ko": "- 누그러뜨림"
+  },
+  {
+    "id": "of Assuaging",
+    "ko": "- 속풀이"
+  },
+  {
+    "id": "of Staunching",
+    "ko": "- 출혈 면역"
+  },
+  {
+    "id": "of the Antitoxin",
+    "ko": "- 항독소"
+  },
+  {
+    "id": "of the Remedy",
+    "ko": "- 요법"
+  },
+  {
+    "id": "of the Cure",
+    "ko": "- 치료제"
+  },
+  {
+    "id": "of the Panacea",
+    "ko": "- 만병통치약"
+  },
+  {
+    "id": "of the Antidote",
+    "ko": "- 해독제"
+  },
+  {
+    "id": "of Damping",
+    "ko": "- 적시기"
+  },
+  {
+    "id": "of Quashing",
+    "ko": "- 짓누르기"
+  },
+  {
+    "id": "of Quelling",
+    "ko": "- 진압"
+  },
+  {
+    "id": "of Quenching",
+    "ko": "- 불 끄기"
+  },
+  {
+    "id": "of Dousing",
+    "ko": "- 소화"
+  },
+  {
+    "id": "of Earthing",
+    "ko": "- 땅"
+  },
+  {
+    "id": "of Insulation",
+    "ko": "- 절연"
+  },
+  {
+    "id": "of the Impedance",
+    "ko": "- 저해"
+  },
+  {
+    "id": "of the Dielectric",
+    "ko": "- 유전체"
+  },
+  {
+    "id": "of Grounding",
+    "ko": "- 접지"
+  },
+  {
+    "id": "of Convection",
+    "ko": "- 대류"
+  },
+  {
+    "id": "of Fluidity",
+    "ko": "- 유동성"
+  },
+  {
+    "id": "of Entropy",
+    "ko": "- 엔트로피"
+  },
+  {
+    "id": "of Dissipation",
+    "ko": "- 소멸"
+  },
+  {
+    "id": "of the Reversal",
+    "ko": "- 반전"
+  },
+  {
+    "id": "of Heating",
+    "ko": "- 가열"
+  },
+  {
+    "id": "of Unfreezing",
+    "ko": "- 동결 해제"
+  },
+  {
+    "id": "of Defrosting",
+    "ko": "- 해동"
+  },
+  {
+    "id": "of the Temperate",
+    "ko": "- 온화"
+  },
+  {
+    "id": "of Thawing",
+    "ko": "- 녹이기"
+  },
+  {
+    "id": "of Dulling",
+    "ko": "- 둔화"
+  },
+  {
+    "id": "of Deadening",
+    "ko": "- 감쇠"
+  },
+  {
+    "id": "of Interference",
+    "ko": "- 방해"
+  },
+  {
+    "id": "of Obstruction",
+    "ko": "- 장애물"
+  },
+  {
+    "id": "of the Bastion",
+    "ko": "- 보루"
+  },
+  {
+    "id": "of the Watchman",
+    "ko": "- 감시원"
+  },
+  {
+    "id": "of the Custodian",
+    "ko": "- 관리인"
+  },
+  {
+    "id": "of the Sentry",
+    "ko": "- 보초"
+  },
+  {
+    "id": "of the Protector",
+    "ko": "- 보호자"
+  },
+  {
+    "id": "of the Conservator",
+    "ko": "- 보존자"
+  },
+  {
+    "id": "of the Bushfire",
+    "ko": "- 산불"
+  },
+  {
+    "id": "of the Molten Core",
+    "ko": "- 녹아내린 핵"
+  },
+  {
+    "id": "of the Solar Storm",
+    "ko": "- 태양 폭풍"
+  },
+  {
+    "id": "of Furs",
+    "ko": "- 털가죽"
+  },
+  {
+    "id": "of the Tundra",
+    "ko": "- 동토"
+  },
+  {
+    "id": "of the Mammoth",
+    "ko": "- 매머드"
+  },
+  {
+    "id": "of Impedance",
+    "ko": "- 저해"
+  },
+  {
+    "id": "of Shockproofing",
+    "ko": "- 감전 방지"
+  },
+  {
+    "id": "of the Lightning Rod",
+    "ko": "- 피뢰침"
+  },
+  {
+    "id": "of Regularity",
+    "ko": "- 규칙성"
+  },
+  {
+    "id": "of Concord",
+    "ko": "- 화합"
+  },
+  {
+    "id": "of Harmony",
+    "ko": "- 조화"
+  },
+  {
+    "id": "of the Deathless",
+    "ko": "- 불사"
+  },
+  {
+    "id": "of the Everlasting",
+    "ko": "- 영속하는 자"
+  },
+  {
+    "id": "of Enlivening",
+    "ko": "- 활력 부여"
+  },
+  {
+    "id": "of Diffusion",
+    "ko": "- 유포"
+  },
+  {
+    "id": "of Dispersal",
+    "ko": "- 살포"
+  },
+  {
+    "id": "of Buffering",
+    "ko": "- 완충"
+  },
+  {
+    "id": "of Ardour",
+    "ko": "- 열의"
+  },
+  {
+    "id": "of Suffusion",
+    "ko": "- 확산"
+  },
+  {
+    "id": "of Impatience",
+    "ko": "- 조바심"
+  },
+  {
+    "id": "of Restlessness",
+    "ko": "- 초조"
+  },
+  {
+    "id": "of Fretfulness",
+    "ko": "- 조급"
+  },
+  {
+    "id": "of Motivation",
+    "ko": "- 동기"
+  },
+  {
+    "id": "of Anticipation",
+    "ko": "- 기대"
+  },
+  {
+    "id": "of Covering",
+    "ko": "- 덮개"
+  },
+  {
+    "id": "of Sheathing",
+    "ko": "- 칼집"
+  },
+  {
+    "id": "of Lining",
+    "ko": "- 안감"
+  },
+  {
+    "id": "of Padding",
+    "ko": "- 속"
+  },
+  {
+    "id": "of Furring",
+    "ko": "- 모피"
+  },
+  {
+    "id": "of Thermokryptance",
+    "ko": "- 열 차단"
+  },
+  {
+    "id": "of Deflecting",
+    "ko": "- 튕겨내기"
+  },
+  {
+    "id": "of Bending",
+    "ko": "- 굴곡"
+  },
+  {
+    "id": "of Curvation",
+    "ko": "- 만곡"
+  },
+  {
+    "id": "of Diversion",
+    "ko": "- 우회"
+  },
+  {
+    "id": "of Flexure",
+    "ko": "- 요곡"
+  },
+  {
+    "id": "of Warping",
+    "ko": "- 왜곡"
+  },
+  {
+    "id": "of Piercing",
+    "ko": "- 관통"
+  },
+  {
+    "id": "of Drilling",
+    "ko": "- 굴착"
+  },
+  {
+    "id": "of Puncturing",
+    "ko": "- 구멍"
+  },
+  {
+    "id": "of Skewering",
+    "ko": "- 꿰기"
+  },
+  {
+    "id": "of Penetrating",
+    "ko": "- 침투"
+  },
+  {
+    "id": "of Splintering",
+    "ko": "- 파편화"
+  },
+  {
+    "id": "of Many",
+    "ko": "- 다수"
+  },
+  {
+    "id": "of Surplus",
+    "ko": "- 잉여"
+  },
+  {
+    "id": "of Shards",
+    "ko": "- 쇄편"
+  },
+  {
+    "id": "of Shelling",
+    "ko": "- 폭격"
+  },
+  {
+    "id": "of Bursting",
+    "ko": "- 격발"
+  },
+  {
+    "id": "Restoring",
+    "ko": "회생하는"
+  },
+  {
+    "id": "Recovering",
+    "ko": "회복하는"
+  },
+  {
+    "id": "Renewing",
+    "ko": "소생하는"
+  },
+  {
+    "id": "Refreshing",
+    "ko": "상쾌한"
+  },
+  {
+    "id": "Rejuvenating",
+    "ko": "회춘하는"
+  },
+  {
+    "id": "Regenerating",
+    "ko": "재생하는"
+  },
+  {
+    "id": "Affecting",
+    "ko": "영향 있는"
+  },
+  {
+    "id": "Stirring",
+    "ko": "휘젓는"
+  },
+  {
+    "id": "Heartening",
+    "ko": "기운을 불어넣는"
+  },
+  {
+    "id": "Exciting",
+    "ko": "신나는"
+  },
+  {
+    "id": "Galvanizing",
+    "ko": "자극하는"
+  },
+  {
+    "id": "Inspiring",
+    "ko": "기운 나는"
+  },
+  {
+    "id": "Conservative",
+    "ko": "보수적인"
+  },
+  {
+    "id": "Transformative",
+    "ko": "변화의"
+  },
+  {
+    "id": "Progressive",
+    "ko": "진보적인"
+  },
+  {
+    "id": "Innovative",
+    "ko": "혁신적인"
+  },
+  {
+    "id": "Revolutionary",
+    "ko": "혁명적인"
+  },
+  {
+    "id": "of Refilling",
+    "ko": "- 보충"
+  },
+  {
+    "id": "of Restocking",
+    "ko": "- 재고 보충"
+  },
+  {
+    "id": "of Replenishing",
+    "ko": "- 차오름"
+  },
+  {
+    "id": "of Pouring",
+    "ko": "- 퍼부음"
+  },
+  {
+    "id": "of Brimming",
+    "ko": "- 충만"
+  },
+  {
+    "id": "of Overflowing",
+    "ko": "- 범람"
+  },
+  {
+    "id": "of Sipping",
+    "ko": "- 음미"
+  },
+  {
+    "id": "of Imbibing",
+    "ko": "- 섭취"
+  },
+  {
+    "id": "of Relishing",
+    "ko": "- 감미"
+  },
+  {
+    "id": "of Savouring",
+    "ko": "- 풍미"
+  },
+  {
+    "id": "of Reveling",
+    "ko": "- 감상"
+  },
+  {
+    "id": "of Nourishing",
+    "ko": "- 영양가"
+  },
+  {
+    "id": "of Plenty",
+    "ko": "- 풍요함"
+  },
+  {
+    "id": "of Fertility",
+    "ko": "- 다산"
+  },
+  {
+    "id": "of Bounty",
+    "ko": "- 하사품"
+  },
+  {
+    "id": "of the Harvest",
+    "ko": "- 수확"
+  },
+  {
+    "id": "of Abundance",
+    "ko": "- 풍부함"
+  },
+  {
+    "id": "of Austerity",
+    "ko": "- 검소"
+  },
+  {
+    "id": "of Frugality",
+    "ko": "- 절약"
+  },
+  {
+    "id": "of Temperance",
+    "ko": "- 자제"
+  },
+  {
+    "id": "of Restraint",
+    "ko": "- 제약"
+  },
+  {
+    "id": "of Economy",
+    "ko": "- 경제"
+  },
+  {
+    "id": "of Scarcity",
+    "ko": "- 희소"
+  },
+  {
+    "id": "of Symbolism",
+    "ko": "- 상징성"
+  },
+  {
+    "id": "of Inscription",
+    "ko": "- 명문"
+  },
+  {
+    "id": "of Ignition",
+    "ko": "- 점화"
+  },
+  {
+    "id": "of Scorching",
+    "ko": "- 작열"
+  },
+  {
+    "id": "of Incineration",
+    "ko": "- 소각"
+  },
+  {
+    "id": "of Combustion",
+    "ko": "- 연소"
+  },
+  {
+    "id": "of Conflagration",
+    "ko": "- 맹화"
+  },
+  {
+    "id": "of Freezing",
+    "ko": "- 동결"
+  },
+  {
+    "id": "of Bleakness",
+    "ko": "- 음산"
+  },
+  {
+    "id": "of the Glacier",
+    "ko": "- 빙하"
+  },
+  {
+    "id": "of the Hyperboreal",
+    "ko": "- 극북"
+  },
+  {
+    "id": "of the Arctic",
+    "ko": "- 한기"
+  },
+  {
+    "id": "of Shocking",
+    "ko": "- 감전"
+  },
+  {
+    "id": "of Zapping",
+    "ko": "- 전류"
+  },
+  {
+    "id": "of Electrocution",
+    "ko": "- 전기 처형"
+  },
+  {
+    "id": "of Voltages",
+    "ko": "- 전압"
+  },
+  {
+    "id": "of the Thunderbolt",
+    "ko": "- 벼락불"
+  },
+  {
+    "id": "Darting",
+    "ko": "쏜살같은"
+  },
+  {
+    "id": "Brisk",
+    "ko": "빠른"
+  },
+  {
+    "id": "Quick",
+    "ko": "신속한"
+  },
+  {
+    "id": "Rapid",
+    "ko": "날쌘"
+  },
+  {
+    "id": "Nimble",
+    "ko": "가뿐한"
+  },
+  {
+    "id": "of Mending",
+    "ko": "- 꿰매기"
+  },
+  {
+    "id": "of Bandaging",
+    "ko": "- 붕대"
+  },
+  {
+    "id": "of Stitching",
+    "ko": "- 봉합"
+  },
+  {
+    "id": "of Suturing",
+    "ko": "- 봉합술"
+  },
+  {
+    "id": "of Fleshbinding",
+    "ko": "- 살점 결합"
+  },
+  {
+    "id": "of Reprieve",
+    "ko": "- 유예"
+  },
+  {
+    "id": "of Solace",
+    "ko": "- 위안"
+  },
+  {
+    "id": "of Tranquility",
+    "ko": "- 고요함"
+  },
+  {
+    "id": "of Serenity",
+    "ko": "- 평온"
+  },
+  {
+    "id": "of Zen",
+    "ko": "- 선"
+  },
+  {
+    "id": "of Impact",
+    "ko": "- 충격"
+  },
+  {
+    "id": "of Dazing",
+    "ko": "- 혼미"
+  },
+  {
+    "id": "of Stunning",
+    "ko": "- 기절"
+  },
+  {
+    "id": "of Slamming",
+    "ko": "- 강타"
+  },
+  {
+    "id": "of Staggering",
+    "ko": "- 비틀거림"
+  },
+  {
+    "id": "of the Concussion",
+    "ko": "- 뇌진탕"
+  },
+  {
+    "id": "of the Pugilist",
+    "ko": "- 권투가"
+  },
+  {
+    "id": "of the Brawler",
+    "ko": "- 싸움꾼"
+  },
+  {
+    "id": "of the Boxer",
+    "ko": "- 권투선수"
+  },
+  {
+    "id": "of the Combatant",
+    "ko": "- 전투원"
+  },
+  {
+    "id": "of the Gladiator",
+    "ko": "- 검투사"
+  },
+  {
+    "id": "of the Champion",
+    "ko": "- 챔피언"
+  },
+  {
+    "id": "Catalysing",
+    "ko": "촉진시키는"
+  },
+  {
+    "id": "Infusing",
+    "ko": "주입하는"
+  },
+  {
+    "id": "Unleashed",
+    "ko": "방출된"
+  },
+  {
+    "id": "Overpowering",
+    "ko": "압도하는"
+  },
+  {
+    "id": "Devastating",
+    "ko": "파괴적인"
+  },
+  {
+    "id": "Fervent",
+    "ko": "열광하는"
+  },
+  {
+    "id": "Ardent",
+    "ko": "간절한"
+  },
+  {
+    "id": "Fanatic's",
+    "ko": "광신도의"
+  },
+  {
+    "id": "Zealot's",
+    "ko": "맹신자의"
+  },
+  {
+    "id": "Infernal",
+    "ko": "지옥의"
+  },
+  {
+    "id": "Flamebound",
+    "ko": "화염결속"
+  },
+  {
+    "id": "Infernal",
+    "ko": "지옥불"
+  },
+  {
+    "id": "Pernicious",
+    "ko": "유해한"
+  },
+  {
+    "id": "Destructive",
+    "ko": "파멸적인"
+  },
+  {
+    "id": "Malicious",
+    "ko": "악의적인"
+  },
+  {
+    "id": "Ruthless",
+    "ko": "냉혹한"
+  },
+  {
+    "id": "Frostbound",
+    "ko": "서리결속"
+  },
+  {
+    "id": "Ruthless",
+    "ko": "무자비"
+  },
+  {
+    "id": "Deadly",
+    "ko": "치명적인"
+  },
+  {
+    "id": "Lethal",
+    "ko": "치명상의"
+  },
+  {
+    "id": "Fatal",
+    "ko": "죽음을 부르는"
+  },
+  {
+    "id": "Vorpal",
+    "ko": "서늘한"
+  },
+  {
+    "id": "Electrifying",
+    "ko": "짜릿한"
+  },
+  {
+    "id": "Stormbound",
+    "ko": "폭풍결속"
+  },
+  {
+    "id": "Acute",
+    "ko": "격심한"
+  },
+  {
+    "id": "Trenchant",
+    "ko": "신랄한"
+  },
+  {
+    "id": "Perforating",
+    "ko": "천공하는"
+  },
+  {
+    "id": "Incisive",
+    "ko": "날선"
+  },
+  {
+    "id": "Lacerating",
+    "ko": "짓찢는"
+  },
+  {
+    "id": "Impaling",
+    "ko": "꿰뚫는"
+  },
+  {
+    "id": "of Direction",
+    "ko": "- 방향"
+  },
+  {
+    "id": "of Outreach",
+    "ko": "- 지원"
+  },
+  {
+    "id": "of Guidance",
+    "ko": "- 선도"
+  },
+  {
+    "id": "of Influence",
+    "ko": "- 영향력"
+  },
+  {
+    "id": "of the Mentor",
+    "ko": "- 모범"
+  },
+  {
+    "id": "of the Tutor",
+    "ko": "- 스승"
+  },
+  {
+    "id": "of the Director",
+    "ko": "- 국장"
+  },
+  {
+    "id": "of the Headmaster",
+    "ko": "- 교장"
+  },
+  {
+    "id": "of the Administrator",
+    "ko": "- 행정"
+  },
+  {
+    "id": "of the Rector",
+    "ko": "- 교구"
+  },
+  {
+    "id": "of the Constant",
+    "ko": "- 상수"
+  },
+  {
+    "id": "of the Continuous",
+    "ko": "- 계속"
+  },
+  {
+    "id": "of the Endless",
+    "ko": "- 끝없음"
+  },
+  {
+    "id": "of the Bottomless",
+    "ko": "- 끝이 보이지 않음"
+  },
+  {
+    "id": "of the Perpetual",
+    "ko": "- 영속적"
+  },
+  {
+    "id": "of the Eternal",
+    "ko": "- 영원"
+  },
+  {
+    "id": "of the Wide",
+    "ko": "- 넓음"
+  },
+  {
+    "id": "of the Copious",
+    "ko": "- 방대함"
+  },
+  {
+    "id": "of the Plentiful",
+    "ko": "- 풍요"
+  },
+  {
+    "id": "of the Bountiful",
+    "ko": "- 풍성"
+  },
+  {
+    "id": "of the Abundant",
+    "ko": "- 풍부"
+  },
+  {
+    "id": "of the Ample",
+    "ko": "- 풍족"
+  },
+  {
+    "id": "of the Apprentice",
+    "ko": "- 수습생"
+  },
+  {
+    "id": "of the Practitioner",
+    "ko": "- 실무자"
+  },
+  {
+    "id": "of the Mixologist",
+    "ko": "- 혼합자"
+  },
+  {
+    "id": "of the Distiller",
+    "ko": "- 증류자"
+  },
+  {
+    "id": "of the Brewer",
+    "ko": "- 조제자"
+  },
+  {
+    "id": "of the Chemist",
+    "ko": "- 화학자"
+  },
+  {
+    "id": "of the Medic",
+    "ko": "- 위생병"
+  },
+  {
+    "id": "of the Doctor",
+    "ko": "- 의사"
+  },
+  {
+    "id": "of the Surgeon",
+    "ko": "- 외과의사"
+  },
+  {
+    "id": "of the Foliage",
+    "ko": "- 나뭇잎"
+  },
+  {
+    "id": "of the Verdant",
+    "ko": "- 신록"
+  },
+  {
+    "id": "of the Sylvan",
+    "ko": "- 시골숲"
+  },
+  {
+    "id": "Dense",
+    "ko": "조밀한"
+  },
+  {
+    "id": "Undiluted",
+    "ko": "희석되지 않은"
+  },
+  {
+    "id": "Hearty",
+    "ko": "원기 왕성"
+  },
+  {
+    "id": "Viscous",
+    "ko": "점성 있는"
+  },
+  {
+    "id": "Condensed",
+    "ko": "농축된"
+  },
+  {
+    "id": "Catalysed",
+    "ko": "촉진된"
+  },
+  {
+    "id": "Opaque",
+    "ko": "불투명한"
+  },
+  {
+    "id": "Compact",
+    "ko": "압축된"
+  },
+  {
+    "id": "Full-bodied",
+    "ko": "진한"
+  },
+  {
+    "id": "Abundant",
+    "ko": "풍부한"
+  },
+  {
+    "id": "Substantial",
+    "ko": "묵직한"
+  },
+  {
+    "id": "Concentrated",
+    "ko": "밀집된"
+  },
+  {
+    "id": "Potent",
+    "ko": "강화형"
+  },
+  {
+    "id": "Saturated",
+    "ko": "포화된"
+  },
+  {
+    "id": "Prudent",
+    "ko": "신중한"
+  },
+  {
+    "id": "Prepared",
+    "ko": "준비된"
+  },
+  {
+    "id": "Wary",
+    "ko": "경계하는"
+  },
+  {
+    "id": "Careful",
+    "ko": "조심하는"
+  },
+  {
+    "id": "Cautious",
+    "ko": "조심스러운"
+  },
+  {
+    "id": "Sustained",
+    "ko": "오래가는"
+  },
+  {
+    "id": "Tenacious",
+    "ko": "끈기 있는"
+  },
+  {
+    "id": "Persistent",
+    "ko": "집요한"
+  },
+  {
+    "id": "Persevering",
+    "ko": "꾸준한"
+  },
+  {
+    "id": "Prolonged",
+    "ko": "연장되는"
+  },
+  {
+    "id": "Impairing",
+    "ko": "손상시키는"
+  },
+  {
+    "id": "Dizzying",
+    "ko": "아찔한"
+  },
+  {
+    "id": "Depleting",
+    "ko": "동내는"
+  },
+  {
+    "id": "Vitiating",
+    "ko": "저하시키는"
+  },
+  {
+    "id": "Sapping",
+    "ko": "활력 감소의"
+  },
+  {
+    "id": "Aged",
+    "ko": "숙성된"
+  },
+  {
+    "id": "Fermented",
+    "ko": "발효된"
+  },
+  {
+    "id": "Congealed",
+    "ko": "굳은"
+  },
+  {
+    "id": "Turbid",
+    "ko": "탁한"
+  },
+  {
+    "id": "Caustic",
+    "ko": "부식성"
+  },
+  {
+    "id": "Simmering",
+    "ko": "보글거리는"
+  },
+  {
+    "id": "Bubbling",
+    "ko": "부글대는"
+  },
+  {
+    "id": "Seething",
+    "ko": "끓어오르는"
+  },
+  {
+    "id": "Novice's",
+    "ko": "초보자의"
+  },
+  {
+    "id": "Acolyte's",
+    "ko": "조수의"
+  },
+  {
+    "id": "Summoner's",
+    "ko": "소환사의"
+  },
+  {
+    "id": "Conjurer's",
+    "ko": "요술사의"
+  },
+  {
+    "id": "Necromancer's",
+    "ko": "강령술사의"
+  },
+  {
+    "id": "Investigator's",
+    "ko": "조사관의"
+  },
+  {
+    "id": "Analyst's",
+    "ko": "분석가의"
+  },
+  {
+    "id": "Examiner's",
+    "ko": "조사자의"
+  },
+  {
+    "id": "Clinician's",
+    "ko": "임상의의"
+  },
+  {
+    "id": "Experimenter's",
+    "ko": "실험자의"
+  },
+  {
+    "id": "Herbal",
+    "ko": "약초"
+  },
+  {
+    "id": "Floral",
+    "ko": "꽃"
+  },
+  {
+    "id": "Blooming",
+    "ko": "피어나는"
+  },
+  {
+    "id": "Sprouting",
+    "ko": "싹트는"
+  },
+  {
+    "id": "Petaled",
+    "ko": "꽃잎의"
+  },
+  {
+    "id": "Botanic",
+    "ko": "식물성"
+  },
+  {
+    "id": "Natural",
+    "ko": "천연"
+  },
+  {
+    "id": "Evergreen",
+    "ko": "상록의"
+  },
+  {
+    "id": "Drizzling",
+    "ko": "보슬비의"
+  },
+  {
+    "id": "Soaked",
+    "ko": "젖은"
+  },
+  {
+    "id": "Mistbound",
+    "ko": "안개결속"
+  },
+  {
+    "id": "Tidebound",
+    "ko": "물결결속"
+  },
+  {
+    "id": "Aqueous",
+    "ko": "수용성"
+  },
+  {
+    "id": "Flooded",
+    "ko": "흘러넘치는"
+  },
+  {
+    "id": "Oceanic",
+    "ko": "해양의"
+  },
+  {
+    "id": "Raindancer's",
+    "ko": "비춤꾼의"
+  },
+  {
+    "id": "Sunny",
+    "ko": "쨍쨍한"
+  },
+  {
+    "id": "Dawnlit",
+    "ko": "새벽빛의"
+  },
+  {
+    "id": "Bright",
+    "ko": "밝은"
+  },
+  {
+    "id": "Vibrant",
+    "ko": "생생한"
+  },
+  {
+    "id": "Lustrous",
+    "ko": "윤기 나는"
+  },
+  {
+    "id": "Sunburst",
+    "ko": "햇살의"
+  },
+  {
+    "id": "of Stockpiling",
+    "ko": "- 저장"
+  },
+  {
+    "id": "of Ordnance",
+    "ko": "- 군수품"
+  },
+  {
+    "id": "of Blasting",
+    "ko": "- 폭발"
+  },
+  {
+    "id": "of Bombarding",
+    "ko": "- 포격"
+  },
+  {
+    "id": "of Speed",
+    "ko": "- 속도"
+  },
+  {
+    "id": "of Brevity",
+    "ko": "- 간결함"
+  },
+  {
+    "id": "of Rapidity",
+    "ko": "- 신속함"
+  },
+  {
+    "id": "of Swiftness",
+    "ko": "- 재빠름"
+  },
+  {
+    "id": "of Fleetness",
+    "ko": "- 쾌속함"
+  },
+  {
+    "id": "of Alacrity",
+    "ko": "- 기민성"
+  },
+  {
+    "id": "Accurate",
+    "ko": "정확"
+  },
+  {
+    "id": "of Ailing",
+    "ko": "- 병"
+  },
+  {
+    "id": "Acrimonious",
+    "ko": "격론의"
+  },
+  {
+    "id": "of Enduring",
+    "ko": "- 인내"
+  },
+  {
+    "id": "Armoured",
+    "ko": "장갑을 두른"
+  },
+  {
+    "id": "Resonating",
+    "ko": "호응하는"
+  },
+  {
+    "id": "of Deadliness",
+    "ko": "- 치명성"
+  },
+  {
+    "id": "of Demolishing",
+    "ko": "- 철거"
+  },
+  {
+    "id": "Combat",
+    "ko": "전투"
+  },
+  {
+    "id": "Commanding",
+    "ko": "명령하는"
+  },
+  {
+    "id": "Sinister",
+    "ko": "험악한"
+  },
+  {
+    "id": "of Cleaving",
+    "ko": "- 쪼개기"
+  },
+  {
+    "id": "of Haemophilia",
+    "ko": "- 혈우병"
+  },
+  {
+    "id": "Stifling",
+    "ko": "숨 막히는"
+  },
+  {
+    "id": "of Blinding",
+    "ko": "- 실명"
+  },
+  {
+    "id": "Protecting",
+    "ko": "보호하는"
+  },
+  {
+    "id": "Slaying",
+    "ko": "처치"
+  },
+  {
+    "id": "of Nocking",
+    "ko": "- 활시위"
+  },
+  {
+    "id": "of Enchanting",
+    "ko": "- 인챈트"
+  },
+  {
+    "id": "of Chaining",
+    "ko": "- 연쇄"
+  },
+  {
+    "id": "of the Woodland",
+    "ko": "- 밀림"
+  },
+  {
+    "id": "of the Thicker",
+    "ko": "- 잡목림"
+  },
+  {
+    "id": "Verdant",
+    "ko": "신록의"
+  },
+  {
+    "id": "Chaotic",
+    "ko": "혼돈의"
+  },
+  {
+    "id": "of Frost",
+    "ko": "- 서리"
+  },
+  {
+    "id": "Chilling",
+    "ko": "냉각시키는"
+  },
+  {
+    "id": "Numbing",
+    "ko": "무감각"
+  },
+  {
+    "id": "of Chronomancy",
+    "ko": "- 시간술"
+  },
+  {
+    "id": "Necromantic",
+    "ko": "강령술"
+  },
+  {
+    "id": "Rancorous",
+    "ko": "앙심을 품은"
+  },
+  {
+    "id": "of Annihilation",
+    "ko": "- 전멸"
+  },
+  {
+    "id": "of Potency",
+    "ko": "- 잠재력"
+  },
+  {
+    "id": "of Reloading",
+    "ko": "- 재장전"
+  },
+  {
+    "id": "of Rapidity",
+    "ko": "- 신속"
+  },
+  {
+    "id": "Expanding",
+    "ko": "확장하는"
+  },
+  {
+    "id": "of Chanting",
+    "ko": "- 노래"
+  },
+  {
+    "id": "of Continuation",
+    "ko": "- 계속"
+  },
+  {
+    "id": "Hexing",
+    "ko": "사술의"
+  },
+  {
+    "id": "of Backstabbing",
+    "ko": "- 암습"
+  },
+  {
+    "id": "of Slicing",
+    "ko": "- 가르기"
+  },
+  {
+    "id": "of Mind",
+    "ko": "- 정신"
+  },
+  {
+    "id": "Exploiting",
+    "ko": "악용하는"
+  },
+  {
+    "id": "of Diminishing",
+    "ko": "- 체감"
+  },
+  {
+    "id": "Prismatic",
+    "ko": "분광"
+  },
+  {
+    "id": "of Generation",
+    "ko": "- 생성"
+  },
+  {
+    "id": "Shimmering",
+    "ko": "일렁이는"
+  },
+  {
+    "id": "Fevered",
+    "ko": "흥분한"
+  },
+  {
+    "id": "Evasive",
+    "ko": "회피하는"
+  },
+  {
+    "id": "of Decrepifying",
+    "ko": "- 노쇠"
+  },
+  {
+    "id": "of Thrashing",
+    "ko": "- 탈곡"
+  },
+  {
+    "id": "Flailing",
+    "ko": "도리깨의"
+  },
+  {
+    "id": "of Gathering",
+    "ko": "- 채집"
+  },
+  {
+    "id": "of Prolonging",
+    "ko": "- 연장"
+  },
+  {
+    "id": "Focusing",
+    "ko": "집중하는"
+  },
+  {
+    "id": "of Forking",
+    "ko": "- 갈래"
+  },
+  {
+    "id": "of Snowbreathing",
+    "ko": "- 눈숨결"
+  },
+  {
+    "id": "Heralding",
+    "ko": "전파의"
+  },
+  {
+    "id": "Burning",
+    "ko": "화상"
+  },
+  {
+    "id": "of Lengthening",
+    "ko": "- 늘이기"
+  },
+  {
+    "id": "of Fending",
+    "ko": "- 밀치기"
+  },
+  {
+    "id": "of Sacrifice",
+    "ko": "- 희생"
+  },
+  {
+    "id": "of Recovery",
+    "ko": "- 회복"
+  },
+  {
+    "id": "of Pathfinding",
+    "ko": "- 길찾기"
+  },
+  {
+    "id": "of Frenzy",
+    "ko": "- 격분"
+  },
+  {
+    "id": "of Regeneration",
+    "ko": "- 재생"
+  },
+  {
+    "id": "Surging",
+    "ko": "쇄도하는"
+  },
+  {
+    "id": "Beating",
+    "ko": "두들기는"
+  },
+  {
+    "id": "of Thumping",
+    "ko": "- 두드림"
+  },
+  {
+    "id": "of Fountains",
+    "ko": "- 분수"
+  },
+  {
+    "id": "of Thirsting",
+    "ko": "- 갈증"
+  },
+  {
+    "id": "of Energy",
+    "ko": "- 에너지"
+  },
+  {
+    "id": "of Targeting",
+    "ko": "- 대상 지정"
+  },
+  {
+    "id": "of Tracking",
+    "ko": "- 추적"
+  },
+  {
+    "id": "Marking",
+    "ko": "표시하는"
+  },
+  {
+    "id": "of the Kraken",
+    "ko": "- 크라켄"
+  },
+  {
+    "id": "Angry",
+    "ko": "분노한"
+  },
+  {
+    "id": "Clashing",
+    "ko": "부딪히는"
+  },
+  {
+    "id": "Training",
+    "ko": "훈련"
+  },
+  {
+    "id": "Companion",
+    "ko": "동반"
+  },
+  {
+    "id": "of Orchestration",
+    "ko": "- 조직화"
+  },
+  {
+    "id": "of Righteousness",
+    "ko": "- 정의"
+  },
+  {
+    "id": "of Marshalling",
+    "ko": "- 통제"
+  },
+  {
+    "id": "of Gripping",
+    "ko": "- 손아귀"
+  },
+  {
+    "id": "Authoritative",
+    "ko": "권위적인"
+  },
+  {
+    "id": "Fortuitous",
+    "ko": "천운이 따르는"
+  },
+  {
+    "id": "of Confidence",
+    "ko": "- 확신"
+  },
+  {
+    "id": "of Revival",
+    "ko": "- 소생"
+  },
+  {
+    "id": "of Offering",
+    "ko": "- 공물"
+  },
+  {
+    "id": "Sacrificial",
+    "ko": "희생하는"
+  },
+  {
+    "id": "Sharpened",
+    "ko": "날카로운"
+  },
+  {
+    "id": "of Pinning",
+    "ko": "- 고정"
+  },
+  {
+    "id": "of Poisoning",
+    "ko": "- 중독"
+  },
+  {
+    "id": "Venomous",
+    "ko": "독성"
+  },
+  {
+    "id": "of Infection",
+    "ko": "- 감염"
+  },
+  {
+    "id": "Archer's",
+    "ko": "궁수의"
+  },
+  {
+    "id": "Soaring",
+    "ko": "솟구치는"
+  },
+  {
+    "id": "of Glaciers",
+    "ko": "- 빙하"
+  },
+  {
+    "id": "of Sequencing",
+    "ko": "- 연이음"
+  },
+  {
+    "id": "Fletching",
+    "ko": "화살깃의"
+  },
+  {
+    "id": "of Raging",
+    "ko": "- 격노"
+  },
+  {
+    "id": "of Retribution",
+    "ko": "- 응보"
+  },
+  {
+    "id": "Shielding",
+    "ko": "방어하는"
+  },
+  {
+    "id": "of Paralyzing",
+    "ko": "- 마비"
+  },
+  {
+    "id": "Jolting",
+    "ko": "각성시키는"
+  },
+  {
+    "id": "of Hastening",
+    "ko": "- 재촉"
+  },
+  {
+    "id": "of Spearing",
+    "ko": "- 창술"
+  },
+  {
+    "id": "of Hunting",
+    "ko": "- 사냥"
+  },
+  {
+    "id": "Spearheaded",
+    "ko": "선봉의"
+  },
+  {
+    "id": "of Annihilating",
+    "ko": "- 절멸"
+  },
+  {
+    "id": "Mystic",
+    "ko": "신비한"
+  },
+  {
+    "id": "of Withstanding",
+    "ko": "- 저항"
+  },
+  {
+    "id": "of Barriers",
+    "ko": "- 방벽"
+  },
+  {
+    "id": "of Inuring",
+    "ko": "- 발효"
+  },
+  {
+    "id": "of Stoutness",
+    "ko": "- 완강함"
+  },
+  {
+    "id": "Haemorrhaging",
+    "ko": "대량 출혈하는"
+  },
+  {
+    "id": "of Fencing",
+    "ko": "- 펜싱"
+  },
+  {
+    "id": "Retaliating",
+    "ko": "보복하는"
+  },
+  {
+    "id": "Shaman's",
+    "ko": "주술사의"
+  },
+  {
+    "id": "Carved",
+    "ko": "조각된"
+  },
+  {
+    "id": "of Ancestry",
+    "ko": "- 선대"
+  },
+  {
+    "id": "Trapping",
+    "ko": "덫 놓기"
+  },
+  {
+    "id": "of Preparation",
+    "ko": "- 준비"
+  },
+  {
+    "id": "Triggered",
+    "ko": "발동한"
+  },
+  {
+    "id": "Punching",
+    "ko": "주먹질하는"
+  },
+  {
+    "id": "of Warcries",
+    "ko": "- 함성"
+  },
+  {
+    "id": "of Rallying",
+    "ko": "- 재집결"
+  },
+  {
+    "id": "Yelling",
+    "ko": "고함"
+  },
+  {
+    "id": "of Lungs",
+    "ko": "- 폐"
+  },
+  {
+    "id": "of Swapping",
+    "ko": "- 교체"
+  },
+  {
+    "id": "Withering",
+    "ko": "고사시키는"
+  },
+  {
+    "id": "of Jabbing",
+    "ko": "- 연타"
+  },
+  {
+    "id": "Retreating",
+    "ko": "퇴각하는"
+  },
+  {
+    "id": "Engaging",
+    "ko": "교전하는"
+  },
+  {
+    "id": "Parrying",
+    "ko": "흘려보내는"
+  },
+  {
+    "id": "of Unsettling",
+    "ko": "- 꺼림칙함"
+  },
+  {
+    "id": "of Biding",
+    "ko": "- 기다림"
+  },
+  {
+    "id": "of Volatility",
+    "ko": "- 일촉즉발"
+  },
+  {
+    "id": "Kinship",
+    "ko": "연대감"
+  },
+  {
+    "id": "Kindred",
+    "ko": "동류"
+  },
+  {
+    "id": "Hazardous",
+    "ko": "위태한"
+  },
+  {
+    "id": "Incise",
+    "ko": "절개"
+  },
+  {
+    "id": "Rallying",
+    "ko": "재집결의"
+  },
+  {
+    "id": "of Inspiring",
+    "ko": "- 의욕 고취"
+  },
+  {
+    "id": "Iconic",
+    "ko": "우상의"
+  },
+  {
+    "id": "Greater",
+    "ko": "상급"
+  },
+  {
+    "id": "of Supremacy",
+    "ko": "- 우월"
+  },
+  {
+    "id": "of the Essence",
+    "ko": "- 에센스"
+  },
+  {
+    "id": "Essence's",
+    "ko": "에센스의"
+  },
+  {
+    "id": "Abyssal",
+    "ko": "심연의"
+  },
+  {
+    "id": "of the Abyss",
+    "ko": "- 심연"
+  },
+  {
+    "id": "Breachlord's",
+    "ko": "균열 군주의"
+  },
+  {
+    "id": "of the Inferno",
+    "ko": "- 지옥불"
+  },
+  {
+    "id": "of Fleeting",
+    "ko": "- 쾌속"
+  },
+  {
+    "id": "of Incision",
+    "ko": "- 절개"
+  },
+  {
+    "id": "of Endurance",
+    "ko": "- 인내"
+  },
+  {
+    "id": "of the Blur",
+    "ko": "- 희미함"
+  },
+  {
+    "id": "of Venom",
+    "ko": "- 독액"
+  },
+  {
+    "id": "of Bloodletting",
+    "ko": "- 출혈 과다"
+  },
+  {
+    "id": "of Stone Skin",
+    "ko": "- 돌 피부"
+  },
+  {
+    "id": "of Shattering",
+    "ko": "- 산산조각"
+  },
+  {
+    "id": "of Precision",
+    "ko": "- 정밀함"
+  },
+  {
+    "id": "of Giants",
+    "ko": "- 거인"
+  },
+  {
+    "id": "of Freedom",
+    "ko": "- 자유"
+  },
+  {
+    "id": "of Congealment",
+    "ko": "- 응고"
+  },
+  {
+    "id": "of Hexproof",
+    "ko": "- 사술 방지"
+  },
+  {
+    "id": "of Far Shot",
+    "ko": "- 장거리 사격"
+  },
+  {
+    "id": "Shrouded",
+    "ko": "연막의"
+  },
+  {
+    "id": "Enraging",
+    "ko": "격앙하는"
+  },
+  {
+    "id": "Berserking",
+    "ko": "광폭화하는"
+  },
+  {
+    "id": "Hungering",
+    "ko": "허기진"
+  },
+  {
+    "id": "Essence of Flames",
+    "ko": "화염의 에센스"
+  },
+  {
+    "id": "Essence of Ice",
+    "ko": "얼음의 에센스"
+  },
+  {
+    "id": "Essence of Electricity",
+    "ko": "전기의 에센스"
+  },
+  {
+    "id": "Essence of Haste",
+    "ko": "가속의 에센스"
+  },
+  {
+    "id": "Essence of the Body",
+    "ko": "육신의 에센스"
+  },
+  {
+    "id": "Essence of the Mind",
+    "ko": "정신의 에센스"
+  },
+  {
+    "id": "Essence of Enhancement",
+    "ko": "강화의 에센스"
+  },
+  {
+    "id": "Essence of Abrasion",
+    "ko": "마모의 에센스"
+  },
+  {
+    "id": "Essence of Ruin",
+    "ko": "폐허의 에센스"
+  },
+  {
+    "id": "Essence of Battle",
+    "ko": "전투의 에센스"
+  },
+  {
+    "id": "Essence of Sorcery",
+    "ko": "마술의 에센스"
+  },
+  {
+    "id": "Essence of the Infinite",
+    "ko": "무한의 에센스"
+  },
+  {
+    "id": "Essence of Seeking",
+    "ko": "추구의 에센스"
+  },
+  {
+    "id": "Essence of Insulation",
+    "ko": "절연의 에센스"
+  },
+  {
+    "id": "Essence of Thawing",
+    "ko": "해동의 에센스"
+  },
+  {
+    "id": "Essence of Grounding",
+    "ko": "접지의 에센스"
+  },
+  {
+    "id": "Essence of Alacrity",
+    "ko": "기민성의 에센스"
+  },
+  {
+    "id": "Essence of Opulence",
+    "ko": "풍요의 에센스"
+  },
+  {
+    "id": "Essence of Command",
+    "ko": "지휘의 에센스"
+  },
+  {
+    "id": "Essence of Hysteria",
+    "ko": "발작의 에센스"
+  },
+  {
+    "id": "Essence of Delirium",
+    "ko": "섬망의 에센스"
+  },
+  {
+    "id": "Essence of Horror",
+    "ko": "경악의 에센스"
+  },
+  {
+    "id": "Essence of Insanity",
+    "ko": "광기의 에센스"
+  },
+  {
+    "id": "Essence of the Abyss",
+    "ko": "심연의 에센스"
+  },
+  {
+    "id": "Essence of the Breach",
+    "ko": "균열의 에센스"
+  },
+  {
+    "id": "Corrupted",
+    "ko": "타락한"
+  },
+  {
+    "id": "Plundering",
+    "ko": "약탈하는"
+  },
+  {
+    "id": "Bountiful",
+    "ko": "풍성한"
+  },
+  {
+    "id": "Elevated",
+    "ko": "고양된"
+  },
+  {
+    "id": "Breeding",
+    "ko": "번식하는"
+  },
+  {
+    "id": "Populated",
+    "ko": "식민"
+  },
+  {
+    "id": "Salvager's",
+    "ko": "재활용의"
+  },
+  {
+    "id": "Teeming",
+    "ko": "충만한"
+  },
+  {
+    "id": "Brimming",
+    "ko": "넘쳐흐르는"
+  },
+  {
+    "id": "Swarming",
+    "ko": "몰려드는"
+  },
+  {
+    "id": "Archivist's",
+    "ko": "기록 보관자의"
+  },
+  {
+    "id": "Treasurer's",
+    "ko": "회계원의"
+  },
+  {
+    "id": "Emboldening",
+    "ko": "용기를 주는"
+  },
+  {
+    "id": "of Nemeses",
+    "ko": "- 숙적"
+  },
+  {
+    "id": "Devoted",
+    "ko": "헌신적인"
+  },
+  {
+    "id": "Antiquarian's",
+    "ko": "골동품 수집가의"
+  },
+  {
+    "id": "Crystallised",
+    "ko": "결정화된"
+  },
+  {
+    "id": "of the Azmeri",
+    "ko": "- 아즈메리"
+  },
+  {
+    "id": "Do Not Use",
+    "ko": "사용 안 함"
+  },
+  {
+    "id": "Infernal",
+    "ko": "지옥불의"
+  },
+  {
+    "id": "Frostbitten",
+    "ko": "동상 걸린"
+  },
+  {
+    "id": "Thunderous",
+    "ko": "천둥 같은"
+  },
+  {
+    "id": "Painful",
+    "ko": "통증의"
+  },
+  {
+    "id": "Fleeting",
+    "ko": "쾌속"
+  },
+  {
+    "id": "Tough",
+    "ko": "강인한"
+  },
+  {
+    "id": "of Evasion",
+    "ko": "- 회피"
+  },
+  {
+    "id": "Puncturing",
+    "ko": "구멍을 뚫는"
+  },
+  {
+    "id": "of the Unwavering",
+    "ko": "- 변함없는 자"
+  },
+  {
+    "id": "Precise",
+    "ko": "정밀한"
+  },
+  {
+    "id": "Profane",
+    "ko": "부정한"
+  },
+  {
+    "id": "Impacting",
+    "ko": "충격적인"
+  },
+  {
+    "id": "of Overpowering",
+    "ko": "- 압도"
+  },
+  {
+    "id": "Splitting",
+    "ko": "분할의"
+  },
+  {
+    "id": "of Enfeebling",
+    "ko": "- 쇠약화"
+  },
+  {
+    "id": "of Slowing",
+    "ko": "- 감속"
+  },
+  {
+    "id": "of Erosion",
+    "ko": "- 침식"
+  },
+  {
+    "id": "Sleet",
+    "ko": "진눈깨비"
+  },
+  {
+    "id": "Penetrating",
+    "ko": "관통의"
+  },
+  {
+    "id": "of Exposure",
+    "ko": "- 노출"
+  },
+  {
+    "id": "of Drought",
+    "ko": "- 가뭄"
+  },
+  {
+    "id": "of Smothering",
+    "ko": "- 질식"
+  },
+  {
+    "id": "of Fatigue",
+    "ko": "- 피로"
+  },
+  {
+    "id": "of Hexwarding",
+    "ko": "- 사술 결계"
+  },
+  {
+    "id": "Enervating",
+    "ko": "피폐의"
+  },
+  {
+    "id": "of Union",
+    "ko": "- 결합"
+  },
+  {
+    "id": "of Grasping",
+    "ko": "- 탐심"
+  },
+  {
+    "id": "of Deceleration",
+    "ko": "- 감속"
+  },
+  {
+    "id": "of Cycling",
+    "ko": "- 회귀"
+  },
+  {
+    "id": "Challenger's",
+    "ko": "도전자의"
+  },
+  {
+    "id": "Abounding",
+    "ko": "난무"
+  },
+  {
+    "id": "of the Cartographer",
+    "ko": "- 지도제작자"
+  },
+  {
+    "id": "of the Nemesis",
+    "ko": "- 천벌"
+  },
+  {
+    "id": "of Shrines",
+    "ko": "- 성소"
+  },
+  {
+    "id": "of the Devoted",
+    "ko": "- 헌신적인 자"
+  },
+  {
+    "id": "of Strongboxes",
+    "ko": "- 금고"
+  },
+  {
+    "id": "of the Antiquarian",
+    "ko": "- 골동품 애호가"
+  },
+  {
+    "id": "of Spirits",
+    "ko": "- 혼백"
+  },
+  {
+    "id": "Azmeri's",
+    "ko": "아즈메리의"
+  },
+  {
+    "id": "of the Exile",
+    "ko": "- 유배자"
+  },
+  {
+    "id": "Exiled",
+    "ko": "유배된"
+  },
+  {
+    "id": "of the Summoning",
+    "ko": "- 소환"
+  },
+  {
+    "id": "of Undertaking",
+    "ko": "- 과업"
+  },
+  {
+    "id": "of Contest",
+    "ko": "- 투쟁"
+  },
+  {
+    "id": "of the Horde",
+    "ko": "- 패거리"
+  },
+  {
+    "id": "of the Commander",
+    "ko": "- 지휘관"
+  },
+  {
+    "id": "of the Invasion",
+    "ko": "- 침략"
+  },
+  {
+    "id": "of the Flash",
+    "ko": "- 섬광"
+  },
+  {
+    "id": "of the Hand",
+    "ko": "- 손"
+  },
+  {
+    "id": "of the Domain",
+    "ko": "- 영토"
+  },
+  {
+    "id": "of Rupturing",
+    "ko": "- 파열"
+  },
+  {
+    "id": "of Fissuring",
+    "ko": "- 갈라짐"
+  },
+  {
+    "id": "of the Flow",
+    "ko": "- 흐름"
+  },
+  {
+    "id": "of the Form",
+    "ko": "- 형상"
+  },
+  {
+    "id": "of the Flesh",
+    "ko": "- 살점"
+  },
+  {
+    "id": "of the Demolition",
+    "ko": "- 발파"
+  },
+  {
+    "id": "of the Detonator",
+    "ko": "- 기폭 장치"
+  },
+  {
+    "id": "of Knowledge",
+    "ko": "- 지식"
+  },
+  {
+    "id": "of Ancient Fiends",
+    "ko": "- 고대 마귀"
+  },
+  {
+    "id": "of Runes",
+    "ko": "- 룬"
+  },
+  {
+    "id": "of Verisium",
+    "ko": "- 베리시움"
+  },
+  {
+    "id": "of Ancient Evil",
+    "ko": "- 고대의 악"
+  },
+  {
+    "id": "of Sentinels",
+    "ko": "- 파수꾼"
+  },
+  {
+    "id": "of Power",
+    "ko": "- 권능"
+  },
+  {
+    "id": "of Preservation",
+    "ko": "- 보존"
+  },
+  {
+    "id": "of Treasure",
+    "ko": "- 보물고"
+  },
+  {
+    "id": "of the Past",
+    "ko": "- 과거"
+  },
+  {
+    "id": "of Remnants",
+    "ko": "- 유적"
+  },
+  {
+    "id": "of Twins",
+    "ko": "- 쌍둥이"
+  },
+  {
+    "id": "of the Writings",
+    "ko": "- 저술"
+  },
+  {
+    "id": "of Relics",
+    "ko": "- 유물"
+  },
+  {
+    "id": "of the Simulacrum",
+    "ko": "- 복제된 영토"
+  },
+  {
+    "id": "of the Pursuit",
+    "ko": "- 추구"
+  },
+  {
+    "id": "of Eternity",
+    "ko": "- 영원성"
+  },
+  {
+    "id": "of the Unending",
+    "ko": "- 끊임없음"
+  },
+  {
+    "id": "of Madness",
+    "ko": "- 광증"
+  },
+  {
+    "id": "of Persecution",
+    "ko": "- 박해"
+  },
+  {
+    "id": "of Mirrors",
+    "ko": "- 거울"
+  },
+  {
+    "id": "of Freeze Time",
+    "ko": "- 시간 정지"
+  },
+  {
+    "id": "of Phobia",
+    "ko": "- 공포증"
+  },
+  {
+    "id": "of Envy",
+    "ko": "- 선망"
+  },
+  {
+    "id": "of the Dogma",
+    "ko": "- 신조"
+  },
+  {
+    "id": "of Devotion",
+    "ko": "- 헌신"
+  },
+  {
+    "id": "of the Appeal",
+    "ko": "- 호소"
+  },
+  {
+    "id": "of Prayers",
+    "ko": "- 기도"
+  },
+  {
+    "id": "of the Occult",
+    "ko": "- 비술"
+  },
+  {
+    "id": "of the Foundling",
+    "ko": "- 업둥이"
+  },
+  {
+    "id": "of the Cult",
+    "ko": "- 교단"
+  },
+  {
+    "id": "of Omens",
+    "ko": "- 징조"
+  },
+  {
+    "id": "of Compartments",
+    "ko": "- 공간"
+  },
+  {
+    "id": "of Worship",
+    "ko": "- 숭배"
+  },
+  {
+    "id": "of Crystals",
+    "ko": "- 수정"
+  },
+  {
+    "id": "of Wisps",
+    "ko": "- 도깨비불"
+  },
+  {
+    "id": "of Pathways",
+    "ko": "- 길목"
+  },
+  {
+    "id": "of Conquering",
+    "ko": "- 점령"
+  },
+  {
+    "id": "of Hoards",
+    "ko": "- 비축고"
+  },
+  {
+    "id": "of Treasures",
+    "ko": "- 보물"
+  },
+  {
+    "id": "of Singularity",
+    "ko": "- 특이점"
+  },
+  {
+    "id": "of Ascendance",
+    "ko": "- 승천"
+  },
+  {
+    "id": "of Wisdom",
+    "ko": "- 지혜"
+  },
+  {
+    "id": "of Quality",
+    "ko": "- 퀄리티"
+  },
+  {
+    "id": "of Complexity",
+    "ko": "- 복잡성"
+  },
+  {
+    "id": "of the Exceptional",
+    "ko": "- 특출난 자"
+  },
+  {
+    "id": "of the Exceptional Warrior",
+    "ko": "- 특출난 전사"
+  },
+  {
+    "id": "of the Exceptional Mage",
+    "ko": "- 특출난 마법사"
+  },
+  {
+    "id": "of the Exceptional Armourer",
+    "ko": "- 특출난 방어구 장인"
+  },
+  {
+    "id": "of Monstrous Treasures",
+    "ko": "- 무시무시한 보물"
+  },
+  {
+    "id": "of Monstrous Bounty",
+    "ko": "- 무시무시한 하사품"
+  },
+  {
+    "id": "of Runic Power",
+    "ko": "- 룬의 힘"
+  },
+  {
+    "id": "of the Barya",
+    "ko": "- 바리야"
+  },
+  {
+    "id": "of the Trials",
+    "ko": "- 시련"
+  },
+  {
+    "id": "of Greater Bounty",
+    "ko": "- 상위 하사품"
+  },
+  {
+    "id": "of Greater Treasures",
+    "ko": "- 상위 보물"
+  },
+  {
+    "id": "of Greater Singularity",
+    "ko": "- 상위 특이점"
+  },
+  {
+    "id": "of Greater Ascendance",
+    "ko": "- 상위 승천"
+  },
+  {
+    "id": "of Greater Wisdom",
+    "ko": "- 상위 지혜"
+  },
+  {
+    "id": "of Greater Quality",
+    "ko": "- 상위 퀄리티"
+  },
+  {
+    "id": "of Greater Complexity",
+    "ko": "- 상위 복잡성"
+  },
+  {
+    "id": "of the Greater Exceptional",
+    "ko": "- 상위 특출난 자"
+  },
+  {
+    "id": "of the Greater Exceptional Warrior",
+    "ko": "- 상위 특출난 전사"
+  },
+  {
+    "id": "of the Greater Exceptional Mage",
+    "ko": "- 상위 특출난 마법사"
+  },
+  {
+    "id": "of the Greater Exceptional Armourer",
+    "ko": "- 상위 특출난 방어구 장인"
+  },
+  {
+    "id": "of Greater Runic Power",
+    "ko": "- 상위 룬의 힘"
+  },
+  {
+    "id": "of the Greater Barya",
+    "ko": "- 상위 바리야"
+  },
+  {
+    "id": "of the Greater Trials",
+    "ko": "- 상위 시련"
+  },
+  {
+    "id": "of Greater Inscription",
+    "ko": "- 상위 명문"
+  },
+  {
+    "id": "Swift",
+    "ko": "재빠른"
+  },
+  {
+    "id": "Massive",
+    "ko": "거대한"
+  },
+  {
+    "id": "Savage",
+    "ko": "야만적인"
+  },
+  {
+    "id": "of Fervor",
+    "ko": "- 열성"
+  },
+  {
+    "id": "Adept",
+    "ko": "숙련자"
+  },
+  {
+    "id": "of Wealth",
+    "ko": "- 재산"
+  },
+  {
+    "id": "of Elemental Resistance",
+    "ko": "- 원소 저항"
+  },
+  {
+    "id": "Essences",
+    "ko": "에센스"
+  },
+  {
+    "id": "Hexproof",
+    "ko": "사술 방지"
+  },
+  {
+    "id": "Labyrinthine",
+    "ko": "미궁의"
+  },
+  {
+    "id": "Ceremonial",
+    "ko": "의식의"
+  },
+  {
+    "id": "of Fracturing",
+    "ko": "- 분열"
+  },
+  {
+    "id": "Antagonist's",
+    "ko": "적대자의"
+  },
+  {
+    "id": "Anarchic",
+    "ko": "무정부의"
+  },
+  {
+    "id": "Skeletal",
+    "ko": "해골의"
+  },
+  {
+    "id": "Villainous",
+    "ko": "악랄한"
+  },
+  {
+    "id": "Capricious",
+    "ko": "변덕스러운"
+  },
+  {
+    "id": "Slithering",
+    "ko": "기어가는"
+  },
+  {
+    "id": "Undead",
+    "ko": "언데드"
+  },
+  {
+    "id": "Emanant",
+    "ko": "발산하는"
+  },
+  {
+    "id": "Feral",
+    "ko": "야생의"
+  },
+  {
+    "id": "Demonic",
+    "ko": "악마의"
+  },
+  {
+    "id": "Bipedal",
+    "ko": "이족보행의"
+  },
+  {
+    "id": "of Hordes",
+    "ko": "- 군단"
+  },
+  {
+    "id": "of Champions",
+    "ko": "- 용사"
+  },
+  {
+    "id": "of Commanders",
+    "ko": "- 사령관"
+  },
+  {
+    "id": "Multifarious",
+    "ko": "다양한"
+  },
+  {
+    "id": "Twinned",
+    "ko": "이중"
+  },
+  {
+    "id": "Overlord's",
+    "ko": "대군주의"
+  },
+  {
+    "id": "Incombustible",
+    "ko": "불연성의"
+  },
+  {
+    "id": "Molten",
+    "ko": "녹아내린"
+  },
+  {
+    "id": "Grounded",
+    "ko": "접지된"
+  },
+  {
+    "id": "Mirrored",
+    "ko": "반사된"
+  },
+  {
+    "id": "Chaining",
+    "ko": "연쇄의"
+  },
+  {
+    "id": "of the Warlord",
+    "ko": "- 전쟁군주"
+  },
+  {
+    "id": "of Elemental Weakness",
+    "ko": "- 원소 약화"
+  },
+  {
+    "id": "of Vulnerability",
+    "ko": "- 취약성"
+  },
+  {
+    "id": "of Enfeeblement",
+    "ko": "- 쇠약"
+  },
+  {
+    "id": "of Temporal Chains",
+    "ko": "- 시간의 사슬"
+  },
+  {
+    "id": "of Stasis",
+    "ko": "- 정체"
+  },
+  {
+    "id": "of Hemomancy",
+    "ko": "- 혈마술"
+  },
+  {
+    "id": "of Balance",
+    "ko": "- 균형"
+  },
+  {
+    "id": "of Lightning",
+    "ko": "- 번개"
+  },
+  {
+    "id": "of Desecration",
+    "ko": "- 모독"
+  },
+  {
+    "id": "Otherworldly",
+    "ko": "이계의"
+  },
+  {
+    "id": "NAME",
+    "ko": "이름"
+  },
+  {
+    "id": "Giant",
+    "ko": "거인의"
+  },
+  {
+    "id": "Resistant",
+    "ko": "저항하는"
+  },
+  {
+    "id": "of Bloodlines",
+    "ko": "- 혈맹"
+  },
+  {
+    "id": "Conflagrating",
+    "ko": "불태우는"
+  },
+  {
+    "id": "of Corruption",
+    "ko": "- 타락"
+  },
+  {
+    "id": "Packed",
+    "ko": "무리의"
+  },
+  {
+    "id": "of Allure",
+    "ko": "- 매혹"
+  },
+  {
+    "id": "of Thaumaturgy",
+    "ko": "- 마석학"
+  },
+  {
+    "id": "of the Locus",
+    "ko": "- 궤적"
+  },
+  {
+    "id": "of Dark Blessings",
+    "ko": "- 어둠의 축복"
+  },
+  {
+    "id": "of Prophecy",
+    "ko": "- 예언"
+  },
+  {
+    "id": "of Divination",
+    "ko": "- 점술"
+  },
+  {
+    "id": "of Atzoatl",
+    "ko": "- 앗조아틀"
+  },
+  {
+    "id": "of Experimentation",
+    "ko": "- 실험"
+  },
+  {
+    "id": "Solar",
+    "ko": "태양의"
+  },
+  {
+    "id": "Lunar",
+    "ko": "달의"
+  },
+  {
+    "id": "Haunting",
+    "ko": "출몰하는"
+  },
+  {
+    "id": "Feasting",
+    "ko": "연회의"
+  },
+  {
+    "id": "Vaal",
+    "ko": "바알"
+  },
+  {
+    "id": "Profane",
+    "ko": "모독적인"
+  },
+  {
+    "id": "of Punishment",
+    "ko": "- 응징"
+  },
+  {
+    "id": "Titan's",
+    "ko": "거신의"
+  },
+  {
+    "id": "of Toughness",
+    "ko": "- 강인함"
+  },
+  {
+    "id": "Hexwarded",
+    "ko": "사술 수호의"
+  },
+  {
+    "id": "Empowered",
+    "ko": "강화된"
+  },
+  {
+    "id": "Abhorrent",
+    "ko": "혐오스러운"
+  },
+  {
+    "id": "Unstoppable",
+    "ko": "폭주"
+  },
+  {
+    "id": "of Skirmishing",
+    "ko": "- 접전"
+  },
+  {
+    "id": "of Rust",
+    "ko": "- 녹"
+  },
+  {
+    "id": "of Miring",
+    "ko": "- 수렁"
+  },
+  {
+    "id": "of Impotence",
+    "ko": "- 무기력"
+  },
+  {
+    "id": "Oppressive",
+    "ko": "억제하는"
+  },
+  {
+    "id": "Buffered",
+    "ko": "강해진"
+  },
+  {
+    "id": "Enthralled",
+    "ko": "예속된"
+  },
+  {
+    "id": "of Carnage",
+    "ko": "- 살육"
+  },
+  {
+    "id": "of Enervation",
+    "ko": "- 피폐"
+  },
+  {
+    "id": "of Consecration",
+    "ko": "- 신성화"
+  },
+  {
+    "id": "of Transience",
+    "ko": "- 덧없음"
+  },
+  {
+    "id": "of Doubt",
+    "ko": "- 의심"
+  },
+  {
+    "id": "of Imprecision",
+    "ko": "- 비정밀함"
+  },
+  {
+    "id": "Redblade",
+    "ko": "적검단"
+  },
+  {
+    "id": "of Deflection",
+    "ko": "- 굴절"
+  },
+  {
+    "id": "of Protection",
+    "ko": "- 보호"
+  },
+  {
+    "id": "of Cover",
+    "ko": "- 엄호"
+  },
+  {
+    "id": "of Asylum",
+    "ko": "- 보호소"
+  },
+  {
+    "id": "of Refuge",
+    "ko": "- 피난처"
+  },
+  {
+    "id": "of Sanctuary",
+    "ko": "- 성역"
+  },
+  {
+    "id": "of Warding",
+    "ko": "- 수호"
+  },
+  {
+    "id": "Leo's",
+    "ko": "레오의"
+  },
+  {
+    "id": "Volatile Flameblood",
+    "ko": "폭발성 화염혈액"
+  },
+  {
+    "id": "Volatile Stormblood",
+    "ko": "폭발성 태풍혈액"
+  },
+  {
+    "id": "Volatile Iceblood",
+    "ko": "폭발성 얼음혈액"
+  },
+  {
+    "id": "of Repairing",
+    "ko": "- 수리"
+  },
+  {
+    "id": "of Renewal",
+    "ko": "- 갱신"
+  },
+  {
+    "id": "of Rebounding",
+    "ko": "- 반등"
+  },
+  {
+    "id": "of Revitalization",
+    "ko": "- 부흥"
+  },
+  {
+    "id": "of Redirection",
+    "ko": "- 방향 전환"
+  },
+  {
+    "id": "of Transformation",
+    "ko": "- 변화"
+  },
+  {
+    "id": "of Conservation",
+    "ko": "- 보존"
+  },
+  {
+    "id": "of Utilisation",
+    "ko": "- 활용"
+  },
+  {
+    "id": "Filigree",
+    "ko": "선조 세공"
+  },
+  {
+    "id": "Calming",
+    "ko": "진정시키는"
+  },
+  {
+    "id": "Alluring",
+    "ko": "유혹하는"
+  },
+  {
+    "id": "of Snaring",
+    "ko": "- 올가미"
+  },
+  {
+    "id": "of Flight",
+    "ko": "- 비행"
+  },
+  {
+    "id": "of Fascination",
+    "ko": "- 매혹"
+  },
+  {
+    "id": "Soul Conduit",
+    "ko": "영혼 도관"
+  },
+  {
+    "id": "Apparition",
+    "ko": "유령"
+  },
+  {
+    "id": "Fractured",
+    "ko": "분열된"
+  },
+  {
+    "id": "Corrupting Blood",
+    "ko": "타락한 피"
+  },
+  {
+    "id": "Inner Treasure",
+    "ko": "보물 소지"
+  },
+  {
+    "id": "Blessing of Elements",
+    "ko": "원소의 축복"
+  },
+  {
+    "id": "Nullifier",
+    "ko": "파기자"
+  },
+  {
+    "id": "Shroud Walker",
+    "ko": "연막 보행자"
+  },
+  {
+    "id": "Bringer of Bones",
+    "ko": "뼈의 인도자"
+  },
+  {
+    "id": "Vile Touch",
+    "ko": "끔찍한 손길"
+  },
+  {
+    "id": "Bringer of Weakness",
+    "ko": "약점의 인도자"
+  },
+  {
+    "id": "Bringer of Fragility",
+    "ko": "연약함의 인도자"
+  },
+  {
+    "id": "Chronophage",
+    "ko": "시간허비자"
+  },
+  {
+    "id": "Hexfont",
+    "ko": "사술의 원천"
+  },
+  {
+    "id": "Ancestral Power",
+    "ko": "선대의 힘"
+  },
+  {
+    "id": "Storm Herald",
+    "ko": "태풍 전령"
+  },
+  {
+    "id": "Flame Herald",
+    "ko": "화염 전령"
+  },
+  {
+    "id": "Storm Chaser",
+    "ko": "태풍 추격자"
+  },
+  {
+    "id": "Flame Caller",
+    "ko": "화염 소환사"
+  },
+  {
+    "id": "Storm Caller",
+    "ko": "폭풍 소환사"
+  },
+  {
+    "id": "Incinerator",
+    "ko": "소각자"
+  },
+  {
+    "id": "Spine Storm",
+    "ko": "척추 폭풍"
+  },
+  {
+    "id": "Desecrator",
+    "ko": "훼손자"
+  },
+  {
+    "id": "Spiked Ground",
+    "ko": "가시 박힌 대지"
+  },
+  {
+    "id": "Inferno Caller",
+    "ko": "지옥불 소환사"
+  },
+  {
+    "id": "Void Caller",
+    "ko": "공허 소환사"
+  },
+  {
+    "id": "Arctic Nova",
+    "ko": "한기의 폭발"
+  },
+  {
+    "id": "Flame Nova",
+    "ko": "화염 폭발"
+  },
+  {
+    "id": "Sudden Frost",
+    "ko": "갑작스러운 서리"
+  },
+  {
+    "id": "Camouflaged Predator",
+    "ko": "위장한 포식자"
+  },
+  {
+    "id": "Vine Snare",
+    "ko": "덩굴 올가미"
+  },
+  {
+    "id": "Final Gasp",
+    "ko": "마지막 헐떡임"
+  },
+  {
+    "id": "Light Bolt",
+    "ko": "가벼운 화살"
+  },
+  {
+    "id": "Lightning Mirage",
+    "ko": "번개 신기루"
+  },
+  {
+    "id": "Ossified",
+    "ko": "뼈가 된"
+  },
+  {
+    "id": "Menacing",
+    "ko": "위험한"
+  },
+  {
+    "id": "Intimidating",
+    "ko": "위협하는"
+  },
+  {
+    "id": "Crowded",
+    "ko": "북적이는"
+  },
+  {
+    "id": "Contested",
+    "ko": "경쟁의"
+  },
+  {
+    "id": "Reaper's",
+    "ko": "수확자의"
+  },
+  {
+    "id": "Putrifying",
+    "ko": "부패시키는"
+  },
+  {
+    "id": "Whispering",
+    "ko": "속삭이는"
+  },
+  {
+    "id": "Vibrating",
+    "ko": "진동하는"
+  },
+  {
+    "id": "Contaminated",
+    "ko": "오염된"
+  },
+  {
+    "id": "Unstable",
+    "ko": "불안정한"
+  },
+  {
+    "id": "Catarina's",
+    "ko": "카타리나의"
+  },
+  {
+    "id": "Vital",
+    "ko": "활력의"
+  },
+  {
+    "id": "Scalding",
+    "ko": "뜨거운"
+  },
+  {
+    "id": "Yearning",
+    "ko": "동경하는"
+  },
+  {
+    "id": "of Fearlessness",
+    "ko": "- 용맹함"
+  },
+  {
+    "id": "of Blurring",
+    "ko": "- 희미해짐"
+  },
+  {
+    "id": "of Reinforcement",
+    "ko": "- 보강"
+  },
+  {
+    "id": "Tora's",
+    "ko": "토라의"
+  },
+  {
+    "id": "Vagan's",
+    "ko": "베이건의"
+  },
+  {
+    "id": "Kirac's",
+    "ko": "키락의"
+  },
+  {
+    "id": "of Prefixes",
+    "ko": "- 접두어"
+  },
+  {
+    "id": "Suffixed",
+    "ko": "접미어"
+  },
+  {
+    "id": "of Spellcraft",
+    "ko": "- 주문제작"
+  },
+  {
+    "id": "of Weaponcraft",
+    "ko": "- 무기제작"
+  },
+  {
+    "id": "of Crafting",
+    "ko": "- 제작"
+  },
+  {
+    "id": "Turncoat's",
+    "ko": "변절자의"
+  },
+  {
+    "id": "Betrayer's",
+    "ko": "배신자의"
+  },
+  {
+    "id": "Deceiver's",
+    "ko": "사기꾼의"
+  },
+  {
+    "id": "Flame Bearers",
+    "ko": "화염 운반자"
+  },
+  {
+    "id": "Frost Bearers",
+    "ko": "서리 운반자"
+  },
+  {
+    "id": "Storm Bearers",
+    "ko": "태풍 운반자"
+  },
+  {
+    "id": "Unnamed Bloodline Mod",
+    "ko": "이름 없는 혈맹 속성 부여"
+  },
+  {
+    "id": "Storm Cultist's Touch",
+    "ko": "태풍 광신자의 손길"
+  },
+  {
+    "id": "Storm Cultist's Grip",
+    "ko": "태풍 광신자의 손아귀"
+  },
+  {
+    "id": "Blasphemer's Touch",
+    "ko": "신성 모독자의 손길"
+  },
+  {
+    "id": "Blasphemer's Grip",
+    "ko": "신성 모독자의 손아귀"
+  },
+  {
+    "id": "Necromancer's Touch",
+    "ko": "네크로맨서의 손길"
+  },
+  {
+    "id": "Necromancer's Grip",
+    "ko": "네크로맨서의 손아귀"
+  },
+  {
+    "id": "Arsonist's Touch",
+    "ko": "방화범의 손길"
+  },
+  {
+    "id": "Arsonist's Grip",
+    "ko": "방화범의 손아귀"
+  },
+  {
+    "id": "Alchemist's Touch",
+    "ko": "연금술사의 손길"
+  },
+  {
+    "id": "Alchemist's Grip",
+    "ko": "연금술사의 손아귀"
+  },
+  {
+    "id": "Vaal Cultist's Touch",
+    "ko": "바알 광신자의 손길"
+  },
+  {
+    "id": "Vaal Cultist's Grip",
+    "ko": "바알 광신자의 손아귀"
+  },
+  {
+    "id": "Charlatan's Touch",
+    "ko": "사기꾼의 손길"
+  },
+  {
+    "id": "Charlatan's Grip",
+    "ko": "사기꾼의 손아귀"
+  },
+  {
+    "id": "Thug's Touch",
+    "ko": "암살단원의 손길"
+  },
+  {
+    "id": "Thug's Grip",
+    "ko": "암살단원의 손아귀"
+  },
+  {
+    "id": "Rogue's Touch",
+    "ko": "부랑자의 손길"
+  },
+  {
+    "id": "Rogue's Grip",
+    "ko": "부랑자의 손아귀"
+  },
+  {
+    "id": "Fisherman's Touch",
+    "ko": "어부의 손길"
+  },
+  {
+    "id": "Fisherman's Grip",
+    "ko": "어부의 손아귀"
+  },
+  {
+    "id": "Seditionist's Touch",
+    "ko": "선동자의 손길"
+  },
+  {
+    "id": "Seditionist's Grip",
+    "ko": "선동자의 손아귀"
+  },
+  {
+    "id": "Cutthroat's Touch",
+    "ko": "살인자의 손길"
+  },
+  {
+    "id": "Cutthroat's Grip",
+    "ko": "살인자의 손아귀"
+  },
+  {
+    "id": "Thief's Touch",
+    "ko": "도둑의 손길"
+  },
+  {
+    "id": "Thief's Grip",
+    "ko": "도둑의 손아귀"
+  },
+  {
+    "id": "Spy's Touch",
+    "ko": "첩자의 손길"
+  },
+  {
+    "id": "Spy's Grip",
+    "ko": "첩자의 손아귀"
+  },
+  {
+    "id": "Cannibal's Touch",
+    "ko": "식인종의 손길"
+  },
+  {
+    "id": "Cannibal's Grip",
+    "ko": "식인종의 손아귀"
+  },
+  {
+    "id": "Martyr's Touch",
+    "ko": "순교자의 손길"
+  },
+  {
+    "id": "Martyr's Grip",
+    "ko": "순교자의 손아귀"
+  },
+  {
+    "id": "Mutilator's Touch",
+    "ko": "절단자의 손길"
+  },
+  {
+    "id": "Mutilator's Grip",
+    "ko": "절단자의 손아귀"
+  },
+  {
+    "id": "Embezzler's Touch",
+    "ko": "횡령자의 손길"
+  },
+  {
+    "id": "Embezzler's Grip",
+    "ko": "횡령자의 손아귀"
+  },
+  {
+    "id": "Forger's Touch",
+    "ko": "위조범의 손길"
+  },
+  {
+    "id": "Forger's Grip",
+    "ko": "위조범의 손아귀"
+  },
+  {
+    "id": "Warlord's Touch",
+    "ko": "전쟁군주의 손길"
+  },
+  {
+    "id": "Warlord's Grip",
+    "ko": "전쟁군주의 손아귀"
+  },
+  {
+    "id": "Aurora Cultist's Touch",
+    "ko": "여명 광신자의 손길"
+  },
+  {
+    "id": "Aurora Cultist's Grip",
+    "ko": "여명 광신자의 손아귀"
+  },
+  {
+    "id": "Smuggler's Touch",
+    "ko": "밀수꾼의 손길"
+  },
+  {
+    "id": "Smuggler's Grip",
+    "ko": "밀수꾼의 손아귀"
+  },
+  {
+    "id": "Shavronne's Touch",
+    "ko": "샤브론의 손길"
+  },
+  {
+    "id": "Shavronne's Grip",
+    "ko": "샤브론의 손아귀"
+  },
+  {
+    "id": "Bootlegger's Touch",
+    "ko": "밀주업자의 손길"
+  },
+  {
+    "id": "Bootlegger's Grip",
+    "ko": "밀주업자의 손아귀"
+  },
+  {
+    "id": "Buccaneer's Touch",
+    "ko": "해적의 손길"
+  },
+  {
+    "id": "Buccaneer's Grip",
+    "ko": "해적의 손아귀"
+  },
+  {
+    "id": "Miner's Touch",
+    "ko": "광부의 손길"
+  },
+  {
+    "id": "Miner's Grip",
+    "ko": "광부의 손아귀"
+  },
+  {
+    "id": "Legacy of Zeal",
+    "ko": "열의의 유산"
+  },
+  {
+    "id": "Legacy of Vigour",
+    "ko": "활력의 유산"
+  },
+  {
+    "id": "Mark of Cannibalism",
+    "ko": "식인의 징표"
+  },
+  {
+    "id": "Flaring Pulseblood",
+    "ko": "빛을 뿜는 파동혈"
+  },
+  {
+    "id": "Rime Pulseblood",
+    "ko": "흰서리 파동혈"
+  },
+  {
+    "id": "Static Pulseblood",
+    "ko": "정전기 파동혈"
+  },
+  {
+    "id": "Thornflesh",
+    "ko": "가시살점"
+  },
+  {
+    "id": "Shared Boon",
+    "ko": "공유된 은혜"
+  },
+  {
+    "id": "Cult of the Elements",
+    "ko": "원소의 교단"
+  },
+  {
+    "id": "Order of the Frozen Sky",
+    "ko": "얼어붙은 하늘단"
+  },
+  {
+    "id": "Heralds of the Obelisk",
+    "ko": "오벨리스크의 전령들"
+  },
+  {
+    "id": "Spirit Walkers",
+    "ko": "혼백 보행자단"
+  },
+  {
+    "id": "Bearers of the Guardian",
+    "ko": "수호자의 운반자들"
+  },
+  {
+    "id": "Phylacteral Link",
+    "ko": "성구함 연결"
+  },
+  {
+    "id": "Keepers of the Trove",
+    "ko": "발견물의 관리인"
+  },
+  {
+    "id": "Corrupted Bloodline",
+    "ko": "타락한 혈맹"
+  },
+  {
+    "id": "Voidspawn of Abaxoth",
+    "ko": "아바소스의 공허유충"
+  },
+  {
+    "id": "of Transmogrification",
+    "ko": "- 변형"
+  },
+  {
+    "id": "of Animation",
+    "ko": "- 움직임"
+  },
+  {
+    "id": "of Superiority",
+    "ko": "- 우월성"
+  },
+  {
+    "id": "of Stoicism",
+    "ko": "- 극기"
+  },
+  {
+    "id": "of Resolve",
+    "ko": "- 결의"
+  },
+  {
+    "id": "of Fortitude",
+    "ko": "- 강건함"
+  },
+  {
+    "id": "of Will",
+    "ko": "- 의지"
+  },
+  {
+    "id": "Brutal",
+    "ko": "잔인한"
+  },
+  {
+    "id": "Fierce",
+    "ko": "흉악한"
+  },
+  {
+    "id": "Lethal",
+    "ko": "치명적인"
+  },
+  {
+    "id": "Judging",
+    "ko": "판단하는"
+  },
+  {
+    "id": "Soldier's",
+    "ko": "병사의"
+  },
+  {
+    "id": "Brawling",
+    "ko": "떠들썩한"
+  },
+  {
+    "id": "of Archery",
+    "ko": "- 궁술"
+  },
+  {
+    "id": "of Mysticism",
+    "ko": "- 신비주의"
+  },
+  {
+    "id": "Sorcerer's",
+    "ko": "악령술사의"
+  },
+  {
+    "id": "Battlemage's",
+    "ko": "전투마법사의"
+  },
+  {
+    "id": "Sabotage",
+    "ko": "방해 공작"
+  },
+  {
+    "id": "of Wounding",
+    "ko": "- 상처"
+  },
+  {
+    "id": "Leadership",
+    "ko": "통솔력"
+  },
+  {
+    "id": "Cleaving",
+    "ko": "쪼개는"
+  },
+  {
+    "id": "Fencing",
+    "ko": "받아넘기는"
+  },
+  {
+    "id": "Volleying",
+    "ko": "연발 사격의"
+  },
+  {
+    "id": "Ripping",
+    "ko": "잡아찢는"
+  },
+  {
+    "id": "Slicing",
+    "ko": "저미는"
+  },
+  {
+    "id": "Jinxing",
+    "ko": "불운한"
+  },
+  {
+    "id": "Blunt",
+    "ko": "뭉툭한"
+  },
+  {
+    "id": "Bandit's",
+    "ko": "도적의"
+  },
+  {
+    "id": "Harmonic",
+    "ko": "화음의"
+  },
+  {
+    "id": "Resonant",
+    "ko": "공명하는"
+  },
+  {
+    "id": "Charging",
+    "ko": "돌진하는"
+  },
+  {
+    "id": "Warding",
+    "ko": "수호하는"
+  },
+  {
+    "id": "Wright's",
+    "ko": "장인의"
+  },
+  {
+    "id": "Furious",
+    "ko": "분개한"
+  },
+  {
+    "id": "of Berserking",
+    "ko": "- 광폭화"
+  },
+  {
+    "id": "of Soaring",
+    "ko": "- 급상승"
+  },
+  {
+    "id": "Arming",
+    "ko": "전투 태세의"
+  },
+  {
+    "id": "of Zeal",
+    "ko": "- 열의"
+  },
+  {
+    "id": "of Fervour",
+    "ko": "- 열정"
+  },
+  {
+    "id": "of Haste",
+    "ko": "- 황급"
+  },
+  {
+    "id": "Flanking",
+    "ko": "측면의"
+  },
+  {
+    "id": "Pyromantic",
+    "ko": "화염술의"
+  },
+  {
+    "id": "Cryomantic",
+    "ko": "동결술의"
+  },
+  {
+    "id": "Electromantic",
+    "ko": "전기술의"
+  },
+  {
+    "id": "of Blasphemy",
+    "ko": "- 신성 모독"
+  },
+  {
+    "id": "of Strength",
+    "ko": "- 힘"
+  },
+  {
+    "id": "of Dexterity",
+    "ko": "- 민첩"
+  },
+  {
+    "id": "of Intelligence",
+    "ko": "- 지능"
+  },
+  {
+    "id": "of Athletics",
+    "ko": "- 운동 경기"
+  },
+  {
+    "id": "of Spirit",
+    "ko": "- 혼백"
+  },
+  {
+    "id": "of Cunning",
+    "ko": "- 교활함"
+  },
+  {
+    "id": "of Adaption",
+    "ko": "- 적용"
+  },
+  {
+    "id": "Vivid",
+    "ko": "선명한"
+  },
+  {
+    "id": "Learned",
+    "ko": "박식한"
+  },
+  {
+    "id": "Enlightened",
+    "ko": "계몽의"
+  },
+  {
+    "id": "Energetic",
+    "ko": "원기왕성한"
+  },
+  {
+    "id": "Determined",
+    "ko": "결연한"
+  },
+  {
+    "id": "Passionate",
+    "ko": "정열적인"
+  },
+  {
+    "id": "Wise",
+    "ko": "현명한"
+  },
+  {
+    "id": "Thirsting",
+    "ko": "갈증 난"
+  },
+  {
+    "id": "Transfusing",
+    "ko": "수혈하는"
+  },
+  {
+    "id": "Siphoning",
+    "ko": "착취하는"
+  },
+  {
+    "id": "of Focus",
+    "ko": "- 집중"
+  },
+  {
+    "id": "Defensive",
+    "ko": "방어적"
+  },
+  {
+    "id": "of Accuracy",
+    "ko": "- 정확도"
+  },
+  {
+    "id": "of Striking FIX ME",
+    "ko": "- 타격 수정필요"
+  },
+  {
+    "id": "of Biting FIX ME",
+    "ko": "- 통렬 수정필요"
+  },
+  {
+    "id": "of Stinging FIX ME",
+    "ko": "- 찌르기 수정필요"
+  },
+  {
+    "id": "of the Sniper FIX ME",
+    "ko": "- 저격수 수정필요"
+  },
+  {
+    "id": "of the Eagle FIX ME",
+    "ko": "- 독수리 수정필요"
+  },
+  {
+    "id": "of Needling FIX ME",
+    "ko": "- 바느질 수정필요"
+  },
+  {
+    "id": "of Divination FIX ME",
+    "ko": "- 점술 수정필요"
+  },
+  {
+    "id": "of Tyranny FIX ME",
+    "ko": "- 압제 수정필요"
+  },
+  {
+    "id": "of Crushing FIX ME",
+    "ko": "- 타쇄 수정필요"
+  },
+  {
+    "id": "of Execution FIX ME",
+    "ko": "- 사형 집행 수정필요"
+  },
+  {
+    "id": "of Severing FIX ME",
+    "ko": "- 절단 수정필요"
+  },
+  {
+    "id": "of the Hunter FIX ME",
+    "ko": "- 사냥꾼 수정필요"
+  },
+  {
+    "id": "of the Bear FIX ME",
+    "ko": "- 곰 수정필요"
+  },
+  {
+    "id": "of Assassination FIX ME",
+    "ko": "- 암살 수정필요"
+  },
+  {
+    "id": "of Evocation FIX ME",
+    "ko": "- 환기 수정필요"
+  },
+  {
+    "id": "of Trauma FIX ME",
+    "ko": "- 외상 수정필요"
+  },
+  {
+    "id": "Harming",
+    "ko": "해치는"
+  },
+  {
+    "id": "Sundering",
+    "ko": "작렬하는"
+  },
+  {
+    "id": "Technical",
+    "ko": "기술적인"
+  },
+  {
+    "id": "of Weight",
+    "ko": "- 무게"
+  },
+  {
+    "id": "Inescapable",
+    "ko": "탈출 불가능한"
+  },
+  {
+    "id": "Avalanching",
+    "ko": "산사태의"
+  },
+  {
+    "id": "Thundering",
+    "ko": "천둥의"
+  },
+  {
+    "id": "of the Apocalypse",
+    "ko": "- 종말"
+  },
+  {
+    "id": "Piercing",
+    "ko": "관통하는"
+  },
+  {
+    "id": "Rupturing",
+    "ko": "파열시키는"
+  },
+  {
+    "id": "Debilitating",
+    "ko": "쇠잔시키는"
+  },
+  {
+    "id": "Incapacitating",
+    "ko": "무력화하는"
+  },
+  {
+    "id": "of the Elements",
+    "ko": "- 원소"
+  },
+  {
+    "id": "of the Dragon",
+    "ko": "- 용"
+  },
+  {
+    "id": "of the Beast",
+    "ko": "- 야수"
+  },
+  {
+    "id": "of Shelter",
+    "ko": "- 대피소"
+  },
+  {
+    "id": "of Resistance",
+    "ko": "- 저항"
+  },
+  {
+    "id": "of Order",
+    "ko": "- 질서"
+  },
+  {
+    "id": "of Efficiency",
+    "ko": "- 효율"
+  },
+  {
+    "id": "Decrepifying",
+    "ko": "노쇠시키는"
+  },
+  {
+    "id": "Hero's FIX ME",
+    "ko": "영웅의 수정필요"
+  },
+  {
+    "id": "Hexing FIX ME",
+    "ko": "사술의 수정필요"
+  },
+  {
+    "id": "Dousing FIX ME",
+    "ko": "소화의 수정필요"
+  },
+  {
+    "id": "Insulating FIX ME",
+    "ko": "절연의 수정필요"
+  },
+  {
+    "id": "Thawing FIX ME",
+    "ko": "융해의 수정필요"
+  },
+  {
+    "id": "Heating FIX ME",
+    "ko": "열기의 수정필요"
+  },
+  {
+    "id": "FIX ME",
+    "ko": "수정필요"
+  },
+  {
+    "id": "Deflecting",
+    "ko": "굴절시키는"
+  },
+  {
+    "id": "Dissipating",
+    "ko": "소멸시키는"
+  },
+  {
+    "id": "Thwarting",
+    "ko": "좌절시키는"
+  },
+  {
+    "id": "Halting",
+    "ko": "중단시키는"
+  },
+  {
+    "id": "of the Flameruler",
+    "ko": "- 불의 지배자"
+  },
+  {
+    "id": "of the Snowbreather",
+    "ko": "- 눈의 숨결"
+  },
+  {
+    "id": "of the Stormdweller",
+    "ko": "- 태풍의 주인"
+  },
+  {
+    "id": "of Neutralisation",
+    "ko": "- 중화"
+  },
+  {
+    "id": "of Stemming",
+    "ko": "- 지혈"
+  },
+  {
+    "id": "Cerebral",
+    "ko": "지적인"
+  },
+  {
+    "id": "Prolonging",
+    "ko": "연장하는"
+  },
+  {
+    "id": "of Burning",
+    "ko": "- 화상"
+  },
+  {
+    "id": "of Bleeding",
+    "ko": "- 출혈"
+  },
+  {
+    "id": "of Impaling",
+    "ko": "- 꿰뚫기"
+  },
+  {
+    "id": "of Combusting",
+    "ko": "- 발화"
+  },
+  {
+    "id": "of the Wall",
+    "ko": "- 장벽"
+  },
+  {
+    "id": "Master's",
+    "ko": "대가의"
+  },
+  {
+    "id": "of Resilience",
+    "ko": "- 탄력성"
+  },
+  {
+    "id": "of Training",
+    "ko": "- 훈련"
+  },
+  {
+    "id": "of Composure",
+    "ko": "- 평정"
+  },
+  {
+    "id": "of Surefootedness",
+    "ko": "- 확실함"
+  },
+  {
+    "id": "of Persistence",
+    "ko": "- 지속성"
+  },
+  {
+    "id": "of Relentlessness",
+    "ko": "- 집요함"
+  },
+  {
+    "id": "Freezing Tempest",
+    "ko": "동결 폭풍"
+  },
+  {
+    "id": "Brisk Tempest",
+    "ko": "상쾌한 폭풍"
+  },
+  {
+    "id": "Shimmering Tempest",
+    "ko": "일렁이는 폭풍"
+  },
+  {
+    "id": "Quickening Tempest",
+    "ko": "재촉의 폭풍"
+  },
+  {
+    "id": "Impure Tempest",
+    "ko": "불순한 폭풍"
+  },
+  {
+    "id": "Shielding Tempest",
+    "ko": "방어하는 폭풍"
+  },
+  {
+    "id": "Molten Tempest",
+    "ko": "녹아내린 폭풍"
+  },
+  {
+    "id": "Infernal Tempest",
+    "ko": "지옥불 폭풍"
+  },
+  {
+    "id": "Glacial Tempest",
+    "ko": "빙하 폭풍"
+  },
+  {
+    "id": "Arctic Tempest",
+    "ko": "한기의 폭풍"
+  },
+  {
+    "id": "Static Tempest",
+    "ko": "정전기 폭풍"
+  },
+  {
+    "id": "Electrocuting Tempest",
+    "ko": "전기 처형의 폭풍"
+  },
+  {
+    "id": "Ghastly Tempest",
+    "ko": "무시무시한 폭풍"
+  },
+  {
+    "id": "Morbid Tempest",
+    "ko": "소름 끼치는 폭풍"
+  },
+  {
+    "id": "Battering Tempest",
+    "ko": "구타하는 폭풍"
+  },
+  {
+    "id": "Crushing Tempest",
+    "ko": "타쇄하는 폭풍"
+  },
+  {
+    "id": "Blasphemous Tempest",
+    "ko": "신성 모독 폭풍"
+  },
+  {
+    "id": "Energising Tempest",
+    "ko": "활력의 폭풍"
+  },
+  {
+    "id": "Poisonous Tempest",
+    "ko": "독성 폭풍"
+  },
+  {
+    "id": "of Runic Circles",
+    "ko": "- 룬 원형진"
+  },
+  {
+    "id": "of the Ancestors",
+    "ko": "- 선조"
+  },
+  {
+    "id": "of Fire",
+    "ko": "- 불"
+  },
+  {
+    "id": "of Poison",
+    "ko": "- 독"
+  },
+  {
+    "id": "of Winter",
+    "ko": "- 겨울"
+  },
+  {
+    "id": "of Fulmination",
+    "ko": "- 뇌전"
+  },
+  {
+    "id": "of Contamination",
+    "ko": "- 오염"
+  },
+  {
+    "id": "of Aberrance",
+    "ko": "- 탈선"
+  },
+  {
+    "id": "of Inspiration",
+    "ko": "- 격려"
+  },
+  {
+    "id": "of Revelation",
+    "ko": "- 계시"
+  },
+  {
+    "id": "of Phantoms",
+    "ko": "- 혼령"
+  },
+  {
+    "id": "of Cataclysm",
+    "ko": "- 대재앙"
+  },
+  {
+    "id": "of Intensity",
+    "ko": "- 격렬함"
+  },
+  {
+    "id": "of Desperation",
+    "ko": "- 필사적"
+  },
+  {
+    "id": "of Fortune",
+    "ko": "- 행운"
+  },
+  {
+    "id": "of Destiny",
+    "ko": "- 운명"
+  },
+  {
+    "id": "of Fate",
+    "ko": "- 숙명"
+  },
+  {
+    "id": "of Angling",
+    "ko": "- 낚시"
+  },
+  {
+    "id": "of Incursion",
+    "ko": "- 기습"
+  },
+  {
+    "id": "Three Hands Talisman",
+    "ko": "세 개의 손 부적"
+  },
+  {
+    "id": "Primal Skull Talisman",
+    "ko": "원시 해골 부적"
+  },
+  {
+    "id": "Clutching Talisman",
+    "ko": "움켜잡는 부적"
+  },
+  {
+    "id": "Spinefuse Talisman",
+    "ko": "척추융합 부적"
+  },
+  {
+    "id": "Wereclaw Talisman",
+    "ko": "변신자발톱 부적"
+  },
+  {
+    "id": "Hexclaw Talisman",
+    "ko": "사술발톱 부적"
+  },
+  {
+    "id": "Splitnewt Talisman",
+    "ko": "분할도롱뇽 부적"
+  },
+  {
+    "id": "Rotfeather Talisman",
+    "ko": "썩은 깃털 부적"
+  },
+  {
+    "id": "Monkey Paw Talisman",
+    "ko": "원숭이 발 부적"
+  },
+  {
+    "id": "Monkey Twins Talisman",
+    "ko": "쌍둥이 원숭이 부적"
+  },
+  {
+    "id": "Fangjaw Talisman",
+    "ko": "송곳니턱 부적"
+  },
+  {
+    "id": "Three Rat Talisman",
+    "ko": "세 마리 쥐 부적"
+  },
+  {
+    "id": "Avian Twins Talisman",
+    "ko": "쌍둥이 새 부적"
+  },
+  {
+    "id": "Longtooth Talisman",
+    "ko": "긴 이빨 부적"
+  },
+  {
+    "id": "Greatwolf Talisman",
+    "ko": "위대한 늑대 부적"
+  },
+  {
+    "id": "of Rot",
+    "ko": "- 부식"
+  },
+  {
+    "id": "of Putrefaction",
+    "ko": "- 부패"
+  },
+  {
+    "id": "of Tacati",
+    "ko": "- 타카티"
+  },
+  {
+    "id": "Shrieking Essence of Anger",
+    "ko": "악을 쓰는 분노의 에센스"
+  },
+  {
+    "id": "Shaped",
+    "ko": "형성된"
+  },
+  {
+    "id": "Reshaped",
+    "ko": "재형성된"
+  },
+  {
+    "id": "of Farrul",
+    "ko": "- 페룰"
+  },
+  {
+    "id": "of Saqawal",
+    "ko": "- 사카왈"
+  },
+  {
+    "id": "of Fenumus",
+    "ko": "- 페누무스"
+  },
+  {
+    "id": "of Craiceann",
+    "ko": "- 크라칸"
+  },
+  {
+    "id": "Aspect of the Hellion",
+    "ko": "헬리온의 위상"
+  },
+  {
+    "id": "Spectral Stampede",
+    "ko": "영체의 쇄도"
+  },
+  {
+    "id": "Tiger Prey",
+    "ko": "호랑이 먹이"
+  },
+  {
+    "id": "Crushing Claws",
+    "ko": "타쇄하는 클로"
+  },
+  {
+    "id": "Raven Caller",
+    "ko": "큰까마귀 소환사"
+  },
+  {
+    "id": "Vile Hatchery",
+    "ko": "끔찍한 부화장"
+  },
+  {
+    "id": "Satyr Storm",
+    "ko": "사티루스 태풍"
+  },
+  {
+    "id": "Unstable Swarm",
+    "ko": "불안정한 무리"
+  },
+  {
+    "id": "Infested Earth",
+    "ko": "감염된 대지"
+  },
+  {
+    "id": "Erupting Winds",
+    "ko": "분출하는 바람"
+  },
+  {
+    "id": "Blood Geyser",
+    "ko": "피의 간헐천"
+  },
+  {
+    "id": "Incendiary Mite",
+    "ko": "발화 진드기"
+  },
+  {
+    "id": "Putrid Flight",
+    "ko": "구역질 나는 비행"
+  },
+  {
+    "id": "Churning Claws",
+    "ko": "휘젓는 발톱"
+  },
+  {
+    "id": "Spectral Swipe",
+    "ko": "영체 후려치기"
+  },
+  {
+    "id": "Winter Bloom",
+    "ko": "겨울 꽃"
+  },
+  {
+    "id": "Hadal Dive",
+    "ko": "초심해 잠수"
+  },
+  {
+    "id": "Crimson Flock",
+    "ko": "진홍색 무리"
+  },
+  {
+    "id": "Veiled",
+    "ko": "장막"
+  },
+  {
+    "id": "of the Veil",
+    "ko": "- 장막"
+  },
+  {
+    "id": "of the Elder",
+    "ko": "- 엘더"
+  },
+  {
+    "id": "of Shaping",
+    "ko": "- 형성"
+  },
+  {
+    "id": "Betrayer's Touch",
+    "ko": "배신자의 손길"
+  },
+  {
+    "id": "Betrayer's Grip",
+    "ko": "배신자의 손아귀"
+  },
+  {
+    "id": "Graverobber's Touch",
+    "ko": "도굴꾼의 손길"
+  },
+  {
+    "id": "Graverobber's Grip",
+    "ko": "도굴꾼의 손아귀"
+  },
+  {
+    "id": "Heretic's Touch",
+    "ko": "이단자의 손길"
+  },
+  {
+    "id": "Heretic's Grip",
+    "ko": "이단자의 손아귀"
+  },
+  {
+    "id": "Blighted",
+    "ko": "역병 걸린"
+  },
+  {
+    "id": "Spatial Distortion",
+    "ko": "공간 왜곡"
+  },
+  {
+    "id": "Cascading Storm",
+    "ko": "연속 태풍"
+  },
+  {
+    "id": "Banishing Flame",
+    "ko": "추방하는 화염"
+  },
+  {
+    "id": "Winter Whorl",
+    "ko": "겨울 나사선"
+  },
+  {
+    "id": "Crushing Terror",
+    "ko": "타쇄하는 공포"
+  },
+  {
+    "id": "Vengeful Soul",
+    "ko": "복수심에 불타는 영혼"
+  },
+  {
+    "id": "Vengeful Bones",
+    "ko": "복수심에 불타는 뼈"
+  },
+  {
+    "id": "Spawn Dead",
+    "ko": "시체 생성"
+  },
+  {
+    "id": "Shatter Dead",
+    "ko": "시체 분쇄"
+  },
+  {
+    "id": "Putrify Dead",
+    "ko": "시체 부패"
+  },
+  {
+    "id": "Vengeful Stalker",
+    "ko": "복수심에 불타는 추적자"
+  },
+  {
+    "id": "Vengeful Blast",
+    "ko": "복수의 폭발"
+  },
+  {
+    "id": "Vengeful Chase",
+    "ko": "복수의 추적"
+  },
+  {
+    "id": "Vengeful Grip",
+    "ko": "복수의 손아귀"
+  },
+  {
+    "id": "Vengeful Pack",
+    "ko": "복수심에 불타는 무리"
+  },
+  {
+    "id": "Vengeful Gang",
+    "ko": "복수심에 불타는 일당"
+  },
+  {
+    "id": "Vengeful Skyfire",
+    "ko": "복수의 하늘불꽃"
+  },
+  {
+    "id": "Glaciator",
+    "ko": "빙하 작용자"
+  },
+  {
+    "id": "Frozen Flume",
+    "ko": "얼어붙은 용수로"
+  },
+  {
+    "id": "Icicle Wreath",
+    "ko": "고드름 화관"
+  },
+  {
+    "id": "Conflagrating Path",
+    "ko": "불태우는 길"
+  },
+  {
+    "id": "Scorched Earth",
+    "ko": "그을린 대지"
+  },
+  {
+    "id": "Ring of Fire",
+    "ko": "불의 고리"
+  },
+  {
+    "id": "Shockbomb",
+    "ko": "감전 폭탄"
+  },
+  {
+    "id": "Bolt Cross",
+    "ko": "화살 교차"
+  },
+  {
+    "id": "Scatter Storm",
+    "ko": "산발 태풍"
+  },
+  {
+    "id": "Jagged Swell",
+    "ko": "삐죽삐죽한 팽창"
+  },
+  {
+    "id": "Burrowing Blade",
+    "ko": "파고드는 칼날"
+  },
+  {
+    "id": "Crushing Leap",
+    "ko": "타쇄하는 도약"
+  },
+  {
+    "id": "Ire",
+    "ko": "진노"
+  },
+  {
+    "id": "Guilt",
+    "ko": "죄책감"
+  },
+  {
+    "id": "Greed",
+    "ko": "탐욕"
+  },
+  {
+    "id": "Envy",
+    "ko": "선망"
+  },
+  {
+    "id": "Despair",
+    "ko": "절망"
+  },
+  {
+    "id": "Fear",
+    "ko": "두려움"
+  },
+  {
+    "id": "Suffering",
+    "ko": "고통"
+  },
+  {
+    "id": "of Control",
+    "ko": "통제의"
+  },
+  {
+    "id": "Elite",
+    "ko": "정예"
+  },
+  {
+    "id": "Secure",
+    "ko": "단단한"
+  },
+  {
+    "id": "Dutiful",
+    "ko": "충실한"
+  },
+  {
+    "id": "Tempting",
+    "ko": "유혹의"
+  },
+  {
+    "id": "Inimicable",
+    "ko": "적대적인"
+  },
+  {
+    "id": "Indifferent",
+    "ko": "무심한"
+  },
+  {
+    "id": "Stoic",
+    "ko": "엄숙한"
+  },
+  {
+    "id": "Impeding",
+    "ko": "가로막는"
+  },
+  {
+    "id": "Stubborn",
+    "ko": "완고한"
+  },
+  {
+    "id": "Deployed",
+    "ko": "배치된"
+  },
+  {
+    "id": "Supplemented",
+    "ko": "보충된"
+  },
+  {
+    "id": "Trained",
+    "ko": "훈련된"
+  },
+  {
+    "id": "Professional",
+    "ko": "전문적인"
+  },
+  {
+    "id": "Instantaneous",
+    "ko": "즉각적인"
+  },
+  {
+    "id": "of Expense",
+    "ko": "- 비용"
+  },
+  {
+    "id": "of Bait",
+    "ko": "- 미끼"
+  },
+  {
+    "id": "of Communication",
+    "ko": "- 소통"
+  },
+  {
+    "id": "of Selfishness",
+    "ko": "- 이기심"
+  },
+  {
+    "id": "of Proximity",
+    "ko": "- 근접성"
+  },
+  {
+    "id": "of Paranoia",
+    "ko": "- 편집증"
+  },
+  {
+    "id": "of Silencing",
+    "ko": "- 묵언"
+  },
+  {
+    "id": "of Unravelling",
+    "ko": "- 해결"
+  },
+  {
+    "id": "of Over-Heating",
+    "ko": "- 과열"
+  },
+  {
+    "id": "of Spine-Chilling",
+    "ko": "- 뼛속 깊은 한기"
+  },
+  {
+    "id": "of Hair-Raising",
+    "ko": "- 소름"
+  },
+  {
+    "id": "of Distress",
+    "ko": "- 고난"
+  },
+  {
+    "id": "of Apprehension",
+    "ko": "- 우려"
+  },
+  {
+    "id": "of Wavering Will",
+    "ko": "- 흔들리는 의지"
+  },
+  {
+    "id": "of Anxiety",
+    "ko": "- 근심"
+  },
+  {
+    "id": "of Clouded Judgement",
+    "ko": "- 흐릿한 분별력"
+  },
+  {
+    "id": "of Dehydration",
+    "ko": "- 탈수"
+  },
+  {
+    "id": "Harmful",
+    "ko": "해로운"
+  },
+  {
+    "id": "Dangerous",
+    "ko": "위험천만한"
+  },
+  {
+    "id": "Slowing",
+    "ko": "느려지는"
+  },
+  {
+    "id": "Stalling",
+    "ko": "감속하는"
+  },
+  {
+    "id": "Delaying",
+    "ko": "지연하는"
+  },
+  {
+    "id": "Interrupting",
+    "ko": "방해하는"
+  },
+  {
+    "id": "Practiced",
+    "ko": "능숙한"
+  },
+  {
+    "id": "Skillful",
+    "ko": "숙달한"
+  },
+  {
+    "id": "Masterful",
+    "ko": "능란한"
+  },
+  {
+    "id": "Footpad's",
+    "ko": "도적의"
+  },
+  {
+    "id": "Crook's",
+    "ko": "사기꾼의"
+  },
+  {
+    "id": "Criminal's",
+    "ko": "범죄자의"
+  },
+  {
+    "id": "Mastermind's",
+    "ko": "지휘자의"
+  },
+  {
+    "id": "Capable",
+    "ko": "유능한"
+  },
+  {
+    "id": "Experienced",
+    "ko": "숙련된"
+  },
+  {
+    "id": "Accomplished",
+    "ko": "뛰어난"
+  },
+  {
+    "id": "Veteran",
+    "ko": "노련한"
+  },
+  {
+    "id": "Initiator's",
+    "ko": "선두자의"
+  },
+  {
+    "id": "Instigator's",
+    "ko": "선동자의"
+  },
+  {
+    "id": "Ambusher's",
+    "ko": "매복자의"
+  },
+  {
+    "id": "Assassin's",
+    "ko": "암살자의"
+  },
+  {
+    "id": "Invader's",
+    "ko": "침략자의"
+  },
+  {
+    "id": "Attacker's",
+    "ko": "공격자의"
+  },
+  {
+    "id": "Raider's",
+    "ko": "습격자의"
+  },
+  {
+    "id": "Marauder's",
+    "ko": "탈취자의"
+  },
+  {
+    "id": "Tresspassing",
+    "ko": "침입하는"
+  },
+  {
+    "id": "Intruding",
+    "ko": "침범하는"
+  },
+  {
+    "id": "Invading",
+    "ko": "침략하는"
+  },
+  {
+    "id": "Storming",
+    "ko": "몰아치는"
+  },
+  {
+    "id": "Robber's",
+    "ko": "강도의"
+  },
+  {
+    "id": "Ruffian's",
+    "ko": "폭력배의"
+  },
+  {
+    "id": "Enforcer's",
+    "ko": "집행자의"
+  },
+  {
+    "id": "Scout's",
+    "ko": "정찰병의"
+  },
+  {
+    "id": "Poacher's",
+    "ko": "밀렵꾼의"
+  },
+  {
+    "id": "Sniper's",
+    "ko": "저격수의"
+  },
+  {
+    "id": "Witch's",
+    "ko": "위치의"
+  },
+  {
+    "id": "Shrewd",
+    "ko": "기민한"
+  },
+  {
+    "id": "Tasteful",
+    "ko": "고상한"
+  },
+  {
+    "id": "Cultured",
+    "ko": "세련된"
+  },
+  {
+    "id": "Sophisticated",
+    "ko": "정교한"
+  },
+  {
+    "id": "Pickpocket's",
+    "ko": "소매치기의"
+  },
+  {
+    "id": "Thief's",
+    "ko": "도둑의"
+  },
+  {
+    "id": "Looter's",
+    "ko": "약탈자의"
+  },
+  {
+    "id": "Ransacker's",
+    "ko": "노략꾼의"
+  },
+  {
+    "id": "Rookie's",
+    "ko": "초짜의"
+  },
+  {
+    "id": "Professional's",
+    "ko": "프로의"
+  },
+  {
+    "id": "Boss'",
+    "ko": "두목의"
+  },
+  {
+    "id": "Devious",
+    "ko": "부정한"
+  },
+  {
+    "id": "Wiley",
+    "ko": "교활한"
+  },
+  {
+    "id": "Elusive",
+    "ko": "교묘한"
+  },
+  {
+    "id": "Untouchable",
+    "ko": "무적의"
+  },
+  {
+    "id": "Lockpick's",
+    "ko": "자물쇠 따기의"
+  },
+  {
+    "id": "Herculean",
+    "ko": "무쌍한"
+  },
+  {
+    "id": "Revealing",
+    "ko": "드러내는"
+  },
+  {
+    "id": "Mental",
+    "ko": "광기의"
+  },
+  {
+    "id": "Dismantling",
+    "ko": "해체하는"
+  },
+  {
+    "id": "Lithe",
+    "ko": "유연한"
+  },
+  {
+    "id": "Spy's",
+    "ko": "첩자의"
+  },
+  {
+    "id": "Ingenious",
+    "ko": "영리한"
+  },
+  {
+    "id": "Simple",
+    "ko": "지연 없음"
+  },
+  {
+    "id": "Complicated",
+    "ko": "복잡한"
+  },
+  {
+    "id": "Complex",
+    "ko": "까다로운"
+  },
+  {
+    "id": "Specialised",
+    "ko": "특별함"
+  },
+  {
+    "id": "Expert's",
+    "ko": "전문가의"
+  },
+  {
+    "id": "Hampering",
+    "ko": "훼방하는"
+  },
+  {
+    "id": "Hindering",
+    "ko": "저해하는"
+  },
+  {
+    "id": "Customer's",
+    "ko": "손님의"
+  },
+  {
+    "id": "Client's",
+    "ko": "고객의"
+  },
+  {
+    "id": "Patron's",
+    "ko": "단골의"
+  },
+  {
+    "id": "Sponsor's",
+    "ko": "후원자의"
+  },
+  {
+    "id": "of Personality",
+    "ko": "- 인격"
+  },
+  {
+    "id": "of Presence",
+    "ko": "- 존재"
+  },
+  {
+    "id": "of Charm",
+    "ko": "- 부적"
+  },
+  {
+    "id": "of Charisma",
+    "ko": "- 매력"
+  },
+  {
+    "id": "of Bartering",
+    "ko": "- 교환"
+  },
+  {
+    "id": "of Negotiating",
+    "ko": "- 협상"
+  },
+  {
+    "id": "of Greed",
+    "ko": "- 탐욕"
+  },
+  {
+    "id": "of Shortcuts",
+    "ko": "- 지름길"
+  },
+  {
+    "id": "of Bypasses",
+    "ko": "- 우회로"
+  },
+  {
+    "id": "of Passage",
+    "ko": "- 통로"
+  },
+  {
+    "id": "of Muffling",
+    "ko": "- 조용함"
+  },
+  {
+    "id": "of Stealth",
+    "ko": "- 은신"
+  },
+  {
+    "id": "of Quiet",
+    "ko": "- 고요"
+  },
+  {
+    "id": "of Silence",
+    "ko": "- 침묵"
+  },
+  {
+    "id": "of Reaction",
+    "ko": "- 반작용"
+  },
+  {
+    "id": "of Response",
+    "ko": "- 반응"
+  },
+  {
+    "id": "of Reciprocation",
+    "ko": "- 앙갚음"
+  },
+  {
+    "id": "of Retaliation",
+    "ko": "- 보복"
+  },
+  {
+    "id": "of Subduing",
+    "ko": "- 압제"
+  },
+  {
+    "id": "of Subjugating",
+    "ko": "- 압도"
+  },
+  {
+    "id": "of Suppressing",
+    "ko": "- 제압"
+  },
+  {
+    "id": "of Muzzling",
+    "ko": "- 입막음"
+  },
+  {
+    "id": "of Stifling",
+    "ko": "- 질식"
+  },
+  {
+    "id": "of Muting",
+    "ko": "- 무언"
+  },
+  {
+    "id": "of Assassination",
+    "ko": "- 암살"
+  },
+  {
+    "id": "of Appeasing",
+    "ko": "- 진정"
+  },
+  {
+    "id": "of Mollifying",
+    "ko": "- 위로"
+  },
+  {
+    "id": "of Placating",
+    "ko": "- 달램"
+  },
+  {
+    "id": "of Pacifying",
+    "ko": "- 무마"
+  },
+  {
+    "id": "of Defusing",
+    "ko": "- 불능화"
+  },
+  {
+    "id": "of Disarming",
+    "ko": "- 무장 해제"
+  },
+  {
+    "id": "of Disabling",
+    "ko": "- 무력화"
+  },
+  {
+    "id": "of Deactivating",
+    "ko": "- 비활성화"
+  },
+  {
+    "id": "of Planning",
+    "ko": "- 계획"
+  },
+  {
+    "id": "of Choreography",
+    "ko": "- 설계"
+  },
+  {
+    "id": "of Startling",
+    "ko": "- 놀람"
+  },
+  {
+    "id": "of Surprise",
+    "ko": "- 당혹"
+  },
+  {
+    "id": "of Astonishment",
+    "ko": "- 아연"
+  },
+  {
+    "id": "of Advantage",
+    "ko": "- 우위"
+  },
+  {
+    "id": "of Dominance",
+    "ko": "- 지배"
+  },
+  {
+    "id": "of Needling",
+    "ko": "- 바느질"
+  },
+  {
+    "id": "of Stinging",
+    "ko": "- 찌르기"
+  },
+  {
+    "id": "of Plenty",
+    "ko": "- 풍부함"
+  },
+  {
+    "id": "of Aid",
+    "ko": "- 도움"
+  },
+  {
+    "id": "of Coordination",
+    "ko": "- 조율"
+  },
+  {
+    "id": "of Cooperation",
+    "ko": "- 협력"
+  },
+  {
+    "id": "of Gossip",
+    "ko": "- 한담"
+  },
+  {
+    "id": "of Disclosure",
+    "ko": "- 폭로"
+  },
+  {
+    "id": "of Discovery",
+    "ko": "- 발각"
+  },
+  {
+    "id": "of Gentleness",
+    "ko": "- 온화함"
+  },
+  {
+    "id": "of Subtlety",
+    "ko": "- 잠잠함"
+  },
+  {
+    "id": "of Ingenuity",
+    "ko": "- 기발함"
+  },
+  {
+    "id": "of Aplomb",
+    "ko": "- 냉철함"
+  },
+  {
+    "id": "of Discount",
+    "ko": "- 할인"
+  },
+  {
+    "id": "of Reduction",
+    "ko": "- 감소"
+  },
+  {
+    "id": "of Concession",
+    "ko": "- 염가"
+  },
+  {
+    "id": "of Markdown",
+    "ko": "- 인하"
+  },
+  {
+    "id": "of the Cache",
+    "ko": "- 은닉처"
+  },
+  {
+    "id": "of the Stash",
+    "ko": "- 보관함"
+  },
+  {
+    "id": "of the Stockpile",
+    "ko": "- 저축"
+  },
+  {
+    "id": "of the Hoard",
+    "ko": "- 비축물"
+  },
+  {
+    "id": "of Glimmering",
+    "ko": "- 깜박임"
+  },
+  {
+    "id": "of Glittering",
+    "ko": "- 번쩍임"
+  },
+  {
+    "id": "of Dazzling",
+    "ko": "- 현란함"
+  },
+  {
+    "id": "of Paths",
+    "ko": "- 경로"
+  },
+  {
+    "id": "of Locations",
+    "ko": "- 위치"
+  },
+  {
+    "id": "of Maps",
+    "ko": "- 지도"
+  },
+  {
+    "id": "of the Atlas",
+    "ko": "- 아틀라스"
+  },
+  {
+    "id": "of Guiding",
+    "ko": "- 인도"
+  },
+  {
+    "id": "of Charting",
+    "ko": "- 안내"
+  },
+  {
+    "id": "of Navigating",
+    "ko": "- 길잡이"
+  },
+  {
+    "id": "of Helmsmanship",
+    "ko": "- 키잡이"
+  },
+  {
+    "id": "of Fragments",
+    "ko": "- 조각"
+  },
+  {
+    "id": "of Pieces",
+    "ko": "- 파편"
+  },
+  {
+    "id": "of Puzzles",
+    "ko": "- 단편"
+  },
+  {
+    "id": "of Assembly",
+    "ko": "- 조립"
+  },
+  {
+    "id": "of Cards",
+    "ko": "- 카드"
+  },
+  {
+    "id": "of Decks",
+    "ko": "- 덱"
+  },
+  {
+    "id": "of Collections",
+    "ko": "- 소장품"
+  },
+  {
+    "id": "of Compendiums",
+    "ko": "- 도감"
+  },
+  {
+    "id": "of Confusion",
+    "ko": "- 혼동"
+  },
+  {
+    "id": "of Uncertainty",
+    "ko": "- 불확실"
+  },
+  {
+    "id": "of Voices",
+    "ko": "- 목소리"
+  },
+  {
+    "id": "of Insanity",
+    "ko": "- 광기"
+  },
+  {
+    "id": "of Spores",
+    "ko": "- 포자"
+  },
+  {
+    "id": "of Fungi",
+    "ko": "- 곰팡이"
+  },
+  {
+    "id": "of Infestation",
+    "ko": "- 창궐"
+  },
+  {
+    "id": "of the Blight",
+    "ko": "- 역병"
+  },
+  {
+    "id": "of Whispering",
+    "ko": "- 귓속말"
+  },
+  {
+    "id": "of Weeping",
+    "ko": "- 흐느낌"
+  },
+  {
+    "id": "of Screaming",
+    "ko": "- 절규"
+  },
+  {
+    "id": "of Deafening",
+    "ko": "- 소란"
+  },
+  {
+    "id": "of the Tear",
+    "ko": "- 눈물"
+  },
+  {
+    "id": "of the Breach",
+    "ko": "- 균열"
+  },
+  {
+    "id": "of Polish",
+    "ko": "- 광택"
+  },
+  {
+    "id": "of Gilding",
+    "ko": "- 도금"
+  },
+  {
+    "id": "of Wings",
+    "ko": "- 날개"
+  },
+  {
+    "id": "of Powders",
+    "ko": "- 가루"
+  },
+  {
+    "id": "of Reactants",
+    "ko": "- 반응체"
+  },
+  {
+    "id": "of Concatenation",
+    "ko": "- 연속체"
+  },
+  {
+    "id": "of Catalysts",
+    "ko": "- 기폭제"
+  },
+  {
+    "id": "of the Few",
+    "ko": "- 소수"
+  },
+  {
+    "id": "of the Many",
+    "ko": "- 다수"
+  },
+  {
+    "id": "of the Countless",
+    "ko": "- 대다수"
+  },
+  {
+    "id": "of the Legion",
+    "ko": "- 군단"
+  },
+  {
+    "id": "of Blessings",
+    "ko": "- 축복"
+  },
+  {
+    "id": "of Consecrations",
+    "ko": "- 축성"
+  },
+  {
+    "id": "of Anointments",
+    "ko": "- 성유"
+  },
+  {
+    "id": "Lucky",
+    "ko": "행운의"
+  },
+  {
+    "id": "of Superstition",
+    "ko": "- 미신"
+  },
+  {
+    "id": "Dominated by Sirus",
+    "ko": "사이러스의 지배를 받음"
+  },
+  {
+    "id": "Benevolent Guardian",
+    "ko": "자애로운 수호자"
+  },
+  {
+    "id": "of Challenge",
+    "ko": "- 도전"
+  },
+  {
+    "id": "of the Skunk",
+    "ko": "- 스컹크"
+  },
+  {
+    "id": "of the Conger",
+    "ko": "- 붕장어"
+  },
+  {
+    "id": "of the Deer",
+    "ko": "- 사슴"
+  },
+  {
+    "id": "of the Urchin",
+    "ko": "- 성게"
+  },
+  {
+    "id": "Superior",
+    "ko": "상급"
+  },
+  {
+    "id": "Anomalous",
+    "ko": "기묘한"
+  },
+  {
+    "id": "Divergent",
+    "ko": "상이한"
+  },
+  {
+    "id": "of Organised Chaos",
+    "ko": "- 체계적 혼돈"
+  },
+  {
+    "id": "of Ransacked Relics",
+    "ko": "- 노획당한 유물"
+  },
+  {
+    "id": "of Formidable Shrines",
+    "ko": "- 강대한 성소"
+  },
+  {
+    "id": "of the Pantheon",
+    "ko": "- 판테온"
+  },
+  {
+    "id": "of Collective Stasis",
+    "ko": "- 집단적 정체"
+  },
+  {
+    "id": "of Crystal Prisons",
+    "ko": "- 수정 수용소"
+  },
+  {
+    "id": "of Cascading Fortunes",
+    "ko": "- 쏟아지는 보물"
+  },
+  {
+    "id": "of Hidden Behemoths",
+    "ko": "- 숨은 거대괴수"
+  },
+  {
+    "id": "of Demonic Onslaught",
+    "ko": "- 악마의 맹공"
+  },
+  {
+    "id": "of Grasping Hands",
+    "ko": "- 거머쥐는 손"
+  },
+  {
+    "id": "of Self-Possession",
+    "ko": "- 침착성"
+  },
+  {
+    "id": "of Tormented Souls",
+    "ko": "- 고통받는 영혼"
+  },
+  {
+    "id": "of Survivor's Guilt",
+    "ko": "- 생존자의 죄책감"
+  },
+  {
+    "id": "of Phaaryl",
+    "ko": "- 파아릴"
+  },
+  {
+    "id": "of Harvest Beasts",
+    "ko": "- 수확 야수"
+  },
+  {
+    "id": "of the Menagerie",
+    "ko": "- 야수관"
+  },
+  {
+    "id": "of Bounty Hunters",
+    "ko": "- 현상금 사냥꾼"
+  },
+  {
+    "id": "of the Sacred Grove",
+    "ko": "- 신성한 숲"
+  },
+  {
+    "id": "of Chasms",
+    "ko": "- 절벽길"
+  },
+  {
+    "id": "Vined",
+    "ko": "덩굴의"
+  },
+  {
+    "id": "Honourable",
+    "ko": "명예로운"
+  },
+  {
+    "id": "Moral",
+    "ko": "윤리의"
+  },
+  {
+    "id": "Principled",
+    "ko": "원칙의"
+  },
+  {
+    "id": "Respected",
+    "ko": "존경받는"
+  },
+  {
+    "id": "Revitalising",
+    "ko": "되살아나는"
+  },
+  {
+    "id": "Galvanising",
+    "ko": "자극하는"
+  },
+  {
+    "id": "Enlivening",
+    "ko": "생기 넘치는"
+  },
+  {
+    "id": "Brightening",
+    "ko": "밝히는"
+  },
+  {
+    "id": "of Dampening",
+    "ko": "- 완화"
+  },
+  {
+    "id": "of Soaking",
+    "ko": "- 담금"
+  },
+  {
+    "id": "of Drenching",
+    "ko": "- 젖음"
+  },
+  {
+    "id": "of Saturating",
+    "ko": "- 포화"
+  },
+  {
+    "id": "of Flowing",
+    "ko": "- 윤택"
+  },
+  {
+    "id": "of Charity",
+    "ko": "- 자비"
+  },
+  {
+    "id": "of Diplomacy",
+    "ko": "- 외교"
+  },
+  {
+    "id": "of Empowerment",
+    "ko": "- 강화"
+  },
+  {
+    "id": "of Championship",
+    "ko": "- 패권"
+  },
+  {
+    "id": "of Refreshment",
+    "ko": "- 원기 회복"
+  },
+  {
+    "id": "of Youth",
+    "ko": "- 청춘"
+  },
+  {
+    "id": "of Freshness",
+    "ko": "- 상쾌함"
+  },
+  {
+    "id": "of Bloom",
+    "ko": "- 꽃"
+  },
+  {
+    "id": "Commoner's",
+    "ko": "평민의"
+  },
+  {
+    "id": "Dekhara's",
+    "ko": "데카라의"
+  },
+  {
+    "id": "Sekhema's",
+    "ko": "세케마의"
+  },
+  {
+    "id": "Divinity's",
+    "ko": "신성의"
+  },
+  {
+    "id": "of the Well",
+    "ko": "- 우물"
+  },
+  {
+    "id": "of the Fountain",
+    "ko": "- 화수분"
+  },
+  {
+    "id": "of the Oasis",
+    "ko": "- 오아시스"
+  },
+  {
+    "id": "of Progress",
+    "ko": "- 진보"
+  },
+  {
+    "id": "of Advancement",
+    "ko": "- 발전"
+  },
+  {
+    "id": "of Headway",
+    "ko": "- 전진"
+  },
+  {
+    "id": "of Betterment",
+    "ko": "- 향상"
+  },
+  {
+    "id": "of Illumination",
+    "ko": "- 계도"
+  },
+  {
+    "id": "of Clairvoyance",
+    "ko": "- 예지력"
+  },
+  {
+    "id": "of Dignity",
+    "ko": "- 존엄"
+  },
+  {
+    "id": "of Prestige",
+    "ko": "- 위신"
+  },
+  {
+    "id": "of Honour",
+    "ko": "- 명예"
+  },
+  {
+    "id": "Crushing",
+    "ko": "타쇄하는"
+  },
+  {
+    "id": "Annihilating",
+    "ko": "절멸의"
+  },
+  {
+    "id": "Transgressor's",
+    "ko": "범법자의"
+  },
+  {
+    "id": "Violator's",
+    "ko": "침범자의"
+  },
+  {
+    "id": "Disgrace's",
+    "ko": "굴욕의"
+  },
+  {
+    "id": "Usurper's",
+    "ko": "찬탈자의"
+  },
+  {
+    "id": "Regicidal",
+    "ko": "왕 시해자의"
+  },
+  {
+    "id": "Plentiful",
+    "ko": "풍요한"
+  },
+  {
+    "id": "Cornucopic",
+    "ko": "풍요의 뿔의"
+  },
+  {
+    "id": "Bastion",
+    "ko": "보루"
+  },
+  {
+    "id": "Citadel",
+    "ko": "성채"
+  },
+  {
+    "id": "Aegis",
+    "ko": "비호"
+  },
+  {
+    "id": "Vanguard",
+    "ko": "선봉대"
+  },
+  {
+    "id": "Phalanx",
+    "ko": "밀집"
+  },
+  {
+    "id": "of Learning",
+    "ko": "- 학습"
+  },
+  {
+    "id": "of Investigation",
+    "ko": "- 조사"
+  },
+  {
+    "id": "Light-footed",
+    "ko": "사뿐한"
+  },
+  {
+    "id": "Acrobatic",
+    "ko": "곡예의"
+  },
+  {
+    "id": "Limber",
+    "ko": "경쾌한"
+  },
+  {
+    "id": "Hasted",
+    "ko": "가속된"
+  },
+  {
+    "id": "of Lunging",
+    "ko": "- 달려들기"
+  },
+  {
+    "id": "of Eluding",
+    "ko": "- 도피"
+  },
+  {
+    "id": "of Unyielding",
+    "ko": "- 완고"
+  },
+  {
+    "id": "of Unrelenting",
+    "ko": "- 가차없음"
+  },
+  {
+    "id": "of the Pathfinder",
+    "ko": "- 패스파인더"
+  },
+  {
+    "id": "of Tenacity",
+    "ko": "- 참을성"
+  },
+  {
+    "id": "of Unwavering",
+    "ko": "- 변함없음"
+  },
+  {
+    "id": "Pilferer's",
+    "ko": "좀도둑의"
+  },
+  {
+    "id": "Picklock's",
+    "ko": "털이의"
+  },
+  {
+    "id": "of Donation",
+    "ko": "- 기부"
+  },
+  {
+    "id": "of Entrusting",
+    "ko": "- 의탁"
+  },
+  {
+    "id": "of Bestowing",
+    "ko": "- 수여"
+  },
+  {
+    "id": "of Bequeathing",
+    "ko": "- 유증"
+  },
+  {
+    "id": "Time-warping",
+    "ko": "시간 왜곡"
+  },
+  {
+    "id": "Temporal",
+    "ko": "시간의"
+  },
+  {
+    "id": "of Worth",
+    "ko": "- 가치"
+  },
+  {
+    "id": "of Deserving",
+    "ko": "- 자격"
+  },
+  {
+    "id": "of Justification",
+    "ko": "- 정당화"
+  },
+  {
+    "id": "of Entitlement",
+    "ko": "- 권리"
+  },
+  {
+    "id": "of Merit",
+    "ko": "- 공로"
+  },
+  {
+    "id": "of Excellence",
+    "ko": "- 탁월함"
+  },
+  {
+    "id": "of Brilliance",
+    "ko": "- 광채"
+  },
+  {
+    "id": "of Access",
+    "ko": "- 출입"
+  },
+  {
+    "id": "of Admission",
+    "ko": "- 입장"
+  },
+  {
+    "id": "of Entry",
+    "ko": "- 진입"
+  },
+  {
+    "id": "of Entrance",
+    "ko": "- 입구"
+  },
+  {
+    "id": "Cheater's",
+    "ko": "반칙자의"
+  },
+  {
+    "id": "Enhancing",
+    "ko": "향상하는"
+  },
+  {
+    "id": "Reforging",
+    "ko": "재련하는"
+  },
+  {
+    "id": "Upgrading",
+    "ko": "승격의"
+  },
+  {
+    "id": "of Cremation",
+    "ko": "- 시체 소각"
+  },
+  {
+    "id": "of Glaciation",
+    "ko": "- 빙하 작용"
+  },
+  {
+    "id": "of Hexing",
+    "ko": "- 사술 걸기"
+  },
+  {
+    "id": "of Chaos",
+    "ko": "- 혼돈"
+  },
+  {
+    "id": "of Acceleration",
+    "ko": "- 가속"
+  },
+  {
+    "id": "of Bolstering",
+    "ko": "- 지지"
+  },
+  {
+    "id": "of Wasting",
+    "ko": "- 허비"
+  },
+  {
+    "id": "of Defencelessness",
+    "ko": "- 무방비"
+  },
+  {
+    "id": "of Suffocation",
+    "ko": "- 질색"
+  },
+  {
+    "id": "Alchemist's",
+    "ko": "연금술사의"
+  },
+  {
+    "id": "Greater Regal",
+    "ko": "상위 제왕"
+  },
+  {
+    "id": "Perfect Regal",
+    "ko": "완벽한 제왕"
+  },
+  {
+    "id": "Greater Chaotic",
+    "ko": "상위 카오스"
+  },
+  {
+    "id": "Perfect Chaotic",
+    "ko": "완벽한 카오스"
+  },
+  {
+    "id": "Exalted",
+    "ko": "고귀한"
+  },
+  {
+    "id": "Greater Exalted",
+    "ko": "상위 엑잘티드"
+  },
+  {
+    "id": "Perfect Exalted",
+    "ko": "완벽한 엑잘티드"
+  },
+  {
+    "id": "Null",
+    "ko": "없음"
+  },
+  {
+    "id": "Chancing",
+    "ko": "확률적인"
+  },
+  {
+    "id": "Armourer's",
+    "ko": "방어구 장인의"
+  },
+  {
+    "id": "Blacksmith's",
+    "ko": "대장장이의"
+  },
+  {
+    "id": "Arcanist's",
+    "ko": "신비학자의"
+  },
+  {
+    "id": "Glassblower's",
+    "ko": "유리직공의"
+  },
+  {
+    "id": "Gemcutter's",
+    "ko": "세공사의"
+  },
+  {
+    "id": "Owl-Touched",
+    "ko": "올빼미의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Winter Owl",
+    "ko": "겨울 올빼미에게 사냥당하는"
+  },
+  {
+    "id": "Serpent-Touched",
+    "ko": "독사의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Ancient Serpent",
+    "ko": "고대 독사에게 사냥당하는"
+  },
+  {
+    "id": "Primate-Touched",
+    "ko": "영장류의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Howling Ape",
+    "ko": "울부짖는 유인원에게 사냥당하는"
+  },
+  {
+    "id": "Bear-Touched",
+    "ko": "곰의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Great Bear",
+    "ko": "큰곰에게 사냥당하는"
+  },
+  {
+    "id": "Boar-Touched",
+    "ko": "멧돼지의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Frenzied Boar",
+    "ko": "격분한 멧돼지에게 사냥당하는"
+  },
+  {
+    "id": "Ox-Touched",
+    "ko": "소의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Raging Ox",
+    "ko": "격노하는 소에게 사냥당하는"
+  },
+  {
+    "id": "Wolf-Touched",
+    "ko": "늑대의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Noble Wolf",
+    "ko": "고귀한 늑대에게 사냥당하는"
+  },
+  {
+    "id": "Stag-Touched",
+    "ko": "수사슴의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Fabled Stag",
+    "ko": "전설적인 수사슴에게 사냥당하는"
+  },
+  {
+    "id": "Cat-Touched",
+    "ko": "고양이의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Wild Cat",
+    "ko": "야생 고양이에게 사냥당하는"
+  },
+  {
+    "id": "Hare-Touched",
+    "ko": "산토끼의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Spring Hare",
+    "ko": "봄 산토끼에게 사냥당하는"
+  },
+  {
+    "id": "Fox-Touched",
+    "ko": "여우의 손길에 닿은"
+  },
+  {
+    "id": "Hunted by the Cunning Fox",
+    "ko": "교활한 여우에게 사냥당하는"
+  },
+  {
+    "id": "Protected by the Winter Owl",
+    "ko": "겨울 올빼미에게 보호받는"
+  },
+  {
+    "id": "Protected by the Ancient Serpent",
+    "ko": "고대 독사에게 보호받는"
+  },
+  {
+    "id": "Protected by the Howling Ape",
+    "ko": "울부짖는 유인원에게 보호받는"
+  },
+  {
+    "id": "Protected by the Great Bear",
+    "ko": "큰곰에게 보호받는"
+  },
+  {
+    "id": "Protected by the Frenzied Boar",
+    "ko": "격분한 멧돼지에게 보호받는"
+  },
+  {
+    "id": "Protected by the Raging Ox",
+    "ko": "격노하는 소에게 보호받는"
+  },
+  {
+    "id": "Protected by the Noble Wolf",
+    "ko": "고귀한 늑대에게 보호받는"
+  },
+  {
+    "id": "Protected by the Fabled Stag",
+    "ko": "전설적인 수사슴에게 보호받는"
+  },
+  {
+    "id": "Protected by the Wild Cat",
+    "ko": "야생 고양이에게 보호받는"
+  },
+  {
+    "id": "Protected by the Spring Hare",
+    "ko": "봄 산토끼에게 보호받는"
+  },
+  {
+    "id": "Protected by the Cunning Fox",
+    "ko": "교활한 여우에게 보호받는"
+  },
+  {
+    "id": "Protected by the Abyssal",
+    "ko": "심연의 존재에게 보호받는"
+  },
+  {
+    "id": "Fang of the Predator",
+    "ko": "포식자의 송곳니"
+  },
+  {
+    "id": "Scent of the Prey",
+    "ko": "사냥감의 냄새"
+  },
+  {
+    "id": "Hunger of the Stalker",
+    "ko": "추적자의 굶주림"
+  },
+  {
+    "id": "Alpha of the Pack",
+    "ko": "무리의 우두머리"
+  },
+  {
+    "id": "Transformation of the Cocoon",
+    "ko": "고치의 변태"
+  },
+  {
+    "id": "Pelts of the Wild",
+    "ko": "야생의 털가죽"
+  },
+  {
+    "id": "Runt of the Litter",
+    "ko": "가장 약한 새끼"
+  },
+  {
+    "id": "Bounty of the Hunt",
+    "ko": "사냥의 선물"
+  },
+  {
+    "id": "Decay of the Husk",
+    "ko": "껍질의 부패"
+  },
+  {
+    "id": "Gluttony of the Beast",
+    "ko": "야수의 탐식"
+  },
+  {
+    "id": "Trickery of the Web",
+    "ko": "거미줄의 계략"
+  },
+  {
+    "id": "Change of the Chrysalis",
+    "ko": "번데기의 변화"
+  },
+  {
+    "id": "Lightless",
+    "ko": "무광의"
+  },
+  {
+    "id": "of Ulaman",
+    "ko": "- 울라만"
+  },
+  {
+    "id": "of Amanamu",
+    "ko": "- 아마나무"
+  },
+  {
+    "id": "of Kurgal",
+    "ko": "- 쿠르갈"
+  },
+  {
+    "id": "Ulaman's",
+    "ko": "울라만의"
+  },
+  {
+    "id": "Amanamu's",
+    "ko": "아마나무의"
+  },
+  {
+    "id": "Kurgal's",
+    "ko": "쿠르갈의"
+  },
+  {
+    "id": "of Escalation",
+    "ko": "- 증대자"
+  },
+  {
+    "id": "of the Depths",
+    "ko": "- 지저"
+  },
+  {
+    "id": "of Hollows",
+    "ko": "- 동혈"
+  },
+  {
+    "id": "of Schisms",
+    "ko": "- 분립"
+  },
+  {
+    "id": "of Dark Power",
+    "ko": "- 어둠의 힘"
+  },
+  {
+    "id": "of Ossification",
+    "ko": "- 골화"
+  },
+  {
+    "id": "of the Wild",
+    "ko": "- 황야"
+  },
+  {
+    "id": "Bestial",
+    "ko": "야성적인"
+  },
+  {
+    "id": "Overgrown",
+    "ko": "웃자란"
+  },
+  {
+    "id": "Shadow's",
+    "ko": "쉐도우의"
+  },
+  {
+    "id": "Templar's",
+    "ko": "템플러의"
+  },
+  {
+    "id": "Spellslinger's",
+    "ko": "주문투척자의"
+  },
+  {
+    "id": "Disciple's",
+    "ko": "신봉자의"
+  },
+  {
+    "id": "Ritualist's",
+    "ko": "의식술사의"
+  },
+  {
+    "id": "Royal",
+    "ko": "왕실"
+  },
+  {
+    "id": "Breach",
+    "ko": "균열"
+  },
+  {
+    "id": "Expedition",
+    "ko": "탐험"
+  },
+  {
+    "id": "Delirium",
+    "ko": "환영"
+  },
+  {
+    "id": "Ritual",
+    "ko": "의식"
+  },
+  {
+    "id": "Abyss",
+    "ko": "심연"
+  },
+  {
+    "id": "Atziri's Temple",
+    "ko": "앗지리의 사원"
+  },
+  {
+    "id": "Irradiated",
+    "ko": "방사능 노출"
+  },
+  {
+    "id": "Overseer's",
+    "ko": "감독 관리자의"
+  },
+  {
+    "id": "Transmutation",
+    "ko": "변형"
+  },
+  {
+    "id": "Augmentation",
+    "ko": "확장"
+  },
+  {
+    "id": "Protected",
+    "ko": "비호받는"
+  },
+  {
+    "id": "Walker's",
+    "ko": "보행자의"
+  },
+  {
+    "id": "Exploiter's",
+    "ko": "착취자의"
+  },
+  {
+    "id": "Savage",
+    "ko": "야만인"
+  },
+  {
+    "id": "Fire Rune",
+    "ko": "화염 룬"
+  },
+  {
+    "id": "Cold Rune",
+    "ko": "냉기 룬"
+  },
+  {
+    "id": "Lightning Rune",
+    "ko": "번개 룬"
+  },
+  {
+    "id": "Tempest Rune",
+    "ko": "폭풍 룬"
+  },
+  {
+    "id": "Momentum Rune",
+    "ko": "기세 룬"
+  },
+  {
+    "id": "Bloodletting Rune",
+    "ko": "출혈 과다 룬"
+  },
+  {
+    "id": "Stone Rune",
+    "ko": "돌 룬"
+  },
+  {
+    "id": "Adaptive Rune",
+    "ko": "적응형 룬"
+  },
+  {
+    "id": "Arcane Rune",
+    "ko": "비전 룬"
+  },
+  {
+    "id": "Toxic Rune",
+    "ko": "맹독성 룬"
+  },
+  {
+    "id": "Electrocuting Rune",
+    "ko": "전기 처형 룬"
+  },
+  {
+    "id": "Protective Rune",
+    "ko": "보호 룬"
+  },
+  {
+    "id": "Cyclonic Rune",
+    "ko": "회오리바람 룬"
+  },
+  {
+    "id": "Vision Rune",
+    "ko": "환영 룬"
+  },
+  {
+    "id": "Tidal Rune",
+    "ko": "해일 룬"
+  },
+  {
+    "id": "Rebirth Rune",
+    "ko": "부활 룬"
+  },
+  {
+    "id": "Prismatic Rune",
+    "ko": "분광 룬"
+  },
+  {
+    "id": "Volcanic Rune",
+    "ko": "화산의 룬"
+  },
+  {
+    "id": "Moon Rune",
+    "ko": "달 룬"
+  },
+  {
+    "id": "Celestial Rune",
+    "ko": "천공의 룬"
+  },
+  {
+    "id": "Opulent Rune",
+    "ko": "풍요 룬"
+  },
+  {
+    "id": "Rage Rune",
+    "ko": "격노 룬"
+  },
+  {
+    "id": "Wisdom Rune",
+    "ko": "지혜 룬"
+  },
+  {
+    "id": "Sky Rune",
+    "ko": "하늘 룬"
+  },
+  {
+    "id": "Earth Rune",
+    "ko": "대지 룬"
+  },
+  {
+    "id": "Life Rune",
+    "ko": "생명 룬"
+  },
+  {
+    "id": "Bond Rune",
+    "ko": "유대 룬"
+  },
+  {
+    "id": "Ward Rune",
+    "ko": "수호 룬"
+  },
+  {
+    "id": "Soul Rune",
+    "ko": "영혼 룬"
+  },
+  {
+    "id": "Death Rune",
+    "ko": "죽음 룬"
+  },
+  {
+    "id": "Oath Rune",
+    "ko": "서약 룬"
+  },
+  {
+    "id": "Time Rune",
+    "ko": "시간 룬"
+  },
+  {
+    "id": "Power Rune",
+    "ko": "권능 룬"
+  },
+  {
+    "id": "Hunted by the Abyssal",
+    "ko": "심연의 존재에게 사냥당하는"
+  },
+  {
+    "id": "Abyss-Touched",
+    "ko": "심연의 손길에 닿은"
+  },
+  {
+    "id": "Tul's",
+    "ko": "툴의"
+  },
+  {
+    "id": "Uul-Netol's",
+    "ko": "울네톨의"
+  },
+  {
+    "id": "of Xoph",
+    "ko": "- 조프"
+  },
+  {
+    "id": "of Esh",
+    "ko": "- 에쉬"
+  },
+  {
+    "id": "of Scattering",
+    "ko": "- 산발"
+  },
+  {
+    "id": "of Amplification",
+    "ko": "- 증폭"
+  },
+  {
+    "id": "of Expectation",
+    "ko": "- 예상"
+  },
+  {
+    "id": "Dedicated",
+    "ko": "전념하는"
+  },
+  {
+    "id": "of Multitudes",
+    "ko": "- 군중"
+  },
+  {
+    "id": "Scratching",
+    "ko": "긁는"
+  },
+  {
+    "id": "Contaminating",
+    "ko": "오염시키는"
+  },
+  {
+    "id": "of Punctuality",
+    "ko": "- 시간 엄수"
+  },
+  {
+    "id": "of Invigoration",
+    "ko": "- 고무"
+  },
+  {
+    "id": "of the Cabal",
+    "ko": "- 도당"
+  },
+  {
+    "id": "Storm Chaser's",
+    "ko": "태풍 추격자의"
+  },
+  {
+    "id": "Fire Breather's",
+    "ko": "불 뿜는 자의"
+  },
+  {
+    "id": "Tempest Rider's",
+    "ko": "폭풍 기수의"
+  },
+  {
+    "id": "Soul Stealer's",
+    "ko": "영혼 강탈자의"
+  },
+  {
+    "id": "Burdensome",
+    "ko": "과중한"
+  },
+  {
+    "id": "of Vastness",
+    "ko": "- 광활함"
+  },
+  {
+    "id": "of Lancing",
+    "ko": "- 찌름"
+  },
+  {
+    "id": "Erupting",
+    "ko": "분화하는"
+  },
+  {
+    "id": "Energising",
+    "ko": "활력의"
+  },
+  {
+    "id": "Glacial",
+    "ko": "빙하기의"
+  },
+  {
+    "id": "Unshackling",
+    "ko": "해방의"
+  },
+  {
+    "id": "of Reverberation",
+    "ko": "- 울림"
+  },
+  {
+    "id": "of Imbuing",
+    "ko": "- 부여"
+  },
+  {
+    "id": "of Exertion",
+    "ko": "- 전력 공격"
+  },
+  {
+    "id": "of Unending",
+    "ko": "- 무진"
+  },
+  {
+    "id": "Instructor's",
+    "ko": "지시자의"
+  },
+  {
+    "id": "Monstrous",
+    "ko": "기괴한"
+  },
+  {
+    "id": "Underling's",
+    "ko": "졸개의"
+  },
+  {
+    "id": "of Coherence",
+    "ko": "- 일관성"
+  },
+  {
+    "id": "of Ravaging",
+    "ko": "- 유린"
+  },
+  {
+    "id": "of Binding",
+    "ko": "- 속박"
+  },
+  {
+    "id": "Verisium",
+    "ko": "베리시움"
+  },
+  {
+    "id": "of the Stars",
+    "ko": "- 별"
+  },
+  {
+    "id": "Sanguine",
+    "ko": "핏빛"
+  },
+  {
+    "id": "Robust",
+    "ko": "왕성한"
+  },
+  {
+    "id": "Cobalt",
+    "ko": "코발트"
+  },
+  {
+    "id": "Katla's",
+    "ko": "카틀라의"
+  },
+  {
+    "id": "of Decay",
+    "ko": "- 쇠락"
+  },
+  {
+    "id": "Kolr's",
+    "ko": "콜르의"
+  },
+  {
+    "id": "of the Hunt",
+    "ko": "- 사냥꾼"
+  },
+  {
+    "id": "Hustler's",
+    "ko": "야바위꾼의"
+  },
+  {
+    "id": "Conniver's",
+    "ko": "방조자의"
+  },
+  {
+    "id": "Schemer's",
+    "ko": "책략가의"
+  },
+  {
+    "id": "Plotter's",
+    "ko": "음모자의"
+  },
+  {
+    "id": "Conspirator's",
+    "ko": "공모자의"
+  },
+  {
+    "id": "Manipulator's",
+    "ko": "조종자의"
+  },
+  {
+    "id": "Puppeteer's",
+    "ko": "인형술사의"
+  },
+  {
+    "id": "of Persuasion",
+    "ko": "- 설득"
+  },
+  {
+    "id": "of Pressure",
+    "ko": "- 압박"
+  },
+  {
+    "id": "of Coercion",
+    "ko": "- 강압"
+  },
+  {
+    "id": "of Compulsion",
+    "ko": "- 강요"
+  },
+  {
+    "id": "of Numbness",
+    "ko": "- 무감각함"
+  },
+  {
+    "id": "of Dullness",
+    "ko": "- 무딤"
+  },
+  {
+    "id": "of Desensitisation",
+    "ko": "- 감각 둔화"
+  },
+  {
+    "id": "of Conditioning",
+    "ko": "- 조건화"
+  },
+  {
+    "id": "of Management",
+    "ko": "- 관리"
+  },
+  {
+    "id": "of Control",
+    "ko": "- 제어"
+  },
+  {
+    "id": "of Pricking",
+    "ko": "- 쑤시기"
+  },
+  {
+    "id": "of Gouging",
+    "ko": "- 후비기"
+  },
+  {
+    "id": "of Lacinating",
+    "ko": "- 째기"
+  },
+  {
+    "id": "of Purging",
+    "ko": "- 섬멸"
+  },
+  {
+    "id": "of Elimination",
+    "ko": "- 제거"
+  },
+  {
+    "id": "of Devastation",
+    "ko": "- 참상"
+  },
+  {
+    "id": "of Eradication",
+    "ko": "- 박멸"
+  },
+  {
+    "id": "of Extinction",
+    "ko": "- 멸종"
+  },
+  {
+    "id": "Bearing",
+    "ko": "견디는"
+  },
+  {
+    "id": "Bracing",
+    "ko": "버티는"
+  },
+  {
+    "id": "Toughening",
+    "ko": "강인해지는"
+  },
+  {
+    "id": "Reinforcing",
+    "ko": "보강하는"
+  },
+  {
+    "id": "Bolstering",
+    "ko": "발전하는"
+  },
+  {
+    "id": "Fortifying",
+    "ko": "요새화하는"
+  },
+  {
+    "id": "Rousing",
+    "ko": "고조시키는"
+  },
+  {
+    "id": "Waking",
+    "ko": "깨우는"
+  },
+  {
+    "id": "Restless",
+    "ko": "위태로운"
+  },
+  {
+    "id": "Guide's",
+    "ko": "길잡이의"
+  },
+  {
+    "id": "Lookout's",
+    "ko": "망루원의"
+  },
+  {
+    "id": "Watcher's",
+    "ko": "감시자의"
+  },
+  {
+    "id": "Sentry's",
+    "ko": "보초의"
+  },
+  {
+    "id": "Shepherd's",
+    "ko": "목자의"
+  },
+  {
+    "id": "Custodian's",
+    "ko": "관리인의"
+  },
+  {
+    "id": "of Clutching",
+    "ko": "- 움켜쥠"
+  },
+  {
+    "id": "of Grappling",
+    "ko": "- 드잡이"
+  },
+  {
+    "id": "of Seizing",
+    "ko": "- 붙잡기"
+  },
+  {
+    "id": "of Tradition",
+    "ko": "- 관례"
+  },
+  {
+    "id": "of Observance",
+    "ko": "- 관찰"
+  },
+  {
+    "id": "of the Rite",
+    "ko": "- 의례"
+  },
+  {
+    "id": "of Ceremony",
+    "ko": "- 기념식"
+  },
+  {
+    "id": "of Liturgy",
+    "ko": "- 기도문"
+  },
+  {
+    "id": "of Scurrying",
+    "ko": "- 종종걸음"
+  },
+  {
+    "id": "of Bustling",
+    "ko": "- 부산함"
+  },
+  {
+    "id": "of Trampling",
+    "ko": "- 짓밟기"
+  },
+  {
+    "id": "of Storming",
+    "ko": "- 몰아침"
+  },
+  {
+    "id": "of Stampeding",
+    "ko": "- 쇄도"
+  },
+  {
+    "id": "Runic",
+    "ko": "룬"
+  },
+  {
+    "id": "Thoughtful",
+    "ko": "사려 깊은"
+  },
+  {
+    "id": "Considerate",
+    "ko": "숙고하는"
+  },
+  {
+    "id": "Astute",
+    "ko": "총명한"
+  },
+  {
+    "id": "Sagacious",
+    "ko": "슬기로운"
+  },
+  {
+    "id": "Calculating",
+    "ko": "계산적인"
+  },
+  {
+    "id": "Eager",
+    "ko": "안달하는"
+  },
+  {
+    "id": "Enthusiastic",
+    "ko": "열성적인"
+  },
+  {
+    "id": "Spirited",
+    "ko": "기운찬"
+  },
+  {
+    "id": "Activating",
+    "ko": "작동하는"
+  },
+  {
+    "id": "Stimulating",
+    "ko": "자극의"
+  },
+  {
+    "id": "Awakening",
+    "ko": "각성시키는"
+  },
+  {
+    "id": "Elevating",
+    "ko": "고양시키는"
+  },
+  {
+    "id": "Exhilarating",
+    "ko": "북돋우는"
+  },
+  {
+    "id": "Taxing",
+    "ko": "고된"
+  },
+  {
+    "id": "Draining",
+    "ko": "고갈시키는"
+  },
+  {
+    "id": "Exhausting",
+    "ko": "피로한"
+  },
+  {
+    "id": "of Accumulation",
+    "ko": "- 누적"
+  },
+  {
+    "id": "of Proliferation",
+    "ko": "- 급증"
+  },
+  {
+    "id": "of Expansion",
+    "ko": "- 확대"
+  },
+  {
+    "id": "of Magnification",
+    "ko": "- 팽창"
+  },
+  {
+    "id": "of Multiplication",
+    "ko": "- 다중"
+  },
+  {
+    "id": "of Hurrying",
+    "ko": "- 독촉"
+  },
+  {
+    "id": "of Quickening",
+    "ko": "- 다그침"
+  },
+  {
+    "id": "of Accelerating",
+    "ko": "- 증속"
+  },
+  {
+    "id": "Condemning",
+    "ko": "단죄하는"
+  },
+  {
+    "id": "Maledicting",
+    "ko": "악담의"
+  },
+  {
+    "id": "Dooming",
+    "ko": "멸망시키는"
+  },
+  {
+    "id": "of Jordan",
+    "ko": "- 요르단"
+  },
+  {
+    "id": "of Analysis",
+    "ko": "- 분석"
+  },
+  {
+    "id": "of Understanding",
+    "ko": "- 이해"
+  },
+  {
+    "id": "of Receiving",
+    "ko": "- 수령"
+  },
+  {
+    "id": "of Collecting",
+    "ko": "- 수집"
+  },
+  {
+    "id": "of Amassing",
+    "ko": "- 적축"
+  },
+  {
+    "id": "of Absorbing",
+    "ko": "- 흡인"
+  },
+  {
+    "id": "of Engulfing",
+    "ko": "- 포용"
+  },
+  {
+    "id": "Imagninative",
+    "ko": "창의적인"
+  },
+  {
+    "id": "Inventive",
+    "ko": "기발한"
+  },
+  {
+    "id": "Pioneering",
+    "ko": "선구적인"
+  },
+  {
+    "id": "Trailblazing",
+    "ko": "창시하는"
+  },
+  {
+    "id": "Baleful",
+    "ko": "해악한"
+  },
+  {
+    "id": "Pestilent",
+    "ko": "성가신"
+  },
+  {
+    "id": "of the Soul",
+    "ko": "- 영혼"
+  },
+  {
+    "id": "Uhtred's",
+    "ko": "우트레드의"
+  },
+  {
+    "id": "Medved's",
+    "ko": "메드베드의"
+  },
+  {
+    "id": "Vorana's",
+    "ko": "보라나의"
+  },
+  {
+    "id": "of the Berserker",
+    "ko": "- 버서커"
+  },
+  {
+    "id": "Thrud's",
+    "ko": "스루드의"
+  },
+  {
+    "id": "Humble",
+    "ko": "초라한"
+  },
+  {
+    "id": "Bladesmith's",
+    "ko": "칼날 장인의"
+  },
+  {
+    "id": "Deadeye's",
+    "ko": "데드아이의"
+  },
+  {
+    "id": "Tactician's",
+    "ko": "택티션의"
+  },
+  {
+    "id": "Monk's",
+    "ko": "몽크의"
+  },
+  {
+    "id": "Huntress'",
+    "ko": "헌트리스의"
+  },
+  {
+    "id": "Fletcher's",
+    "ko": "화살 제조자의"
+  },
+  {
+    "id": "Body",
+    "ko": "몸통"
+  },
+  {
+    "id": "Glove",
+    "ko": "장갑"
+  },
+  {
+    "id": "Boot",
+    "ko": "장화"
+  },
+  {
+    "id": "Shield",
+    "ko": "방패"
+  }
+]

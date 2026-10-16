@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "Ab Aeterno",
+    "ko": "아브 아이테르노",
+    "baseItem": "Grand Cuisses"
+  },
+  {
+    "id": "Adonia's Ego",
+    "ko": "아도니아의 자아",
+    "baseItem": "Siphoning Wand"
+  },
+  {
+    "id": "Aerisvane's Wings",
+    "ko": "아이리스베인의 날개",
+    "baseItem": "Burnished Gauntlets"
+  },
+  {
+    "id": "Against the Darkness",
+    "ko": "어둠 저항",
+    "baseItem": "Time-Lost Diamond"
+  },
+  {
+    "id": "Alkem Eira",
+    "ko": "알켐 에이라",
+    "baseItem": "Blazon Crest Shield"
+  },
+  {
+    "id": "Alpha's Howl",
+    "ko": "우두머리의 울부짖음",
+    "baseItem": "Armoured Cap"
+  },
+  {
+    "id": "Amor Mandragora",
+    "ko": "아모르 만드라고라",
+    "baseItem": "Changeling Talisman"
+  },
+  {
+    "id": "Andvarius",
+    "ko": "앤드바리우스",
+    "baseItem": "Gold Ring"
+  },
+  {
+    "id": "Apep's Supremacy",
+    "ko": "아펩의 패권",
+    "baseItem": "Voodoo Focus"
+  },
+  {
+    "id": "Apron of Emiran",
+    "ko": "에미란의 앞치마",
+    "baseItem": "Hermit Garb"
+  },
+  {
+    "id": "Arakaali's Gift",
+    "ko": "아라칼리의 선물",
+    "baseItem": "Antidote Charm"
+  },
+  {
+    "id": "Arvil's Wheel",
+    "ko": "아르빌의 바퀴",
+    "baseItem": "Hardwood Targe"
+  },
+  {
+    "id": "Ashrend",
+    "ko": "부서진 잿더미",
+    "baseItem": "Pathfinder Coat"
+  },
+  {
+    "id": "Asphyxia's Wrath",
+    "ko": "질식의 진노",
+    "baseItem": "Broadhead Quiver"
+  },
+  {
+    "id": "Assailum",
+    "ko": "공격병동",
+    "baseItem": "Closed Helm"
+  },
+  {
+    "id": "Astramentis",
+    "ko": "별의 보석",
+    "baseItem": "Stellar Amulet"
+  },
+  {
+    "id": "Atsak's Sight",
+    "ko": "아차크의 시야",
+    "baseItem": "Veiled Mask"
+  },
+  {
+    "id": "Atziri's Acuity",
+    "ko": "앗지리의 예리함",
+    "baseItem": "Moulded Mitts"
+  },
+  {
+    "id": "Atziri's Contempt",
+    "ko": "앗지리의 경멸",
+    "baseItem": "Pronged Spear"
+  },
+  {
+    "id": "Atziri's Disdain",
+    "ko": "앗지리의 멸시",
+    "baseItem": "Gold Circlet"
+  },
+  {
+    "id": "Atziri's Rule",
+    "ko": "앗지리의 통치",
+    "baseItem": "Reflecting Staff"
+  },
+  {
+    "id": "Atziri's Splendour",
+    "ko": "앗지리의 위풍",
+    "baseItem": "Sacrificial Regalia"
+  },
+  {
+    "id": "Atziri's Step",
+    "ko": "앗지리의 걸음",
+    "baseItem": "Cinched Boots"
+  },
+  {
+    "id": "Aurseize",
+    "ko": "아우르시즈",
+    "baseItem": "Layered Gauntlets"
+  },
+  {
+    "id": "Beacon of Azis",
+    "ko": "아지스의 등불",
+    "baseItem": "Solar Amulet"
+  },
+  {
+    "id": "Beetlebite",
+    "ko": "딱정벌레 이빨",
+    "baseItem": "Velour Shoes"
+  },
+  {
+    "id": "Beira's Anguish",
+    "ko": "베이라의 비통",
+    "baseItem": "Dousing Charm"
+  },
+  {
+    "id": "Belly of the Beast",
+    "ko": "짐승의 소굴",
+    "baseItem": "Explorer Armour"
+  },
+  {
+    "id": "Berek's Grip",
+    "ko": "베렉의 손아귀",
+    "baseItem": "Two-Stone Ring"
+  },
+  {
+    "id": "Berek's Pass",
+    "ko": "베렉의 길",
+    "baseItem": "Two-Stone Ring"
+  },
+  {
+    "id": "Berek's Respite",
+    "ko": "베렉의 유예",
+    "baseItem": "Two-Stone Ring"
+  },
+  {
+    "id": "Beyond Reach",
+    "ko": "요원한 저 너머",
+    "baseItem": "Visceral Quiver"
+  },
+  {
+    "id": "Bijouborne",
+    "ko": "보석박이",
+    "baseItem": "Double Belt"
+  },
+  {
+    "id": "Birth of Fury",
+    "ko": "광분의 탄생",
+    "baseItem": "Stone Greaves"
+  },
+  {
+    "id": "Birthright Buckle",
+    "ko": "생득권 버클",
+    "baseItem": "Wide Belt"
+  },
+  {
+    "id": "Bitterbloom",
+    "ko": "독살꽃",
+    "baseItem": "Feathered Robe"
+  },
+  {
+    "id": "Black Sun Crest",
+    "ko": "검은 태양 문양",
+    "baseItem": "Wrapped Greathelm"
+  },
+  {
+    "id": "Blackbraid",
+    "ko": "검은끈",
+    "baseItem": "Fur Plate"
+  },
+  {
+    "id": "Blackflame",
+    "ko": "검은화염",
+    "baseItem": "Amethyst Ring"
+  },
+  {
+    "id": "Blackgleam",
+    "ko": "검은 섬광",
+    "baseItem": "Fire Quiver"
+  },
+  {
+    "id": "Blackheart",
+    "ko": "검은 심장",
+    "baseItem": "Iron Ring"
+  },
+  {
+    "id": "Blessed Bonds",
+    "ko": "축복받은 유대",
+    "baseItem": "Linen Wraps"
+  },
+  {
+    "id": "Blistering Bond",
+    "ko": "물집을 잡는 결속",
+    "baseItem": "Ruby Ring"
+  },
+  {
+    "id": "Blood Price",
+    "ko": "피의 대가",
+    "baseItem": "Fierce Greathelm"
+  },
+  {
+    "id": "Blood of the Warrior",
+    "ko": "전사의 피",
+    "baseItem": "Gargantuan Life Flask"
+  },
+  {
+    "id": "Bloodbarrier",
+    "ko": "혈장벽",
+    "baseItem": "Iron Buckler"
+  },
+  {
+    "id": "Blueflame Bracers",
+    "ko": "푸른불길 팔보호구",
+    "baseItem": "Goldcast Cuffs"
+  },
+  {
+    "id": "Bluetongue",
+    "ko": "푸른혀",
+    "baseItem": "Shortsword"
+  },
+  {
+    "id": "Bones of Ullr",
+    "ko": "울러의 뼈",
+    "baseItem": "Lattice Sandals"
+  },
+  {
+    "id": "Brain Rattler",
+    "ko": "요동치는 두뇌",
+    "baseItem": "Studded Greatclub"
+  },
+  {
+    "id": "Bramblejack",
+    "ko": "가시나무 갑옷",
+    "baseItem": "Rusted Cuirass"
+  },
+  {
+    "id": "Breath of the Mountains",
+    "ko": "산맥의 숨결",
+    "baseItem": "Sapphire Charm"
+  },
+  {
+    "id": "Briarpatch",
+    "ko": "가시밭",
+    "baseItem": "Laced Boots"
+  },
+  {
+    "id": "Briskwrap",
+    "ko": "활력의 겉옷",
+    "baseItem": "Rhoahide Coat"
+  },
+  {
+    "id": "Bristleboar",
+    "ko": "가시털멧돼지",
+    "baseItem": "Leather Vest"
+  },
+  {
+    "id": "Bronzebeard",
+    "ko": "황동의 턱수염",
+    "baseItem": "Horned Crown"
+  },
+  {
+    "id": "Brutus' Lead Sprinkler",
+    "ko": "브루투스의 리드 스프링클러",
+    "baseItem": "Morning Star"
+  },
+  {
+    "id": "Brynhand's Mark",
+    "ko": "브린핸드의 징표",
+    "baseItem": "Wooden Club"
+  },
+  {
+    "id": "Bursting Decay",
+    "ko": "터져 나오는 부패",
+    "baseItem": "Unset Ring"
+  },
+  {
+    "id": "Bushwhack",
+    "ko": "덤불 매복",
+    "baseItem": "Lizardscale Boots"
+  },
+  {
+    "id": "Byrnabas",
+    "ko": "비르나바스",
+    "baseItem": "Wide Belt"
+  },
+  {
+    "id": "Cadiro's Gambit",
+    "ko": "카디로의 책략",
+    "baseItem": "Primed Quiver"
+  },
+  {
+    "id": "Calgyra's Arc",
+    "ko": "칼기라의 원호",
+    "baseItem": "Ornate Buckler"
+  },
+  {
+    "id": "Call of the Brotherhood",
+    "ko": "형제의 부름",
+    "baseItem": "Topaz Ring"
+  },
+  {
+    "id": "Candlemaker",
+    "ko": "양초 제작자",
+    "baseItem": "Sombre Gloves"
+  },
+  {
+    "id": "Carnage Heart",
+    "ko": "학살 심장",
+    "baseItem": "Amber Amulet"
+  },
+  {
+    "id": "Carrion Call",
+    "ko": "부패하는 부름",
+    "baseItem": "Engraved Focus"
+  },
+  {
+    "id": "Cat O' Nine Tails",
+    "ko": "아홉 꼬리 고양이",
+    "baseItem": "Utility Belt"
+  },
+  {
+    "id": "Chainsting",
+    "ko": "사슬침",
+    "baseItem": "Hunting Spear"
+  },
+  {
+    "id": "Chernobog's Pillar",
+    "ko": "체르노보그의 기둥",
+    "baseItem": "Blacksteel Tower Shield"
+  },
+  {
+    "id": "Chober Chaber",
+    "ko": "초버 차버",
+    "baseItem": "Leaden Greathammer"
+  },
+  {
+    "id": "Choir of the Storm",
+    "ko": "태풍의 합창",
+    "baseItem": "Jade Amulet"
+  },
+  {
+    "id": "Clear Skies",
+    "ko": "맑은 하늘",
+    "baseItem": "Delirium Tablet"
+  },
+  {
+    "id": "Cloak of Defiance",
+    "ko": "저항의 망토",
+    "baseItem": "Havoc Raiment"
+  },
+  {
+    "id": "Cloak of Flame",
+    "ko": "화염의 망토",
+    "baseItem": "Silk Robe"
+  },
+  {
+    "id": "Coat of Red",
+    "ko": "붉은색의 외투",
+    "baseItem": "Chain Mail"
+  },
+  {
+    "id": "Collapsing Horizon",
+    "ko": "무너지는 지평선",
+    "baseItem": "Wyrm Quarterstaff"
+  },
+  {
+    "id": "Constricting Command",
+    "ko": "목 죄이는 명령",
+    "baseItem": "Viper Cap"
+  },
+  {
+    "id": "Controlled Metamorphosis",
+    "ko": "제어된 변형",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "Cornathaum",
+    "ko": "코르나타움",
+    "baseItem": "Heavy Crown"
+  },
+  {
+    "id": "Corona of the Red Sun",
+    "ko": "붉은 태양의 광환",
+    "baseItem": "Warrior Greathelm"
+  },
+  {
+    "id": "Corpsewade",
+    "ko": "시신걸음",
+    "baseItem": "Iron Greaves"
+  },
+  {
+    "id": "Cospri's Will",
+    "ko": "코스프리의 의지",
+    "baseItem": "Assassin Garb"
+  },
+  {
+    "id": "Couture of Crimson",
+    "ko": "진홍의 예복",
+    "baseItem": "Gilded Vestments"
+  },
+  {
+    "id": "Coward's Legacy",
+    "ko": "겁쟁이의 유물",
+    "baseItem": "Mail Belt"
+  },
+  {
+    "id": "Cracklecreep",
+    "ko": "살금박살",
+    "baseItem": "Ruby Ring"
+  },
+  {
+    "id": "Crest of Ardura",
+    "ko": "아르듀라의 문양",
+    "baseItem": "Jingling Crest Shield"
+  },
+  {
+    "id": "Crown of Eyes",
+    "ko": "눈알 왕관",
+    "baseItem": "Vermeil Circlet"
+  },
+  {
+    "id": "Crown of Thorns",
+    "ko": "가시 왕관",
+    "baseItem": "Twig Circlet"
+  },
+  {
+    "id": "Crown of the Pale King",
+    "ko": "창백한 왕의 왕관",
+    "baseItem": "Cultist Crown"
+  },
+  {
+    "id": "Crown of the Victor",
+    "ko": "승리자의 왕관",
+    "baseItem": "Iron Crown"
+  },
+  {
+    "id": "Cruel Hegemony",
+    "ko": "잔혹한 헤게모니",
+    "baseItem": "Overseer Tablet"
+  },
+  {
+    "id": "Cursecarver",
+    "ko": "저주난자",
+    "baseItem": "Acrid Wand"
+  },
+  {
+    "id": "Daevata's Wind",
+    "ko": "다이바타의 바람",
+    "baseItem": "War Spear"
+  },
+  {
+    "id": "Darkness Enthroned",
+    "ko": "어둠에 대한 경외",
+    "baseItem": "Fine Belt"
+  },
+  {
+    "id": "Darkray Vectors",
+    "ko": "어두운 빛의 궤적",
+    "baseItem": "Braced Sabatons"
+  },
+  {
+    "id": "Death Articulated",
+    "ko": "또렷하게 들려오는 죽음",
+    "baseItem": "Ornate Gauntlets"
+  },
+  {
+    "id": "Death Rush",
+    "ko": "죽음의 재촉",
+    "baseItem": "Emerald Ring"
+  },
+  {
+    "id": "Death's Harp",
+    "ko": "죽음의 하프",
+    "baseItem": "Dualstring Bow"
+  },
+  {
+    "id": "Deathblow",
+    "ko": "죽음의 일격",
+    "baseItem": "Doubled Gauntlets"
+  },
+  {
+    "id": "Deathrattle",
+    "ko": "단말마의 숨소리",
+    "baseItem": "Twig Focus"
+  },
+  {
+    "id": "Decree of Acuity",
+    "ko": "예민함의 법령",
+    "baseItem": "Ancient Visor"
+  },
+  {
+    "id": "Decree of Flight",
+    "ko": "비행의 법령",
+    "baseItem": "Ancient Leggings"
+  },
+  {
+    "id": "Decree of Loyalty",
+    "ko": "충성의 법령",
+    "baseItem": "Ancient Mail"
+  },
+  {
+    "id": "Defiance of Destiny",
+    "ko": "운명의 저항",
+    "baseItem": "Jade Amulet"
+  },
+  {
+    "id": "Deidbell",
+    "ko": "죽음의 종",
+    "baseItem": "Elite Greathelm"
+  },
+  {
+    "id": "Demigod's Virtue",
+    "ko": "반신의 미덕",
+    "baseItem": "Golden Visage"
+  },
+  {
+    "id": "Demon Stitcher",
+    "ko": "악마 봉합자",
+    "baseItem": "Intricate Gloves"
+  },
+  {
+    "id": "Dionadair",
+    "ko": "다이오나데어",
+    "baseItem": "Splintered Tower Shield"
+  },
+  {
+    "id": "Doedre's Damning",
+    "ko": "도이드리의 파멸",
+    "baseItem": "Lazuli Ring"
+  },
+  {
+    "id": "Doedre's Tenure",
+    "ko": "도이드리의 임기",
+    "baseItem": "Stitched Gloves"
+  },
+  {
+    "id": "Doomfletch",
+    "ko": "죽음의 깃",
+    "baseItem": "Composite Bow"
+  },
+  {
+    "id": "Doomgate",
+    "ko": "멸망문",
+    "baseItem": "Braced Tower Shield"
+  },
+  {
+    "id": "Doryani's Prototype",
+    "ko": "도리아니의 프로토타입",
+    "baseItem": "Scale Mail"
+  },
+  {
+    "id": "Double Vision",
+    "ko": "이중 시각",
+    "baseItem": "Dyad Crossbow"
+  },
+  {
+    "id": "Dreadfist",
+    "ko": "공포주먹",
+    "baseItem": "Bolstered Mitts"
+  },
+  {
+    "id": "Dream Fragments",
+    "ko": "꿈의 조각",
+    "baseItem": "Sapphire Ring"
+  },
+  {
+    "id": "Drillneck",
+    "ko": "치명적 송곳",
+    "baseItem": "Penetrating Quiver"
+  },
+  {
+    "id": "Duality",
+    "ko": "이중성",
+    "baseItem": "Warding Quarterstaff"
+  },
+  {
+    "id": "Dunkelhalt",
+    "ko": "둥켈할트",
+    "baseItem": "Leather Buckler"
+  },
+  {
+    "id": "Dusk Vigil",
+    "ko": "황혼의 불침번",
+    "baseItem": "Ashen Staff"
+  },
+  {
+    "id": "Dustbloom",
+    "ko": "황혼꽃",
+    "baseItem": "Studded Vest"
+  },
+  {
+    "id": "Earthbound",
+    "ko": "대지결속",
+    "baseItem": "Voltaic Staff"
+  },
+  {
+    "id": "Edyrn's Tusks",
+    "ko": "에디른의 엄니",
+    "baseItem": "Iron Cuirass"
+  },
+  {
+    "id": "Effigy of Cruelty",
+    "ko": "잔혹성의 인형",
+    "baseItem": "Antler Focus"
+  },
+  {
+    "id": "Elevore",
+    "ko": "원소포식",
+    "baseItem": "Hunter Hood"
+  },
+  {
+    "id": "Empire's Grasp",
+    "ko": "제국의 손아귀",
+    "baseItem": "Titan Mitts"
+  },
+  {
+    "id": "Enezun's Charge",
+    "ko": "에네준의 돌진",
+    "baseItem": "Volatile Wand"
+  },
+  {
+    "id": "Enfolding Dawn",
+    "ko": "감싸 안는 여명",
+    "baseItem": "Pilgrim Vestments"
+  },
+  {
+    "id": "Erian's Cobble",
+    "ko": "에리안의 수선",
+    "baseItem": "Guarded Helm"
+  },
+  {
+    "id": "Eshtera's Path",
+    "ko": "에슈테라의 길",
+    "baseItem": "Ring"
+  },
+  {
+    "id": "Essentia Sanguis",
+    "ko": "피의 정수",
+    "baseItem": "Furtive Wraps"
+  },
+  {
+    "id": "Eventide Petals",
+    "ko": "해거름 꽃잎",
+    "baseItem": "Veridical Chain"
+  },
+  {
+    "id": "Evergrasping Ring",
+    "ko": "거머쥐는 손아귀의 반지",
+    "baseItem": "Pearl Ring"
+  },
+  {
+    "id": "Eye of Chayula",
+    "ko": "차율라의 눈",
+    "baseItem": "Gold Amulet"
+  },
+  {
+    "id": "Eyes of the Runefather",
+    "ko": "룬 아버지의 눈",
+    "baseItem": "Venerable Defender"
+  },
+  {
+    "id": "Ezomyte Peak",
+    "ko": "에조미어의 면갑",
+    "baseItem": "Soldier Greathelm"
+  },
+  {
+    "id": "Facebreaker",
+    "ko": "페이스브레이커",
+    "baseItem": "Stocky Mitts"
+  },
+  {
+    "id": "Fairgraves' Curse",
+    "ko": "페어그레이브즈의 저주",
+    "baseItem": "Artillery Bow"
+  },
+  {
+    "id": "Feathered Fortress",
+    "ko": "깃털 달린 요새",
+    "baseItem": "Crescent Targe"
+  },
+  {
+    "id": "Fireflower",
+    "ko": "화염꽃",
+    "baseItem": "Solar Amulet"
+  },
+  {
+    "id": "Fixation of Yix",
+    "ko": "익스의 집착",
+    "baseItem": "Stellar Amulet"
+  },
+  {
+    "id": "Flesh Crucible",
+    "ko": "살점 도가니",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "Font of Power",
+    "ko": "힘의 샘",
+    "baseItem": "Omen Sceptre"
+  },
+  {
+    "id": "For Utopia",
+    "ko": "유토피아를 위해",
+    "baseItem": "Stone Charm"
+  },
+  {
+    "id": "Forbidden Gaze",
+    "ko": "금단의 응시",
+    "baseItem": "Chain Tiara"
+  },
+  {
+    "id": "Forgotten By Time",
+    "ko": "시간에 잊힌 존재",
+    "baseItem": "Expedition Tablet"
+  },
+  {
+    "id": "Forgotten Warden",
+    "ko": "잊혀진 간수",
+    "baseItem": "Primal Markings"
+  },
+  {
+    "id": "Forsaken Bangle",
+    "ko": "버림받은 팔찌",
+    "baseItem": "Amethyst Charm"
+  },
+  {
+    "id": "Foxshade",
+    "ko": "여우 그림자",
+    "baseItem": "Quilted Vest"
+  },
+  {
+    "id": "Freedom of Faith",
+    "ko": "신념의 자유",
+    "baseItem": "Ritual Tablet"
+  },
+  {
+    "id": "From Nothing",
+    "ko": "허무의 산물",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "Frostbreath",
+    "ko": "서리 숨결",
+    "baseItem": "Slim Mace"
+  },
+  {
+    "id": "Fury of the King",
+    "ko": "왕의 광분",
+    "baseItem": "Ashbark Talisman"
+  },
+  {
+    "id": "Gamblesprint",
+    "ko": "도박질주",
+    "baseItem": "Embossed Boots"
+  },
+  {
+    "id": "Geofri's Sanctuary",
+    "ko": "조프리의 성역",
+    "baseItem": "Revered Vestments"
+  },
+  {
+    "id": "Ghostmarch",
+    "ko": "유령의 행진",
+    "baseItem": "Threaded Shoes"
+  },
+  {
+    "id": "Ghostwrithe",
+    "ko": "유령의 몸서리",
+    "baseItem": "Tattered Robe"
+  },
+  {
+    "id": "Gifts from Above",
+    "ko": "하늘에서 내려준 선물",
+    "baseItem": "Prismatic Ring"
+  },
+  {
+    "id": "Glimpse of Chaos",
+    "ko": "혼돈의 섬광",
+    "baseItem": "Tribal Mask"
+  },
+  {
+    "id": "Gloamgown",
+    "ko": "석양법복",
+    "baseItem": "Elementalist Robe"
+  },
+  {
+    "id": "Gloomform",
+    "ko": "순흑체",
+    "baseItem": "Waxed Jacket"
+  },
+  {
+    "id": "Glowswarm",
+    "ko": "빛무리",
+    "baseItem": "Lazuli Ring"
+  },
+  {
+    "id": "Goldrim",
+    "ko": "금테",
+    "baseItem": "Felt Cap"
+  },
+  {
+    "id": "Goregirdle",
+    "ko": "선혈의 요대",
+    "baseItem": "Plate Belt"
+  },
+  {
+    "id": "Grand Spectrum",
+    "ko": "장대한 파장",
+    "baseItem": "Ruby"
+  },
+  {
+    "id": "Gravebind",
+    "ko": "무덤의 속박",
+    "baseItem": "Rope Cuffs"
+  },
+  {
+    "id": "Greed's Embrace",
+    "ko": "탐욕의 포옹",
+    "baseItem": "Vaal Cuirass"
+  },
+  {
+    "id": "Greymake",
+    "ko": "회색작품",
+    "baseItem": "Brimmed Helm"
+  },
+  {
+    "id": "Grip of Kulemak",
+    "ko": "쿨레막의 손아귀",
+    "baseItem": "Abyssal Signet"
+  },
+  {
+    "id": "Grip of Winter",
+    "ko": "겨울의 손아귀",
+    "baseItem": "Firm Bracers"
+  },
+  {
+    "id": "Guiding Palm",
+    "ko": "인도하는 손바닥",
+    "baseItem": "Shrine Sceptre"
+  },
+  {
+    "id": "Guiding Palm of the Eye",
+    "ko": "눈의 인도하는 손바닥",
+    "baseItem": "Shrine Sceptre"
+  },
+  {
+    "id": "Guiding Palm of the Heart",
+    "ko": "심장의 인도하는 손바닥",
+    "baseItem": "Shrine Sceptre"
+  },
+  {
+    "id": "Guiding Palm of the Mind",
+    "ko": "정신의 인도하는 손바닥",
+    "baseItem": "Shrine Sceptre"
+  },
+  {
+    "id": "Hand of Wisdom and Action",
+    "ko": "지혜와 행동의 손아귀",
+    "baseItem": "Spiral Wraps"
+  },
+  {
+    "id": "Hateforge",
+    "ko": "증오의 탄생",
+    "baseItem": "Moulded Mitts"
+  },
+  {
+    "id": "Headhunter",
+    "ko": "헤드헌터",
+    "baseItem": "Heavy Belt"
+  },
+  {
+    "id": "Heart of the Well",
+    "ko": "우물의 심장",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "Heartbound Loop",
+    "ko": "마음에 묶인 고리",
+    "baseItem": "Pearl Ring"
+  },
+  {
+    "id": "Heatshiver",
+    "ko": "열기와 오한",
+    "baseItem": "Velvet Cap"
+  },
+  {
+    "id": "Heroic Tragedy",
+    "ko": "영웅적인 비극",
+    "baseItem": "Timeless Jewel"
+  },
+  {
+    "id": "Hinekora's Sight",
+    "ko": "히네코라의 통찰력",
+    "baseItem": "Stellar Amulet"
+  },
+  {
+    "id": "Hoghunt",
+    "ko": "돼지사냥",
+    "baseItem": "Felled Greatclub"
+  },
+  {
+    "id": "Horns of Bynden",
+    "ko": "빈덴의 뿔",
+    "baseItem": "Rusted Greathelm"
+  },
+  {
+    "id": "Horror's Flight",
+    "ko": "경악의 비행",
+    "baseItem": "Engraved Bracers"
+  },
+  {
+    "id": "Hrimnor's Hymn",
+    "ko": "흐림노르의 찬가",
+    "baseItem": "Oak Greathammer"
+  },
+  {
+    "id": "Hyrri's Ire",
+    "ko": "하이리의 노여움",
+    "baseItem": "Armoured Vest"
+  },
+  {
+    "id": "Hysseg's Claw",
+    "ko": "히세그의 발톱",
+    "baseItem": "Familial Talisman"
+  },
+  {
+    "id": "Icefang Orbit",
+    "ko": "얼음송곳니의 위력",
+    "baseItem": "Iron Ring"
+  },
+  {
+    "id": "Icetomb",
+    "ko": "얼음 묘지",
+    "baseItem": "Mail Vestments"
+  },
+  {
+    "id": "Idle Hands",
+    "ko": "게으른 손",
+    "baseItem": "Sectioned Bracers"
+  },
+  {
+    "id": "Idol of Uldurn",
+    "ko": "울던의 우상",
+    "baseItem": "Crimson Amulet"
+  },
+  {
+    "id": "Igniferis",
+    "ko": "이그니페리스",
+    "baseItem": "Crimson Amulet"
+  },
+  {
+    "id": "Immaculate Adherence",
+    "ko": "완전무결한 준수",
+    "baseItem": "Solar Amulet"
+  },
+  {
+    "id": "Indigon",
+    "ko": "인디곤",
+    "baseItem": "Magus Tiara"
+  },
+  {
+    "id": "Infernoclasp",
+    "ko": "지옥불 죔쇠",
+    "baseItem": "Plate Belt"
+  },
+  {
+    "id": "Ingenuity",
+    "ko": "기발함",
+    "baseItem": "Utility Belt"
+  },
+  {
+    "id": "Innsmouth",
+    "ko": "인즈머스",
+    "baseItem": "Shabby Hood"
+  },
+  {
+    "id": "Ironbound",
+    "ko": "철결속",
+    "baseItem": "Warden Bow"
+  },
+  {
+    "id": "Irongrasp",
+    "ko": "철손아귀",
+    "baseItem": "Vagabond Armour"
+  },
+  {
+    "id": "Ironride",
+    "ko": "철의 질주",
+    "baseItem": "Visored Helm"
+  },
+  {
+    "id": "Jarngreipr",
+    "ko": "야릉그레이프",
+    "baseItem": "Ringmail Gauntlets"
+  },
+  {
+    "id": "Kalandra's Touch",
+    "ko": "칼란드라의 손길",
+    "baseItem": "Ring"
+  },
+  {
+    "id": "Kaltenhalt",
+    "ko": "붙잡은 냉기",
+    "baseItem": "Ridged Buckler"
+  },
+  {
+    "id": "Kaom's Heart",
+    "ko": "카옴의 심장",
+    "baseItem": "Conqueror Plate"
+  },
+  {
+    "id": "Keelhaul",
+    "ko": "용골쓸기",
+    "baseItem": "Linen Belt"
+  },
+  {
+    "id": "Keeper of the Arc",
+    "ko": "전호의 보관자",
+    "baseItem": "Spiritbone Crown"
+  },
+  {
+    "id": "Killjoy",
+    "ko": "깨진 흥",
+    "baseItem": "Linen Wraps"
+  },
+  {
+    "id": "Kingsguard",
+    "ko": "왕의 보호구",
+    "baseItem": "Full Plate"
+  },
+  {
+    "id": "Kitoko's Current",
+    "ko": "키토코의 흐름",
+    "baseItem": "Jewelled Gloves"
+  },
+  {
+    "id": "Lavianga's Spirits",
+    "ko": "라비앙가의 혼백",
+    "baseItem": "Gargantuan Mana Flask"
+  },
+  {
+    "id": "Leer Cast",
+    "ko": "음흉한 시선",
+    "baseItem": "Hooded Mask"
+  },
+  {
+    "id": "Legionstride",
+    "ko": "군단의 보조",
+    "baseItem": "Rough Greaves"
+  },
+  {
+    "id": "Leopold's Applause",
+    "ko": "레오폴드의 갈채",
+    "baseItem": "Embroidered Gloves"
+  },
+  {
+    "id": "Levinstone",
+    "ko": "전광석",
+    "baseItem": "Topaz Ring"
+  },
+  {
+    "id": "Lifesprig",
+    "ko": "생명의 가지",
+    "baseItem": "Attuned Wand"
+  },
+  {
+    "id": "Lightning Coil",
+    "ko": "번개 도선",
+    "baseItem": "Ancestral Mail"
+  },
+  {
+    "id": "Ligurium Talisman",
+    "ko": "리구리움 부적",
+    "baseItem": "Lapis Amulet"
+  },
+  {
+    "id": "Liminal Coil",
+    "ko": "경계 감개",
+    "baseItem": "Twisted Wand"
+  },
+  {
+    "id": "Lioneye's Glare",
+    "ko": "라이온아이의 섬광",
+    "baseItem": "Heavy Bow"
+  },
+  {
+    "id": "Lochtonial Caress",
+    "ko": "록토니얼의 손길",
+    "baseItem": "Tempered Mitts"
+  },
+  {
+    "id": "Loreweave",
+    "ko": "지식의 매듭",
+    "baseItem": "Ornate Ringmail"
+  },
+  {
+    "id": "Luminous Pace",
+    "ko": "빛나는 발걸음",
+    "baseItem": "Straw Sandals"
+  },
+  {
+    "id": "Lycosidae",
+    "ko": "늑대 거미",
+    "baseItem": "Rampart Tower Shield"
+  },
+  {
+    "id": "Mageblood",
+    "ko": "마법사의 피",
+    "baseItem": "Utility Belt"
+  },
+  {
+    "id": "Mahuxotl's Machination",
+    "ko": "마훅소틀의 계책",
+    "baseItem": "Omen Crest Shield"
+  },
+  {
+    "id": "Maligaro's Virtuosity",
+    "ko": "말리가로의 기교",
+    "baseItem": "Fine Bracers"
+  },
+  {
+    "id": "Marohi Erqi",
+    "ko": "마로히 에르키",
+    "baseItem": "Totemic Greatclub"
+  },
+  {
+    "id": "Mask of the Sanguimancer",
+    "ko": "혈액술사의 가면",
+    "baseItem": "Face Mask"
+  },
+  {
+    "id": "Mask of the Stitched Demon",
+    "ko": "꿰맨 악마의 가면",
+    "baseItem": "Feathered Tiara"
+  },
+  {
+    "id": "Mastered Domain",
+    "ko": "통달한 영토",
+    "baseItem": "Irradiated Tablet"
+  },
+  {
+    "id": "Matsya",
+    "ko": "마챠",
+    "baseItem": "Crescent Quarterstaff"
+  },
+  {
+    "id": "Megalomaniac",
+    "ko": "과대망상",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "Meginord's Girdle",
+    "ko": "메기노드의 허리띠",
+    "baseItem": "Rawhide Belt"
+  },
+  {
+    "id": "Melting Maelstrom",
+    "ko": "녹아내리는 소용돌이",
+    "baseItem": "Ultimate Mana Flask"
+  },
+  {
+    "id": "Merit of Service",
+    "ko": "근정훈장",
+    "baseItem": "Pelage Targe"
+  },
+  {
+    "id": "Midnight Braid",
+    "ko": "심야의 끈",
+    "baseItem": "Rawhide Belt"
+  },
+  {
+    "id": "Mind of the Council",
+    "ko": "의회의 정신",
+    "baseItem": "Death Mask"
+  },
+  {
+    "id": "Ming's Heart",
+    "ko": "밍의 심장",
+    "baseItem": "Amethyst Ring"
+  },
+  {
+    "id": "Mist Whisper",
+    "ko": "연무의 속삭임",
+    "baseItem": "Makeshift Crossbow"
+  },
+  {
+    "id": "Mjölner",
+    "ko": "묠니르",
+    "baseItem": "Torment Club"
+  },
+  {
+    "id": "Morior Invictus",
+    "ko": "모리오르 인빅투스",
+    "baseItem": "Grand Regalia"
+  },
+  {
+    "id": "Murkshaft",
+    "ko": "진창 수갱",
+    "baseItem": "Toxic Quiver"
+  },
+  {
+    "id": "Myris Uxor",
+    "ko": "미리스 욱소르",
+    "baseItem": "Covert Hood"
+  },
+  {
+    "id": "Nascent Hope",
+    "ko": "태동하는 희망",
+    "baseItem": "Thawing Charm"
+  },
+  {
+    "id": "Nazir's Judgement",
+    "ko": "나지르의 심판",
+    "baseItem": "Steelpoint Quarterstaff"
+  },
+  {
+    "id": "Nebuloch",
+    "ko": "네뷸록",
+    "baseItem": "Execratus Hammer"
+  },
+  {
+    "id": "Necromantle",
+    "ko": "강령외투",
+    "baseItem": "Bone Raiment"
+  },
+  {
+    "id": "Ngamahu's Chosen",
+    "ko": "나마후의 선택받은 자",
+    "baseItem": "Ruby Charm"
+  },
+  {
+    "id": "Nightfall",
+    "ko": "해질녘",
+    "baseItem": "Glacial Fortress"
+  },
+  {
+    "id": "Nightscale",
+    "ko": "밤비늘",
+    "baseItem": "Pauascale Gloves"
+  },
+  {
+    "id": "Nocturne",
+    "ko": "야상곡",
+    "baseItem": "Wooden Buckler"
+  },
+  {
+    "id": "Northpaw",
+    "ko": "북방발",
+    "baseItem": "Suede Bracers"
+  },
+  {
+    "id": "Oaksworn",
+    "ko": "참나무맹세",
+    "baseItem": "Sigil Crest Shield"
+  },
+  {
+    "id": "Obern's Bastion",
+    "ko": "오베른의 보루",
+    "baseItem": "Stacked Sabatons"
+  },
+  {
+    "id": "Olroth's Resolve",
+    "ko": "올로스의 결의",
+    "baseItem": "Ultimate Life Flask"
+  },
+  {
+    "id": "Olrovasara",
+    "ko": "올로바사라",
+    "baseItem": "Torment Club"
+  },
+  {
+    "id": "Opportunity",
+    "ko": "기회",
+    "baseItem": "Ultimate Life Flask"
+  },
+  {
+    "id": "Original Sin",
+    "ko": "원죄",
+    "baseItem": "Amethyst Ring"
+  },
+  {
+    "id": "Painter's Servant",
+    "ko": "화가의 종",
+    "baseItem": "Torn Gloves"
+  },
+  {
+    "id": "Palm of the Dreamer",
+    "ko": "몽상가의 손바닥",
+    "baseItem": "Shrine Sceptre"
+  },
+  {
+    "id": "Pariah's Embrace",
+    "ko": "부랑자의 포옹",
+    "baseItem": "Cloaked Mail"
+  },
+  {
+    "id": "Perandus Seal",
+    "ko": "페란두스 봉인",
+    "baseItem": "Gold Ring"
+  },
+  {
+    "id": "Perfidy",
+    "ko": "배반",
+    "baseItem": "Knight Armour"
+  },
+  {
+    "id": "Periphery",
+    "ko": "주변부",
+    "baseItem": "Heartwood Shortbow"
+  },
+  {
+    "id": "Pillar of the Caged God",
+    "ko": "갇힌 신의 기둥",
+    "baseItem": "Long Quarterstaff"
+  },
+  {
+    "id": "Plaguefinger",
+    "ko": "역병손가락",
+    "baseItem": "Gauze Wraps"
+  },
+  {
+    "id": "Polcirkeln",
+    "ko": "폴시르켈른",
+    "baseItem": "Sapphire Ring"
+  },
+  {
+    "id": "Powertread",
+    "ko": "위세의 발 보호대",
+    "baseItem": "Hunting Shoes"
+  },
+  {
+    "id": "Pragmatism",
+    "ko": "실용주의",
+    "baseItem": "Explorer Armour"
+  },
+  {
+    "id": "Prayers for Rain",
+    "ko": "기우 기도",
+    "baseItem": "Keth Raiment"
+  },
+  {
+    "id": "Prism Guardian",
+    "ko": "분광의 수호자",
+    "baseItem": "Intricate Crest Shield"
+  },
+  {
+    "id": "Prism of Belief",
+    "ko": "믿음의 분광기",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "Prized Pain",
+    "ko": "귀한 고통",
+    "baseItem": "Iron Ring"
+  },
+  {
+    "id": "Quatl's Molt",
+    "ko": "콰틀의 허물",
+    "baseItem": "Serpentscale Coat"
+  },
+  {
+    "id": "Quecholli",
+    "ko": "퀘촐리",
+    "baseItem": "Crumbling Maul"
+  },
+  {
+    "id": "Queen of the Forest",
+    "ko": "숲의 여왕",
+    "baseItem": "Smuggler Coat"
+  },
+  {
+    "id": "Quill Rain",
+    "ko": "화살 비",
+    "baseItem": "Shortbow"
+  },
+  {
+    "id": "Radiant Grief",
+    "ko": "찬란한 슬픔",
+    "baseItem": "Lace Hood"
+  },
+  {
+    "id": "Rampart Raptor",
+    "ko": "성벽 랩터",
+    "baseItem": "Tense Crossbow"
+  },
+  {
+    "id": "Rathpith Globe",
+    "ko": "래스피스 구체",
+    "baseItem": "Sacred Focus"
+  },
+  {
+    "id": "Rearguard",
+    "ko": "후위 경계",
+    "baseItem": "Blunt Quiver"
+  },
+  {
+    "id": "Redbeak",
+    "ko": "붉은 부리",
+    "baseItem": "Shortsword"
+  },
+  {
+    "id": "Redblade Banner",
+    "ko": "적검단 깃발",
+    "baseItem": "Heraldric Tower Shield"
+  },
+  {
+    "id": "Redemption",
+    "ko": "구원",
+    "baseItem": "Trarthan Cannon"
+  },
+  {
+    "id": "Redflare Conduit",
+    "ko": "붉은섬광 도관",
+    "baseItem": "Anchorite Garb"
+  },
+  {
+    "id": "Revered Resin",
+    "ko": "신성한 수지",
+    "baseItem": "Amber Amulet"
+  },
+  {
+    "id": "Reverie",
+    "ko": "몽상",
+    "baseItem": "Shaman Mantle"
+  },
+  {
+    "id": "Rise of the Phoenix",
+    "ko": "불사조의 비상",
+    "baseItem": "Omen Crest Shield"
+  },
+  {
+    "id": "Rite of Passage",
+    "ko": "통과의례",
+    "baseItem": "Golden Charm"
+  },
+  {
+    "id": "Rondel de Ezo",
+    "ko": "론델 데 에소",
+    "baseItem": "Plated Buckler"
+  },
+  {
+    "id": "Rondel of Fragility",
+    "ko": "허약의 론델",
+    "baseItem": "Lunar Amulet"
+  },
+  {
+    "id": "Runeseeker's Call",
+    "ko": "룬 탐구자의 소명",
+    "baseItem": "Runic Fork"
+  },
+  {
+    "id": "Ryslatha's Coil",
+    "ko": "리슬라사의 감개",
+    "baseItem": "Ornate Belt"
+  },
+  {
+    "id": "Sacred Flame",
+    "ko": "신성한 불꽃",
+    "baseItem": "Shrine Sceptre"
+  },
+  {
+    "id": "Sacrosanctum",
+    "ko": "천골성소",
+    "baseItem": "Corvus Mantle"
+  },
+  {
+    "id": "Sadist's Mercy",
+    "ko": "가학자의 자비",
+    "baseItem": "Flanged Mace"
+  },
+  {
+    "id": "Saffell's Frame",
+    "ko": "사펠의 골격",
+    "baseItem": "Emblem Crest Shield"
+  },
+  {
+    "id": "Safrin's Resolve",
+    "ko": "사프린의 결의",
+    "baseItem": "Ring"
+  },
+  {
+    "id": "Saitha's Spear",
+    "ko": "사이타의 창",
+    "baseItem": "Barbed Spear"
+  },
+  {
+    "id": "Sands of Silk",
+    "ko": "실크의 모래",
+    "baseItem": "Shrouded Vest"
+  },
+  {
+    "id": "Sandstorm Visage",
+    "ko": "모래 폭풍의 얼굴",
+    "baseItem": "Chain Tiara"
+  },
+  {
+    "id": "Sanguine Diviner",
+    "ko": "핏빛 예언자",
+    "baseItem": "Bone Wand"
+  },
+  {
+    "id": "Sanguis Heroum",
+    "ko": "상귀스 헤로움",
+    "baseItem": "Staunching Charm"
+  },
+  {
+    "id": "Scold's Bridle",
+    "ko": "꾸짖음의 굴레",
+    "baseItem": "Jade Tiara"
+  },
+  {
+    "id": "Sculpted Suffering",
+    "ko": "조각된 고통",
+    "baseItem": "Warpick"
+  },
+  {
+    "id": "Season of the Hunt",
+    "ko": "사냥철",
+    "baseItem": "Overseer Tablet"
+  },
+  {
+    "id": "Seed of Cataclysm",
+    "ko": "대재앙의 씨앗",
+    "baseItem": "Lazuli Ring"
+  },
+  {
+    "id": "Seeing Stars",
+    "ko": "눈앞의 별",
+    "baseItem": "Plated Mace"
+  },
+  {
+    "id": "Serle's Grit",
+    "ko": "세를의 근성",
+    "baseItem": "Kalguuran Forgehammer"
+  },
+  {
+    "id": "Serpent's Egg",
+    "ko": "독사의 알",
+    "baseItem": "Gold Amulet"
+  },
+  {
+    "id": "Serpent's Lesson",
+    "ko": "독사의 교훈",
+    "baseItem": "Tonal Focus"
+  },
+  {
+    "id": "Shackles of the Wretched",
+    "ko": "불운아의 족쇄",
+    "baseItem": "Aged Cuffs"
+  },
+  {
+    "id": "Shankgonne",
+    "ko": "정강이대",
+    "baseItem": "Covered Sabatons"
+  },
+  {
+    "id": "Shavronne's Satchel",
+    "ko": "샤브론의 가방",
+    "baseItem": "Fine Belt"
+  },
+  {
+    "id": "Shyaba",
+    "ko": "샤바",
+    "baseItem": "Temple Maul"
+  },
+  {
+    "id": "Sierran Inheritance",
+    "ko": "시에라의 유산",
+    "baseItem": "Marabout Garb"
+  },
+  {
+    "id": "Silks of Veneration",
+    "ko": "숭배의 비단",
+    "baseItem": "Enlightened Robe"
+  },
+  {
+    "id": "Silverthorne",
+    "ko": "은빛가시",
+    "baseItem": "Spiked Buckler"
+  },
+  {
+    "id": "Sine Aequo",
+    "ko": "시네 아이쿠오",
+    "baseItem": "Grand Manchettes"
+  },
+  {
+    "id": "Sire of Shards",
+    "ko": "파편의 영주",
+    "baseItem": "Chiming Staff"
+  },
+  {
+    "id": "Skin of the Loyal",
+    "ko": "충신의 가죽",
+    "baseItem": "Garment"
+  },
+  {
+    "id": "Skysliver",
+    "ko": "하늘의 편린",
+    "baseItem": "Winged Spear"
+  },
+  {
+    "id": "Slivertongue",
+    "ko": "슬리버텅",
+    "baseItem": "Zealot Bow"
+  },
+  {
+    "id": "Snakebite",
+    "ko": "뱀 이빨",
+    "baseItem": "Spined Bracers"
+  },
+  {
+    "id": "Snakepit",
+    "ko": "뱀 구덩이",
+    "baseItem": "Pearl Ring"
+  },
+  {
+    "id": "Solus Ipse",
+    "ko": "솔루스 입세",
+    "baseItem": "Grand Visage"
+  },
+  {
+    "id": "Soul Mantle",
+    "ko": "영혼의 외투",
+    "baseItem": "Sacrificial Mantle"
+  },
+  {
+    "id": "Soul Tether",
+    "ko": "영혼 올가미",
+    "baseItem": "Long Belt"
+  },
+  {
+    "id": "Spire of Ire",
+    "ko": "노여움의 첨탑",
+    "baseItem": "Helix Spear"
+  },
+  {
+    "id": "Spiteful Floret",
+    "ko": "악의에 찬 소화",
+    "baseItem": "Nettle Talisman"
+  },
+  {
+    "id": "Splinter of Lorrata",
+    "ko": "로라타의 파편",
+    "baseItem": "Hardwood Spear"
+  },
+  {
+    "id": "Splinterheart",
+    "ko": "파편심장",
+    "baseItem": "Recurve Bow"
+  },
+  {
+    "id": "Split Personality",
+    "ko": "이중 인격",
+    "baseItem": "Ruby"
+  },
+  {
+    "id": "Starkonja's Head",
+    "ko": "스타콘자의 머리",
+    "baseItem": "Leatherbound Hood"
+  },
+  {
+    "id": "Stone of Lazhwar",
+    "ko": "라즈워의 보석",
+    "baseItem": "Lapis Amulet"
+  },
+  {
+    "id": "Strugglescream",
+    "ko": "몸부림치는 비명",
+    "baseItem": "Stellar Amulet"
+  },
+  {
+    "id": "Sunsplinter",
+    "ko": "태양분열자",
+    "baseItem": "Array Buckler"
+  },
+  {
+    "id": "Surefooted Sigil",
+    "ko": "굳건한 부적",
+    "baseItem": "Jade Amulet"
+  },
+  {
+    "id": "Surge of the Tide",
+    "ko": "밀려드는 파도",
+    "baseItem": "Lumbering Talisman"
+  },
+  {
+    "id": "Svalinn",
+    "ko": "스발린",
+    "baseItem": "Crucible Tower Shield"
+  },
+  {
+    "id": "Sylvan's Effigy",
+    "ko": "숲의 제웅",
+    "baseItem": "Stoic Sceptre"
+  },
+  {
+    "id": "Tabula Rasa",
+    "ko": "타뷸라 라사",
+    "baseItem": "Garment"
+  },
+  {
+    "id": "Tangletongue",
+    "ko": "꼬인혀",
+    "baseItem": "Forked Spear"
+  },
+  {
+    "id": "Taryn's Shiver",
+    "ko": "타린의 오한",
+    "baseItem": "Gelid Staff"
+  },
+  {
+    "id": "Temporalis",
+    "ko": "템포랄리스",
+    "baseItem": "Silk Robe"
+  },
+  {
+    "id": "Tetzlapokal's Desire",
+    "ko": "테츨라포칼의 갈망",
+    "baseItem": "Votive Raiment"
+  },
+  {
+    "id": "The Adorned",
+    "ko": "치장한 자",
+    "baseItem": "Diamond"
+  },
+  {
+    "id": "The Anvil",
+    "ko": "모루",
+    "baseItem": "Bloodstone Amulet"
+  },
+  {
+    "id": "The Auspex",
+    "ko": "복점관",
+    "baseItem": "Exquisite Vest"
+  },
+  {
+    "id": "The Barrow Dweller",
+    "ko": "고분의 주민",
+    "baseItem": "Rogue Armour"
+  },
+  {
+    "id": "The Black Cat",
+    "ko": "검은 고양이",
+    "baseItem": "Grounding Charm"
+  },
+  {
+    "id": "The Black Doubt",
+    "ko": "검은 의혹",
+    "baseItem": "Hexer's Robe"
+  },
+  {
+    "id": "The Black Insignia",
+    "ko": "검은 휘장",
+    "baseItem": "Corsair Cap"
+  },
+  {
+    "id": "The Blood Thorn",
+    "ko": "피의 가시",
+    "baseItem": "Wrapped Quarterstaff"
+  },
+  {
+    "id": "The Brass Dome",
+    "ko": "황동 철갑",
+    "baseItem": "Champion Cuirass"
+  },
+  {
+    "id": "The Bringer of Rain",
+    "ko": "비의 인도자",
+    "baseItem": "Decorated Helm"
+  },
+  {
+    "id": "The Burden of Leadership",
+    "ko": "통솔의 짐",
+    "baseItem": "Tapestry Relic"
+  },
+  {
+    "id": "The Burden of Shadows",
+    "ko": "그림자의 짐",
+    "baseItem": "Chiming Staff"
+  },
+  {
+    "id": "The Burrower",
+    "ko": "굴착자",
+    "baseItem": "Topaz Ring"
+  },
+  {
+    "id": "The Changing Seasons",
+    "ko": "변화하는 계절",
+    "baseItem": "Seal Relic"
+  },
+  {
+    "id": "The Coming Calamity",
+    "ko": "다가오는 대재난",
+    "baseItem": "Heroic Armour"
+  },
+  {
+    "id": "The Covenant",
+    "ko": "계약",
+    "baseItem": "Altar Robe"
+  },
+  {
+    "id": "The Dancing Dervish",
+    "ko": "춤추는 수도승",
+    "baseItem": "Scimitar"
+  },
+  {
+    "id": "The Dancing Mirage",
+    "ko": "춤추는 신기루",
+    "baseItem": "Wayfarer Jacket"
+  },
+  {
+    "id": "The Dark Defiler",
+    "ko": "어둠의 모독자",
+    "baseItem": "Rattling Sceptre"
+  },
+  {
+    "id": "The Deepest Tower",
+    "ko": "가장 깊은 탑",
+    "baseItem": "Spiritbone Crown"
+  },
+  {
+    "id": "The Desperate Alliance",
+    "ko": "필사적인 동맹",
+    "baseItem": "Vase Relic"
+  },
+  {
+    "id": "The Devouring Diadem",
+    "ko": "걸신들린 왕관",
+    "baseItem": "Wicker Tiara"
+  },
+  {
+    "id": "The Empty Roar",
+    "ko": "공허한 포효",
+    "baseItem": "Cultist Greathammer"
+  },
+  {
+    "id": "The Eternal Spark",
+    "ko": "영원한 불꽃",
+    "baseItem": "Crystal Focus"
+  },
+  {
+    "id": "The Everlasting Gaze",
+    "ko": "영원한 응시",
+    "baseItem": "Azure Amulet"
+  },
+  {
+    "id": "The Fall of the Axe",
+    "ko": "도끼의 추락",
+    "baseItem": "Silver Charm"
+  },
+  {
+    "id": "The Fallen Formation",
+    "ko": "몰락자 진형",
+    "baseItem": "Lamellar Mail"
+  },
+  {
+    "id": "The Flesh Poppet",
+    "ko": "살점 귀염둥이",
+    "baseItem": "Vicious Talisman"
+  },
+  {
+    "id": "The Gnashing Sash",
+    "ko": "악무는 띠",
+    "baseItem": "Wide Belt"
+  },
+  {
+    "id": "The Grand Project",
+    "ko": "대공사",
+    "baseItem": "Irradiated Tablet"
+  },
+  {
+    "id": "The Hammer of Faith",
+    "ko": "신념의 망치",
+    "baseItem": "Giant Maul"
+  },
+  {
+    "id": "The Hollow Mask",
+    "ko": "텅 빈 가면",
+    "baseItem": "Hewn Mask"
+  },
+  {
+    "id": "The Infinite Pursuit",
+    "ko": "끝없는 추적",
+    "baseItem": "Bronze Greaves"
+  },
+  {
+    "id": "The Knight-errant",
+    "ko": "무사 수행 기사",
+    "baseItem": "Mail Sabatons"
+  },
+  {
+    "id": "The Last Flame",
+    "ko": "마지막 불길",
+    "baseItem": "Incense Relic"
+  },
+  {
+    "id": "The Last Lament",
+    "ko": "최후의 한탄",
+    "baseItem": "Desolate Crossbow"
+  },
+  {
+    "id": "The Lethal Draw",
+    "ko": "죽음을 부르는 무승부",
+    "baseItem": "Sacral Quiver"
+  },
+  {
+    "id": "The Master's Reach",
+    "ko": "대가의 깜냥",
+    "baseItem": "Tethering Bands"
+  },
+  {
+    "id": "The Mutable Star",
+    "ko": "변이하는 별",
+    "baseItem": "Cleric Vestments"
+  },
+  {
+    "id": "The Ordained",
+    "ko": "명을 받은 자",
+    "baseItem": "Grand Spear"
+  },
+  {
+    "id": "The Pandemonius",
+    "ko": "대혼란",
+    "baseItem": "Lapis Amulet"
+  },
+  {
+    "id": "The Peacemaker's Draught",
+    "ko": "평화주의자의 영약",
+    "baseItem": "Amphora Relic"
+  },
+  {
+    "id": "The Prisoner's Manacles",
+    "ko": "죄수의 수갑",
+    "baseItem": "Kalguuran Cuffs"
+  },
+  {
+    "id": "The Rat Cage",
+    "ko": "쥐덫",
+    "baseItem": "Scout's Vest"
+  },
+  {
+    "id": "The Raven's Flock",
+    "ko": "큰까마귀의 떼",
+    "baseItem": "Perching Staff"
+  },
+  {
+    "id": "The Remembered Tales",
+    "ko": "기억된 이야기들",
+    "baseItem": "Coffer Relic"
+  },
+  {
+    "id": "The Road Warrior",
+    "ko": "도로의 전사",
+    "baseItem": "Raider Plate"
+  },
+  {
+    "id": "The Searing Touch",
+    "ko": "이글거리는 손길",
+    "baseItem": "Pyrophyte Staff"
+  },
+  {
+    "id": "The Sentry",
+    "ko": "보초",
+    "baseItem": "Gothic Quarterstaff"
+  },
+  {
+    "id": "The Smiling Knight",
+    "ko": "미소 짓는 기사",
+    "baseItem": "Cowled Helm"
+  },
+  {
+    "id": "The Sunken Vessel",
+    "ko": "가라앉은 함선",
+    "baseItem": "Knight Armour"
+  },
+  {
+    "id": "The Surrender",
+    "ko": "포기",
+    "baseItem": "Vaal Tower Shield"
+  },
+  {
+    "id": "The Taming",
+    "ko": "조련",
+    "baseItem": "Prismatic Ring"
+  },
+  {
+    "id": "The Three Dragons",
+    "ko": "세 마리의 용",
+    "baseItem": "Solid Mask"
+  },
+  {
+    "id": "The Unborn Lich",
+    "ko": "태어나지 않은 리치",
+    "baseItem": "Ravenous Staff"
+  },
+  {
+    "id": "The Unleashed",
+    "ko": "해방된 자",
+    "baseItem": "Revered Vestments"
+  },
+  {
+    "id": "The Vertex",
+    "ko": "최정점",
+    "baseItem": "Tribal Mask"
+  },
+  {
+    "id": "The Vile Knight",
+    "ko": "끔찍한 기사",
+    "baseItem": "Shielded Helm"
+  },
+  {
+    "id": "The Wailing Wall",
+    "ko": "울부짖는 벽",
+    "baseItem": "Effigial Tower Shield"
+  },
+  {
+    "id": "The Whispering Ice",
+    "ko": "속삭이는 얼음",
+    "baseItem": "Permafrost Staff"
+  },
+  {
+    "id": "The Wicked Quill",
+    "ko": "부도덕한 깃펜",
+    "baseItem": "Withered Wand"
+  },
+  {
+    "id": "Thief's Torment",
+    "ko": "도둑의 고통",
+    "baseItem": "Emerald Ring"
+  },
+  {
+    "id": "Threaded Light",
+    "ko": "실오라기 같은 빛",
+    "baseItem": "Woven Focus"
+  },
+  {
+    "id": "Thrillsteel",
+    "ko": "전율강철",
+    "baseItem": "Spired Greathelm"
+  },
+  {
+    "id": "Thunderfist",
+    "ko": "천둥 주먹",
+    "baseItem": "Utility Wraps"
+  },
+  {
+    "id": "Thunderstep",
+    "ko": "우레걸음",
+    "baseItem": "Steeltoe Boots"
+  },
+  {
+    "id": "Tidebreaker",
+    "ko": "물결 분쇄기",
+    "baseItem": "Pointed Maul"
+  },
+  {
+    "id": "Titanrot Cataphract",
+    "ko": "거신부패 비늘 갑옷",
+    "baseItem": "Maraketh Cuirass"
+  },
+  {
+    "id": "Trampletoe",
+    "ko": "짓발가락",
+    "baseItem": "Trimmed Greaves"
+  },
+  {
+    "id": "Treefingers",
+    "ko": "나무손가락",
+    "baseItem": "Riveted Mitts"
+  },
+  {
+    "id": "Trenchtimbre",
+    "ko": "참호목",
+    "baseItem": "Spiked Club"
+  },
+  {
+    "id": "Trephina",
+    "ko": "트레피나",
+    "baseItem": "Forge Maul"
+  },
+  {
+    "id": "Twisted Empyrean",
+    "ko": "뒤틀린 천공인",
+    "baseItem": "Aberrant Sledge"
+  },
+  {
+    "id": "Tyranny's Grip",
+    "ko": "폭정의 손아귀",
+    "baseItem": "Ironhead Spear"
+  },
+  {
+    "id": "Uhtred's Chalice",
+    "ko": "우트레드의 성배",
+    "baseItem": "Transcendent Mana Flask"
+  },
+  {
+    "id": "Umbilicus Immortalis",
+    "ko": "불멸의 탯줄",
+    "baseItem": "Linen Belt"
+  },
+  {
+    "id": "Undying Hate",
+    "ko": "죽지 않는 증오",
+    "baseItem": "Timeless Jewel"
+  },
+  {
+    "id": "Unforeseen Consequences",
+    "ko": "예기치 못한 결과",
+    "baseItem": "Abyss Tablet"
+  },
+  {
+    "id": "Ungil's Harmony",
+    "ko": "웅힐의 조화",
+    "baseItem": "Azure Amulet"
+  },
+  {
+    "id": "Valako's Roar",
+    "ko": "발라코의 포효",
+    "baseItem": "Topaz Charm"
+  },
+  {
+    "id": "Valako's Vice",
+    "ko": "발라코의 악덕",
+    "baseItem": "Plate Gauntlets"
+  },
+  {
+    "id": "Veil of the Night",
+    "ko": "밤의 장막",
+    "baseItem": "Martyr Crown"
+  },
+  {
+    "id": "Veilpiercer",
+    "ko": "장막송곳",
+    "baseItem": "Amethyst Ring"
+  },
+  {
+    "id": "Venopuncture",
+    "ko": "혈관 관통",
+    "baseItem": "Iron Ring"
+  },
+  {
+    "id": "Ventor's Gamble",
+    "ko": "벤토의 도박",
+    "baseItem": "Gold Ring"
+  },
+  {
+    "id": "Vestige of Darkness",
+    "ko": "어둠의 자취",
+    "baseItem": "Tenebrous Crown"
+  },
+  {
+    "id": "Vigilant View",
+    "ko": "경계하는 시야",
+    "baseItem": "Emerald Ring"
+  },
+  {
+    "id": "Vis Mortis",
+    "ko": "비스 모티스",
+    "baseItem": "Plated Raiment"
+  },
+  {
+    "id": "Visage of Ayah",
+    "ko": "아야의 얼굴",
+    "baseItem": "Beaded Circlet"
+  },
+  {
+    "id": "Visions of Paradise",
+    "ko": "낙원의 환영",
+    "baseItem": "Irradiated Tablet"
+  },
+  {
+    "id": "Voices",
+    "ko": "목소리",
+    "baseItem": "Sapphire"
+  },
+  {
+    "id": "Voll's Protector",
+    "ko": "볼의 보호자",
+    "baseItem": "Plated Vestments"
+  },
+  {
+    "id": "Voltaxic Rift",
+    "ko": "전도성 균열",
+    "baseItem": "Fanatic Bow"
+  },
+  {
+    "id": "Waistgate",
+    "ko": "허리문",
+    "baseItem": "Heavy Belt"
+  },
+  {
+    "id": "Wake of Destruction",
+    "ko": "파괴의 경야",
+    "baseItem": "Secured Leggings"
+  },
+  {
+    "id": "Wandering Reliquary",
+    "ko": "방랑하는 성유물 보관실",
+    "baseItem": "Steel Plate"
+  },
+  {
+    "id": "Wanderlust",
+    "ko": "방랑벽",
+    "baseItem": "Wrapped Sandals"
+  },
+  {
+    "id": "Waveshaper",
+    "ko": "파도형성자",
+    "baseItem": "Tideseer Mantle"
+  },
+  {
+    "id": "Whisper of the Brotherhood",
+    "ko": "형제의 속삭임",
+    "baseItem": "Sapphire Ring"
+  },
+  {
+    "id": "Widow's Reign",
+    "ko": "과부의 치세",
+    "baseItem": "Knight Armour"
+  },
+  {
+    "id": "Widowhail",
+    "ko": "과부우박",
+    "baseItem": "Crude Bow"
+  },
+  {
+    "id": "Window to Paradise",
+    "ko": "낙원으로 열린 창",
+    "baseItem": "Barricade Tower Shield"
+  },
+  {
+    "id": "Windscream",
+    "ko": "바람의 괴성",
+    "baseItem": "Feathered Sandals"
+  },
+  {
+    "id": "Wings of Caelyn",
+    "ko": "카일린의 날개",
+    "baseItem": "Rusted Greathelm"
+  },
+  {
+    "id": "Winter's Bite",
+    "ko": "겨울의 추위",
+    "baseItem": "Glass Shank"
+  },
+  {
+    "id": "Wondertrap",
+    "ko": "기적의 발판",
+    "baseItem": "Silk Slippers"
+  },
+  {
+    "id": "Wraeclast Besieged",
+    "ko": "포위당한 레이클라스트",
+    "baseItem": "Breach Tablet"
+  },
+  {
+    "id": "Wulfsbane",
+    "ko": "늑대의 천적",
+    "baseItem": "Painted Tower Shield"
+  },
+  {
+    "id": "Wylund's Stake",
+    "ko": "와일룬드의 말뚝",
+    "baseItem": "Smithing Hammer"
+  },
+  {
+    "id": "Xoph's Blood",
+    "ko": "조프의 피",
+    "baseItem": "Amber Amulet"
+  },
+  {
+    "id": "Yoke of Suffering",
+    "ko": "고통의 멍에",
+    "baseItem": "Bloodstone Amulet"
+  },
+  {
+    "id": "Yriel's Fostering",
+    "ko": "이리엘의 훈육",
+    "baseItem": "Strider Vest"
+  },
+  {
+    "id": "Zaida's Longevity",
+    "ko": "자이다의 장수",
+    "baseItem": "Ring"
+  },
+  {
+    "id": "Zerphi's Genesis",
+    "ko": "제르피의 시원",
+    "baseItem": "Heavy Belt"
+  },
+  {
+    "id": "Zerphi's Serape",
+    "ko": "제르피의 모포",
+    "baseItem": "Scalper's Jacket"
+  }
+]

@@ -136,10 +136,6 @@
     "ko": "카옴의 심장 모조품"
   },
   {
-    "id": "Fairgraves' Tricorne",
-    "ko": "페어그레이브즈의 삼각모"
-  },
-  {
     "id": "Heatshiver",
     "ko": "열기와 오한"
   },
@@ -300,10 +296,6 @@
     "ko": "티푸아 카이코후루"
   },
   {
-    "id": "Ambu's Charge",
-    "ko": "앰부의 돌진"
-  },
-  {
     "id": "Replica Ambu's Charge",
     "ko": "앰부의 돌진 모조품"
   },
@@ -418,10 +410,6 @@
   {
     "id": "Chin Sol",
     "ko": "친 솔"
-  },
-  {
-    "id": "Victario's Flight",
-    "ko": "빅타리오의 비상"
   },
   {
     "id": "Bramblejack",
@@ -618,10 +606,6 @@
   {
     "id": "Asenath's Gentle Touch",
     "ko": "아세나스의 부드러운 손길"
-  },
-  {
-    "id": "Kalisa's Grace",
-    "ko": "칼리사의 은총"
   },
   {
     "id": "Replica Kalisa's Grace",
@@ -860,10 +844,6 @@
     "ko": "장작"
   },
   {
-    "id": "Divination Distillate",
-    "ko": "예언의 정수"
-  },
-  {
     "id": "Queen of the Forest",
     "ko": "숲의 여왕"
   },
@@ -882,10 +862,6 @@
   {
     "id": "Replica Windripper",
     "ko": "윈드리퍼 모조품"
-  },
-  {
-    "id": "Death's Oath",
-    "ko": "죽음의 서약"
   },
   {
     "id": "Voidbringer",
@@ -1228,10 +1204,6 @@
     "ko": "묠니르"
   },
   {
-    "id": "Dying Breath",
-    "ko": "죽어가는 숨결"
-  },
-  {
     "id": "Snakebite",
     "ko": "뱀 이빨"
   },
@@ -1320,10 +1292,6 @@
     "ko": "반신의 하사품"
   },
   {
-    "id": " DO NOT USE",
-    "ko": " 사용 안 함"
-  },
-  {
     "id": "Asphyxia's Wrath",
     "ko": "질식의 진노"
   },
@@ -1372,10 +1340,6 @@
     "ko": "영혼의 일격 모조품"
   },
   {
-    "id": "Forbidden Taste",
-    "ko": "금단의 맛"
-  },
-  {
     "id": "Hegemony's Era",
     "ko": "패권의 시대"
   },
@@ -1410,10 +1374,6 @@
   {
     "id": "Mark of the Doubting Knight",
     "ko": "불안한 기사의 징표"
-  },
-  {
-    "id": "Rumi's Concoction",
-    "ko": "루미의 혼합물"
   },
   {
     "id": "Replica Rumi's Concoction",
@@ -1640,10 +1600,6 @@
     "ko": "브루투스의 리드 스프링클러"
   },
   {
-    "id": "Taste of Hate",
-    "ko": "증오의 맛"
-  },
-  {
     "id": "Greed's Embrace",
     "ko": "탐욕의 포옹"
   },
@@ -1728,10 +1684,6 @@
     "ko": "타들어 가는 어둠"
   },
   {
-    "id": "Shaper's Seed",
-    "ko": "쉐이퍼의 씨앗"
-  },
-  {
     "id": "Tremor Rod",
     "ko": "전율의 막대"
   },
@@ -1774,10 +1726,6 @@
   {
     "id": "Replica Restless Ward",
     "ko": "끊임없는 수호 모조품"
-  },
-  {
-    "id": "Lion's Roar",
-    "ko": "사자의 포효"
   },
   {
     "id": "Ornament of the East",
@@ -1826,14 +1774,6 @@
   {
     "id": "Eldritch Knowledge",
     "ko": "섬뜩한 지식"
-  },
-  {
-    "id": "Inspired Learning",
-    "ko": "탁월한 학습"
-  },
-  {
-    "id": "Martial Artistry",
-    "ko": "무도가의 기교"
   },
   {
     "id": "Lioneye's Fall",
@@ -1942,10 +1882,6 @@
   {
     "id": "Clear Mind",
     "ko": "맑은 정신"
-  },
-  {
-    "id": "Specialised",
-    "ko": "특별함"
   },
   {
     "id": "Miser of Misery",
@@ -2252,10 +2188,6 @@
     "ko": "부랑자"
   },
   {
-    "id": "Coruscating Elixir",
-    "ko": "빛나는 묘약"
-  },
-  {
     "id": "The Aylardex",
     "ko": "에일러덱스"
   },
@@ -2360,10 +2292,6 @@
     "ko": "성자의 대퇴골"
   },
   {
-    "id": "Cannot Die",
-    "ko": "사망 불가"
-  },
-  {
     "id": "Elemental Weapon",
     "ko": "원소 무기"
   },
@@ -2446,10 +2374,6 @@
   {
     "id": "Disjunction",
     "ko": "분열"
-  },
-  {
-    "id": "Singularity",
-    "ko": "중력 붕괴"
   },
   {
     "id": "Bitterdream",
@@ -2538,10 +2462,6 @@
   {
     "id": "WIP Stone Flask",
     "ko": "WIP 돌 플라스크"
-  },
-  {
-    "id": "Borrowed Power",
-    "ko": "융통된 힘"
   },
   {
     "id": "Umbilicus Immortalis",
@@ -2670,10 +2590,6 @@
   {
     "id": "The Beast Fur Shawl",
     "ko": "야수 모피 숄"
-  },
-  {
-    "id": "Zerphi's Last Breath",
-    "ko": "제르피의 마지막 숨결"
   },
   {
     "id": "The Overflowing Chalice",
@@ -2904,10 +2820,6 @@
     "ko": "의회의 장악 모조품"
   },
   {
-    "id": "Kiara's Determination",
-    "ko": "키아라의 결의"
-  },
-  {
     "id": "Tinkerskin",
     "ko": "톱니의 보호"
   },
@@ -3086,14 +2998,6 @@
   {
     "id": "The Warden's Brand",
     "ko": "간수의 낙인"
-  },
-  {
-    "id": "Witchfire Brew",
-    "ko": "불타는 마녀의 술"
-  },
-  {
-    "id": "Dying Sun",
-    "ko": "죽어가는 해"
   },
   {
     "id": "The Putrid Cloister",
@@ -3420,10 +3324,6 @@
     "ko": "끝없는 장악"
   },
   {
-    "id": "Inevitability",
-    "ko": "필연"
-  },
-  {
     "id": "Winter Burial",
     "ko": "한겨울의 장례식"
   },
@@ -3576,14 +3476,6 @@
     "ko": "퍼져나가는 생각"
   },
   {
-    "id": "The Flow Untethered",
-    "ko": "얽매이지 않은 흐름"
-  },
-  {
-    "id": "The Unshattered Will",
-    "ko": "불굴의 의지"
-  },
-  {
     "id": "First Piece of Focus",
     "ko": "집중의 첫 번째 조각"
   },
@@ -3598,10 +3490,6 @@
   {
     "id": "Fourth Piece of Focus",
     "ko": "집중의 네 번째 조각"
-  },
-  {
-    "id": "The Fracturing Spinner",
-    "ko": "분쇄형 회전기"
   },
   {
     "id": "The Tempest's Binding",
@@ -3638,10 +3526,6 @@
   {
     "id": "Replica Allelopathy",
     "ko": "생존 경쟁 모조품"
-  },
-  {
-    "id": "The Enmity Divine",
-    "ko": "증오의 신"
   },
   {
     "id": "First Piece of the Arcane",
@@ -3776,10 +3660,6 @@
     "ko": "시인의 펜"
   },
   {
-    "id": "Coralito's Signature",
-    "ko": "코랄리토의 서명"
-  },
-  {
     "id": "The Long Winter",
     "ko": "기나긴 겨울"
   },
@@ -3798,10 +3678,6 @@
   {
     "id": "Might of the Meek",
     "ko": "온유의 힘"
-  },
-  {
-    "id": "Sands of Shakari",
-    "ko": "샤카리의 모래"
   },
   {
     "id": "The Golden Rule",
@@ -4220,10 +4096,6 @@
     "ko": "조절된 정신"
   },
   {
-    "id": "Tempered Mind",
-    "ko": "조절된 마음"
-  },
-  {
     "id": "Transcendent Flesh",
     "ko": "초월한 육체"
   },
@@ -4234,14 +4106,6 @@
   {
     "id": "Transcendent Mind",
     "ko": "초월한 마음"
-  },
-  {
-    "id": "Soul Catcher",
-    "ko": "영혼 포획자"
-  },
-  {
-    "id": "Soul Ripper",
-    "ko": "영혼 거열기"
   },
   {
     "id": "String of Servitude",
@@ -4320,10 +4184,6 @@
     "ko": "영원한 사과"
   },
   {
-    "id": "Perquil's Toe",
-    "ko": "퍼퀼의 발가락"
-  },
-  {
     "id": "Demon Stitcher",
     "ko": "악마 봉합자"
   },
@@ -4342,10 +4202,6 @@
   {
     "id": "Hale Negator",
     "ko": "건장한 부정자"
-  },
-  {
-    "id": "Crown of the Tyrant",
-    "ko": "폭군의 왕관"
   },
   {
     "id": "Ahkeli's Mountain",
@@ -4386,10 +4242,6 @@
   {
     "id": "Precursor's Emblem",
     "ko": "선도자의 상징"
-  },
-  {
-    "id": "Aul's Uprising",
-    "ko": "아울의 반란"
   },
   {
     "id": "Chaber Cairn",
@@ -4472,10 +4324,6 @@
     "ko": "여왕의 갈망"
   },
   {
-    "id": "Cinderswallow Urn",
-    "ko": "잿더미 단지"
-  },
-  {
     "id": "The Devouring Diadem",
     "ko": "걸신들린 왕관"
   },
@@ -4502,10 +4350,6 @@
   {
     "id": "Offering to the Serpent",
     "ko": "독사에게 바치는 공물"
-  },
-  {
-    "id": "Garb of the Ephemeral",
-    "ko": "덧없는 자의 의복"
   },
   {
     "id": "Storm's Gift",
@@ -4804,10 +4648,6 @@
     "ko": "희망의 실타래"
   },
   {
-    "id": "Eye of Malice",
-    "ko": "적의의 눈"
-  },
-  {
     "id": "Terror",
     "ko": "공포"
   },
@@ -4956,28 +4796,8 @@
     "ko": "마녀 사냥꾼의 심판"
   },
   {
-    "id": "The Torrent's Reclamation",
-    "ko": "격류의 교화"
-  },
-  {
-    "id": "The Shattered Divinity",
-    "ko": "산산이 조각난 신성"
-  },
-  {
     "id": "The Tempest's Liberation",
     "ko": "폭풍의 해방"
-  },
-  {
-    "id": "The Surging Thoughts",
-    "ko": "쇄도하는 생각"
-  },
-  {
-    "id": "The Yielding Mortality",
-    "ko": "누그러진 필멸성"
-  },
-  {
-    "id": "The Immortal Will",
-    "ko": "불멸의 의지"
   },
   {
     "id": "The Felbog Fang",
@@ -5038,10 +4858,6 @@
   {
     "id": "The Highwayman",
     "ko": "노상강도"
-  },
-  {
-    "id": "Fated End",
-    "ko": "예견된 최후"
   },
   {
     "id": "The Hidden Blade",
@@ -5182,10 +4998,6 @@
   {
     "id": "Legacy of Fury",
     "ko": "광분의 유산"
-  },
-  {
-    "id": "Demigod's Authority",
-    "ko": "반신의 권위"
   },
   {
     "id": "The Walls",
@@ -5492,10 +5304,6 @@
     "ko": "고대의 낚시꾼"
   },
   {
-    "id": "Escalation",
-    "ko": "증대자"
-  },
-  {
     "id": "The Arbiter",
     "ko": "중재자"
   },
@@ -5618,10 +5426,6 @@
   {
     "id": "Doedre's Tongue",
     "ko": "도이드리의 혀"
-  },
-  {
-    "id": "Witchbane",
-    "ko": "마녀의 파멸"
   },
   {
     "id": "Echoforge",
@@ -6896,10 +6700,6 @@
     "ko": "벤토의 고안"
   },
   {
-    "id": "The Rain Festival Beetle",
-    "ko": "비의 축제 딱정벌레"
-  },
-  {
     "id": "Beira's Anguish",
     "ko": "베이라의 비통"
   },
@@ -7024,7 +6824,7 @@
     "ko": "관문파괴자"
   },
   {
-    "id": "[DNT] Tawhoa's Felling",
+    "id": "DNT Tawhoa's Felling",
     "ko": "타호아의 벌채"
   },
   {

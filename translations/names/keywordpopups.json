@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "Test",
+    "ko": "테스트"
+  },
+  {
+    "id": "Test custom content",
+    "ko": "커스텀 콘텐츠 테스트"
+  },
+  {
+    "id": "Ailments",
+    "ko": "상태 이상"
+  },
+  {
+    "id": "Attributes",
+    "ko": "능력치"
+  },
+  {
+    "id": "Chill",
+    "ko": "냉각"
+  },
+  {
+    "id": "Culling Strike",
+    "ko": "마무리 타격"
+  },
+  {
+    "id": "Decimating Strike",
+    "ko": "대량 학살 타격"
+  },
+  {
+    "id": "Damage Types",
+    "ko": "피해 유형"
+  },
+  {
+    "id": "Damaging Ailments",
+    "ko": "피해를 주는 상태 이상"
+  },
+  {
+    "id": "Elemental Ailments",
+    "ko": "원소 상태 이상"
+  },
+  {
+    "id": "Freeze",
+    "ko": "동결"
+  },
+  {
+    "id": "Hinder",
+    "ko": "이동 방해"
+  },
+  {
+    "id": "Flammability",
+    "ko": "인화성"
+  },
+  {
+    "id": "Ignoring Resistances",
+    "ko": "저항 무시"
+  },
+  {
+    "id": "Knockback",
+    "ko": "밀어내기"
+  },
+  {
+    "id": "Low Energy Shield",
+    "ko": "낮은 에너지 보호막"
+  },
+  {
+    "id": "Low Life",
+    "ko": "낮은 생명력"
+  },
+  {
+    "id": "Low Mana",
+    "ko": "낮은 마나"
+  },
+  {
+    "id": "Lucky",
+    "ko": "행운"
+  },
+  {
+    "id": "Maim",
+    "ko": "힘줄 절단"
+  },
+  {
+    "id": "Mana Leech",
+    "ko": "마나 흡수"
+  },
+  {
+    "id": "Rage Leech",
+    "ko": "격노 흡수"
+  },
+  {
+    "id": "Map Owner",
+    "ko": "지도 소유자"
+  },
+  {
+    "id": "Non-Damaging Ailments",
+    "ko": "비-피해 상태 이상"
+  },
+  {
+    "id": "Overkill",
+    "ko": "과잉살상"
+  },
+  {
+    "id": "Poison",
+    "ko": "중독"
+  },
+  {
+    "id": "Recently",
+    "ko": "최근"
+  },
+  {
+    "id": "Shock",
+    "ko": "감전"
+  },
+  {
+    "id": "Smoke Clouds",
+    "ko": "연막"
+  },
+  {
+    "id": "Player Stun Threshold",
+    "ko": "플레이어 기절 한계치"
+  },
+  {
+    "id": "Enemy Stun Threshold",
+    "ko": "적 기절 한계치"
+  },
+  {
+    "id": "Electrocute Threshold",
+    "ko": "전기 처형 한계치"
+  },
+  {
+    "id": "Unaffected",
+    "ko": "효과가 없는 디버프"
+  },
+  {
+    "id": "Uncapped Resistance",
+    "ko": "비제한 저항"
+  },
+  {
+    "id": "Overcapped Resistance",
+    "ko": "제한 초과 저항"
+  },
+  {
+    "id": "Unlucky",
+    "ko": "불운"
+  },
+  {
+    "id": "Stun",
+    "ko": "기절"
+  },
+  {
+    "id": "Light Stun",
+    "ko": "약한 기절"
+  },
+  {
+    "id": "Player Heavy Stun",
+    "ko": "플레이어 강력 기절"
+  },
+  {
+    "id": "Chain",
+    "ko": "연쇄"
+  },
+  {
+    "id": "Pierce",
+    "ko": "관통"
+  },
+  {
+    "id": "Fork",
+    "ko": "갈래"
+  },
+  {
+    "id": "Split",
+    "ko": "분할"
+  },
+  {
+    "id": "Deflect",
+    "ko": "튕겨내기"
+  },
+  {
+    "id": "Suppress",
+    "ko": "억제"
+  },
+  {
+    "id": "Chance to Block",
+    "ko": "막기 확률"
+  },
+  {
+    "id": "Overcapped Block Chance",
+    "ko": "제한 초과 막기 확률"
+  },
+  {
+    "id": "Resistances",
+    "ko": "저항"
+  },
+  {
+    "id": "Critical Hits",
+    "ko": "치명타 명중"
+  },
+  {
+    "id": "Critical Damage Bonus",
+    "ko": "치명타 피해 보너스"
+  },
+  {
+    "id": "Totems",
+    "ko": "토템"
+  },
+  {
+    "id": "Taunt",
+    "ko": "도발"
+  },
+  {
+    "id": "Empowered Skills",
+    "ko": "강화된 스킬"
+  },
+  {
+    "id": "Monster Power",
+    "ko": "몬스터 위세"
+  },
+  {
+    "id": "Armour",
+    "ko": "방어도"
+  },
+  {
+    "id": "Burning",
+    "ko": "화상"
+  },
+  {
+    "id": "Frozen",
+    "ko": "동결"
+  },
+  {
+    "id": "Energy Shield",
+    "ko": "에너지 보호막"
+  },
+  {
+    "id": "Primed for Electrocution",
+    "ko": "전기 처형 준비 완료"
+  },
+  {
+    "id": "Primed for Stun",
+    "ko": "기절 준비 완료"
+  },
+  {
+    "id": "Primed for Freeze",
+    "ko": "동결 준비 완료"
+  },
+  {
+    "id": "Rarity",
+    "ko": "희귀도"
+  },
+  {
+    "id": "Faster Start of Energy Shield Recharge",
+    "ko": "에너지 보호막 재충전 시작 속도 가속"
+  },
+  {
+    "id": "Hit Damage",
+    "ko": "명중 피해"
+  },
+  {
+    "id": "Attacks",
+    "ko": "공격"
+  },
+  {
+    "id": "Traps",
+    "ko": "덫"
+  },
+  {
+    "id": "Crushing Blows",
+    "ko": "타쇄하는 일격"
+  },
+  {
+    "id": "Quest Item",
+    "ko": "퀘스트 아이템"
+  },
+  {
+    "id": "Swords",
+    "ko": "검"
+  },
+  {
+    "id": "Maces",
+    "ko": "철퇴"
+  },
+  {
+    "id": "Sceptres",
+    "ko": "셉터"
+  },
+  {
+    "id": "Wands",
+    "ko": "마법봉"
+  },
+  {
+    "id": "Axes",
+    "ko": "도끼"
+  },
+  {
+    "id": "Bows",
+    "ko": "활"
+  },
+  {
+    "id": "Daggers",
+    "ko": "단검"
+  },
+  {
+    "id": "Staves",
+    "ko": "지팡이"
+  },
+  {
+    "id": "Claws",
+    "ko": "클로"
+  },
+  {
+    "id": "Talismans",
+    "ko": "부적"
+  },
+  {
+    "id": "Shields",
+    "ko": "방패"
+  },
+  {
+    "id": "Armoured Shields",
+    "ko": "방어도가 있는 방패"
+  },
+  {
+    "id": "Bucklers",
+    "ko": "버클러"
+  },
+  {
+    "id": "Foci",
+    "ko": "집중구"
+  },
+  {
+    "id": "Quarterstaves",
+    "ko": "육척봉"
+  },
+  {
+    "id": "Spears",
+    "ko": "창"
+  },
+  {
+    "id": "Crossbows",
+    "ko": "석궁"
+  },
+  {
+    "id": "Flails",
+    "ko": "도리깨"
+  },
+  {
+    "id": "Flasks",
+    "ko": "플라스크"
+  },
+  {
+    "id": "Utility Flasks",
+    "ko": "특수 플라스크"
+  },
+  {
+    "id": "Quivers",
+    "ko": "화살통"
+  },
+  {
+    "id": "Spirit",
+    "ko": "정신력"
+  },
+  {
+    "id": "One-Handed",
+    "ko": "한손"
+  },
+  {
+    "id": "Two-Handed",
+    "ko": "양손"
+  },
+  {
+    "id": "Allies",
+    "ko": "동료"
+  },
+  {
+    "id": "Dual Wielding",
+    "ko": "쌍수"
+  },
+  {
+    "id": "Minions",
+    "ko": "소환수"
+  },
+  {
+    "id": "Warcries",
+    "ko": "함성"
+  },
+  {
+    "id": "Elusive",
+    "ko": "도피"
+  },
+  {
+    "id": "Energy Shield Leech",
+    "ko": "에너지 보호막 흡수"
+  },
+  {
+    "id": "Unarmed",
+    "ko": "비무장"
+  },
+  {
+    "id": "Unarmed Attacks",
+    "ko": "비무장 공격"
+  },
+  {
+    "id": "Unarmed Damage",
+    "ko": "비무장 피해"
+  },
+  {
+    "id": "Orb Skills",
+    "ko": "보주 스킬"
+  },
+  {
+    "id": "Exposure",
+    "ko": "노출"
+  },
+  {
+    "id": "Ice Crystals",
+    "ko": "얼음 결정"
+  },
+  {
+    "id": "Ice Crystal Shattering",
+    "ko": "얼음 결정 산산조각"
+  },
+  {
+    "id": "Returning",
+    "ko": "돌아오는 투사체"
+  },
+  {
+    "id": "Phasing",
+    "ko": "차원 능력"
+  },
+  {
+    "id": "Charges",
+    "ko": "충전"
+  },
+  {
+    "id": "Elemental Damage Types",
+    "ko": "원소 피해 유형"
+  },
+  {
+    "id": "Wells",
+    "ko": "우물"
+  },
+  {
+    "id": "Presence",
+    "ko": "접근"
+  },
+  {
+    "id": "Light Radius",
+    "ko": "시야 반경"
+  },
+  {
+    "id": "Item Rarity",
+    "ko": "아이템 희귀도"
+  },
+  {
+    "id": "Shatter",
+    "ko": "산산조각"
+  },
+  {
+    "id": "Resistance Penetration",
+    "ko": "저항 관통"
+  },
+  {
+    "id": "Armour Break below 0",
+    "ko": "0 미만으로 방어구 파괴"
+  },
+  {
+    "id": "Channelling",
+    "ko": "집중 유지"
+  },
+  {
+    "id": "Remote Skills",
+    "ko": "원격 스킬"
+  },
+  {
+    "id": "Ancestral Boost",
+    "ko": "선대의 힘 증폭"
+  },
+  {
+    "id": "Ancestral Boosted Spells",
+    "ko": "선대의 힘으로 증폭된 주문"
+  },
+  {
+    "id": "Buffs",
+    "ko": "버프"
+  },
+  {
+    "id": "Debuffs",
+    "ko": "디버프"
+  },
+  {
+    "id": "Persistent Skills",
+    "ko": "유지형 스킬"
+  },
+  {
+    "id": "Effect Consumption",
+    "ko": "효과 소모"
+  },
+  {
+    "id": "Orb of Alteration",
+    "ko": "변화의 오브"
+  },
+  {
+    "id": "Artificer's Orb",
+    "ko": "숙련공의 오브"
+  },
+  {
+    "id": "Auras",
+    "ko": "오라"
+  },
+  {
+    "id": "Stormsurge",
+    "ko": "폭풍쇄도"
+  },
+  {
+    "id": "Reviving Minions",
+    "ko": "부활 소환수"
+  },
+  {
+    "id": "Quality",
+    "ko": "퀄리티"
+  },
+  {
+    "id": "Support Gems",
+    "ko": "보조 젬"
+  },
+  {
+    "id": "Area of Effect Skills",
+    "ko": "효과 범위 스킬"
+  },
+  {
+    "id": "Duration Skills",
+    "ko": "지속시간 스킬"
+  },
+  {
+    "id": "Detonator Skills",
+    "ko": "기폭 스킬"
+  },
+  {
+    "id": "Nova Skills",
+    "ko": "폭발 스킬"
+  },
+  {
+    "id": "Triggered Skills",
+    "ko": "발동형 스킬"
+  },
+  {
+    "id": "Herald Skills",
+    "ko": "전령 스킬"
+  },
+  {
+    "id": "Recoup",
+    "ko": "회생"
+  },
+  {
+    "id": "Elemental Ground Surfaces",
+    "ko": "원소 지대 효과"
+  },
+  {
+    "id": "Crossbow Ammunition Skills",
+    "ko": "석궁 탄약 스킬"
+  },
+  {
+    "id": "Monster Modifiers",
+    "ko": "몬스터 속성"
+  },
+  {
+    "id": "Hex Master",
+    "ko": "사술의 대가"
+  },
+  {
+    "id": "Scarred Faith",
+    "ko": "상처 입은 믿음"
+  },
+  {
+    "id": "Martial Weapons",
+    "ko": "무도 무기"
+  },
+  {
+    "id": "Sacrifice",
+    "ko": "희생"
+  },
+  {
+    "id": "Travel Skills",
+    "ko": "이동 전용 스킬"
+  },
+  {
+    "id": "Support Gem Requirements",
+    "ko": "보조 젬 요구사항"
+  },
+  {
+    "id": "Buff/Debuff Magnitude",
+    "ko": "버프/디버프 강도"
+  },
+  {
+    "id": "Buff/Debuff Effect",
+    "ko": "버프/디버프 효과"
+  },
+  {
+    "id": "Arcane Surge",
+    "ko": "비전 쇄도"
+  },
+  {
+    "id": "Invoke",
+    "ko": "기원"
+  },
+  {
+    "id": "Meta Gems",
+    "ko": "메타 젬"
+  },
+  {
+    "id": "Aggravated Bleeding",
+    "ko": "가중된 출혈"
+  },
+  {
+    "id": "Aggravated Ignite",
+    "ko": "가중된 점화"
+  },
+  {
+    "id": "Allies Leech the same amount",
+    "ko": "동료가 동일한 양 흡수"
+  },
+  {
+    "id": "Non-Stacking Effects",
+    "ko": "비-중첩 효과"
+  },
+  {
+    "id": "Life Recharge",
+    "ko": "생명력 재충전"
+  },
+  {
+    "id": "Energy Shield Recharge",
+    "ko": "에너지 보호막 재충전"
+  },
+  {
+    "id": "Energy Shield Protecting Mana",
+    "ko": "에너지 보호막이 마나 보호"
+  },
+  {
+    "id": "Checkpoints",
+    "ko": "체크포인트"
+  },
+  {
+    "id": "Checkpoints in Maps",
+    "ko": "지도상의 체크포인트"
+  },
+  {
+    "id": "Waypoints",
+    "ko": "거점"
+  },
+  {
+    "id": "Elemental Ailment Threshold",
+    "ko": "원소 상태 이상 한계치"
+  },
+  {
+    "id": "Maximum Resistances",
+    "ko": "저항 최대치"
+  },
+  {
+    "id": "Sustained Skills",
+    "ko": "지속형 스킬"
+  },
+  {
+    "id": "Daze",
+    "ko": "혼미"
+  },
+  {
+    "id": "Combo",
+    "ko": "연계"
+  },
+  {
+    "id": "Minion Death and Killing Minions",
+    "ko": "소환수 사망 및 처치"
+  },
+  {
+    "id": "Surrounded",
+    "ko": "포위"
+  },
+  {
+    "id": "Reservation",
+    "ko": "점유"
+  },
+  {
+    "id": "Low Infernal Flame",
+    "ko": "낮은 지옥불 화염"
+  },
+  {
+    "id": "Damage Conversion",
+    "ko": "피해 전환"
+  },
+  {
+    "id": "Damage Gained as extra X",
+    "ko": "추가 X로 획득한 피해"
+  },
+  {
+    "id": "Concentration",
+    "ko": "집중"
+  },
+  {
+    "id": "Flame of Chayula",
+    "ko": "차율라의 화염"
+  },
+  {
+    "id": "Ancient Blooms",
+    "ko": "고대 꽃"
+  },
+  {
+    "id": "Red Flames of Chayula",
+    "ko": "차율라의 붉은 화염"
+  },
+  {
+    "id": "Blue Flames of Chayula",
+    "ko": "차율라의 파란 화염"
+  },
+  {
+    "id": "Small Passives",
+    "ko": "소형 패시브"
+  },
+  {
+    "id": "Valour",
+    "ko": "기백"
+  },
+  {
+    "id": "Intimidate",
+    "ko": "위협"
+  },
+  {
+    "id": "Ballista Totems",
+    "ko": "쇠뇌 토템"
+  },
+  {
+    "id": "Soul Core",
+    "ko": "영혼 핵"
+  },
+  {
+    "id": "Abyssal Eye",
+    "ko": "심연의 눈"
+  },
+  {
+    "id": "Idol",
+    "ko": "우상"
+  },
+  {
+    "id": "Honour",
+    "ko": "명예"
+  },
+  {
+    "id": "Lightning Ailments",
+    "ko": "번개 상태 이상"
+  },
+  {
+    "id": "Added Skill Use Time",
+    "ko": "추가된 스킬 사용 시간"
+  },
+  {
+    "id": "Str",
+    "ko": "힘"
+  },
+  {
+    "id": "Dex",
+    "ko": "민첩"
+  },
+  {
+    "id": "Int",
+    "ko": "지능"
+  },
+  {
+    "id": "Str/Dex",
+    "ko": "힘/민첩"
+  },
+  {
+    "id": "Str/Int",
+    "ko": "힘/지능"
+  },
+  {
+    "id": "Dex/Int",
+    "ko": "민첩/지능"
+  },
+  {
+    "id": "Str/Dex/Int",
+    "ko": "힘/민첩/지능"
+  },
+  {
+    "id": "Two-Hander",
+    "ko": "양손"
+  },
+  {
+    "id": "Stat Totals",
+    "ko": "능력치 총계"
+  },
+  {
+    "id": "Adding to Stat Totals",
+    "ko": "능력치 총계에 추가"
+  },
+  {
+    "id": "Charms",
+    "ko": "호신부"
+  },
+  {
+    "id": "Stat Conversion",
+    "ko": "능력치 전환"
+  },
+  {
+    "id": "Life Loss",
+    "ko": "생명력 상실"
+  },
+  {
+    "id": "Gaining Stats from other Stats",
+    "ko": "다른 능력치로부터 얻는 능력치"
+  },
+  {
+    "id": "Overflow",
+    "ko": "넘침"
+  },
+  {
+    "id": "Minion Commands",
+    "ko": "소환수 명령"
+  },
+  {
+    "id": "Difficulty",
+    "ko": "난이도"
+  },
+  {
+    "id": "Revival Availability",
+    "ko": "부활 횟수"
+  },
+  {
+    "id": "Map Boss",
+    "ko": "지도 보스"
+  },
+  {
+    "id": "Powerful Map Boss",
+    "ko": "강한 지도 보스"
+  },
+  {
+    "id": "Empowerment",
+    "ko": "강화"
+  },
+  {
+    "id": "Toughness",
+    "ko": "강인함"
+  },
+  {
+    "id": "Spreading Ailments",
+    "ko": "퍼지는 상태 이상"
+  },
+  {
+    "id": "Damage Contributing to Ailments",
+    "ko": "상태 이상에 반영되는 피해"
+  },
+  {
+    "id": "Weapon Set Passive Skill Points",
+    "ko": "무기 세트 패시브 스킬 포인트"
+  },
+  {
+    "id": "Runic Inscriptions",
+    "ko": "룬 명문"
+  },
+  {
+    "id": "Runic Bindings",
+    "ko": "룬 속박"
+  },
+  {
+    "id": "Offering Skills",
+    "ko": "공물 스킬"
+  },
+  {
+    "id": "Payoff Skills",
+    "ko": "청산 스킬"
+  },
+  {
+    "id": "Grenade Skills",
+    "ko": "유탄 스킬"
+  },
+  {
+    "id": "Enraged",
+    "ko": "격앙"
+  },
+  {
+    "id": "Volatiles",
+    "ko": "폭발물"
+  },
+  {
+    "id": "Petrify",
+    "ko": "석화"
+  },
+  {
+    "id": "Augment",
+    "ko": "증강물"
+  },
+  {
+    "id": "Black Scythe Training",
+    "ko": "검은 낫의 교육"
+  },
+  {
+    "id": "Circular Teachings",
+    "ko": "원의 가르침"
+  },
+  {
+    "id": "Knightly Tenets",
+    "ko": "기사의 신조"
+  },
+  {
+    "id": "Sacred Water",
+    "ko": "신성한 물"
+  },
+  {
+    "id": "Boons",
+    "ko": "은혜"
+  },
+  {
+    "id": "Afflictions",
+    "ko": "고난"
+  },
+  {
+    "id": "Enfeeble",
+    "ko": "쇠약화"
+  },
+  {
+    "id": "Trial of the Sekhema Keys",
+    "ko": "세케마의 시련 열쇠"
+  },
+  {
+    "id": "Relics",
+    "ko": "유물"
+  },
+  {
+    "id": "Slow Magnitude Modifier",
+    "ko": "감속 강도 속성"
+  },
+  {
+    "id": "High Infernal Flame",
+    "ko": "높은 지옥불 화염"
+  },
+  {
+    "id": "Purple Flame of Chayula",
+    "ko": "차율라의 보라색 화염"
+  },
+  {
+    "id": "Wildwood Wisp",
+    "ko": "야생림 도깨비불"
+  },
+  {
+    "id": "Close Range",
+    "ko": "근거리"
+  },
+  {
+    "id": "Unleash",
+    "ko": "촉발"
+  },
+  {
+    "id": "Link Skills",
+    "ko": "연결 스킬"
+  },
+  {
+    "id": "Verisium Remnant",
+    "ko": "베리시움 잔류물"
+  },
+  {
+    "id": "Grand Expedition",
+    "ko": "대탐험"
+  },
+  {
+    "id": "Tablets",
+    "ko": "서판"
+  },
+  {
+    "id": "Waystones",
+    "ko": "경로석"
+  },
+  {
+    "id": "Essence",
+    "ko": "에센스"
+  },
+  {
+    "id": "Shrine",
+    "ko": "성소"
+  },
+  {
+    "id": "Strongbox",
+    "ko": "금고"
+  },
+  {
+    "id": "Precursor Towers",
+    "ko": "선도자 탑"
+  },
+  {
+    "id": "Fracturing Mirrors",
+    "ko": "분열의 거울"
+  },
+  {
+    "id": "Fracturing Mirror Shards",
+    "ko": "분열의 거울 파편"
+  },
+  {
+    "id": "Acrobatics",
+    "ko": "곡예"
+  },
+  {
+    "id": "Basic Jewel",
+    "ko": "기본 주얼"
+  },
+  {
+    "id": "The Realmgate",
+    "ko": "세계관문"
+  },
+  {
+    "id": "The Reliquary Vault",
+    "ko": "성유물 보관실 금고"
+  },
+  {
+    "id": "Corruption",
+    "ko": "타락"
+  },
+  {
+    "id": "Unique Map",
+    "ko": "고유 지도"
+  },
+  {
+    "id": "Hideout",
+    "ko": "은신처"
+  },
+  {
+    "id": "Wandering Trader",
+    "ko": "방랑 상인"
+  },
+  {
+    "id": "Copper Citadel",
+    "ko": "구리의 성채"
+  },
+  {
+    "id": "Iron Citadel",
+    "ko": "철의 성채"
+  },
+  {
+    "id": "Stone Citadel",
+    "ko": "돌의 성채"
+  },
+  {
+    "id": "The Burning Monolith",
+    "ko": "불타는 거석"
+  },
+  {
+    "id": "Map Node",
+    "ko": "지도 노드"
+  },
+  {
+    "id": "Jewels",
+    "ko": "주얼"
+  },
+  {
+    "id": "Iron Grip",
+    "ko": "강철 손아귀"
+  },
+  {
+    "id": "Iron Will",
+    "ko": "강철의 의지"
+  },
+  {
+    "id": "Eaten Souls",
+    "ko": "영혼 포식"
+  },
+  {
+    "id": "Historic Jewels",
+    "ko": "역사적인 주얼"
+  },
+  {
+    "id": "Catalysts",
+    "ko": "기폭제"
+  },
+  {
+    "id": "Omens",
+    "ko": "징조"
+  },
+  {
+    "id": "An Audience With The King",
+    "ko": "왕 알현"
+  },
+  {
+    "id": "Liquid Emotions",
+    "ko": "액체 감정"
+  },
+  {
+    "id": "Ancient Liquid Emotions",
+    "ko": "고대 액체 감정"
+  },
+  {
+    "id": "Corrupted Items",
+    "ko": "타락한 아이템"
+  },
+  {
+    "id": "Mirrored Items",
+    "ko": "복제된 아이템"
+  },
+  {
+    "id": "Runic Monsters",
+    "ko": "룬 몬스터"
+  },
+  {
+    "id": "Coalesced Corruption",
+    "ko": "응결된 타락"
+  },
+  {
+    "id": "Perfect Timing",
+    "ko": "완벽한 타이밍"
+  },
+  {
+    "id": "Limit",
+    "ko": "제한"
+  },
+  {
+    "id": "Monster Soul Eater",
+    "ko": "몬스터 영혼 포식자"
+  },
+  {
+    "id": "Remnants",
+    "ko": "잔류물"
+  },
+  {
+    "id": "Ascendancy Points",
+    "ko": "전직 포인트"
+  },
+  {
+    "id": "Honour Resistance",
+    "ko": "명예 저항"
+  },
+  {
+    "id": "Stage-Gaining Skills",
+    "ko": "단계 획득 스킬"
+  },
+  {
+    "id": "Primed for Pin",
+    "ko": "고정 준비 완료"
+  },
+  {
+    "id": "Elemental Surges",
+    "ko": "원소 쇄도"
+  },
+  {
+    "id": "Banner Skills",
+    "ko": "깃발 스킬"
+  },
+  {
+    "id": "Conditional Usage",
+    "ko": "조건부 사용"
+  },
+  {
+    "id": "Whirlwinds",
+    "ko": "와류"
+  },
+  {
+    "id": "Volatility",
+    "ko": "일촉즉발"
+  },
+  {
+    "id": "Bloodstained",
+    "ko": "피얼룩"
+  },
+  {
+    "id": "Revealing Weaknesses",
+    "ko": "약점 드러내기"
+  },
+  {
+    "id": "Affinity",
+    "ko": "친화력"
+  },
+  {
+    "id": "Incision",
+    "ko": "절개"
+  },
+  {
+    "id": "Retaliate with Thorns",
+    "ko": "가시로 보복"
+  },
+  {
+    "id": "Companions",
+    "ko": "반려수"
+  },
+  {
+    "id": "Monster Category",
+    "ko": "몬스터 유형"
+  },
+  {
+    "id": "Hobble",
+    "ko": "절뚝거림"
+  },
+  {
+    "id": "Hazards",
+    "ko": "위해 요소"
+  },
+  {
+    "id": "Impale",
+    "ko": "꿰뚫기"
+  },
+  {
+    "id": "Blood Loss",
+    "ko": "혈액상실"
+  },
+  {
+    "id": "Perfection Buff",
+    "ko": "완벽 버프"
+  },
+  {
+    "id": "Killing Blow",
+    "ko": "최후의 일격"
+  },
+  {
+    "id": "Bifurcated Critical Hits",
+    "ko": "두 갈래로 나뉜 치명타 명중"
+  },
+  {
+    "id": "Pre-mitigation Damage",
+    "ko": "완화 전 피해"
+  },
+  {
+    "id": "Expected Knockback",
+    "ko": "예상 밀어내기"
+  },
+  {
+    "id": "Rogue Exile",
+    "ko": "탈주 유배자"
+  },
+  {
+    "id": "Azmeri Spirit",
+    "ko": "아즈메리 혼백"
+  },
+  {
+    "id": "Possessed",
+    "ko": "사로잡힘"
+  },
+  {
+    "id": "Spirit-Influenced",
+    "ko": "혼백의 손길에 닿음"
+  },
+  {
+    "id": "Extra Content",
+    "ko": "추가 콘텐츠"
+  },
+  {
+    "id": "Cartographer's Strongbox",
+    "ko": "지도제작자의 금고"
+  },
+  {
+    "id": "Researcher's Strongbox",
+    "ko": "연구자의 금고"
+  },
+  {
+    "id": "Ornate Strongbox",
+    "ko": "화려한 금고"
+  },
+  {
+    "id": "Basic Strongbox",
+    "ko": "기본 금고"
+  },
+  {
+    "id": "Effective Chance",
+    "ko": "유효 확률"
+  },
+  {
+    "id": "Equipped",
+    "ko": "장착됨"
+  },
+  {
+    "id": "Jewellery",
+    "ko": "장신구"
+  },
+  {
+    "id": "Equipment",
+    "ko": "장비"
+  },
+  {
+    "id": "Only Minimum or Maximum Damage",
+    "ko": "최소 또는 최대 피해만"
+  },
+  {
+    "id": "Damage Absorption",
+    "ko": "피해 흡수"
+  },
+  {
+    "id": "Parry",
+    "ko": "흘려보내기"
+  },
+  {
+    "id": "Parried",
+    "ko": "흘려보내기에 당함"
+  },
+  {
+    "id": "Aggravating any Bleeding",
+    "ko": "아무 출혈이나 가중"
+  },
+  {
+    "id": "Detonation Time",
+    "ko": "기폭 시간"
+  },
+  {
+    "id": "Waystone Tier Progression",
+    "ko": "경로석 등급 진행"
+  },
+  {
+    "id": "Map Objective Waystone Drops",
+    "ko": "지도 목표 경로석이 떨어짐"
+  },
+  {
+    "id": "Corrupted Nexus",
+    "ko": "타락한 연결부"
+  },
+  {
+    "id": "Corrupted Boss",
+    "ko": "타락한 보스"
+  },
+  {
+    "id": "Retaliate against all Hits",
+    "ko": "모든 명중에 보복"
+  },
+  {
+    "id": "Take Mana Costs as Damage",
+    "ko": "마나 소모를 피해로 받음"
+  },
+  {
+    "id": "Upfront Costs",
+    "ko": "초기 비용"
+  },
+  {
+    "id": "Account Bound",
+    "ko": "계정 귀속"
+  },
+  {
+    "id": "Essence of Delirium",
+    "ko": "섬망의 에센스"
+  },
+  {
+    "id": "Cleansed",
+    "ko": "정화됨"
+  },
+  {
+    "id": "Delirious Players",
+    "ko": "환영 깃든 플레이어"
+  },
+  {
+    "id": "Chances in excess of 100%",
+    "ko": "100%를 초과하는 확률"
+  },
+  {
+    "id": "Vulnerability",
+    "ko": "취약성"
+  },
+  {
+    "id": "Despair",
+    "ko": "절망"
+  },
+  {
+    "id": "Temporal Chains",
+    "ko": "시간의 사슬"
+  },
+  {
+    "id": "Resisted by Other Value",
+    "ko": "다른 수치에 저항을 받음"
+  },
+  {
+    "id": "Glory",
+    "ko": "영광"
+  },
+  {
+    "id": "Obelisk of Corruption",
+    "ko": "타락의 오벨리스크"
+  },
+  {
+    "id": "Obelisk of Cleansing",
+    "ko": "정화의 오벨리스크"
+  },
+  {
+    "id": "Immured Fury",
+    "ko": "유폐된 광분"
+  },
+  {
+    "id": "Fractured Modifiers",
+    "ko": "분열된 속성"
+  },
+  {
+    "id": "Weapon Sets",
+    "ko": "무기 세트"
+  },
+  {
+    "id": "Additional Projectiles",
+    "ko": "추가 투사체"
+  },
+  {
+    "id": "Increased Area of Effect",
+    "ko": "효과 범위 증가"
+  },
+  {
+    "id": "Breaks Armour",
+    "ko": "방어구 파괴"
+  },
+  {
+    "id": "Bombardier",
+    "ko": "포격수"
+  },
+  {
+    "id": "Chaos Resistant",
+    "ko": "카오스 저항"
+  },
+  {
+    "id": "Cold Resistant",
+    "ko": "냉기 저항"
+  },
+  {
+    "id": "Extra Crits",
+    "ko": "추가 치명타"
+  },
+  {
+    "id": "Extra Chaos Damage",
+    "ko": "추가 카오스 피해"
+  },
+  {
+    "id": "Extra Cold Damage",
+    "ko": "추가 냉기 피해"
+  },
+  {
+    "id": "Extra Fire Damage",
+    "ko": "추가 화염 피해"
+  },
+  {
+    "id": "Extra Lightning Damage",
+    "ko": "추가 번개 피해"
+  },
+  {
+    "id": "Armoured",
+    "ko": "방어구를 갖춤"
+  },
+  {
+    "id": "Extra Energy Shield",
+    "ko": "추가 에너지 보호막"
+  },
+  {
+    "id": "Fire Resistant",
+    "ko": "화염 저항"
+  },
+  {
+    "id": "Conjures Flamewalls",
+    "ko": "불길장벽 생성"
+  },
+  {
+    "id": "Siphons Flask Charges",
+    "ko": "플라스크 충전 착취"
+  },
+  {
+    "id": "Conjures Ice Prisons",
+    "ko": "얼음 감옥 생성"
+  },
+  {
+    "id": "Heals Allies and Suppresses Foe Recovery",
+    "ko": "동료 치유 및 적 회복 억제"
+  },
+  {
+    "id": "Hinder Aura",
+    "ko": "이동 방해 오라"
+  },
+  {
+    "id": "Periodic Invulnerability Aura",
+    "ko": "주기적인 무적 오라"
+  },
+  {
+    "id": "Empowered Periodic Invulnerability Aura",
+    "ko": "강화된 주기적인 무적 오라"
+  },
+  {
+    "id": "Increased Life",
+    "ko": "생명력 증가"
+  },
+  {
+    "id": "Slow Resistant",
+    "ko": "감속 저항"
+  },
+  {
+    "id": "Increased Stun Threshold",
+    "ko": "기절 한계치 증가"
+  },
+  {
+    "id": "Hasted",
+    "ko": "가속"
+  },
+  {
+    "id": "Regenerates Life",
+    "ko": "생명력 재생"
+  },
+  {
+    "id": "Lightning Mirage When Hit",
+    "ko": "피격 시 번개 신기루"
+  },
+  {
+    "id": "Lightning Mirages When Hit",
+    "ko": "피격 시 번개 신기루"
+  },
+  {
+    "id": "Lightning Resistant",
+    "ko": "번개 저항"
+  },
+  {
+    "id": "Volatile Crystals",
+    "ko": "폭발성 수정"
+  },
+  {
+    "id": "Magma Barrier",
+    "ko": "마그마 장벽"
+  },
+  {
+    "id": "Siphons Mana and Deals Lightning Damage",
+    "ko": "마나 착취 및 번개 피해"
+  },
+  {
+    "id": "Damage Taken From Minions First",
+    "ko": "피해를 소환수가 우선 받음"
+  },
+  {
+    "id": "Empowered",
+    "ko": "강화"
+  },
+  {
+    "id": "Crit Resistant",
+    "ko": "치명타 저항"
+  },
+  {
+    "id": "Periodically Enrages",
+    "ko": "주기적으로 격앙됨"
+  },
+  {
+    "id": "Enraged",
+    "ko": "격앙됨"
+  },
+  {
+    "id": "Extra Physical Damage Aura",
+    "ko": "추가 물리 피해 오라"
+  },
+  {
+    "id": "Prevents Recovery Above 50%",
+    "ko": "50% 위로 회복 방지"
+  },
+  {
+    "id": "Proximal Tangibility",
+    "ko": "근접한 구체성"
+  },
+  {
+    "id": "Elemental Resistance Aura",
+    "ko": "원소 저항 오라"
+  },
+  {
+    "id": "Empowered Reviving Minions",
+    "ko": "강화된 부활 소환수"
+  },
+  {
+    "id": "Trail of Lightning",
+    "ko": "번개의 발자취"
+  },
+  {
+    "id": "Powerful Minions",
+    "ko": "강력한 소환수"
+  },
+  {
+    "id": "Stuns",
+    "ko": "기절"
+  },
+  {
+    "id": "Stun Resistant",
+    "ko": "기절 저항"
+  },
+  {
+    "id": "Volatile Plants",
+    "ko": "폭발성 식물"
+  },
+  {
+    "id": "Empowering Volatile Plants",
+    "ko": "강화하는 폭발성 식물"
+  },
+  {
+    "id": "Volatile Crag",
+    "ko": "폭발성 바위"
+  },
+  {
+    "id": "Empowering Volatile Crag",
+    "ko": "강화하는 폭발성 바위"
+  },
+  {
+    "id": "Pack",
+    "ko": "무리"
+  },
+  {
+    "id": "Crescendo Arrows",
+    "ko": "점강 화살"
+  },
+  {
+    "id": "Splinter Arrows",
+    "ko": "파편 화살"
+  },
+  {
+    "id": "Reversing Arrows",
+    "ko": "역행 화살"
+  },
+  {
+    "id": "Diamond Arrows",
+    "ko": "다이아몬드 화살"
+  },
+  {
+    "id": "Covetous Arrows",
+    "ko": "갈망 화살"
+  },
+  {
+    "id": "Blunt Arrows",
+    "ko": "둔기 화살"
+  },
+  {
+    "id": "Repeating Skills",
+    "ko": "반복되는 스킬"
+  },
+  {
+    "id": "Guided Meteoric Shrine",
+    "ko": "유도 유성 성소"
+  },
+  {
+    "id": "Guided Tempest Shrine",
+    "ko": "유도 폭풍의 성소"
+  },
+  {
+    "id": "Guided Freezing Shrine",
+    "ko": "유도 동결의 성소"
+  },
+  {
+    "id": "Dreaming Gloom Shrine",
+    "ko": "몽환의 순흑의 성소"
+  },
+  {
+    "id": "Ancient Augment",
+    "ko": "고대의 증강물"
+  },
+  {
+    "id": "Equippable Armours",
+    "ko": "장착 가능 방어구"
+  },
+  {
+    "id": "Caster Weapons",
+    "ko": "시전자 무기"
+  },
+  {
+    "id": "Spectral Fire",
+    "ko": "영체 화염"
+  },
+  {
+    "id": "Sanctified Items",
+    "ko": "축성된 아이템"
+  },
+  {
+    "id": "Efficiency",
+    "ko": "효율"
+  },
+  {
+    "id": "Elemental Weakness",
+    "ko": "원소 약화"
+  },
+  {
+    "id": "Support Gem Categories",
+    "ko": "보조 젬 유형"
+  },
+  {
+    "id": "Minimum Modifier Level",
+    "ko": "최소 속성 레벨"
+  },
+  {
+    "id": "Maximum Item Level",
+    "ko": "최대 아이템 레벨"
+  },
+  {
+    "id": "Elemental Infusions",
+    "ko": "원소 주입"
+  },
+  {
+    "id": "Desecrated Modifiers",
+    "ko": "훼손된 속성"
+  },
+  {
+    "id": "Unstable Desecration",
+    "ko": "불안정한 훼손"
+  },
+  {
+    "id": "Abyssal Modifiers",
+    "ko": "심연 속성"
+  },
+  {
+    "id": "Abyssal Depths",
+    "ko": "심연 지하"
+  },
+  {
+    "id": "Lineage Supports",
+    "ko": "혈통 보조 젬"
+  },
+  {
+    "id": "Naturally Spawning Monsters",
+    "ko": "자연적으로 생성되는 몬스터"
+  },
+  {
+    "id": "Runefather's Challenge",
+    "ko": "룬 아버지의 도전"
+  },
+  {
+    "id": "Armour Movement Penalties",
+    "ko": "방어구의 이동 페널티"
+  },
+  {
+    "id": "Merging",
+    "ko": "합쳐짐"
+  },
+  {
+    "id": "Pacification",
+    "ko": "진정"
+  },
+  {
+    "id": "Archon Buff",
+    "ko": "집정관 버프"
+  },
+  {
+    "id": "Temporary Minion",
+    "ko": "일시적 소환수"
+  },
+  {
+    "id": "Minion Reforming",
+    "ko": "소환수 재구성"
+  },
+  {
+    "id": "Gigantic",
+    "ko": "방대"
+  },
+  {
+    "id": "Mark of the Abyssal Lord",
+    "ko": "심연의 군주의 징표"
+  },
+  {
+    "id": "Molten Fissures",
+    "ko": "용암 균열"
+  },
+  {
+    "id": "Embankment Auras",
+    "ko": "제방 오라"
+  },
+  {
+    "id": "Ice Fragments",
+    "ko": "얼음 파편"
+  },
+  {
+    "id": "Fragment of Divinity",
+    "ko": "신성성의 조각"
+  },
+  {
+    "id": "Umbral Souls",
+    "ko": "그늘진 영혼"
+  },
+  {
+    "id": "Deadly Map Boss",
+    "ko": "강력한 지도 보스"
+  },
+  {
+    "id": "Pinnacle Boss",
+    "ko": "최종 보스"
+  },
+  {
+    "id": "Invocation",
+    "ko": "기원"
+  },
+  {
+    "id": "Isolated",
+    "ko": "고립"
+  },
+  {
+    "id": "Withering Ground",
+    "ko": "위축 지대"
+  },
+  {
+    "id": "Default Attack Damage",
+    "ko": "기본 공격 피해"
+  },
+  {
+    "id": "Khatal's Rejuvenation",
+    "ko": "카탈의 회춘"
+  },
+  {
+    "id": "Connected Support Gems",
+    "ko": "연결된 보조 젬"
+  },
+  {
+    "id": "Summoning Circle",
+    "ko": "소환의 원"
+  },
+  {
+    "id": "Adaptation",
+    "ko": "적응"
+  },
+  {
+    "id": "Bear Form",
+    "ko": "곰 형상"
+  },
+  {
+    "id": "Werewolf Form",
+    "ko": "늑대인간 형상"
+  },
+  {
+    "id": "Wyvern Form",
+    "ko": "와이번 형상"
+  },
+  {
+    "id": "Plant Skills and Overgrowth",
+    "ko": "식물 스킬과 과성장"
+  },
+  {
+    "id": "Inevitable Critical Hits",
+    "ko": "피할 수 없는 치명타 명중"
+  },
+  {
+    "id": "Monster Effectiveness",
+    "ko": "몬스터 효율"
+  },
+  {
+    "id": "Unique Culture",
+    "ko": "고유 문화"
+  },
+  {
+    "id": "Wind Skills",
+    "ko": "바람 스킬"
+  },
+  {
+    "id": "Paths Not Taken",
+    "ko": "가지 않은 길"
+  },
+  {
+    "id": "Bonded Modifiers",
+    "ko": "결속된 속성"
+  },
+  {
+    "id": "Vaal Siphoner",
+    "ko": "바알 착취기"
+  },
+  {
+    "id": "Chance can Surpass 100%",
+    "ko": "확률이 100% 초과 가능"
+  },
+  {
+    "id": "Maximum Quality",
+    "ko": "퀄리티 최대치"
+  },
+  {
+    "id": "Thorny Ground",
+    "ko": "가시 지대"
+  },
+  {
+    "id": "Splash Damage",
+    "ko": "범위 피해"
+  },
+  {
+    "id": "Activating Marks",
+    "ko": "징표 활성화"
+  },
+  {
+    "id": "Rerolling Critical Hit Chance",
+    "ko": "치명타 명중 확률 재판정"
+  },
+  {
+    "id": "Compounding Ignite",
+    "ko": "점화 복합"
+  },
+  {
+    "id": "Storm Skills",
+    "ko": "폭풍 스킬"
+  },
+  {
+    "id": "Maximum",
+    "ko": "최대치"
+  },
+  {
+    "id": "Energised Crystal",
+    "ko": "에너지를 띤 수정"
+  },
+  {
+    "id": "Base Skill Attack Time",
+    "ko": "기본 기술 공격 시간"
+  },
+  {
+    "id": "Temple Destabilisation",
+    "ko": "사원 불안정화"
+  },
+  {
+    "id": "Restricted Room",
+    "ko": "제한된 방"
+  },
+  {
+    "id": "Juatalotli's Medallion",
+    "ko": "주앗탈로틀리의 메달리온"
+  },
+  {
+    "id": "Hayoxi's Medallion",
+    "ko": "하욕시의 메달리온"
+  },
+  {
+    "id": "Quipolatl's Medallion",
+    "ko": "퀴폴라틀의 메달리온"
+  },
+  {
+    "id": "Uromoti's Medallion",
+    "ko": "우로모티의 메달리온"
+  },
+  {
+    "id": "Xopec's Medallion",
+    "ko": "조펙의 메달리온"
+  },
+  {
+    "id": "Azcapa's Medallion",
+    "ko": "아즈카파의 메달리온"
+  },
+  {
+    "id": "Estazunti's Medallion",
+    "ko": "에스타준티의 메달리온"
+  },
+  {
+    "id": "Puhuarte's Medallion",
+    "ko": "푸후알테의 메달리온"
+  },
+  {
+    "id": "Zantipi's Medallion",
+    "ko": "잔티피의 메달리온"
+  },
+  {
+    "id": "Power",
+    "ko": "동력"
+  },
+  {
+    "id": "Limb Modification",
+    "ko": "팔다리 개조"
+  },
+  {
+    "id": "Medallions",
+    "ko": "메달리온"
+  },
+  {
+    "id": "Ailment Application",
+    "ko": "상태 이상 적용"
+  },
+  {
+    "id": "Vaal Beacon",
+    "ko": "바알 등대"
+  },
+  {
+    "id": "Fragmented Mirror",
+    "ko": "조각난 거울"
+  },
+  {
+    "id": "Shrine Worship",
+    "ko": "성소 숭배"
+  },
+  {
+    "id": "Runic Ward",
+    "ko": "룬 수호"
+  },
+  {
+    "id": "Monster Rarity",
+    "ko": "몬스터 희귀도"
+  },
+  {
+    "id": "Item Armour",
+    "ko": "아이템 방어도"
+  },
+  {
+    "id": "Item Evasion",
+    "ko": "아이템 회피"
+  },
+  {
+    "id": "Item Energy Shield",
+    "ko": "아이템 에너지 보호막"
+  },
+  {
+    "id": "Free Rerolls",
+    "ko": "무료 무작위 변경"
+  },
+  {
+    "id": "Monster Minions",
+    "ko": "몬스터 소환수"
+  },
+  {
+    "id": "Rogue Exile Hunting Ground",
+    "ko": "탈주 유배자 사냥터"
+  },
+  {
+    "id": "Room Upgrades",
+    "ko": "방 업그레이드"
+  },
+  {
+    "id": "Additional Rare Monsters",
+    "ko": "추가 희귀 몬스터"
+  },
+  {
+    "id": "Empowered Monster Minions",
+    "ko": "강화된 몬스터 소환수"
+  },
+  {
+    "id": "Abandoned City",
+    "ko": "버려진 도시"
+  },
+  {
+    "id": "Exceptional Item",
+    "ko": "특출난 아이템"
+  },
+  {
+    "id": "Embrace of the Wild",
+    "ko": "야생의 품"
+  },
+  {
+    "id": "Biome",
+    "ko": "환경"
+  },
+  {
+    "id": "Invaded City",
+    "ko": "침공당한 도시"
+  },
+  {
+    "id": "Crafted Modifiers",
+    "ko": "제작 속성"
+  },
+  {
+    "id": "Grand Mirror",
+    "ko": "웅장한 거울"
+  },
+  {
+    "id": "Wombgifts",
+    "ko": "생명의 결실"
+  },
+  {
+    "id": "Rite of the Nameless",
+    "ko": "이름 없는 자의 의례"
+  },
+  {
+    "id": "Low Runic Ward",
+    "ko": "낮은 룬 수호"
+  },
+  {
+    "id": "Savage Hit",
+    "ko": "야만적인 명중"
+  },
+  {
+    "id": "Foretold Proliferation",
+    "ko": "예견된 확산"
+  },
+  {
+    "id": "Foretold Bounty",
+    "ko": "예견된 하사품"
+  },
+  {
+    "id": "Basic Maps",
+    "ko": "기본 지도"
+  },
+  {
+    "id": "Base Type",
+    "ko": "기본 유형"
+  },
+  {
+    "id": "Mage's Legacy",
+    "ko": "마법사의 유산"
+  },
+  {
+    "id": "Legacy of Amethyst",
+    "ko": "자수정의 유산"
+  },
+  {
+    "id": "Legacy of Basalt",
+    "ko": "현무암의 유산"
+  },
+  {
+    "id": "Legacy of Bismuth",
+    "ko": "비스무트의 유산"
+  },
+  {
+    "id": "Legacy of Diamond",
+    "ko": "다이아몬드의 유산"
+  },
+  {
+    "id": "Legacy of Gold",
+    "ko": "금의 유산"
+  },
+  {
+    "id": "Legacy of Granite",
+    "ko": "화강암의 유산"
+  },
+  {
+    "id": "Legacy of Jade",
+    "ko": "비취의 유산"
+  },
+  {
+    "id": "Legacy of Quicksilver",
+    "ko": "수은의 유산"
+  },
+  {
+    "id": "Legacy of Ruby",
+    "ko": "루비의 유산"
+  },
+  {
+    "id": "Legacy of Sapphire",
+    "ko": "사파이어의 유산"
+  },
+  {
+    "id": "Legacy of Silver",
+    "ko": "은의 유산"
+  },
+  {
+    "id": "Legacy of Stibnite",
+    "ko": "휘안석의 유산"
+  },
+  {
+    "id": "Legacy of Sulphur",
+    "ko": "유황의 유산"
+  },
+  {
+    "id": "Legacy of Topaz",
+    "ko": "토파즈의 유산"
+  },
+  {
+    "id": "Bonus Reward",
+    "ko": "보너스 보상"
+  },
+  {
+    "id": "Secured Strongbox",
+    "ko": "보안 금고"
+  },
+  {
+    "id": "Broken Boss Faces",
+    "ko": "부서진 보스 얼굴"
+  },
+  {
+    "id": "Sinister Jewel Sockets",
+    "ko": "험악한 주얼 홈"
+  },
+  {
+    "id": "Socket-bound Augments",
+    "ko": "홈 귀속 증강물"
+  },
+  {
+    "id": "Cascadable Skills",
+    "ko": "연속 가능 스킬"
+  },
+  {
+    "id": "Anaemia",
+    "ko": "빈혈"
+  },
+  {
+    "id": "Kalguuran Support Gem Limit",
+    "ko": "칼구르 보조 젬 제한"
+  },
+  {
+    "id": "Precursor Terraformer",
+    "ko": "선도자 테라포머"
+  },
+  {
+    "id": "Ancient Modifiers",
+    "ko": "고대 속성"
+  },
+  {
+    "id": "Congealed Mist",
+    "ko": "굳은 연무"
+  },
+  {
+    "id": "Seals and Sealed Skills",
+    "ko": "봉인 및 봉인된 스킬"
+  },
+  {
+    "id": "Raven-Touched",
+    "ko": "큰까마귀의 손길에 닿은"
+  },
+  {
+    "id": "Great Beast",
+    "ko": "거대 야수"
+  },
+  {
+    "id": "Hilda's Favour",
+    "ko": "힐다의 호의"
+  },
+  {
+    "id": "Temple Currency",
+    "ko": "사원 화폐"
+  },
+  {
+    "id": "Anomaly Map",
+    "ko": "이형 지도"
+  },
+  {
+    "id": "Landmark Area",
+    "ko": "랜드마크 지역"
+  },
+  {
+    "id": "Hiveblood",
+    "ko": "벌레집 피"
+  },
+  {
+    "id": "Vivid Spirit",
+    "ko": "혈기 혼백"
+  },
+  {
+    "id": "Wild Spirit",
+    "ko": "야생 혼백"
+  },
+  {
+    "id": "Aldur's Legacies",
+    "ko": "알두르의 유산"
+  },
+  {
+    "id": "Corrupted Monsters",
+    "ko": "타락한 몬스터"
+  },
+  {
+    "id": "Xesht's Fervour",
+    "ko": "제쉬트의 열정"
+  },
+  {
+    "id": "Dreamer's Sight",
+    "ko": "몽상가의 시야"
+  },
+  {
+    "id": "Escalating Threats",
+    "ko": "격화되는 위협"
+  },
+  {
+    "id": "Pure Emotions",
+    "ko": "순수한 감정"
+  },
+  {
+    "id": "Otherworldly Nemesis",
+    "ko": "별세계의 숙적"
+  },
+  {
+    "id": "Dreamer's Inspiration",
+    "ko": "몽상가의 영감"
+  },
+  {
+    "id": "Verisium Sentry",
+    "ko": "베리시움 보초"
+  },
+  {
+    "id": "Stone Rune",
+    "ko": "돌 룬"
+  },
+  {
+    "id": "Vision Rune",
+    "ko": "환영 룬"
+  },
+  {
+    "id": "Rebirth Rune",
+    "ko": "부활 룬"
+  },
+  {
+    "id": "Gasp Rune",
+    "ko": "화산의 룬"
+  },
+  {
+    "id": "Ward Rune",
+    "ko": "수호 룬"
+  },
+  {
+    "id": "Abyssal Fissure",
+    "ko": "심연의 균열"
+  },
+  {
+    "id": "Released Azmeri Spirits",
+    "ko": "방출된 아즈메리 혼백"
+  },
+  {
+    "id": "Vaal Relics",
+    "ko": "바알 유물"
+  }
+]

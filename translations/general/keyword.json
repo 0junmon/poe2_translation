@@ -1,5 +1,19 @@
 [
   {
+    "id": "english name",
+    "ko": "한글 이름",
+    "baseItem": "base item",
+    "itemClass": "item class"
+  },
+  {
+    "id": "Hit",
+    "ko": "명중"
+  },
+  {
+    "id": "Melee Weapon",
+    "ko": "근접 무기"
+  },
+  {
     "id": "All",
     "ko": "전체"
   },
@@ -358,5 +372,61 @@
   {
     "id": "Weapon Configuration",
     "ko": "무기 설정"
+  },
+  {
+    "id": "Channel",
+    "ko": "집중 유지"
+  },
+  {
+    "id": "proj",
+    "ko": "투사체"
+  },
+  {
+    "id": "Gem Level",
+    "ko": "젬 레벨"
+  },
+  {
+    "id": "Gem Quality",
+    "ko": "젬 퀄리티"
+  },
+  {
+    "id": "Attack rate",
+    "ko": "초당 공격 횟수"
+  },
+  {
+    "id": "Cast rate",
+    "ko": "초당 시전 횟수"
+  },
+  {
+    "id": "Crit chance",
+    "ko": "치명타 확률"
+  },
+  {
+    "id": "Crit multiplier",
+    "ko": "치명타 배율"
+  },
+  {
+    "id": "AoE radius",
+    "ko": "효과 범위 반경"
+  },
+  {
+    "id": "Hit chance",
+    "ko": "명중 확률"
+  },
+  {
+    "id": "Modifiers",
+    "ko": "종합 배율"
+  },
+  {
+    "id": "Increased",
+    "ko": "증가"
+  },
+  {
+    "id": "Item",
+    "ko": "아이템"
+  },
+  {
+    "id": "Tree",
+    "ko": "트리"
   }
 ]
