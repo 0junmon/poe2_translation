@@ -1,5 +1,9 @@
 [
   {
+    "id": "Companion",
+    "ko": "반려수"
+  },
+  {
     "id": "Weapons",
     "ko": "무기"
   },
