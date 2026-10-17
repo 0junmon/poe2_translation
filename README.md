@@ -12,7 +12,7 @@ Path of Exile 2 한글 번역 데이터 저장소다. poe.ninja 크롬 확장이
   추출물, 백업)는 로컬 전용이라 GitHub에 없다. 다른 PC에서는 원본에서 직접 복사해야 한다.
 - 번역 데이터 검사는 코드 저장소에서 실행한다:
   ```powershell
-  $env:POBKR_ROOT = 'C:\Users\Administrator\Documents\poe2_translation'
+  $env:TRANSLATION_ROOT = 'C:\Users\Administrator\Documents\poe2_translation'
   cd C:\Users\Administrator\Documents\poe2_extensions\pipeline
   npm run verify:data
   ```
