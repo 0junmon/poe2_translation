@@ -438,5 +438,409 @@
   {
     "id": "Tree",
     "ko": "트리"
+  },
+  {
+    "id": "About",
+    "ko": "소개"
+  },
+  {
+    "id": "ACCOUNT",
+    "ko": "계정"
+  },
+  {
+    "id": "Add",
+    "ko": "추가"
+  },
+  {
+    "id": "Adaptive",
+    "ko": "적응형"
+  },
+  {
+    "id": "Available",
+    "ko": "사용 가능한"
+  },
+  {
+    "id": "Back",
+    "ko": "돌아가기"
+  },
+  {
+    "id": "Builds",
+    "ko": "빌드"
+  },
+  {
+    "id": "Character",
+    "ko": "캐릭터"
+  },
+  {
+    "id": "Choices",
+    "ko": "선택"
+  },
+  {
+    "id": "Columns",
+    "ko": "열"
+  },
+  {
+    "id": "Contribute",
+    "ko": "기여하기"
+  },
+  {
+    "id": "Copy",
+    "ko": "복사"
+  },
+  {
+    "id": "Data",
+    "ko": "데이터"
+  },
+  {
+    "id": "DEFENSIVE",
+    "ko": "방어"
+  },
+  {
+    "id": "Docs",
+    "ko": "문서"
+  },
+  {
+    "id": "Economy",
+    "ko": "경제"
+  },
+  {
+    "id": "Favorite",
+    "ko": "즐겨찾기"
+  },
+  {
+    "id": "GENERAL",
+    "ko": "일반"
+  },
+  {
+    "id": "Import",
+    "ko": "가져오기"
+  },
+  {
+    "id": "Latest",
+    "ko": "최신"
+  },
+  {
+    "id": "League",
+    "ko": "리그"
+  },
+  {
+    "id": "Log in",
+    "ko": "로그인"
+  },
+  {
+    "id": "MAIN SKILLS",
+    "ko": "주요 스킬"
+  },
+  {
+    "id": "More",
+    "ko": "더 보기"
+  },
+  {
+    "id": "Name",
+    "ko": "이름"
+  },
+  {
+    "id": "Next",
+    "ko": "다음"
+  },
+  {
+    "id": "OPEN",
+    "ko": "열기"
+  },
+  {
+    "id": "Previous",
+    "ko": "이전"
+  },
+  {
+    "id": "PROFILE",
+    "ko": "프로필"
+  },
+  {
+    "id": "Recovery",
+    "ko": "회복"
+  },
+  {
+    "id": "Resources",
+    "ko": "자료"
+  },
+  {
+    "id": "Reset",
+    "ko": "초기화"
+  },
+  {
+    "id": "Search",
+    "ko": "검색"
+  },
+  {
+    "id": "Select",
+    "ko": "선택"
+  },
+  {
+    "id": "Show",
+    "ko": "표시"
+  },
+  {
+    "id": "Statistics",
+    "ko": "통계"
+  },
+  {
+    "id": "Time",
+    "ko": "시간"
+  },
+  {
+    "id": "Value",
+    "ko": "가치"
+  },
+  {
+    "id": "View",
+    "ko": "보기"
+  },
+  {
+    "id": "Wiki",
+    "ko": "위키"
+  },
+  {
+    "id": "Armour",
+    "ko": "방어도"
+  },
+  {
+    "id": "Attributes",
+    "ko": "능력치"
+  },
+  {
+    "id": "Chance",
+    "ko": "확률"
+  },
+  {
+    "id": "Chains",
+    "ko": "연쇄"
+  },
+  {
+    "id": "Charges",
+    "ko": "충전"
+  },
+  {
+    "id": "Critical",
+    "ko": "치명타"
+  },
+  {
+    "id": "Damage",
+    "ko": "피해"
+  },
+  {
+    "id": "Damage Reduction",
+    "ko": "피해 감소"
+  },
+  {
+    "id": "Damage Taken",
+    "ko": "받는 피해 비율"
+  },
+  {
+    "id": "Deflect chance",
+    "ko": "튕겨내기 확률"
+  },
+  {
+    "id": "Duration",
+    "ko": "지속시간"
+  },
+  {
+    "id": "Effective Health Pool",
+    "ko": "유효 생명력"
+  },
+  {
+    "id": "Effective armour",
+    "ko": "유효 방어도"
+  },
+  {
+    "id": "Energy shield",
+    "ko": "에너지 보호막"
+  },
+  {
+    "id": "Evade chance",
+    "ko": "회피 확률"
+  },
+  {
+    "id": "Forks",
+    "ko": "갈래"
+  },
+  {
+    "id": "Hit size",
+    "ko": "피격 피해량"
+  },
+  {
+    "id": "Life",
+    "ko": "생명력"
+  },
+  {
+    "id": "Lowest",
+    "ko": "가장 낮은"
+  },
+  {
+    "id": "Mana",
+    "ko": "마나"
+  },
+  {
+    "id": "Max Hit",
+    "ko": "최대 피격"
+  },
+  {
+    "id": "Maximum",
+    "ko": "최대"
+  },
+  {
+    "id": "Movement Speed",
+    "ko": "이동 속도"
+  },
+  {
+    "id": "Pierce",
+    "ko": "관통"
+  },
+  {
+    "id": "Projectiles",
+    "ko": "투사체"
+  },
+  {
+    "id": "Recharge",
+    "ko": "재충전"
+  },
+  {
+    "id": "Recharge delay",
+    "ko": "재충전 지연"
+  },
+  {
+    "id": "Regeneration",
+    "ko": "재생"
+  },
+  {
+    "id": "Resistance",
+    "ko": "저항"
+  },
+  {
+    "id": "Resistances",
+    "ko": "저항"
+  },
+  {
+    "id": "Splits",
+    "ko": "분할"
+  },
+  {
+    "id": "Spirit",
+    "ko": "정신력"
+  },
+  {
+    "id": "Stats",
+    "ko": "능력치"
+  },
+  {
+    "id": "Unique",
+    "ko": "고유"
+  },
+  {
+    "id": "Over cap",
+    "ko": "초과 저항"
+  },
+  {
+    "id": "Enemy",
+    "ko": "적"
+  },
+  {
+    "id": "Enemy accuracy",
+    "ko": "적 정확도"
+  },
+  {
+    "id": "No Crit",
+    "ko": "비 치명"
+  },
+  {
+    "id": "Item Rarity",
+    "ko": "아이템 희귀도"
+  },
+  {
+    "id": "Accessories",
+    "ko": "장신구"
+  },
+  {
+    "id": "Mace",
+    "ko": "철퇴"
+  },
+  {
+    "id": "Sword",
+    "ko": "검"
+  },
+  {
+    "id": "Axe",
+    "ko": "도끼"
+  },
+  {
+    "id": "Jewels",
+    "ko": "주얼"
+  },
+  {
+    "id": "BASE JEWELS",
+    "ko": "기본 주얼"
+  },
+  {
+    "id": "[Jewel]",
+    "ko": "주얼"
+  },
+  {
+    "id": "Charms",
+    "ko": "호신부"
+  },
+  {
+    "id": "Flasks",
+    "ko": "플라스크"
+  },
+  {
+    "id": "Fragments",
+    "ko": "파편"
+  },
+  {
+    "id": "Relics",
+    "ko": "유물"
+  },
+  {
+    "id": "Runes",
+    "ko": "룬"
+  },
+  {
+    "id": "Soul Cores",
+    "ko": "영혼 핵"
+  },
+  {
+    "id": "Tablets",
+    "ko": "서판"
+  },
+  {
+    "id": "Precursor Tablets",
+    "ko": "선구자 서판"
+  },
+  {
+    "id": "Essences",
+    "ko": "에센스"
+  },
+  {
+    "id": "Lineage Gems",
+    "ko": "혈통 젬"
+  },
+  {
+    "id": "Uncut Gems",
+    "ko": "미가공 젬"
+  },
+  {
+    "id": "Abyssal Bones",
+    "ko": "심연의 뼈"
+  },
+  {
+    "id": "Idols",
+    "ko": "우상"
+  },
+  {
+    "id": "VAAL BODY PARTS",
+    "ko": "바알 신체 부위"
+  },
+  {
+    "id": "Limited to",
+    "ko": "장착 제한"
   }
 ]
