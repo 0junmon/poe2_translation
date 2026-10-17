@@ -1,9 +1,7 @@
 [
   {
-    "id": "english",
-    "ko": "한글",
-    "baseItem": "base",
-    "itemClass": "class"
+    "id": "Found # characters.",
+    "ko": "총 # 명의 캐릭터"
   },
   {
     "id": "Skill damage multiplier",

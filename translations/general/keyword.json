@@ -1,9 +1,15 @@
 [
   {
-    "id": "english name",
-    "ko": "한글 이름",
-    "baseItem": "base item",
-    "itemClass": "item class"
+    "id": "Companion",
+    "ko": "반려수"
+  },
+  {
+    "id": "Weapons",
+    "ko": "무기"
+  },
+  {
+    "id": "Armours",
+    "ko": "방어구"
   },
   {
     "id": "Hit",
@@ -380,6 +386,10 @@
   {
     "id": "proj",
     "ko": "투사체"
+  },
+  {
+    "id": "Pierces",
+    "ko": "관통"
   },
   {
     "id": "Gem Level",
