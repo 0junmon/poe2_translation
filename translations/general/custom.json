@@ -74,13 +74,5 @@
   {
     "id": "Bifurcated Crit Damage Bonus (#%)",
     "ko": "두 갈래 치명 피해 보너스 (#%)"
-  },
-  {
-    "id": "Currently has # of # Charge",
-    "ko": "현재 용량: {0} (최대 {1})"
-  },
-  {
-    "id": "Currently has # of # Charges",
-    "ko": "현재 용량: {0} (최대 {1})"
   }
 ]

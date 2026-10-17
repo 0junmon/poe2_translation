@@ -2217,11 +2217,11 @@
   },
   {
     "id": "Currently has # of # Charge",
-    "ko": "현재 용량: # · #"
+    "ko": "현재 용량: # / #"
   },
   {
     "id": "Currently has # of # Charges",
-    "ko": "현재 용량: # · #"
+    "ko": "현재 용량: # / #"
   },
   {
     "id": "Curse on Block",
